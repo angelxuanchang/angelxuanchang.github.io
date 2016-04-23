@@ -73,5 +73,94 @@
   "will": {
     "name": "Will Monroe",
     "web": "http://www.stanford.edu/~wmonroe4/"
+  },
+  "sebastian": {
+    "name": "Sebastian Schuster",
+    "web": "http://sebschu.com/"
+  },
+  "ranjay": {
+    "name": "Ranjay Krishna",
+    "web": "http://www.ranjaykrishna.com/"
+  },
+  "fei-fei": {
+    "name": "Li Fei-Fei",
+    "web": "http://vision.stanford.edu/feifeili/"
+  },
+  "heeyoung": {
+    "name": "Heeyoung Lee"
+  },
+  "marta": {
+    "name": "Marta Recasens",
+    "web": "http://clic.ub.edu/users/marta-recasens"
+  },
+  "yves": {
+    "name": "Yves Peirsman",
+    "web": "http://nlp.yvespeirsman.be/"
+  },
+  "mihai": {
+    "name": "Mihai Surdeanu",
+    "web": "http://www.surdeanu.name/mihai/"
+  },
+  "nate": {
+    "name": "Nathanael Chambers",
+    "web": "http://www.usna.edu/Users/cs/nchamber/"
+  },
+  "danj": {
+    "name": "Dan Jurafsky",
+    "web": "http://www.stanford.edu/~jurafsky/"
+  },
+  "davidm": {
+    "name": "David McClosky",
+    "web": "http://nlp.stanford.edu/~mcclosky/"
+  },
+  "eneko": {
+    "name": "Eneko Agirre",
+    "web": "http://ixa2.si.ehu.es/~jipagbee/"
+  },
+  "val": {
+    "name": "Valentin I. Spitkovsky",
+    "web": "http://nlp.stanford.edu/valentin/"
+  },
+  "johnbauer": {
+    "name": "John Bauer"
+  },
+  "julie": {
+    "name": "Julie Tibshirani"
+  },
+  "jean": {
+    "name": "Jean Y. Wu"
+  },
+  "osbert": {
+    "name": "Osbert Bastani",
+    "web": "http://web.stanford.edu/~obastani/"
+  },
+  "gabor": {
+    "name": "Gabor Angeli",
+    "web": "http://stanford.edu/~angeli/"
+  },
+  "arun": {
+    "name": "Arun Chaganty",
+    "web": "http://arun.chagantys.org/"
+  },
+  "kevin": {
+    "name": "Kevin Reschke",
+    "web": "https://sites.google.com/site/kevinreschke/"
+  },
+  "keith": {
+    "name": "Keith Siilats"
+  },
+  "ericyeh": {
+    "name": "Eric Yeh",
+    "web": "http://www.ai.sri.com/people/yeh/"
+  },
+  "sonal": {
+    "name": "Sonal Gupta",
+    "web": "http://www.cs.stanford.edu/people/sonal/"
+  },
+  "hiyan": {
+    "name": "Hiyan Alshawi"
+  },
+  "tianrong": {
+    "name": "Tianrong Zhang"
   }
 }

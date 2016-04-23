@@ -10,6 +10,13 @@
     "web": "http://graphics.stanford.edu/projects/pigraphs/"
   },
   {
+    "date": "2016-03",
+    "title": "Evaluating the word-expert approach for Named-Entity Disambiguation",
+    "authors": ["angel", "val", "chrisman", "eneko"],
+    "text": "arXiv:1603.04767 [cs.CL], March 2016",
+    "pdf": "http://arxiv.org/pdf/1603.04767v1"
+  },
+  {
     "date": "2015-12",
     "title": "ShapeNet: An Information-Rich 3D Model Repository",
     "authors": ["angel", "tom", "leo", "pat", "qixing", "zimo", "silvio", "manolis", "shuran", "hao", "jianxiong", "eric", "fisher"],
@@ -18,6 +25,14 @@
     "pdf": "http://arxiv.org/pdf/1512.03012v1",
     "bib": "http://shapenet.cs.stanford.edu/resources/shapenet.bib",
     "web": "http://arxiv.org/abs/1512.03012"
+  },
+  {
+    "date": "2015-10",
+    "title": "Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval",
+    "authors": ["sebastian", "ranjay", "angel", "fei-fei", "chrisman"],
+    "text": "In Proceedings of the Fourth Workshop on Vision and Language (VL15)",
+    "pdf": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.pdf",
+    "bib": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.bib"
   },
   {
     "date": "2015-07",
@@ -108,5 +123,145 @@
     "pdf": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.pdf",
     "bib": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.bib",
     "web": "http://graphics.stanford.edu/projects/transphoner/"
+  },
+  {
+    "date": "2014-04",
+    "title": "TokensRegex: Defining cascaded regular expressions over tokens",
+    "authors": ["angel", "chrisman"],
+    "text": "Stanford University Technical Report",
+    "pdf": "http://nlp.stanford.edu/pubs/tokensregex-tr-2014.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/tokensregex-tr-2014.bib",
+    "web": "http://nlp.stanford.edu/software/tokensregex.shtml"
+  },
+  {
+    "date": "2013-12",
+    "title": "Deterministic coreference resolution based on entity-centric, precision-ranked rules",
+    "authors": ["heeyoung", "angel", "yves", "nate", "mihai", "danj"],
+    "text": "In Computational Linguistics 39(4)",
+    "pdf": "http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00152",
+    "web": "http://nlp.stanford.edu/software/dcoref.shtml"
+  },
+  {
+    "date": "2013-11",
+    "title": "Stanford's 2013 KBP System",
+    "authors": ["gabor", "arun", "angel", "kevin", "julie", "jean", "osbert", "keith", "chrisman"],
+    "text": "In Proceedings of the Sixth Text Analysis Conference (TAC 2014)",
+    "pdf": "http://stanford.edu/~angeli/papers/2014-tac-kbp.pdf"
+  },
+  {
+    "date": "2013-07",
+    "title": "SUTime: Evaluation in TempEval-3",
+    "authors": ["angel", "chrisman"],
+    "text": "In Second Joint Conference on Lexical and Computational Semantics (*SEM), Volume 2: Proceedings of the Seventh International Workshop on Semantic Evaluation (SemEval 2013)",
+    "pdf": "http://aclweb.org/anthology/S/S13/S13-2013.pdf"
+  },
+  {
+    "date": "2012-07",
+    "title": "Joint Entity and Event Coreference Resolution across Documents",
+    "authors": ["heeyoung", "marta", "angel", "mihai", "danj"],
+    "text": "Proceedings of the Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL 2012)",
+    "pdf": "http://stanford.edu/~angelx/pubs/emnlp2012-coref.pdf",
+    "bib": "http://stanford.edu/~angelx/pubs/emnlp2012-coref.bib"
+  },
+  {
+    "date": "2012-05",
+    "title": "SUTime: A Library for Recognizing and Normalizing Time Expressions.",
+    "authors": ["angel", "chrisman"],
+    "text": "In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC 2012)",
+    "pdf": "http://nlp.stanford.edu/pubs/lrec2012-sutime.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/lrec2012-sutime.bib",
+    "poster": "http://nlp.stanford.edu/pubs/lrec2012-sutime-poster.pdf",
+    "web": "http://nlp.stanford.edu/software/sutime.shtml",
+    "demo": "http://nlp.stanford.edu:8080/sutime"
+  },
+  {
+    "date": "2012-05",
+    "title": "A Cross-Lingual Dictionary for English Wikipedia Concepts",
+    "authors": ["val", "angel"],
+    "text": "In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC 2012)",
+    "pdf": "http://nlp.stanford.edu/pubs/crosswikis.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/crosswikis.bib",
+    "slides": "http://nlp.stanford.edu/pubs/crosswikis-slides.pdf",
+    "post": "https://plus.google.com/117790530324740296539/posts/VSjc4KYpug2",
+    "data": "http://nlp.stanford.edu/pubs/crosswikis-data.tar.bz2"
+  },
+  {
+    "date": "2011-11",
+    "title": "Stanford's Distantly-Supervised Slot-Filling System",
+    "authors": ["mihai", "sonal", "johnbauer", "davidm", "angel", "val", "chrisman"],
+    "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
+    "pdf": "http://nlp.stanford.edu/pubs/kbp2011-slotfilling.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/kbp2011-slotfilling.bib",
+    "data": "http://nlp.stanford.edu/pubs/kbp_trigger_words.txt"
+  },
+  {
+    "date": "2011-11",
+    "title": "Strong Baselines for Cross-Lingual Entity Linking",
+    "authors": ["val", "angel"],
+    "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
+    "pdf": "http://nlp.stanford.edu/pubs/kbp2011-crosslinking.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/kbp2011-crosslinking.bib"
+  },
+  {
+    "date": "2011-11",
+    "title": "Stanford-UBC Entity Linking at TAC-KBP, Again",
+    "authors": ["angel", "val", "eneko", "chrisman"],
+    "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
+    "pdf": "http://nlp.stanford.edu/pubs/kbp2011-entitylinking.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/kbp2011-entitylinking.bib"
+  },
+  {
+    "date": "2011-07",
+    "title": "Unsupervised Dependency Parsing without Gold Part-of-Speech Tags",
+    "authors": ["val", "hiyan", "angel", "danj"],
+    "text": "In Proceedings of the 2011 Conference on Empirical Methods in Natural Language Processing (EMNLP 2011)",
+    "pdf": "http://nlp.stanford.edu/pubs/goldtags.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/goldtags.bib",
+    "poster": "http://nlp.stanford.edu/pubs/goldtags-poster.pdf",
+    "data": "http://nlp.stanford.edu/pubs/goldtags-data.tar.bz2"
+  },
+  {
+    "date": "2011-06",
+    "title": "Stanford's Multi-Pass Sieve Coreference Resolution System at the CoNLL-2011 Shared Task",
+    "authors": ["heeyoung", "yves", "angel", "nate", "mihai", "danj"],
+    "text": "In Proceedings of the CoNLL-2011 Shared Task",
+    "pdf": "http://nlp.stanford.edu/pubs/conllst2011-coref.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/conllst2011-coref.bib",
+    "web": "http://nlp.stanford.edu/software/dcoref.shtml"
+  },
+  {
+    "date": "2010-11",
+    "title": "A Simple Distant Supervision Approach for the TAC-KBP Slot Filling Task",
+    "authors": ["mihai", "davidm", "julie", "johnbauer", "angel", "val", "chrisman"],
+    "text": "In Proceedings of the Third Text Analysis Conference (TAC 2010)",
+    "pdf": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling.bib",
+    "slides": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling-slides.pptx"
+  },
+  {
+    "date": "2010-11",
+    "title": "Stanford-UBC Entity Linking at TAC-KBP",
+    "authors": ["angel", "val", "ericyeh", "eneko", "chrisman"],
+    "text": "In Proceedings of the Third Text Analysis Conference (TAC 2010)",
+    "pdf": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking.bib",
+    "poster": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking-poster.pdf"
+  },
+  {
+    "date": "2009-11",
+    "title": "Stanford-UBC at TAC-KBP",
+    "authors": ["eneko", "angel", "danj", "chrisman", "val", "ericyeh"],
+    "text": "In Proceedings of the Second Text Analysis Conference (TAC 2009)",
+    "pdf": "http://nlp.stanford.edu/pubs/subctackbp.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/subctackbp.bib",
+    "slides": "http://nlp.stanford.edu/pubs/subctackbp-slides.pdf"
+  },
+  {
+    "date": "2000-01",
+    "title": "The Fractal Geometry of the Boundary of Dragon Curves",
+    "authors": ["angel", "tianrong"],
+    "text": "In Journal of Recreational Mathematics 30 (1), 9-22",
+    "pdf": "http://stanford.edu/~angelx/pubs/dragonbound.pdf",
+    "bib": "http://stanford.edu/~angelx/pubs/dragonbound.bib"
   }
 ]

@@ -37,17 +37,25 @@ layout: "default"
         <% for p in @pubs: %>
           <div class="row paper vertical-center">
             <div class="col-sm-3 paper-img">
+            <% if p.img: %>
               <a href="<%= p.web %>"><img src="<%= p.img %>" alt="<%= p.title %>" class="img-responsive" style="width: 300px;"/></a>
               &nbsp;
+            <% end %>
             </div>
             <div class="col-sm-9">
-              <h4><a href="<%= p.web %>"><%= p.title %></a></h4>
+              <h4 class="red">
+                <% if p.web: %><a href="<%= p.web %>"><% end %>
+                <%= p.title %>
+                <% if p.web: %></a><% end %>
+              </h4>
               <% for a in p.authors when @people[a]: %>
                 <% if @people[a].special: %><b><% end %>
                 <% if @people[a].web: %><a href="<%= @people[a].web %>"><%= @people[a].name %></a><% else: %><%= @people[a].name %><% end %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %><% if @people[a].special: %></b><% end %>
               <% end %>
               <%- p.text %><br>
-              <a href="<%= p.pdf %>">pdf</a> | <a href="<%= p.bib %>">bib</a> | <a href="<%= p.web %>">webpage</a>
+              <a href="<%= p.pdf %>">pdf</a> | 
+              <a href="<%= p.bib %>">bib</a> 
+              <% if p.web: %> | <a href="<%= p.web %>">webpage</a> <% end %>
             </div>
           </div>
         <% end %>
