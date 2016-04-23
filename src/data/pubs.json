@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2016-07",
+    "title": "PiGraphs: Learning Interaction Snapshots from Observations",
+    "authors": ["manolis", "angel", "pat", "matt", "matthias"],
+    "text": "Conditionally accepted at SIGGRAPH 2016",
+    "img": "http://graphics.stanford.edu/projects/pigraphs/pigraphs.png",
+    "pdf": "http://graphics.stanford.edu/projects/pigraphs/",
+    "bib": "http://graphics.stanford.edu/projects/pigraphs/",
+    "web": "http://graphics.stanford.edu/projects/pigraphs/"
+  },
+  {
+    "date": "2015-12",
+    "title": "ShapeNet: An Information-Rich 3D Model Repository",
+    "authors": ["angel", "tom", "leo", "pat", "qixing", "zimo", "silvio", "manolis", "shuran", "hao", "jianxiong", "eric", "fisher"],
+    "text": "arXiv:1512.03012 [cs.GR], Dec 2015",
+    "img": "files/shapenet.png",
+    "pdf": "http://arxiv.org/pdf/1512.03012v1",
+    "bib": "http://shapenet.cs.stanford.edu/resources/shapenet.bib",
+    "web": "http://arxiv.org/abs/1512.03012"
+  },
+  {
+    "date": "2015-07",
+    "title": "Semantically-Enriched 3D Models for Common-sense Knowledge",
+    "authors": ["manolis", "angel", "pat"],
+    "text": "CVPR 2015 Vision meets Cognition Workshop",
+    "img": "files/semgeo.png",
+    "pdf": "http://graphics.stanford.edu/projects/semgeo/semgeo.pdf",
+    "bib": "http://graphics.stanford.edu/projects/semgeo/semgeo.bib",
+    "web": "http://graphics.stanford.edu/projects/semgeo/"
+  },
+  {
+    "date": "2015-06",
+    "title": "Text to 3D Scene Generation with Rich Lexical Grounding",
+    "authors": ["angel", "will", "manolis", "chrispotts", "chrisman"],
+    "text": "Proceedings of ACL 2015",
+    "img": "files/lexground.png",
+    "pdf": "http://nlp.stanford.edu/pubs/chang-acl2015-lexground.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/chang-acl2015-lexground.bib",
+    "web": "http://nlp.stanford.edu/data/text2scene.shtml"
+  },
+  {
+    "date": "2014-12",
+    "title": "SceneGrok: Inferring Action Maps in 3D Environments",
+    "authors": ["manolis", "angel", "pat", "matt", "matthias"],
+    "text": "Proceedings of SIGGRAPH Asia 2014",
+    "img": "files/scenegrok.png",
+    "pdf": "http://graphics.stanford.edu/projects/scenegrok/scenegrok.pdf",
+    "bib": "http://graphics.stanford.edu/projects/scenegrok/scenegrok.bib",
+    "web": "http://graphics.stanford.edu/projects/scenegrok/"
+  },
+  {
+    "date": "2014-12",
+    "title": "On Being the Right Scale: Sizing Large Collections of 3D Models",
+    "authors": ["manolis", "angel", "gilbert", "chrisman", "pat"],
+    "text": "SIGGRAPH Asia 2014 Workshop on Indoor Scene Understanding: Where Graphics meets Vision",
+    "img": "files/sizes.png",
+    "pdf": "http://graphics.stanford.edu/projects/sizes/sizes.pdf",
+    "bib": "http://graphics.stanford.edu/projects/sizes/sizes.bib",
+    "web": "http://graphics.stanford.edu/projects/sizes/"
+  },
+  {
+    "date": "2014-10",
+    "title": "Learning Spatial Knowledge for Text to 3D Scene Generation",
+    "authors": ["angel", "manolis", "chrisman"],
+    "text": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP 2014)",
+    "img": "files/spatialLearning.png",
+    "pdf": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.bib",
+    "web": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.pdf"
+  },
+  {
+    "date": "2014-07",
+    "title": "Learning Affordance Maps by Observing Interactions",
+    "authors": ["manolis", "angel", "matt", "matthias", "pat"],
+    "text": "CVPR 2014 Workshop on Functionality, Physics, Intentionality and Causality",
+    "img": "files/fpic2014.png",
+    "pdf": "files/fpic2014.pdf",
+    "bib": "files/fpic2014.bib",
+    "web": "files/fpic2014.pdf"
+  },
+  {
+    "date": "2014-06",
+    "title": "Interactive Learning of Spatial Knowledge for Text to 3D Scene Generation",
+    "authors": ["angel", "manolis", "chrisman"],
+    "text": "Proceedings of the ACL 2014 Workshop on Interactive Language Learning, Visualization, and Interfaces",
+    "img": "files/interactiveLearning.png",
+    "pdf": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.bib",
+    "web": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.pdf"
+  },
+  {
+    "date": "2014-06",
+    "title": "Semantic Parsing for Text to 3D Scene Generation",
+    "authors": ["angel", "manolis", "chrisman"],
+    "text": "Proceedings of the ACL 2014 Workshop on Semantic Parsing",
+    "img": "files/semanticParsing.png",
+    "pdf": "http://nlp.stanford.edu/pubs/scenegen-sp2014.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/scenegen-sp2014.bib",
+    "web": "http://nlp.stanford.edu/pubs/scenegen-sp2014.pdf"
+  },
+  {
+    "date": "2014-05",
+    "title": "TransPhoner: Automated Mnemonic Keyword Generation",
+    "authors": ["manolis", "angel", "chrisman", "pat"],
+    "text": "Proceedings of CHI 2014",
+    "img": "files/transphoner.png",
+    "pdf": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.pdf",
+    "bib": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.bib",
+    "web": "http://graphics.stanford.edu/projects/transphoner/"
+  }
+]

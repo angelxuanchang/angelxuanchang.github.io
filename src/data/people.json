@@ -1,0 +1,77 @@
+{
+  "angel": {
+    "name": "Angel X. Chang",
+    "special": true
+  },
+  "manolis": {
+    "name": "Manolis Savva",
+    "web": "http://graphics.stanford.edu/~msavva/"
+  },
+  "pat": {
+    "name": "Pat Hanrahan",
+    "web": "http://graphics.stanford.edu/~hanrahan/"
+  },
+  "matt": {
+    "name": "Matthew Fisher",
+    "web": "http://graphics.stanford.edu/~mdfisher/"
+  },
+  "matthias": {
+    "name": "Matthias Nießner",
+    "web": "http://graphics.stanford.edu/~niessner/"
+  },
+  "gilbert": {
+    "name": "Gilbert Bernstein",
+    "web": "http://graphics.stanford.edu/~gilbo/"
+  },
+  "chrisman": {
+    "name": "Christopher D. Manning",
+    "web": "http://nlp.stanford.edu/manning/"
+  },
+  "chrispotts": {
+    "name": "Christopher Potts",
+    "web": "http://web.stanford.edu/~cgpotts/"
+  },
+  "tom": {
+    "name": "Thomas Funkhouser",
+    "web": "http://www.cs.princeton.edu/~funk/"
+  },
+  "leo": {
+    "name": "Leonidas Guibas",
+    "web": "http://geometry.stanford.edu/member/guibas/"
+  },
+  "hao": {
+    "name": "Hao Su",
+    "web": "http://ai.stanford.edu/~haosu/"
+  },
+  "eric": {
+    "name": "Li Yi",
+    "web": "http://geometry.stanford.edu/person.php?id=ericyi"
+  },
+  "qixing": {
+    "name": "Qixing Huang",
+    "web": "http://ttic.uchicago.edu/~huangqx/"
+  },
+  "zimo": {
+    "name": "Zimo Li"
+  },
+  "silvio": {
+    "name": "Silvio Savarese",
+    "web": "http://cvgl.stanford.edu/silvio/"
+  },
+  "shuran": {
+    "name": "Shuran Song",
+    "web": "vision.princeton.edu/people/shurans/"
+  },
+  "jianxiong": {
+    "name": "Jianxiong Xiao",
+    "web": "http://vision.princeton.edu/people/xj/"
+  },
+  "fisher": {
+    "name": "Fisher Yu",
+    "web": "http://yf.io/"
+  },
+  "will": {
+    "name": "Will Monroe",
+    "web": "http://www.stanford.edu/~wmonroe4/"
+  }
+}
