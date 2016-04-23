@@ -261,7 +261,8 @@
     "title": "The Fractal Geometry of the Boundary of Dragon Curves",
     "authors": ["angel", "tianrong"],
     "text": "In Journal of Recreational Mathematics 30 (1), 9-22",
-    "pdf": "http://stanford.edu/~angelx/pubs/dragonbound.pdf",
-    "bib": "http://stanford.edu/~angelx/pubs/dragonbound.bib"
+    "img": "files/dragonCurve.png",
+    "pdf": "pubs/dragonbound.pdf",
+    "bib": "pubs/dragonbound.bib"
   }
 ]
