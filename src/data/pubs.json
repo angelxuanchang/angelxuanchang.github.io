@@ -83,7 +83,7 @@
     "img": "files/spatialLearning.png",
     "pdf": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.pdf",
     "bib": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.bib",
-    "web": "http://nlp.stanford.edu/data/text2scene.shtml"
+    "web": "http://nlp.stanford.edu/projects/text2scene.shtml"
   },
   {
     "date": "2014-07",
@@ -102,7 +102,7 @@
     "img": "files/interactiveLearning.png",
     "pdf": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.pdf",
     "bib": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.bib",
-    "web": "http://nlp.stanford.edu/data/text2scene.shtml"
+    "web": "http://nlp.stanford.edu/projects/text2scene.shtml"
   },
   {
     "date": "2014-06",
@@ -112,7 +112,7 @@
     "img": "files/semanticParsing.png",
     "pdf": "http://nlp.stanford.edu/pubs/scenegen-sp2014.pdf",
     "bib": "http://nlp.stanford.edu/pubs/scenegen-sp2014.bib",
-    "web": "http://nlp.stanford.edu/data/text2scene.shtml"
+    "web": "http://nlp.stanford.edu/projects/text2scene.shtml"
   },
   {
     "date": "2014-05",
