@@ -160,14 +160,15 @@
     "title": "Joint Entity and Event Coreference Resolution across Documents",
     "authors": ["heeyoung", "marta", "angel", "mihai", "danj"],
     "text": "Proceedings of the Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL 2012)",
-    "pdf": "http://stanford.edu/~angelx/pubs/emnlp2012-coref.pdf",
-    "bib": "http://stanford.edu/~angelx/pubs/emnlp2012-coref.bib"
+    "pdf": "http://nlp.stanford.edu/pubs/emnlp2012-coref.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/emnlp2012-coref.bib"
   },
   {
     "date": "2012-05",
     "title": "SUTime: A Library for Recognizing and Normalizing Time Expressions.",
     "authors": ["angel", "chrisman"],
     "text": "In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC 2012)",
+    "img": "files/sutime.png",
     "pdf": "http://nlp.stanford.edu/pubs/lrec2012-sutime.pdf",
     "bib": "http://nlp.stanford.edu/pubs/lrec2012-sutime.bib",
     "poster": "http://nlp.stanford.edu/pubs/lrec2012-sutime-poster.pdf",
