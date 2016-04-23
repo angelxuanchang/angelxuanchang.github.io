@@ -32,7 +32,8 @@
     "authors": ["sebastian", "ranjay", "angel", "fei-fei", "chrisman"],
     "text": "In Proceedings of the Fourth Workshop on Vision and Language (VL15)",
     "pdf": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.pdf",
-    "bib": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.bib"
+    "bib": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.bib",
+    "web": "http://nlp.stanford.edu/software/scenegraph-parser.shtml"
   },
   {
     "date": "2015-07",

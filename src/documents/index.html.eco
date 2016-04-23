@@ -53,8 +53,10 @@ layout: "default"
                 <% if @people[a].web: %><a href="<%= @people[a].web %>"><%= @people[a].name %></a><% else: %><%= @people[a].name %><% end %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %><% if @people[a].special: %></b><% end %>
               <% end %>
               <%- p.text %><br>
-              <a href="<%= p.pdf %>">pdf</a> | 
-              <a href="<%= p.bib %>">bib</a> 
+              <a href="<%= p.pdf %>">pdf</a> 
+              <% for k,v of p: %>
+              <% if k != 'web' and k != 'title' and k != 'authors' and k != 'img' and k != 'date' and k != 'text' and k != 'pdf': %> | <a href="<%= v %>"><%= k %></a> <% end %>
+              <% end %>
               <% if p.web: %> | <a href="<%= p.web %>">webpage</a> <% end %>
             </div>
           </div>
