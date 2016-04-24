@@ -138,6 +138,7 @@
     "title": "Deterministic coreference resolution based on entity-centric, precision-ranked rules",
     "authors": ["heeyoung", "angel", "yves", "nate", "mihai", "danj"],
     "text": "In Computational Linguistics 39(4)",
+    "img": "files/corefSieves.png",
     "pdf": "http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00152",
     "web": "http://nlp.stanford.edu/software/dcoref.shtml"
   },
