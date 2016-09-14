@@ -8,7 +8,7 @@ layout: "default"
   <hr>
   <div class="col-sm-8 pull-left" style="min-height: 280px; display: flex; align-items: center;">
     <p>
-      I am a Ph.D. student in <a href="http://cs.stanford.edu/">Computer Science</a> at <a href="http://www.stanford.edu/">Stanford</a>, in the <a href="http://nlp.stanford.edu/">Natural Language Processing Group</a>.
+      I am a postdoctoral researcher working with <a href="https://www.cs.princeton.edu/~funk/">Tom Funkhouser</a> at <a href="http://www.princeton.edu/">Princeton</a>.  Prior to this, I was a Ph.D. student in <a href="http://cs.stanford.edu/">Computer Science</a> at <a href="http://www.stanford.edu/">Stanford</a>, in the <a href="http://nlp.stanford.edu/">Natural Language Processing Group</a>.
       My advisor is <a href="http://nlp.stanford.edu/~manning/">Chris Manning</a>.
       I'm working on <a href="http://nlp.stanford.edu/projects/text2scene.shtml">text to 3D scene generation</a>, and the <a href="http://shapenet.cs.stanford.edu/">ShapeNet</a> project.
       In general, I am interested in the semantics of shapes and scenes, the representation and acquisition of common sense knowledge, and reasoning using probabilistic models.
