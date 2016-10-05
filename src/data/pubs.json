@@ -1,9 +1,18 @@
 [
   {
+    "date": "2016-10",
+    "title": "Eviza: A Natural Language Interface for Visual Analysis",
+    "authors": ["vidyaSetlur", "sarahBattersby", "melanieTory", "richGossweiler", "angel"],
+    "text": "UIST 2016",
+    "img": "https://research.tableau.com/sites/default/files/uploads/eviza_teaser.png",
+    "pdf": "https://research.tableau.com/sites/default/files/uist4832-setlurA_0.pdf",
+    "web": "https://research.tableau.com/paper/eviza-natural-language-interface-visual-analysis"
+  },
+  {
     "date": "2016-07",
     "title": "PiGraphs: Learning Interaction Snapshots from Observations",
     "authors": ["manolis", "angel", "pat", "matt", "matthias"],
-    "text": "Conditionally accepted at SIGGRAPH 2016",
+    "text": "SIGGRAPH 2016",
     "img": "http://graphics.stanford.edu/projects/pigraphs/pigraphs.png",
     "pdf": "http://graphics.stanford.edu/projects/pigraphs/",
     "bib": "http://graphics.stanford.edu/projects/pigraphs/",

@@ -49,7 +49,7 @@
   },
   "qixing": {
     "name": "Qixing Huang",
-    "web": "http://ttic.uchicago.edu/~huangqx/"
+    "web": "http://www.cs.utexas.edu/~huangqx/"
   },
   "zimo": {
     "name": "Zimo Li"
@@ -64,7 +64,7 @@
   },
   "jianxiong": {
     "name": "Jianxiong Xiao",
-    "web": "http://vision.princeton.edu/people/xj/"
+    "web": "http://www.jianxiongxiao.com/"
   },
   "fisher": {
     "name": "Fisher Yu",
@@ -136,7 +136,7 @@
   },
   "gabor": {
     "name": "Gabor Angeli",
-    "web": "http://stanford.edu/~angeli/"
+    "web": "http://cs.stanford.edu/~angeli/"
   },
   "arun": {
     "name": "Arun Chaganty",
@@ -162,5 +162,21 @@
   },
   "tianrong": {
     "name": "Tianrong Zhang"
+  },
+  "vidyaSetlur": {
+    "name": "Vidya Setlur",
+    "web": "https://research.tableau.com/user/vidya-setlur"
+  },
+  "sarahBattersby": {
+    "name": "Sarah E. Battersby",
+    "web": "https://research.tableau.com/user/sarah-battersby"
+  },
+  "melanieTory": {
+    "name": "Melanie Tory",
+    "web": "https://research.tableau.com/user/melanie-tory"
+  },
+  "richGossweiler": {
+    "name": "Rich Gossweiler",
+    "web": "https://research.tableau.com/user/rich-gossweiler"
   }
 }
