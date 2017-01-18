@@ -62,6 +62,10 @@
     "name": "Shuran Song",
     "web": "http://vision.princeton.edu/people/shurans/"
   },
+  "andy": {
+    "name": "Andy Zeng",
+    "web": "http://www.cs.princeton.edu/~andyz/"
+  },
   "jianxiong": {
     "name": "Jianxiong Xiao",
     "web": "http://www.jianxiongxiao.com/"
@@ -178,5 +182,12 @@
   "richGossweiler": {
     "name": "Rich Gossweiler",
     "web": "https://research.tableau.com/user/rich-gossweiler"
+  },
+  "grace": {
+    "name": "Grace Muzny",
+    "web": "http://nlp.stanford.edu/~muzny/"
+  },
+  "michaelFang": {
+    "name": "Michael Fang"
   }
 }

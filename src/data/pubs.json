@@ -1,5 +1,21 @@
 [
   {
+    "date": "2017-04",
+    "title": "A Two-stage Sieve Approach to Quote Attribution",
+    "authors": ["grace", "michaelFang", "angel", "danj"],
+    "text": "Proceedings of EACL 2017 (to appear)",
+    "web": "http://nlp.stanford.edu/~muzny/quoteli.html"
+  },
+  {
+    "date": "2016-11",
+    "title": "Semantic Scene Completion from a Single Depth Image",
+    "authors": ["shuran", "fisher", "andy", "angel", "manolis", "tom"],
+    "text": "arXiv:1611.08974 [cs.CV], November 2016",
+    "img": "http://vision.princeton.edu/projects/2016/SSCNet/thumbnail.jpg",
+    "pdf": "https://arxiv.org/pdf/1611.08974v1.pdf",
+    "web": "http://vision.princeton.edu/projects/2016/SSCNet/"
+  },
+  {
     "date": "2016-10",
     "title": "Eviza: A Natural Language Interface for Visual Analysis",
     "authors": ["vidyaSetlur", "sarahBattersby", "melanieTory", "richGossweiler", "angel"],
