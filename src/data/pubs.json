@@ -7,6 +7,15 @@
     "web": "http://nlp.stanford.edu/~muzny/quoteli.html"
   },
   {
+    "date": "2017-02",
+    "title": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes",
+    "authors": ["angie", "angel", "manolis", "maciej", "tom", "matthias"],
+    "text": "arXiv:1611.08974 [cs.CV], February 2017",
+    "img": "http://www.scan-net.org/img/annotations.png",
+    "pdf": "https://arxiv.org/pdf/1611.08974v1.pdf",
+    "web": "http://www.scan-net.org/"
+  },
+  {
     "date": "2016-11",
     "title": "Semantic Scene Completion from a Single Depth Image",
     "authors": ["shuran", "fisher", "andy", "angel", "manolis", "tom"],
