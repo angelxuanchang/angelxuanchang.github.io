@@ -10,10 +10,11 @@
     "date": "2017-02",
     "title": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes",
     "authors": ["angie", "angel", "manolis", "maciej", "tom", "matthias"],
-    "text": "arXiv:1611.08974 [cs.CV], February 2017",
+    "text": "arXiv:1702.04405 [cs.CV], February 2017",
     "img": "http://www.scan-net.org/img/annotations.png",
-    "pdf": "https://arxiv.org/pdf/1611.08974v1.pdf",
-    "web": "http://www.scan-net.org/"
+    "pdf": "https://arxiv.org/pdf/1702.04405.pdf",
+    "web": "http://www.scan-net.org/",
+    "code": "https://github.com/ScanNet/ScanNet"
   },
   {
     "date": "2016-11",
