@@ -1,16 +1,9 @@
 [
   {
-    "date": "2017-04",
-    "title": "A Two-stage Sieve Approach to Quote Attribution",
-    "authors": ["grace", "michaelFang", "angel", "danj"],
-    "text": "Proceedings of EACL 2017 (to appear)",
-    "web": "http://nlp.stanford.edu/~muzny/quoteli.html"
-  },
-  {
     "date": "2017-02",
     "title": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes",
     "authors": ["angie", "angel", "manolis", "maciej", "tom", "matthias"],
-    "text": "arXiv:1702.04405 [cs.CV], February 2017",
+    "text": "Proceedings of CVPR 2017 (to appear), arXiv:1702.04405 [cs.CV]",
     "img": "http://www.scan-net.org/img/annotations.png",
     "pdf": "https://arxiv.org/pdf/1702.04405.pdf",
     "web": "http://www.scan-net.org/",
@@ -20,10 +13,34 @@
     "date": "2016-11",
     "title": "Semantic Scene Completion from a Single Depth Image",
     "authors": ["shuran", "fisher", "andy", "angel", "manolis", "tom"],
-    "text": "arXiv:1611.08974 [cs.CV], November 2016",
+    "text": "Proceedings of CVPR 2017 (to appear), arXiv:1611.08974 [cs.CV]",
     "img": "http://vision.princeton.edu/projects/2016/SSCNet/thumbnail.jpg",
     "pdf": "https://arxiv.org/pdf/1611.08974v1.pdf",
     "web": "http://vision.princeton.edu/projects/2016/SSCNet/"
+  },
+  {
+    "date": "2017-04",
+    "title": "A Two-stage Sieve Approach to Quote Attribution",
+    "authors": ["grace", "michaelFang", "angel", "danj"],
+    "text": "Proceedings of EACL 2017 (to appear)",
+    "img": "files/quote-attribution.png",
+    "web": "http://nlp.stanford.edu/~muzny/quoteli.html"
+  },
+  {
+    "date": "2017-03",
+    "title": "SceneSuggest: Context-driven 3D Scene Design",
+    "authors": ["manolis", "angel", "maneesh"],
+    "text": "arXiv:1703.00061 [cs.CG], March 2017",
+    "img": "http://msavva.github.io/files/scenesuggest.png",
+    "pdf": "http://arxiv.org/abs/1703.00061.pdf"
+  },
+  {
+    "date": "2017-03",
+    "title": "SceneSeer: 3D Scene Design with Natural Language",
+    "authors": ["angel", "mihail", "manolis", "chrisman"],
+    "text": "arXiv:1703.00050 [cs.CG], March 2017",
+    "img": "http://msavva.github.io/files/sceneseer.png",
+    "pdf": "http://arxiv.org/abs/1703.00050.pdf"
   },
   {
     "date": "2016-10",
@@ -50,6 +67,14 @@
     "authors": ["angel", "val", "chrisman", "eneko"],
     "text": "arXiv:1603.04767 [cs.CL], March 2016",
     "pdf": "http://arxiv.org/pdf/1603.04767v1"
+  },
+  {
+    "date": "2015-12",
+    "title": "Text to 3D scene generation",
+    "authors": ["angel"],
+    "text": "Ph.D. dissertation, Department of Computer Science, Stanford University, 2016",
+    "img": "files/text2scene.png",
+    "pdf": "https://purl.stanford.edu/vg064sy5087"
   },
   {
     "date": "2015-12",

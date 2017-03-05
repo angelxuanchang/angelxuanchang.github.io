@@ -27,6 +27,14 @@
     "name": "Maciej Halber",
     "web": "http://www.cs.princeton.edu/~mhalber/"
   },
+  "maneesh": {
+    "name": "Maneesh Agrawala",
+    "web": "http://graphics.stanford.edu/~maneesh/"
+  },
+  "mihail": {
+    "name": "Mihail Eric",
+    "web": "http://stanford.edu/~meric/"
+  },
   "gilbert": {
     "name": "Gilbert Bernstein",
     "web": "http://graphics.stanford.edu/~gilbo/"
