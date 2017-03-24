@@ -72,7 +72,7 @@
     "date": "2015-12",
     "title": "Text to 3D scene generation",
     "authors": ["angel"],
-    "text": "Ph.D. dissertation, Department of Computer Science, Stanford University, 2016",
+    "text": "Ph.D. dissertation, Department of Computer Science, Stanford University, 2015",
     "img": "files/text2scene.png",
     "pdf": "https://purl.stanford.edu/vg064sy5087"
   },
@@ -84,6 +84,7 @@
     "img": "files/shapenet.png",
     "pdf": "http://arxiv.org/pdf/1512.03012v1",
     "bib": "http://shapenet.cs.stanford.edu/resources/shapenet.bib",
+    "code": "https://github.com/ShapeNet",
     "web": "http://shapenet.cs.stanford.edu/"
   },
   {
