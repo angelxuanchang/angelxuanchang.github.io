@@ -32,7 +32,8 @@
     "authors": ["manolis", "angel", "maneesh"],
     "text": "arXiv:1703.00061 [cs.CG], March 2017",
     "img": "http://msavva.github.io/files/scenesuggest.png",
-    "pdf": "http://arxiv.org/abs/1703.00061.pdf"
+    "pdf": "http://arxiv.org/abs/1703.00061.pdf",
+    "demo": "https://dovahkiin.stanford.edu/fuzzybox/scene-suggest.html"
   },
   {
     "date": "2017-03",
@@ -40,7 +41,8 @@
     "authors": ["angel", "mihail", "manolis", "chrisman"],
     "text": "arXiv:1703.00050 [cs.CG], March 2017",
     "img": "http://msavva.github.io/files/sceneseer.png",
-    "pdf": "http://arxiv.org/abs/1703.00050.pdf"
+    "pdf": "http://arxiv.org/abs/1703.00050.pdf",
+    "demo": "https://dovahkiin.stanford.edu/fuzzybox/text2scene.html"
   },
   {
     "date": "2016-10",
