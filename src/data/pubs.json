@@ -1,5 +1,12 @@
 [
   {
+    "date": "2017-04",
+    "title": "Learning Where to Look: Data-Driven Viewpoint Set Selection for 3D Scenes",
+    "authors": ["kyle", "manolis", "angel", "tom"],
+    "text": "arXiv:1704.02393 [cs.CV]",
+    "pdf": "https://arxiv.org/pdf/1704.02393.pdf"
+  },
+  {
     "date": "2017-02",
     "title": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes",
     "authors": ["angie", "angel", "manolis", "maciej", "tom", "matthias"],
@@ -22,7 +29,7 @@
     "date": "2017-04",
     "title": "A Two-stage Sieve Approach to Quote Attribution",
     "authors": ["grace", "michaelFang", "angel", "danj"],
-    "text": "Proceedings of EACL 2017 (to appear)",
+    "text": "Proceedings of EACL 2017",
     "img": "files/quote-attribution.png",
     "web": "http://nlp.stanford.edu/~muzny/quoteli.html"
   },
