@@ -38,7 +38,7 @@ layout: "default"
           <div class="row paper vertical-center">
             <div class="col-sm-3 paper-img">
             <% if p.img: %>
-              <a href="<%= p.web %>"><img src="<%= p.img %>" alt="<%= p.title %>" class="img-responsive" style="width: 300px;"/></a>
+              <a href="<%= p.web || p.pdf %>"><img src="<%= p.img %>" alt="<%= p.title %>" class="img-responsive" style="width: 300px;"/></a>
               &nbsp;
             <% end %>
             </div>

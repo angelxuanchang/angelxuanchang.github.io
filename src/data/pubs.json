@@ -1,16 +1,34 @@
 [
   {
+    "date": "2017-10",
+    "title": "Cross-modal Attribute Transfer for Rescaling 3D Models",
+    "authors": ["lin", "angel", "hao", "manolis", "leo"],
+    "text": "Proceedings of 3DV 2017",
+    "pdf": "http://cseweb.ucsd.edu/~haosu/papers/3dv2017_attribute_transfer.pdf",
+    "img": "http://msavva.github.io/files/attributeTransfer.png"
+  },
+  {
+    "date": "2017-10",
+    "title": "Matterport3D: Learning from RGB-D Data in Indoor Environments",
+    "authors": ["angel", "angie", "tom", "maciej", "matthias", "manolis", "shuran", "andy", "yinda"],
+    "text": "Proceedings of 3DV 2017, arXiv:1709.06158 [cs.CV]",
+    "pdf": "https://arxiv.org/pdf/1709.06158.pdf",
+    "img": "http://msavva.github.io/files/matterport3d.png",
+    "web": "https://niessner.github.io/Matterport/"
+  },
+  {
     "date": "2017-04",
     "title": "Learning Where to Look: Data-Driven Viewpoint Set Selection for 3D Scenes",
     "authors": ["kyle", "manolis", "angel", "tom"],
     "text": "arXiv:1704.02393 [cs.CV]",
-    "pdf": "https://arxiv.org/pdf/1704.02393.pdf"
+    "pdf": "https://arxiv.org/pdf/1704.02393.pdf",
+    "img": "http://msavva.github.io/files/viewsets.png"
   },
   {
     "date": "2017-02",
     "title": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes",
     "authors": ["angie", "angel", "manolis", "maciej", "tom", "matthias"],
-    "text": "Proceedings of CVPR 2017 (to appear), arXiv:1702.04405 [cs.CV]",
+    "text": "Proceedings of CVPR 2017, arXiv:1702.04405 [cs.CV]",
     "img": "http://www.scan-net.org/img/annotations.png",
     "pdf": "https://arxiv.org/pdf/1702.04405.pdf",
     "web": "http://www.scan-net.org/",
@@ -20,7 +38,7 @@
     "date": "2016-11",
     "title": "Semantic Scene Completion from a Single Depth Image",
     "authors": ["shuran", "fisher", "andy", "angel", "manolis", "tom"],
-    "text": "Proceedings of CVPR 2017 (to appear), arXiv:1611.08974 [cs.CV]",
+    "text": "Proceedings of CVPR 2017, arXiv:1611.08974 [cs.CV]",
     "img": "http://vision.princeton.edu/projects/2016/SSCNet/thumbnail.jpg",
     "pdf": "https://arxiv.org/pdf/1611.08974v1.pdf",
     "web": "http://vision.princeton.edu/projects/2016/SSCNet/"

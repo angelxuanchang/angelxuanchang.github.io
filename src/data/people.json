@@ -82,8 +82,15 @@
     "name": "Andy Zeng",
     "web": "http://www.cs.princeton.edu/~andyz/"
   },
+  "yinda": {
+    "name": "Yinda Zhang",
+    "web": "http://robots.princeton.edu/people/yindaz/"
+  },
   "kyle": {
     "name": "Kyle Genova"
+  },
+  "lin": {
+    "name": "Lin Shao"
   },
   "jianxiong": {
     "name": "Jianxiong Xiao",
