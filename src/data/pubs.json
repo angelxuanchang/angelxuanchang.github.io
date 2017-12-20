@@ -1,10 +1,33 @@
 [
+  { "date": "2017-12",
+    "title": "MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments",
+    "authors": ["manolis", "angel", "alexey", "tom", "vladlen"],
+    "text": "arXiv:1712.03931 [cs.LG]", 
+    "pdf": "https://arxiv.org/abs/1712.03931",
+    "img": "https://github.com/minosworld/minos/raw/master/docs/img/video_thumbnail.png",
+    "web": "https://www.minosworld.org/"
+  },
+  { "date": "2017-12",
+    "title": "Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View",
+    "authors": ["shuran", "andy", "angel", "manolis", "silvio", "tom"],
+    "text": "arXiv:1712.04569 [cs.CV]", 
+    "pdf": "https://arxiv.org/abs/1712.04569",
+    "img": "http://im2pano3d.cs.princeton.edu/teaser.jpg",
+    "web": "http://im2pano3d.cs.princeton.edu/"
+  },
+  {
+    "date": "2017-11",
+    "title": "Linking WordNet to 3D Shapes",
+    "authors": ["angel", "rishi", "pranav", "manolis", "christiane"],
+    "text": "Proceedings of Global WordNet Conference 2018",
+    "pdf": "http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_66.pdf"
+  },
   {
     "date": "2017-10",
     "title": "Cross-modal Attribute Transfer for Rescaling 3D Models",
     "authors": ["lin", "angel", "hao", "manolis", "leo"],
     "text": "Proceedings of 3DV 2017",
-    "pdf": "http://cseweb.ucsd.edu/~haosu/papers/3dv2017_attribute_transfer.pdf",
+    "pdf": "http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_66.pdf",
     "img": "http://msavva.github.io/files/attributeTransfer.png"
   },
   {
@@ -233,7 +256,7 @@
   {
     "date": "2013-11",
     "title": "Stanford's 2013 KBP System",
-    "authors": ["gabor", "arun", "angel", "kevin", "julie", "jean", "osbert", "keith", "chrisman"],
+    "authors": ["gabor", "arun", "angel", "kevinReschke", "julie", "jean", "osbert", "keithSiilats", "chrisman"],
     "text": "In Proceedings of the Sixth Text Analysis Conference (TAC 2014)",
     "pdf": "http://stanford.edu/~angeli/papers/2014-tac-kbp.pdf"
   },

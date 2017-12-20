@@ -172,11 +172,11 @@
     "name": "Arun Chaganty",
     "web": "http://arun.chagantys.org/"
   },
-  "kevin": {
+  "kevinReschke": {
     "name": "Kevin Reschke",
     "web": "https://sites.google.com/site/kevinreschke/"
   },
-  "keith": {
+  "keithSiilats": {
     "name": "Keith Siilats"
   },
   "ericyeh": {
@@ -209,11 +209,29 @@
     "name": "Rich Gossweiler",
     "web": "https://research.tableau.com/user/rich-gossweiler"
   },
+  "christiane": {
+    "name": "Christiane Fellbaum",
+    "web": "https://www.cs.princeton.edu/~fellbaum/"
+  },
+  "alexey": {
+    "name": "Alexey Dosovitskiy",
+    "web": "https://dosovits.github.io/"
+  },
+  "vladlen": {
+    "name": "Vladlen Koltun",
+    "web": "http://vladlen.info/"
+  },
   "grace": {
     "name": "Grace Muzny",
     "web": "http://nlp.stanford.edu/~muzny/"
   },
   "michaelFang": {
     "name": "Michael Fang"
+  },
+  "rishi": {
+    "name": "Rishi Mago"
+  },
+  "pranav": {
+    "name": "Pranav Krishna"
   }
 }
