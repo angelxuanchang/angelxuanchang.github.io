@@ -20,14 +20,15 @@
     "title": "Linking WordNet to 3D Shapes",
     "authors": ["angel", "rishi", "pranav", "manolis", "christiane"],
     "text": "Proceedings of Global WordNet Conference 2018",
-    "pdf": "http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_66.pdf"
+    "pdf": "http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_66.pdf",
+    "img": "files/wordnetLink.png"
   },
   {
     "date": "2017-10",
     "title": "Cross-modal Attribute Transfer for Rescaling 3D Models",
     "authors": ["lin", "angel", "hao", "manolis", "leo"],
     "text": "Proceedings of 3DV 2017",
-    "pdf": "http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_66.pdf",
+    "pdf": "http://cseweb.ucsd.edu/~haosu/papers/3dv2017_attribute_transfer.pdf",
     "img": "http://msavva.github.io/files/attributeTransfer.png"
   },
   {
@@ -144,7 +145,8 @@
     "text": "In Proceedings of the Fourth Workshop on Vision and Language (VL15)",
     "pdf": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.pdf",
     "bib": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.bib",
-    "web": "http://nlp.stanford.edu/software/scenegraph-parser.shtml"
+    "web": "http://nlp.stanford.edu/software/scenegraph-parser.shtml",
+    "img": "files/twomen.png"
   },
   {
     "date": "2015-07",
