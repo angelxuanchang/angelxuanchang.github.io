@@ -225,6 +225,20 @@
     "name": "Grace Muzny",
     "web": "http://nlp.stanford.edu/~muzny/"
   },
+  "chrisChoy": {
+    "name": "Christopher B. Choy",
+    "web": "https://chrischoy.github.io/"
+  },
+  "danielRitchie": {
+    "name": "Daniel Ritchie",
+    "web": "https://dritchie.github.io/"
+  },
+  "kaiWang": {
+    "name": "Kai Wang"
+  },
+  "kevinChen": {
+    "name": "Kevin Chen"
+  },
   "michaelFang": {
     "name": "Michael Fang"
   },

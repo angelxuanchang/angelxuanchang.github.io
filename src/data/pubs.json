@@ -1,4 +1,18 @@
 [
+  { "date": "2018-08",
+    "title": "Deep Convolutional Priors for Indoor 3D Scene Synthesis",
+    "authors": ["kaiWang", "manolis", "angel", "danielRitchie"],
+    "text": "SIGGRAPH 2018 (conditionally accepted)", 
+    "img": "http://msavva.github.io/files/deepsynth.png"
+  },
+  { "date": "2018-03",
+    "title": "Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings",
+    "authors": ["kevinChen", "chrisChoy", "manolis", "angel", "tom", "silvio"],
+    "text": "arXiv:1803.08495 [cs.CV]", 
+    "pdf": "https://arxiv.org/abs/1803.08495",
+    "img": "http://text2shape.stanford.edu/figures/pull.png",
+    "web": "http://text2shape.stanford.edu/"
+  },
   { "date": "2017-12",
     "title": "MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments",
     "authors": ["manolis", "angel", "alexey", "tom", "vladlen"],
