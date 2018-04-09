@@ -1,6 +1,6 @@
 [
   { "date": "2018-08",
-    "title": "Deep Convolutional Priors for Indoor 3D Scene Synthesis",
+    "title": "Deep Convolutional Priors for Indoor Scene Synthesis",
     "authors": ["kaiWang", "manolis", "angel", "danielRitchie"],
     "text": "SIGGRAPH 2018 (conditionally accepted)", 
     "img": "http://msavva.github.io/files/deepsynth.png"
