@@ -10,7 +10,7 @@
     "authors": ["kevinChen", "chrisChoy", "manolis", "angel", "tom", "silvio"],
     "text": "arXiv:1803.08495 [cs.CV]", 
     "pdf": "https://arxiv.org/abs/1803.08495",
-    "img": "http://text2shape.stanford.edu/figures/pull.png",
+    "img": "http://msavva.github.io/files/text2shape.png",
     "web": "http://text2shape.stanford.edu/"
   },
   { "date": "2017-12",
