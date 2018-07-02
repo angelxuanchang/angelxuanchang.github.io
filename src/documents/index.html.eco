@@ -16,8 +16,9 @@ layout: "default"
     <p>
     <h3>News</h3>
     <ul>
-      <li>June 2018 - Invited talk at RSS 2018 workshop on <a href="https://sites.google.com/view/rss2018-robotic-learning/">New Benchmarks, Metrics, and Competitions for Robotic Learning</a></li>
-      <li>May 2018 - Co-organizing ECCV 2018 workshop on <a href="https://eccv18-vlease.github.io/">Visual Learning and Embodied Agents in Simulation Environments</a></li>
+      <li>June 29, 2018 - Invited talk at RSS 2018 workshop on <a href="https://sites.google.com/view/rss2018-robotic-learning/">New Benchmarks, Metrics, and Competitions for Robotic Learning</a>.</li>
+      <li>June 11, 2018 - <a href="http://www.scan-net.org/changelog#scannet-v2-2018-06-11">ScanNet v2</a> release and <a href="http://kaldir.vc.in.tum.de/scannet_benchmark/">ScanNet Benchmark challenge</a> announced.
+      <li>May 2018 - Co-organizing ECCV 2018 workshop on <a href="https://eccv18-vlease.github.io/">Visual Learning and Embodied Agents in Simulation Environments</a>.</li>
     </ul>
     </p>
   </div>
