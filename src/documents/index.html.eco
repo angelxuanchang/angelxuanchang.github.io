@@ -6,13 +6,19 @@ layout: "default"
 <div class="row">
   <h1>Angel Xuan Chang</h1>
   <hr>
-  <div class="col-sm-8 pull-left" style="min-height: 280px; display: flex; align-items: center;">
+  <div class="col-sm-8 pull-left" style="min-height: 280px; display: flex; flex-direction: column;">
     <p>
-      I am a postdoctoral researcher working with <a href="https://www.cs.princeton.edu/~funk/">Tom Funkhouser</a> at <a href="http://www.princeton.edu/">Princeton</a>.  Prior to this, I was a Ph.D. student in <a href="http://cs.stanford.edu/">Computer Science</a> at <a href="http://www.stanford.edu/">Stanford</a>, in the <a href="http://nlp.stanford.edu/">Natural Language Processing Group</a>.
-      My advisor is <a href="http://nlp.stanford.edu/~manning/">Chris Manning</a>.
+      I am a research scientist at <a href="http://eloquent.ai">Eloquent Labs</a> on working on dialogue.  I will be starting at <a href="https://www.sfu.ca/computing.html">Simon Fraser University</a> in Fall 2019 as Assistant Professor.  Prior to this, I was a postdoctoral researcher working with <a href="https://www.cs.princeton.edu/~funk/">Tom Funkhouser</a> at <a href="http://www.princeton.edu/">Princeton</a>.  I received my Ph.D. in <a href="http://cs.stanford.edu/">Computer Science</a> from <a href="http://www.stanford.edu/">Stanford</a>, where I was part of the <a href="http://nlp.stanford.edu/">Natural Language Processing Group</a> advised by <a href="http://nlp.stanford.edu/~manning/">Chris Manning</a>.
       I'm working on <a href="http://nlp.stanford.edu/projects/text2scene.shtml">text to 3D scene generation</a>, and the <a href="http://shapenet.cs.stanford.edu/">ShapeNet</a> project.
       In general, I am interested in the semantics of shapes and scenes, the representation and acquisition of common sense knowledge, and reasoning using probabilistic models.
       Some of my other <a href="http://www.coiraweb.com/poignance/angel">interests</a> include <a href="http://www.coiraweb.com/poignance/angel/art/reflections.html">drawing</a> and <a href="http://www.coiraweb.com/poignance/angel/dance/dance.html">dance</a>.
+    </p>
+    <p>
+    <h3>News</h3>
+    <ul>
+      <li>June 2018 - Invited talk at RSS 2018 workshop on <a href="https://sites.google.com/view/rss2018-robotic-learning/">New Benchmarks, Metrics, and Competitions for Robotic Learning</a></li>
+      <li>May 2018 - Co-organizing ECCV 2018 workshop on <a href="https://eccv18-vlease.github.io/">Visual Learning and Embodied Agents in Simulation Environments</a></li>
+    </ul>
     </p>
   </div>
   <div class="col-sm-4 text-right pull-right">
