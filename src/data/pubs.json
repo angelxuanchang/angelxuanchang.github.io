@@ -2,8 +2,9 @@
   { "date": "2018-08",
     "title": "Deep Convolutional Priors for Indoor Scene Synthesis",
     "authors": ["kaiWang", "manolis", "angel", "danielRitchie"],
-    "text": "SIGGRAPH 2018 (conditionally accepted)", 
-    "img": "http://msavva.github.io/files/deepsynth.png"
+    "text": "SIGGRAPH 2018", 
+    "img": "http://msavva.github.io/files/deepsynth.png",
+    "code": "https://github.com/brownvc/deep-synth"
   },
   { "date": "2018-03",
     "title": "Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings",
@@ -24,7 +25,7 @@
   { "date": "2017-12",
     "title": "Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View",
     "authors": ["shuran", "andy", "angel", "manolis", "silvio", "tom"],
-    "text": "arXiv:1712.04569 [cs.CV]", 
+    "text": "Proceedings of CVPR 2018, arXiv:1712.04569 [cs.CV]", 
     "pdf": "https://arxiv.org/abs/1712.04569",
     "img": "http://im2pano3d.cs.princeton.edu/teaser.jpg",
     "web": "http://im2pano3d.cs.princeton.edu/"
