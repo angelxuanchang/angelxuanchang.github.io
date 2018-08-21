@@ -12,7 +12,8 @@
     "text": "arXiv:1803.08495 [cs.CV]", 
     "pdf": "https://arxiv.org/abs/1803.08495",
     "img": "http://msavva.github.io/files/text2shape.png",
-    "web": "http://text2shape.stanford.edu/"
+    "web": "http://text2shape.stanford.edu/",
+    "code": "https://github.com/kchen92/text2shape/"
   },
   { "date": "2017-12",
     "title": "MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments",
@@ -20,7 +21,8 @@
     "text": "arXiv:1712.03931 [cs.LG]", 
     "pdf": "https://arxiv.org/abs/1712.03931",
     "img": "https://github.com/minosworld/minos/raw/master/docs/img/video_thumbnail.png",
-    "web": "https://www.minosworld.org/"
+    "web": "https://www.minosworld.org/",
+    "code": "https://github.com/minosworld/minos"
   },
   { "date": "2017-12",
     "title": "Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View",
