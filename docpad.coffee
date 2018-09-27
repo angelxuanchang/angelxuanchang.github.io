@@ -17,6 +17,7 @@ docpadConfig = {
         "/scripts/bootstrap.min.js"
         "/scripts/script.js"
       ]
+    news: JSON.parse(fs.readFileSync("src/data/news.json"))
     pubs: JSON.parse(fs.readFileSync("src/data/pubs.json"))
     people: JSON.parse(fs.readFileSync("src/data/people.json"))
     getPreparedTitle: ->
