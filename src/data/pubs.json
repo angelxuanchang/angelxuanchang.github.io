@@ -1,15 +1,34 @@
 [
+  { "date": "2018-12",
+    "title": "PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding ",
+    "authors": ["kaichun", "shilin", "angel", "eric", "subarnaTripathi", "leo", "hao"],
+    "text": "arXiv:1812.02713 [cs.CV]", 
+    "img": "https://cs.stanford.edu/~kaichun/partnet/images/teaser.png",
+    "pdf": "https://arxiv.org/abs/1812.02713",
+    "web": "https://cs.stanford.edu/~kaichun/partnet/",
+    "video": "https://youtu.be/7pEuoxmb-MI"
+  },
+  { "date": "2018-11",
+    "title": "Scan2CAD: Learning CAD Model Alignment in RGB-D Scans",
+    "authors": ["armenAvetisyan", "manuelDahnert", "angie", "manolis", "angel", "matthias"],
+    "text": "arXiv:1811.11187 [cs.CV]", 
+    "img": "https://niessnerlab.org/papers/2018/z3scan2cad/teaser.jpg",
+    "pdf": "https://arxiv.org/pdf/1811.11187.pdf",
+    "web": "https://niessnerlab.org/projects/avetisyan2018scan2cad.html",
+    "video": "http://www.youtube.com/watch?v=PiHSYpgLTfA"
+  },
   { "date": "2018-08",
     "title": "Deep Convolutional Priors for Indoor Scene Synthesis",
     "authors": ["kaiWang", "manolis", "angel", "danielRitchie"],
     "text": "SIGGRAPH 2018", 
     "img": "http://msavva.github.io/files/deepsynth.png",
+    "pdf": "https://dritchie.github.io/pdf/deepsynth.pdf",
     "code": "https://github.com/brownvc/deep-synth"
   },
   { "date": "2018-03",
     "title": "Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings",
     "authors": ["kevinChen", "chrisChoy", "manolis", "angel", "tom", "silvio"],
-    "text": "arXiv:1803.08495 [cs.CV]", 
+    "text": "Proceedings of ACCV 2018, arXiv:1803.08495 [cs.CV]", 
     "pdf": "https://arxiv.org/abs/1803.08495",
     "img": "http://msavva.github.io/files/text2shape.png",
     "web": "http://text2shape.stanford.edu/",
@@ -22,7 +41,8 @@
     "pdf": "https://arxiv.org/abs/1712.03931",
     "img": "https://github.com/minosworld/minos/raw/master/docs/img/video_thumbnail.png",
     "web": "https://www.minosworld.org/",
-    "code": "https://github.com/minosworld/minos"
+    "code": "https://github.com/minosworld/minos",
+    "video": "https://youtu.be/c0mL9K64q84"
   },
   { "date": "2017-12",
     "title": "Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View",
@@ -73,7 +93,8 @@
     "img": "http://www.scan-net.org/img/annotations.png",
     "pdf": "https://arxiv.org/pdf/1702.04405.pdf",
     "web": "http://www.scan-net.org/",
-    "code": "https://github.com/ScanNet/ScanNet"
+    "code": "https://github.com/ScanNet/ScanNet",
+    "video": "http://www.youtube.com/watch?v=Olx4OnoZWQQ"
   },
   {
     "date": "2016-11",

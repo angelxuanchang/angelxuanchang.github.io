@@ -61,7 +61,7 @@
   },
   "eric": {
     "name": "Li Yi",
-    "web": "http://geometry.stanford.edu/person.php?id=ericyi"
+    "web": "https://cs.stanford.edu/~ericyi/"
   },
   "qixing": {
     "name": "Qixing Huang",
@@ -234,6 +234,26 @@
   "danielRitchie": {
     "name": "Daniel Ritchie",
     "web": "https://dritchie.github.io/"
+  },
+  "armenAvetisyan": {
+    "name": "Armen Avetisyan",
+    "web": "https://niessnerlab.org/members/armen_avetisyan/profile.html"
+  },
+  "manuelDahnert": {
+    "name": "Manuel Dahnert",
+    "web": "https://niessnerlab.org/members/manuel_dahnert/profile.html"
+  },
+  "kaichun": {
+    "name": "Kaichun Mo",
+    "web": "https://cs.stanford.edu/~kaichun"
+  },
+  "shilin": {
+    "name": "Shilin Zhu",
+    "web": "http://cseweb.ucsd.edu/~shz338/"
+  },
+  "subarnaTripathi": {
+    "name": "Subarna Tripathi",
+    "web": "http://acsweb.ucsd.edu/~stripath/"
   },
   "kaiWang": {
     "name": "Kai Wang"
