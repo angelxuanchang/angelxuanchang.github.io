@@ -27,6 +27,12 @@ layout: "default"
     <div style="font-family:monospace;">
       angelx-{at}-cs-[dot]-stanford-"dot"-edu
     </div><br>
+    Research Scientist<br/>
+    <a href="http://eloquent.ai">Eloquent Labs</a><br/><br/>
+    Assistant Professor (starting Fall 2019)<br/>
+    School of Computing Science<br/>
+    <a href="https://www.sfu.ca/computing.html">Simon Fraser University</a><br/>
+    Canada CIFAR AI Chair<br/>
     <a href="https://scholar.google.com/citations?user=8gfs8XIAAAAJ&hl=en">Google Scholar</a>
   </div>
 </div>
@@ -62,7 +68,7 @@ layout: "default"
               <%- p.text %><br>
               <a href="<%= p.pdf %>">pdf</a> 
               <% for k,v of p: %>
-              <% if k != 'web' and k != 'title' and k != 'authors' and k != 'img' and k != 'date' and k != 'text' and k != 'pdf': %> | <a href="<%= v %>"><%= k %></a> <% end %>
+              <% if ['web','title','authors','img','date','text','pdf','tags'].indexOf(k) < 0: %> | <a href="<%= v %>"><%= k %></a> <% end %>
               <% end %>
               <% if p.web: %> | <a href="<%= p.web %>">webpage</a> <% end %>
             </div>

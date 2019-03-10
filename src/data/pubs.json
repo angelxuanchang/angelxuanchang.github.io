@@ -2,20 +2,22 @@
   { "date": "2018-12",
     "title": "PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding ",
     "authors": ["kaichun", "shilin", "angel", "eric", "subarnaTripathi", "leo", "hao"],
-    "text": "arXiv:1812.02713 [cs.CV]", 
+    "text": "Accepted to CVPR 2019, arXiv:1812.02713 [cs.CV]", 
     "img": "https://cs.stanford.edu/~kaichun/partnet/images/teaser.png",
     "pdf": "https://arxiv.org/abs/1812.02713",
     "web": "https://cs.stanford.edu/~kaichun/partnet/",
-    "video": "https://youtu.be/7pEuoxmb-MI"
+    "video": "https://youtu.be/7pEuoxmb-MI",
+    "tags": ["3d", "shape"]
   },
   { "date": "2018-11",
     "title": "Scan2CAD: Learning CAD Model Alignment in RGB-D Scans",
     "authors": ["armenAvetisyan", "manuelDahnert", "angie", "manolis", "angel", "matthias"],
-    "text": "arXiv:1811.11187 [cs.CV]", 
+    "text": "Accepted to CVPR 2019, arXiv:1811.11187 [cs.CV]", 
     "img": "https://niessnerlab.org/papers/2018/z3scan2cad/teaser.jpg",
     "pdf": "https://arxiv.org/pdf/1811.11187.pdf",
     "web": "https://niessnerlab.org/projects/avetisyan2018scan2cad.html",
-    "video": "http://www.youtube.com/watch?v=PiHSYpgLTfA"
+    "video": "http://www.youtube.com/watch?v=PiHSYpgLTfA",
+    "tags": ["3d", "scene", "scans"]
   },
   { "date": "2018-08",
     "title": "Deep Convolutional Priors for Indoor Scene Synthesis",
@@ -23,7 +25,8 @@
     "text": "SIGGRAPH 2018", 
     "img": "http://msavva.github.io/files/deepsynth.png",
     "pdf": "https://dritchie.github.io/pdf/deepsynth.pdf",
-    "code": "https://github.com/brownvc/deep-synth"
+    "code": "https://github.com/brownvc/deep-synth",
+    "tags": ["scene", "synthesis"]
   },
   { "date": "2018-03",
     "title": "Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings",
@@ -32,7 +35,8 @@
     "pdf": "https://arxiv.org/abs/1803.08495",
     "img": "http://msavva.github.io/files/text2shape.png",
     "web": "http://text2shape.stanford.edu/",
-    "code": "https://github.com/kchen92/text2shape/"
+    "code": "https://github.com/kchen92/text2shape/",
+    "tags": ["shape", "synthesis"]
   },
   { "date": "2017-12",
     "title": "MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments",
@@ -42,7 +46,8 @@
     "img": "https://github.com/minosworld/minos/raw/master/docs/img/video_thumbnail.png",
     "web": "https://www.minosworld.org/",
     "code": "https://github.com/minosworld/minos",
-    "video": "https://youtu.be/c0mL9K64q84"
+    "video": "https://youtu.be/c0mL9K64q84",
+    "tags": ["navigation"]
   },
   { "date": "2017-12",
     "title": "Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View",
@@ -50,7 +55,8 @@
     "text": "Proceedings of CVPR 2018, arXiv:1712.04569 [cs.CV]", 
     "pdf": "https://arxiv.org/abs/1712.04569",
     "img": "http://im2pano3d.cs.princeton.edu/teaser.jpg",
-    "web": "http://im2pano3d.cs.princeton.edu/"
+    "web": "http://im2pano3d.cs.princeton.edu/",
+    "tags": ["vision"]
   },
   {
     "date": "2017-11",
@@ -58,7 +64,8 @@
     "authors": ["angel", "rishi", "pranav", "manolis", "christiane"],
     "text": "Proceedings of Global WordNet Conference 2018",
     "pdf": "http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_66.pdf",
-    "img": "files/wordnetLink.png"
+    "img": "files/wordnetLink.png",
+    "tags": ["shape"]
   },
   {
     "date": "2017-10",
@@ -155,7 +162,8 @@
     "title": "Evaluating the word-expert approach for Named-Entity Disambiguation",
     "authors": ["angel", "val", "chrisman", "eneko"],
     "text": "arXiv:1603.04767 [cs.CL], March 2016",
-    "pdf": "http://arxiv.org/pdf/1603.04767v1"
+    "pdf": "http://arxiv.org/pdf/1603.04767v1",
+    "tags": ["nlp"]
   },
   {
     "date": "2015-12",
@@ -163,7 +171,8 @@
     "authors": ["angel"],
     "text": "Ph.D. dissertation, Department of Computer Science, Stanford University, 2015",
     "img": "files/text2scene.png",
-    "pdf": "https://purl.stanford.edu/vg064sy5087"
+    "pdf": "https://purl.stanford.edu/vg064sy5087",
+    "tags": ["text2scene"]
   },
   {
     "date": "2015-12",
@@ -184,7 +193,8 @@
     "pdf": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.pdf",
     "bib": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.bib",
     "web": "http://nlp.stanford.edu/software/scenegraph-parser.shtml",
-    "img": "files/twomen.png"
+    "img": "files/twomen.png",
+    "tags": ["nlp"]
   },
   {
     "date": "2015-07",
@@ -194,7 +204,8 @@
     "img": "files/semgeo.png",
     "pdf": "http://graphics.stanford.edu/projects/semgeo/semgeo.pdf",
     "bib": "http://graphics.stanford.edu/projects/semgeo/semgeo.bib",
-    "web": "http://graphics.stanford.edu/projects/semgeo/"
+    "web": "http://graphics.stanford.edu/projects/semgeo/",
+    "tags": ["common-sense"]
   },
   {
     "date": "2015-06",
@@ -204,7 +215,8 @@
     "img": "files/lexground.png",
     "pdf": "http://nlp.stanford.edu/pubs/chang-acl2015-lexground.pdf",
     "bib": "http://nlp.stanford.edu/pubs/chang-acl2015-lexground.bib",
-    "web": "http://nlp.stanford.edu/data/text2scene.shtml"
+    "web": "http://nlp.stanford.edu/data/text2scene.shtml",
+    "tags": ["spatial", "text2scene"]
   },
   {
     "date": "2014-12",
@@ -214,7 +226,8 @@
     "img": "files/scenegrok.png",
     "pdf": "http://graphics.stanford.edu/projects/scenegrok/scenegrok.pdf",
     "bib": "http://graphics.stanford.edu/projects/scenegrok/scenegrok.bib",
-    "web": "http://graphics.stanford.edu/projects/scenegrok/"
+    "web": "http://graphics.stanford.edu/projects/scenegrok/",
+    "tags": ["actionmap"]
   },
   {
     "date": "2014-12",
@@ -224,7 +237,8 @@
     "img": "files/sizes.png",
     "pdf": "http://graphics.stanford.edu/projects/sizes/sizes.pdf",
     "bib": "http://graphics.stanford.edu/projects/sizes/sizes.bib",
-    "web": "http://graphics.stanford.edu/projects/sizes/"
+    "web": "http://graphics.stanford.edu/projects/sizes/",
+    "tags": ["common-sense"]
   },
   {
     "date": "2014-10",
@@ -234,7 +248,8 @@
     "img": "files/spatialLearning.png",
     "pdf": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.pdf",
     "bib": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.bib",
-    "web": "http://nlp.stanford.edu/projects/text2scene.shtml"
+    "web": "http://nlp.stanford.edu/projects/text2scene.shtml",
+    "tags": ["spatial", "text2scene"]
   },
   {
     "date": "2014-07",
@@ -253,7 +268,8 @@
     "img": "files/interactiveLearning.png",
     "pdf": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.pdf",
     "bib": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.bib",
-    "web": "http://nlp.stanford.edu/projects/text2scene.shtml"
+    "web": "http://nlp.stanford.edu/projects/text2scene.shtml",
+    "tags": ["spatial", "text2scene"]
   },
   {
     "date": "2014-06",
@@ -263,7 +279,8 @@
     "img": "files/semanticParsing.png",
     "pdf": "http://nlp.stanford.edu/pubs/scenegen-sp2014.pdf",
     "bib": "http://nlp.stanford.edu/pubs/scenegen-sp2014.bib",
-    "web": "http://nlp.stanford.edu/projects/text2scene.shtml"
+    "web": "http://nlp.stanford.edu/projects/text2scene.shtml",
+    "tags": ["text2scene"]
   },
   {
     "date": "2014-05",
@@ -273,7 +290,8 @@
     "img": "files/transphoner.png",
     "pdf": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.pdf",
     "bib": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.bib",
-    "web": "http://graphics.stanford.edu/projects/transphoner/"
+    "web": "http://graphics.stanford.edu/projects/transphoner/",
+    "tags": ["hci"]
   },
   {
     "date": "2014-04",
@@ -282,7 +300,8 @@
     "text": "Stanford University Technical Report",
     "pdf": "http://nlp.stanford.edu/pubs/tokensregex-tr-2014.pdf",
     "bib": "http://nlp.stanford.edu/pubs/tokensregex-tr-2014.bib",
-    "web": "http://nlp.stanford.edu/software/tokensregex.shtml"
+    "web": "http://nlp.stanford.edu/software/tokensregex.shtml",
+    "tags": ["nlp"]
   },
   {
     "date": "2013-12",
@@ -291,21 +310,24 @@
     "text": "In Computational Linguistics 39(4)",
     "img": "files/corefSieves.png",
     "pdf": "http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00152",
-    "web": "http://nlp.stanford.edu/software/dcoref.shtml"
+    "web": "http://nlp.stanford.edu/software/dcoref.shtml",
+    "tags": ["nlp"]
   },
   {
     "date": "2013-11",
     "title": "Stanford's 2013 KBP System",
     "authors": ["gabor", "arun", "angel", "kevinReschke", "julie", "jean", "osbert", "keithSiilats", "chrisman"],
     "text": "In Proceedings of the Sixth Text Analysis Conference (TAC 2014)",
-    "pdf": "http://stanford.edu/~angeli/papers/2014-tac-kbp.pdf"
+    "pdf": "http://stanford.edu/~angeli/papers/2014-tac-kbp.pdf",
+    "tags": ["nlp"]
   },
   {
     "date": "2013-07",
     "title": "SUTime: Evaluation in TempEval-3",
     "authors": ["angel", "chrisman"],
     "text": "In Second Joint Conference on Lexical and Computational Semantics (*SEM), Volume 2: Proceedings of the Seventh International Workshop on Semantic Evaluation (SemEval 2013)",
-    "pdf": "http://aclweb.org/anthology/S/S13/S13-2013.pdf"
+    "pdf": "http://aclweb.org/anthology/S/S13/S13-2013.pdf",
+    "tags": ["nlp"]
   },
   {
     "date": "2012-07",
@@ -313,7 +335,8 @@
     "authors": ["heeyoung", "marta", "angel", "mihai", "danj"],
     "text": "Proceedings of the Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL 2012)",
     "pdf": "http://nlp.stanford.edu/pubs/emnlp2012-coref.pdf",
-    "bib": "http://nlp.stanford.edu/pubs/emnlp2012-coref.bib"
+    "bib": "http://nlp.stanford.edu/pubs/emnlp2012-coref.bib",
+    "tags": ["nlp"]
   },
   {
     "date": "2012-05",
@@ -325,7 +348,8 @@
     "bib": "http://nlp.stanford.edu/pubs/lrec2012-sutime.bib",
     "poster": "http://nlp.stanford.edu/pubs/lrec2012-sutime-poster.pdf",
     "web": "http://nlp.stanford.edu/software/sutime.shtml",
-    "demo": "http://nlp.stanford.edu:8080/sutime"
+    "demo": "http://nlp.stanford.edu:8080/sutime",
+    "tags": ["nlp"]
   },
   {
     "date": "2012-05",
@@ -336,7 +360,8 @@
     "bib": "http://nlp.stanford.edu/pubs/crosswikis.bib",
     "slides": "http://nlp.stanford.edu/pubs/crosswikis-slides.pdf",
     "post": "https://plus.google.com/117790530324740296539/posts/VSjc4KYpug2",
-    "data": "http://nlp.stanford.edu/pubs/crosswikis-data.tar.bz2"
+    "data": "http://nlp.stanford.edu/pubs/crosswikis-data.tar.bz2",
+    "tags": ["nlp"]
   },
   {
     "date": "2011-11",
@@ -345,7 +370,8 @@
     "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
     "pdf": "http://nlp.stanford.edu/pubs/kbp2011-slotfilling.pdf",
     "bib": "http://nlp.stanford.edu/pubs/kbp2011-slotfilling.bib",
-    "data": "http://nlp.stanford.edu/pubs/kbp_trigger_words.txt"
+    "data": "http://nlp.stanford.edu/pubs/kbp_trigger_words.txt",
+    "tags": ["nlp"]
   },
   {
     "date": "2011-11",
@@ -353,7 +379,8 @@
     "authors": ["val", "angel"],
     "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
     "pdf": "http://nlp.stanford.edu/pubs/kbp2011-crosslinking.pdf",
-    "bib": "http://nlp.stanford.edu/pubs/kbp2011-crosslinking.bib"
+    "bib": "http://nlp.stanford.edu/pubs/kbp2011-crosslinking.bib",
+    "tags": ["nlp"]
   },
   {
     "date": "2011-11",
@@ -361,7 +388,8 @@
     "authors": ["angel", "val", "eneko", "chrisman"],
     "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
     "pdf": "http://nlp.stanford.edu/pubs/kbp2011-entitylinking.pdf",
-    "bib": "http://nlp.stanford.edu/pubs/kbp2011-entitylinking.bib"
+    "bib": "http://nlp.stanford.edu/pubs/kbp2011-entitylinking.bib",
+    "tags": ["nlp"]
   },
   {
     "date": "2011-07",
@@ -371,7 +399,8 @@
     "pdf": "http://nlp.stanford.edu/pubs/goldtags.pdf",
     "bib": "http://nlp.stanford.edu/pubs/goldtags.bib",
     "poster": "http://nlp.stanford.edu/pubs/goldtags-poster.pdf",
-    "data": "http://nlp.stanford.edu/pubs/goldtags-data.tar.bz2"
+    "data": "http://nlp.stanford.edu/pubs/goldtags-data.tar.bz2",
+    "tags": ["nlp"]
   },
   {
     "date": "2011-06",
@@ -380,7 +409,8 @@
     "text": "In Proceedings of the CoNLL-2011 Shared Task",
     "pdf": "http://nlp.stanford.edu/pubs/conllst2011-coref.pdf",
     "bib": "http://nlp.stanford.edu/pubs/conllst2011-coref.bib",
-    "web": "http://nlp.stanford.edu/software/dcoref.shtml"
+    "web": "http://nlp.stanford.edu/software/dcoref.shtml",
+    "tags": ["nlp"]
   },
   {
     "date": "2010-11",
@@ -389,7 +419,8 @@
     "text": "In Proceedings of the Third Text Analysis Conference (TAC 2010)",
     "pdf": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling.pdf",
     "bib": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling.bib",
-    "slides": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling-slides.pptx"
+    "slides": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling-slides.pptx",
+    "tags": ["nlp"]
   },
   {
     "date": "2010-11",
@@ -398,7 +429,8 @@
     "text": "In Proceedings of the Third Text Analysis Conference (TAC 2010)",
     "pdf": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking.pdf",
     "bib": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking.bib",
-    "poster": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking-poster.pdf"
+    "poster": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking-poster.pdf",
+    "tags": ["nlp"]
   },
   {
     "date": "2009-11",
@@ -407,7 +439,8 @@
     "text": "In Proceedings of the Second Text Analysis Conference (TAC 2009)",
     "pdf": "http://nlp.stanford.edu/pubs/subctackbp.pdf",
     "bib": "http://nlp.stanford.edu/pubs/subctackbp.bib",
-    "slides": "http://nlp.stanford.edu/pubs/subctackbp-slides.pdf"
+    "slides": "http://nlp.stanford.edu/pubs/subctackbp-slides.pdf",
+    "tags": ["nlp"]
   },
   {
     "date": "2000-01",
@@ -416,6 +449,7 @@
     "text": "In Journal of Recreational Mathematics 30 (1), 9-22",
     "img": "files/dragonCurve.png",
     "pdf": "pubs/dragonbound.pdf",
-    "bib": "pubs/dragonbound.bib"
+    "bib": "pubs/dragonbound.bib",
+    "tags": ["misc"]
   }
 ]
