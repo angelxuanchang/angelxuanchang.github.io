@@ -1,5 +1,21 @@
 [
 {
+    "date": "March, 2019",
+    "description": "<a href='https://cs.stanford.edu/~kaichun/partnet/'>PartNet prerelease v0</a> is now available!"
+},
+{
+    "date": "March, 2019",
+    "description": "Two upcoming workshops at CVPR 2019: <a href='https://3dscenegen.github.io/'>3D Scene Generation workshop</a> and <a href='http://www.scan-net.org/cvpr2019workshop/'>Scannet Indoor Scene Understanding workshop</a>"
+},
+{
+    "date": "March, 2019",
+    "description": "Three papers accepted at CVPR 2019"
+},
+{
+    "date": "Dec 3, 2018",
+    "description": "I'm honored to be named to <a href='https://www.cifar.ca/cifarnews/2018/12/03/29-researchers-named-to-first-cohort-of-canada-cifar-artificial-intelligence-chairs'>the first cohort of CIFAR AI Chairs</a>."
+},
+{
     "date": "Sept 9, 2018",
     "description": "<a href='https://eccv18-vlease.github.io/'>Visual Learning and Embodied Agents in Simulation Environments</a> at <a href='https://eccv2018.org/'>ECCV 2018</a>."
 },

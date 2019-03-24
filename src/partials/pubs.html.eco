@@ -1,0 +1,27 @@
+        <% for p in @pubs: %>
+          <div class="row paper vertical-center" id="<%= p.id %>" data-maintags="<%= p.venue %>">
+            <div class="col-sm-3 paper-img">
+            <% if p.img: %>
+              <a href="<%= p.web || p.pdf %>"><img src="<%= p.img %>" alt="<%= p.title %>" class="img-responsive" style="width: 300px;"/></a>
+              &nbsp;
+            <% end %>
+            </div>
+            <div class="col-sm-9">
+              <h4 class="red">
+                <% if p.web: %><a href="<%= p.web %>"><% end %>
+                <%= p.title %>
+                <% if p.web: %></a><% end %>
+              </h4>
+              <% for a in p.authors when @people[a]: %>
+                <% if @people[a].special: %><b><% end %>
+                <% if @people[a].web: %><a href="<%= @people[a].web %>"><%= @people[a].name %></a><% else: %><%= @people[a].name %><% end %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %><% if @people[a].special: %></b><% end %>
+              <% end %>
+              <%- p.text %><br>
+              <a href="<%= p.pdf %>">pdf</a> 
+              <% for k,v of p: %>
+              <% if ['id','web','title','authors','img','date','text','pdf','tags','venue'].indexOf(k) < 0: %> | <a href="<%= v %>"><%= k %></a> <% end %>
+              <% end %>
+              <% if p.web: %> | <a href="<%= p.web %>">webpage</a> <% end %>
+            </div>
+          </div>
+        <% end %>

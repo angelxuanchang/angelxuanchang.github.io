@@ -1,347 +1,689 @@
 [
-  { "date": "2018-12",
-    "title": "PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding ",
-    "authors": ["kaichun", "shilin", "angel", "eric", "subarnaTripathi", "leo", "hao"],
-    "text": "Accepted to CVPR 2019, arXiv:1812.02713 [cs.CV]", 
+  {
+    "date": "2019-03",
+    "title": "Hierarchy Denoising Recursive Autoencoders for 3D Scene Layout Prediction",
+    "authors": [
+      "yifeiShi",
+      "angel",
+      "zelunWu",
+      "manolis",
+      "kaiXu"
+    ],
+    "text": "Accepted to CVPR 2019, arXiv:1903.03757 [cs.CV]",
+    "img": "http://www.yifeishi.net/files/hierarchylayout1.JPG",
+    "pdf": "https://arxiv.org/pdf/1903.03757",
+    "web": "http://www.yifeishi.net/hierarchylayout.html",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "scene"
+    ]
+  },
+  {
+    "date": "2018-12",
+    "title": "PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding",
+    "authors": [
+      "kaichun",
+      "shilin",
+      "angel",
+      "eric",
+      "subarnaTripathi",
+      "leo",
+      "hao"
+    ],
+    "text": "Accepted to CVPR 2019, arXiv:1812.02713 [cs.CV]",
     "img": "https://cs.stanford.edu/~kaichun/partnet/images/teaser.png",
     "pdf": "https://arxiv.org/abs/1812.02713",
     "web": "https://cs.stanford.edu/~kaichun/partnet/",
     "video": "https://youtu.be/7pEuoxmb-MI",
-    "tags": ["3d", "shape"]
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "shape",
+      "parts",
+      "dataset"
+    ]
   },
-  { "date": "2018-11",
+  {
+    "date": "2018-11",
     "title": "Scan2CAD: Learning CAD Model Alignment in RGB-D Scans",
-    "authors": ["armenAvetisyan", "manuelDahnert", "angie", "manolis", "angel", "matthias"],
-    "text": "Accepted to CVPR 2019, arXiv:1811.11187 [cs.CV]", 
+    "authors": [
+      "armenAvetisyan",
+      "manuelDahnert",
+      "angie",
+      "manolis",
+      "angel",
+      "matthias"
+    ],
+    "text": "Accepted to CVPR 2019, arXiv:1811.11187 [cs.CV]",
     "img": "https://niessnerlab.org/papers/2018/z3scan2cad/teaser.jpg",
     "pdf": "https://arxiv.org/pdf/1811.11187.pdf",
     "web": "https://niessnerlab.org/projects/avetisyan2018scan2cad.html",
     "video": "http://www.youtube.com/watch?v=PiHSYpgLTfA",
-    "tags": ["3d", "scene", "scans"]
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "scene",
+      "scans",
+      "dataset"
+    ]
   },
-  { "date": "2018-08",
+  {
+    "date": "2018-08",
     "title": "Deep Convolutional Priors for Indoor Scene Synthesis",
-    "authors": ["kaiWang", "manolis", "angel", "danielRitchie"],
-    "text": "SIGGRAPH 2018", 
+    "authors": [
+      "kaiWang",
+      "manolis",
+      "angel",
+      "danielRitchie"
+    ],
+    "text": "SIGGRAPH 2018",
     "img": "http://msavva.github.io/files/deepsynth.png",
     "pdf": "https://dritchie.github.io/pdf/deepsynth.pdf",
     "code": "https://github.com/brownvc/deep-synth",
-    "tags": ["scene", "synthesis"]
+    "venue": ["graphics", "conference"],
+    "tags": [
+      "scene",
+      "synthesis"
+    ]
   },
-  { "date": "2018-03",
+  {
+    "date": "2018-03",
     "title": "Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings",
-    "authors": ["kevinChen", "chrisChoy", "manolis", "angel", "tom", "silvio"],
-    "text": "Proceedings of ACCV 2018, arXiv:1803.08495 [cs.CV]", 
+    "authors": [
+      "kevinChen",
+      "chrisChoy",
+      "manolis",
+      "angel",
+      "tom",
+      "silvio"
+    ],
+    "text": "Proceedings of ACCV 2018, arXiv:1803.08495 [cs.CV]",
     "pdf": "https://arxiv.org/abs/1803.08495",
     "img": "http://msavva.github.io/files/text2shape.png",
     "web": "http://text2shape.stanford.edu/",
     "code": "https://github.com/kchen92/text2shape/",
-    "tags": ["shape", "synthesis"]
+    "venue": ["vision", "conference"],
+    "tags": [
+      "shape",
+      "synthesis"
+    ]
   },
-  { "date": "2017-12",
+  {
+    "date": "2017-12",
     "title": "MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments",
-    "authors": ["manolis", "angel", "alexey", "tom", "vladlen"],
-    "text": "arXiv:1712.03931 [cs.LG]", 
+    "authors": [
+      "manolis",
+      "angel",
+      "alexey",
+      "tom",
+      "vladlen"
+    ],
+    "text": "arXiv:1712.03931 [cs.LG]",
     "pdf": "https://arxiv.org/abs/1712.03931",
     "img": "https://github.com/minosworld/minos/raw/master/docs/img/video_thumbnail.png",
     "web": "https://www.minosworld.org/",
     "code": "https://github.com/minosworld/minos",
     "video": "https://youtu.be/c0mL9K64q84",
-    "tags": ["navigation"]
+    "venue": ["robotics", "preprint"],
+    "tags": [
+      "navigation"
+    ]
   },
-  { "date": "2017-12",
+  {
+    "date": "2017-12",
     "title": "Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View",
-    "authors": ["shuran", "andy", "angel", "manolis", "silvio", "tom"],
-    "text": "Proceedings of CVPR 2018, arXiv:1712.04569 [cs.CV]", 
+    "authors": [
+      "shuran",
+      "andy",
+      "angel",
+      "manolis",
+      "silvio",
+      "tom"
+    ],
+    "text": "Proceedings of CVPR 2018, arXiv:1712.04569 [cs.CV]",
     "pdf": "https://arxiv.org/abs/1712.04569",
     "img": "http://im2pano3d.cs.princeton.edu/teaser.jpg",
     "web": "http://im2pano3d.cs.princeton.edu/",
-    "tags": ["vision"]
+    "venue": ["vision", "conference"],
+    "tags": [
+      "vision",
+      "panorama"
+    ]
   },
   {
     "date": "2017-11",
     "title": "Linking WordNet to 3D Shapes",
-    "authors": ["angel", "rishi", "pranav", "manolis", "christiane"],
+    "authors": [
+      "angel",
+      "rishi",
+      "pranav",
+      "manolis",
+      "christiane"
+    ],
     "text": "Proceedings of Global WordNet Conference 2018",
     "pdf": "http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_66.pdf",
     "img": "files/wordnetLink.png",
-    "tags": ["shape"]
+    "venue": ["nlp", "resources"],
+    "tags": [
+      "shape"
+    ]
   },
   {
     "date": "2017-10",
     "title": "Cross-modal Attribute Transfer for Rescaling 3D Models",
-    "authors": ["lin", "angel", "hao", "manolis", "leo"],
+    "authors": [
+      "lin",
+      "angel",
+      "hao",
+      "manolis",
+      "leo"
+    ],
     "text": "Proceedings of 3DV 2017",
     "pdf": "http://cseweb.ucsd.edu/~haosu/papers/3dv2017_attribute_transfer.pdf",
-    "img": "http://msavva.github.io/files/attributeTransfer.png"
+    "img": "http://msavva.github.io/files/attributeTransfer.png",
+    "venue": ["vision", "conference"]
   },
   {
     "date": "2017-10",
     "title": "Matterport3D: Learning from RGB-D Data in Indoor Environments",
-    "authors": ["angel", "angie", "tom", "maciej", "matthias", "manolis", "shuran", "andy", "yinda"],
+    "authors": [
+      "angel",
+      "angie",
+      "tom",
+      "maciej",
+      "matthias",
+      "manolis",
+      "shuran",
+      "andy",
+      "yinda"
+    ],
     "text": "Proceedings of 3DV 2017, arXiv:1709.06158 [cs.CV]",
     "pdf": "https://arxiv.org/pdf/1709.06158.pdf",
     "img": "http://msavva.github.io/files/matterport3d.png",
-    "web": "https://niessner.github.io/Matterport/"
+    "web": "https://niessner.github.io/Matterport/",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "scans",
+      "dataset"
+    ]
   },
   {
     "date": "2017-04",
     "title": "Learning Where to Look: Data-Driven Viewpoint Set Selection for 3D Scenes",
-    "authors": ["kyle", "manolis", "angel", "tom"],
+    "authors": [
+      "kyle",
+      "manolis",
+      "angel",
+      "tom"
+    ],
     "text": "arXiv:1704.02393 [cs.CV]",
     "pdf": "https://arxiv.org/pdf/1704.02393.pdf",
-    "img": "http://msavva.github.io/files/viewsets.png"
+    "img": "http://msavva.github.io/files/viewsets.png",
+    "venue": ["vision", "preprint"]
   },
   {
     "date": "2017-02",
     "title": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes",
-    "authors": ["angie", "angel", "manolis", "maciej", "tom", "matthias"],
+    "authors": [
+      "angie",
+      "angel",
+      "manolis",
+      "maciej",
+      "tom",
+      "matthias"
+    ],
     "text": "Proceedings of CVPR 2017, arXiv:1702.04405 [cs.CV]",
     "img": "http://www.scan-net.org/img/annotations.png",
     "pdf": "https://arxiv.org/pdf/1702.04405.pdf",
     "web": "http://www.scan-net.org/",
     "code": "https://github.com/ScanNet/ScanNet",
-    "video": "http://www.youtube.com/watch?v=Olx4OnoZWQQ"
+    "video": "http://www.youtube.com/watch?v=Olx4OnoZWQQ",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "scans",
+      "dataset"
+    ]
   },
   {
     "date": "2016-11",
     "title": "Semantic Scene Completion from a Single Depth Image",
-    "authors": ["shuran", "fisher", "andy", "angel", "manolis", "tom"],
+    "authors": [
+      "shuran",
+      "fisher",
+      "andy",
+      "angel",
+      "manolis",
+      "tom"
+    ],
     "text": "Proceedings of CVPR 2017, arXiv:1611.08974 [cs.CV]",
     "img": "http://vision.princeton.edu/projects/2016/SSCNet/thumbnail.jpg",
     "pdf": "https://arxiv.org/pdf/1611.08974v1.pdf",
-    "web": "http://vision.princeton.edu/projects/2016/SSCNet/"
+    "web": "http://vision.princeton.edu/projects/2016/SSCNet/",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "scene",
+      "dataset"
+    ]
   },
   {
     "date": "2017-04",
     "title": "A Two-stage Sieve Approach to Quote Attribution",
-    "authors": ["grace", "michaelFang", "angel", "danj"],
+    "authors": [
+      "grace",
+      "michaelFang",
+      "angel",
+      "danj"
+    ],
     "text": "Proceedings of EACL 2017",
     "img": "files/quote-attribution.png",
-    "web": "http://nlp.stanford.edu/~muzny/quoteli.html"
+    "web": "http://nlp.stanford.edu/~muzny/quoteli.html",
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "quote-attribution"
+    ]
   },
   {
     "date": "2017-03",
     "title": "SceneSuggest: Context-driven 3D Scene Design",
-    "authors": ["manolis", "angel", "maneesh"],
+    "authors": [
+      "manolis",
+      "angel",
+      "maneesh"
+    ],
     "text": "arXiv:1703.00061 [cs.CG], March 2017",
     "img": "http://msavva.github.io/files/scenesuggest.png",
     "pdf": "http://arxiv.org/abs/1703.00061.pdf",
-    "demo": "https://dovahkiin.stanford.edu/fuzzybox/scene-suggest.html"
+    "demo": "https://dovahkiin.stanford.edu/fuzzybox/scene-suggest.html",
+    "venue": ["preprint"]
   },
   {
     "date": "2017-03",
     "title": "SceneSeer: 3D Scene Design with Natural Language",
-    "authors": ["angel", "mihail", "manolis", "chrisman"],
+    "authors": [
+      "angel",
+      "mihail",
+      "manolis",
+      "chrisman"
+    ],
     "text": "arXiv:1703.00050 [cs.CG], March 2017",
     "img": "http://msavva.github.io/files/sceneseer.png",
     "pdf": "http://arxiv.org/abs/1703.00050.pdf",
-    "demo": "https://dovahkiin.stanford.edu/fuzzybox/text2scene.html"
+    "demo": "https://dovahkiin.stanford.edu/fuzzybox/text2scene.html",
+    "venue": ["preprint"]
   },
   {
     "date": "2016-10",
     "title": "Eviza: A Natural Language Interface for Visual Analysis",
-    "authors": ["vidyaSetlur", "sarahBattersby", "melanieTory", "richGossweiler", "angel"],
+    "authors": [
+      "vidyaSetlur",
+      "sarahBattersby",
+      "melanieTory",
+      "richGossweiler",
+      "angel"
+    ],
     "text": "UIST 2016",
     "img": "https://research.tableau.com/sites/default/files/uploads/eviza_teaser.png",
     "pdf": "https://research.tableau.com/sites/default/files/uist4832-setlurA_0.pdf",
-    "web": "https://research.tableau.com/paper/eviza-natural-language-interface-visual-analysis"
+    "web": "https://research.tableau.com/paper/eviza-natural-language-interface-visual-analysis",
+    "venue": ["hci", "conference"]
   },
   {
     "date": "2016-07",
     "title": "PiGraphs: Learning Interaction Snapshots from Observations",
-    "authors": ["manolis", "angel", "pat", "matt", "matthias"],
+    "authors": [
+      "manolis",
+      "angel",
+      "pat",
+      "matt",
+      "matthias"
+    ],
     "text": "SIGGRAPH 2016",
     "img": "http://graphics.stanford.edu/projects/pigraphs/pigraphs.png",
     "pdf": "http://graphics.stanford.edu/projects/pigraphs/",
     "bib": "http://graphics.stanford.edu/projects/pigraphs/",
-    "web": "http://graphics.stanford.edu/projects/pigraphs/"
+    "web": "http://graphics.stanford.edu/projects/pigraphs/",
+    "venue": ["graphics", "conference"]
   },
   {
     "date": "2016-03",
     "title": "Evaluating the word-expert approach for Named-Entity Disambiguation",
-    "authors": ["angel", "val", "chrisman", "eneko"],
+    "authors": [
+      "angel",
+      "val",
+      "chrisman",
+      "eneko"
+    ],
     "text": "arXiv:1603.04767 [cs.CL], March 2016",
     "pdf": "http://arxiv.org/pdf/1603.04767v1",
-    "tags": ["nlp"]
+    "venue": ["nlp", "preprint"],
+    "tags": [
+      "entity-linking"
+    ]
   },
   {
     "date": "2015-12",
     "title": "Text to 3D scene generation",
-    "authors": ["angel"],
+    "authors": [
+      "angel"
+    ],
     "text": "Ph.D. dissertation, Department of Computer Science, Stanford University, 2015",
     "img": "files/text2scene.png",
     "pdf": "https://purl.stanford.edu/vg064sy5087",
-    "tags": ["text2scene"]
+    "venue": ["thesis"],
+    "tags": [
+      "text2scene"
+    ]
   },
   {
     "date": "2015-12",
     "title": "ShapeNet: An Information-Rich 3D Model Repository",
-    "authors": ["angel", "tom", "leo", "pat", "qixing", "zimo", "silvio", "manolis", "shuran", "hao", "jianxiong", "eric", "fisher"],
+    "authors": [
+      "angel",
+      "tom",
+      "leo",
+      "pat",
+      "qixing",
+      "zimo",
+      "silvio",
+      "manolis",
+      "shuran",
+      "hao",
+      "jianxiong",
+      "eric",
+      "fisher"
+    ],
     "text": "arXiv:1512.03012 [cs.GR], Dec 2015",
     "img": "files/shapenet.png",
     "pdf": "http://arxiv.org/pdf/1512.03012v1",
     "bib": "http://shapenet.cs.stanford.edu/resources/shapenet.bib",
     "code": "https://github.com/ShapeNet",
-    "web": "http://shapenet.cs.stanford.edu/"
+    "web": "http://shapenet.cs.stanford.edu/",
+    "venue": ["3d", "preprint"]
   },
   {
     "date": "2015-10",
     "title": "Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval",
-    "authors": ["sebastian", "ranjay", "angel", "fei-fei", "chrisman"],
+    "authors": [
+      "sebastian",
+      "ranjay",
+      "angel",
+      "fei-fei",
+      "chrisman"
+    ],
     "text": "In Proceedings of the Fourth Workshop on Vision and Language (VL15)",
     "pdf": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.pdf",
     "bib": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.bib",
     "web": "http://nlp.stanford.edu/software/scenegraph-parser.shtml",
     "img": "files/twomen.png",
-    "tags": ["nlp"]
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "scene-graphs",
+      "image-retrieval"
+    ]
   },
   {
     "date": "2015-07",
     "title": "Semantically-Enriched 3D Models for Common-sense Knowledge",
-    "authors": ["manolis", "angel", "pat"],
+    "authors": [
+      "manolis",
+      "angel",
+      "pat"
+    ],
     "text": "CVPR 2015 Vision meets Cognition Workshop",
     "img": "files/semgeo.png",
     "pdf": "http://graphics.stanford.edu/projects/semgeo/semgeo.pdf",
     "bib": "http://graphics.stanford.edu/projects/semgeo/semgeo.bib",
     "web": "http://graphics.stanford.edu/projects/semgeo/",
-    "tags": ["common-sense"]
+    "venue": ["vision", "workshop"],
+    "tags": [
+      "common-sense"
+    ]
   },
   {
     "date": "2015-06",
     "title": "Text to 3D Scene Generation with Rich Lexical Grounding",
-    "authors": ["angel", "will", "manolis", "chrispotts", "chrisman"],
+    "authors": [
+      "angel",
+      "will",
+      "manolis",
+      "chrispotts",
+      "chrisman"
+    ],
     "text": "Proceedings of ACL 2015",
     "img": "files/lexground.png",
     "pdf": "http://nlp.stanford.edu/pubs/chang-acl2015-lexground.pdf",
     "bib": "http://nlp.stanford.edu/pubs/chang-acl2015-lexground.bib",
     "web": "http://nlp.stanford.edu/data/text2scene.shtml",
-    "tags": ["spatial", "text2scene"]
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "spatial",
+      "text2scene"
+    ]
   },
   {
     "date": "2014-12",
     "title": "SceneGrok: Inferring Action Maps in 3D Environments",
-    "authors": ["manolis", "angel", "pat", "matt", "matthias"],
+    "authors": [
+      "manolis",
+      "angel",
+      "pat",
+      "matt",
+      "matthias"
+    ],
     "text": "Proceedings of SIGGRAPH Asia 2014",
     "img": "files/scenegrok.png",
     "pdf": "http://graphics.stanford.edu/projects/scenegrok/scenegrok.pdf",
     "bib": "http://graphics.stanford.edu/projects/scenegrok/scenegrok.bib",
     "web": "http://graphics.stanford.edu/projects/scenegrok/",
-    "tags": ["actionmap"]
+    "venue": ["graphics", "conference"],
+    "tags": [
+      "actionmap"
+    ]
   },
   {
     "date": "2014-12",
     "title": "On Being the Right Scale: Sizing Large Collections of 3D Models",
-    "authors": ["manolis", "angel", "gilbert", "chrisman", "pat"],
+    "authors": [
+      "manolis",
+      "angel",
+      "gilbert",
+      "chrisman",
+      "pat"
+    ],
     "text": "SIGGRAPH Asia 2014 Workshop on Indoor Scene Understanding: Where Graphics meets Vision",
     "img": "files/sizes.png",
     "pdf": "http://graphics.stanford.edu/projects/sizes/sizes.pdf",
     "bib": "http://graphics.stanford.edu/projects/sizes/sizes.bib",
     "web": "http://graphics.stanford.edu/projects/sizes/",
-    "tags": ["common-sense"]
+    "venue": ["graphics", "workshop"],
+    "tags": [
+      "common-sense"
+    ]
   },
   {
     "date": "2014-10",
     "title": "Learning Spatial Knowledge for Text to 3D Scene Generation",
-    "authors": ["angel", "manolis", "chrisman"],
+    "authors": [
+      "angel",
+      "manolis",
+      "chrisman"
+    ],
     "text": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP 2014)",
     "img": "files/spatialLearning.png",
     "pdf": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.pdf",
     "bib": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.bib",
     "web": "http://nlp.stanford.edu/projects/text2scene.shtml",
-    "tags": ["spatial", "text2scene"]
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "spatial",
+      "text2scene"
+    ]
   },
   {
     "date": "2014-07",
     "title": "Learning Affordance Maps by Observing Interactions",
-    "authors": ["manolis", "angel", "matt", "matthias", "pat"],
+    "authors": [
+      "manolis",
+      "angel",
+      "matt",
+      "matthias",
+      "pat"
+    ],
     "text": "CVPR 2014 Workshop on Functionality, Physics, Intentionality and Causality",
     "img": "files/fpic2014.png",
     "pdf": "files/fpic2014.pdf",
-    "bib": "files/fpic2014.bib"
+    "bib": "files/fpic2014.bib",
+    "venue": ["vision", "workshop"]
   },
   {
     "date": "2014-06",
     "title": "Interactive Learning of Spatial Knowledge for Text to 3D Scene Generation",
-    "authors": ["angel", "manolis", "chrisman"],
+    "authors": [
+      "angel",
+      "manolis",
+      "chrisman"
+    ],
     "text": "Proceedings of the ACL 2014 Workshop on Interactive Language Learning, Visualization, and Interfaces",
     "img": "files/interactiveLearning.png",
     "pdf": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.pdf",
     "bib": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.bib",
     "web": "http://nlp.stanford.edu/projects/text2scene.shtml",
-    "tags": ["spatial", "text2scene"]
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "spatial",
+      "text2scene"
+    ]
   },
   {
     "date": "2014-06",
     "title": "Semantic Parsing for Text to 3D Scene Generation",
-    "authors": ["angel", "manolis", "chrisman"],
+    "authors": [
+      "angel",
+      "manolis",
+      "chrisman"
+    ],
     "text": "Proceedings of the ACL 2014 Workshop on Semantic Parsing",
     "img": "files/semanticParsing.png",
     "pdf": "http://nlp.stanford.edu/pubs/scenegen-sp2014.pdf",
     "bib": "http://nlp.stanford.edu/pubs/scenegen-sp2014.bib",
     "web": "http://nlp.stanford.edu/projects/text2scene.shtml",
-    "tags": ["text2scene"]
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "text2scene"
+    ]
   },
   {
     "date": "2014-05",
     "title": "TransPhoner: Automated Mnemonic Keyword Generation",
-    "authors": ["manolis", "angel", "chrisman", "pat"],
+    "authors": [
+      "manolis",
+      "angel",
+      "chrisman",
+      "pat"
+    ],
     "text": "Proceedings of CHI 2014",
     "img": "files/transphoner.png",
     "pdf": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.pdf",
     "bib": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.bib",
     "web": "http://graphics.stanford.edu/projects/transphoner/",
-    "tags": ["hci"]
+    "venue": ["hci", "conference"]
   },
   {
     "date": "2014-04",
     "title": "TokensRegex: Defining cascaded regular expressions over tokens",
-    "authors": ["angel", "chrisman"],
+    "authors": [
+      "angel",
+      "chrisman"
+    ],
     "text": "Stanford University Technical Report",
     "pdf": "http://nlp.stanford.edu/pubs/tokensregex-tr-2014.pdf",
     "bib": "http://nlp.stanford.edu/pubs/tokensregex-tr-2014.bib",
     "web": "http://nlp.stanford.edu/software/tokensregex.shtml",
-    "tags": ["nlp"]
+    "venue": ["nlp", "preprint"]
   },
   {
     "date": "2013-12",
     "title": "Deterministic coreference resolution based on entity-centric, precision-ranked rules",
-    "authors": ["heeyoung", "angel", "yves", "nate", "mihai", "danj"],
+    "authors": [
+      "heeyoung",
+      "angel",
+      "yves",
+      "nate",
+      "mihai",
+      "danj"
+    ],
     "text": "In Computational Linguistics 39(4)",
     "img": "files/corefSieves.png",
     "pdf": "http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00152",
     "web": "http://nlp.stanford.edu/software/dcoref.shtml",
-    "tags": ["nlp"]
+    "venue": ["nlp", "journal"],
+    "tags": [
+      "coreference"
+    ]
   },
   {
     "date": "2013-11",
     "title": "Stanford's 2013 KBP System",
-    "authors": ["gabor", "arun", "angel", "kevinReschke", "julie", "jean", "osbert", "keithSiilats", "chrisman"],
+    "authors": [
+      "gabor",
+      "arun",
+      "angel",
+      "kevinReschke",
+      "julie",
+      "jean",
+      "osbert",
+      "keithSiilats",
+      "chrisman"
+    ],
     "text": "In Proceedings of the Sixth Text Analysis Conference (TAC 2014)",
     "pdf": "http://stanford.edu/~angeli/papers/2014-tac-kbp.pdf",
-    "tags": ["nlp"]
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "kbp"
+    ]
   },
   {
     "date": "2013-07",
     "title": "SUTime: Evaluation in TempEval-3",
-    "authors": ["angel", "chrisman"],
+    "authors": [
+      "angel",
+      "chrisman"
+    ],
     "text": "In Second Joint Conference on Lexical and Computational Semantics (*SEM), Volume 2: Proceedings of the Seventh International Workshop on Semantic Evaluation (SemEval 2013)",
     "pdf": "http://aclweb.org/anthology/S/S13/S13-2013.pdf",
-    "tags": ["nlp"]
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "time"
+    ]
   },
   {
     "date": "2012-07",
     "title": "Joint Entity and Event Coreference Resolution across Documents",
-    "authors": ["heeyoung", "marta", "angel", "mihai", "danj"],
+    "authors": [
+      "heeyoung",
+      "marta",
+      "angel",
+      "mihai",
+      "danj"
+    ],
     "text": "Proceedings of the Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL 2012)",
     "pdf": "http://nlp.stanford.edu/pubs/emnlp2012-coref.pdf",
     "bib": "http://nlp.stanford.edu/pubs/emnlp2012-coref.bib",
-    "tags": ["nlp"]
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "coreference"
+    ]
   },
   {
     "date": "2012-05",
     "title": "SUTime: A Library for Recognizing and Normalizing Time Expressions.",
-    "authors": ["angel", "chrisman"],
+    "authors": [
+      "angel",
+      "chrisman"
+    ],
     "text": "In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC 2012)",
     "img": "files/sutime.png",
     "pdf": "http://nlp.stanford.edu/pubs/lrec2012-sutime.pdf",
@@ -349,107 +691,194 @@
     "poster": "http://nlp.stanford.edu/pubs/lrec2012-sutime-poster.pdf",
     "web": "http://nlp.stanford.edu/software/sutime.shtml",
     "demo": "http://nlp.stanford.edu:8080/sutime",
-    "tags": ["nlp"]
+    "venue": ["nlp", "resources"],
+    "tags": [
+      "time"
+    ]
   },
   {
     "date": "2012-05",
     "title": "A Cross-Lingual Dictionary for English Wikipedia Concepts",
-    "authors": ["val", "angel"],
+    "authors": [
+      "val",
+      "angel"
+    ],
     "text": "In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC 2012)",
     "pdf": "http://nlp.stanford.edu/pubs/crosswikis.pdf",
     "bib": "http://nlp.stanford.edu/pubs/crosswikis.bib",
     "slides": "http://nlp.stanford.edu/pubs/crosswikis-slides.pdf",
     "post": "https://plus.google.com/117790530324740296539/posts/VSjc4KYpug2",
     "data": "http://nlp.stanford.edu/pubs/crosswikis-data.tar.bz2",
-    "tags": ["nlp"]
+    "venue": ["nlp", "resources"],
+    "tags": [
+      "entity-linking"
+    ]
   },
   {
     "date": "2011-11",
     "title": "Stanford's Distantly-Supervised Slot-Filling System",
-    "authors": ["mihai", "sonal", "johnbauer", "davidm", "angel", "val", "chrisman"],
+    "authors": [
+      "mihai",
+      "sonal",
+      "johnbauer",
+      "davidm",
+      "angel",
+      "val",
+      "chrisman"
+    ],
     "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
     "pdf": "http://nlp.stanford.edu/pubs/kbp2011-slotfilling.pdf",
     "bib": "http://nlp.stanford.edu/pubs/kbp2011-slotfilling.bib",
     "data": "http://nlp.stanford.edu/pubs/kbp_trigger_words.txt",
-    "tags": ["nlp"]
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "kbp"
+    ]
   },
   {
     "date": "2011-11",
     "title": "Strong Baselines for Cross-Lingual Entity Linking",
-    "authors": ["val", "angel"],
+    "authors": [
+      "val",
+      "angel"
+    ],
     "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
     "pdf": "http://nlp.stanford.edu/pubs/kbp2011-crosslinking.pdf",
     "bib": "http://nlp.stanford.edu/pubs/kbp2011-crosslinking.bib",
-    "tags": ["nlp"]
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "entity-linking"
+    ]
   },
   {
     "date": "2011-11",
     "title": "Stanford-UBC Entity Linking at TAC-KBP, Again",
-    "authors": ["angel", "val", "eneko", "chrisman"],
+    "authors": [
+      "angel",
+      "val",
+      "eneko",
+      "chrisman"
+    ],
     "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
     "pdf": "http://nlp.stanford.edu/pubs/kbp2011-entitylinking.pdf",
     "bib": "http://nlp.stanford.edu/pubs/kbp2011-entitylinking.bib",
-    "tags": ["nlp"]
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "entity-linking"
+    ]
   },
   {
     "date": "2011-07",
     "title": "Unsupervised Dependency Parsing without Gold Part-of-Speech Tags",
-    "authors": ["val", "hiyan", "angel", "danj"],
+    "authors": [
+      "val",
+      "hiyan",
+      "angel",
+      "danj"
+    ],
     "text": "In Proceedings of the 2011 Conference on Empirical Methods in Natural Language Processing (EMNLP 2011)",
     "pdf": "http://nlp.stanford.edu/pubs/goldtags.pdf",
     "bib": "http://nlp.stanford.edu/pubs/goldtags.bib",
     "poster": "http://nlp.stanford.edu/pubs/goldtags-poster.pdf",
     "data": "http://nlp.stanford.edu/pubs/goldtags-data.tar.bz2",
-    "tags": ["nlp"]
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "parsing"
+    ]
   },
   {
     "date": "2011-06",
     "title": "Stanford's Multi-Pass Sieve Coreference Resolution System at the CoNLL-2011 Shared Task",
-    "authors": ["heeyoung", "yves", "angel", "nate", "mihai", "danj"],
+    "authors": [
+      "heeyoung",
+      "yves",
+      "angel",
+      "nate",
+      "mihai",
+      "danj"
+    ],
     "text": "In Proceedings of the CoNLL-2011 Shared Task",
     "pdf": "http://nlp.stanford.edu/pubs/conllst2011-coref.pdf",
     "bib": "http://nlp.stanford.edu/pubs/conllst2011-coref.bib",
     "web": "http://nlp.stanford.edu/software/dcoref.shtml",
-    "tags": ["nlp"]
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "coreference"
+    ]
   },
   {
     "date": "2010-11",
     "title": "A Simple Distant Supervision Approach for the TAC-KBP Slot Filling Task",
-    "authors": ["mihai", "davidm", "julie", "johnbauer", "angel", "val", "chrisman"],
+    "authors": [
+      "mihai",
+      "davidm",
+      "julie",
+      "johnbauer",
+      "angel",
+      "val",
+      "chrisman"
+    ],
     "text": "In Proceedings of the Third Text Analysis Conference (TAC 2010)",
     "pdf": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling.pdf",
     "bib": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling.bib",
     "slides": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling-slides.pptx",
-    "tags": ["nlp"]
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "kbp",
+      "Slot-Filling"
+    ]
   },
   {
     "date": "2010-11",
     "title": "Stanford-UBC Entity Linking at TAC-KBP",
-    "authors": ["angel", "val", "ericyeh", "eneko", "chrisman"],
+    "authors": [
+      "angel",
+      "val",
+      "ericyeh",
+      "eneko",
+      "chrisman"
+    ],
     "text": "In Proceedings of the Third Text Analysis Conference (TAC 2010)",
     "pdf": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking.pdf",
     "bib": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking.bib",
     "poster": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking-poster.pdf",
-    "tags": ["nlp"]
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "kbp",
+      "entity-linking"
+    ]
   },
   {
     "date": "2009-11",
     "title": "Stanford-UBC at TAC-KBP",
-    "authors": ["eneko", "angel", "danj", "chrisman", "val", "ericyeh"],
+    "authors": [
+      "eneko",
+      "angel",
+      "danj",
+      "chrisman",
+      "val",
+      "ericyeh"
+    ],
     "text": "In Proceedings of the Second Text Analysis Conference (TAC 2009)",
     "pdf": "http://nlp.stanford.edu/pubs/subctackbp.pdf",
     "bib": "http://nlp.stanford.edu/pubs/subctackbp.bib",
     "slides": "http://nlp.stanford.edu/pubs/subctackbp-slides.pdf",
-    "tags": ["nlp"]
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "kbp"
+    ]
   },
   {
     "date": "2000-01",
     "title": "The Fractal Geometry of the Boundary of Dragon Curves",
-    "authors": ["angel", "tianrong"],
+    "authors": [
+      "angel",
+      "tianrong"
+    ],
     "text": "In Journal of Recreational Mathematics 30 (1), 9-22",
     "img": "files/dragonCurve.png",
     "pdf": "pubs/dragonbound.pdf",
     "bib": "pubs/dragonbound.bib",
-    "tags": ["misc"]
+    "venue": ["msic", "journal"]
   }
 ]

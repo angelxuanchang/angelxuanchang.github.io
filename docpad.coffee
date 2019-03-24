@@ -20,8 +20,15 @@ docpadConfig = {
     news: JSON.parse(fs.readFileSync("src/data/news.json"))
     pubs: JSON.parse(fs.readFileSync("src/data/pubs.json"))
     people: JSON.parse(fs.readFileSync("src/data/people.json"))
+    maintags: ['nlp', 'vision', 'graphics', 'hci'],
     getPreparedTitle: ->
       if @document.title then "#{@document.title} | #{@site.title}" else @site.title
+    hasField: (obj, field, values) ->
+      if obj[field]
+         if not Array.isArray(values)
+           values = [values]
+         return !values.every((v) -> obj[field].indexOf(v) < 0)
+      return false
   plugins:
     ghpages:
       deployRemote: 'origin'
