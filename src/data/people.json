@@ -1,23 +1,28 @@
 {
   "angel": {
     "name": "Angel X. Chang",
+    "affliations": ["sfu"],
     "special": true
   },
   "manolis": {
     "name": "Manolis Savva",
+    "affliations": ["sfu"],
     "web": "http://graphics.stanford.edu/~msavva/"
   },
   "pat": {
     "name": "Pat Hanrahan",
+    "affliations": ["stanford"],
     "web": "http://graphics.stanford.edu/~hanrahan/"
   },
   "matt": {
     "name": "Matthew Fisher",
+    "affliations": ["adobe"],
     "web": "http://graphics.stanford.edu/~mdfisher/"
   },
   "matthias": {
     "name": "Matthias Nießner",
-    "web": "http://graphics.stanford.edu/~niessner/"
+    "affliations": ["tum"],
+    "web": "https://niessnerlab.org/members/matthias_niessner/profile.html"
   },
   "angie": {
     "name": "Angela Dai",
@@ -29,6 +34,7 @@
   },
   "maneesh": {
     "name": "Maneesh Agrawala",
+    "affliations": ["stanford"],
     "web": "http://graphics.stanford.edu/~maneesh/"
   },
   "mihail": {
@@ -41,22 +47,27 @@
   },
   "chrisman": {
     "name": "Christopher D. Manning",
+    "affliations": ["stanford"],
     "web": "http://nlp.stanford.edu/manning/"
   },
   "chrispotts": {
     "name": "Christopher Potts",
+    "affliations": ["stanford"],
     "web": "http://web.stanford.edu/~cgpotts/"
   },
   "tom": {
     "name": "Thomas Funkhouser",
+    "affliations": ["google"],
     "web": "http://www.cs.princeton.edu/~funk/"
   },
   "leo": {
     "name": "Leonidas Guibas",
+    "affliations": ["stanford"],
     "web": "http://geometry.stanford.edu/member/guibas/"
   },
   "hao": {
     "name": "Hao Su",
+    "affliations": ["ucsd"],
     "web": "http://cseweb.ucsd.edu/~haosu/"
   },
   "eric": {
@@ -65,6 +76,7 @@
   },
   "qixing": {
     "name": "Qixing Huang",
+    "affliations": ["utaustin"],
     "web": "http://www.cs.utexas.edu/~huangqx/"
   },
   "zimo": {
@@ -72,10 +84,12 @@
   },
   "silvio": {
     "name": "Silvio Savarese",
+    "affliations": ["stanford"],
     "web": "http://cvgl.stanford.edu/silvio/"
   },
   "shuran": {
     "name": "Shuran Song",
+    "affliations": ["columbia"],
     "web": "http://vision.princeton.edu/people/shurans/"
   },
   "andy": {
@@ -84,6 +98,7 @@
   },
   "yinda": {
     "name": "Yinda Zhang",
+    "affliations": ["google"],
     "web": "http://robots.princeton.edu/people/yindaz/"
   },
   "kyle": {
@@ -92,10 +107,12 @@
   },
   "lin": {
     "name": "Lin Shao",
+    "affliations": ["stanford"],
     "web": "https://linsats.github.io/"
   },
   "jianxiong": {
     "name": "Jianxiong Xiao",
+    "affliations": ["autox"],
     "web": "http://www.jianxiongxiao.com/"
   },
   "fisher": {
@@ -116,6 +133,7 @@
   },
   "fei-fei": {
     "name": "Li Fei-Fei",
+    "affliations": ["stanford"],
     "web": "http://vision.stanford.edu/feifeili/"
   },
   "heeyoung": {
@@ -123,6 +141,7 @@
   },
   "marta": {
     "name": "Marta Recasens",
+    "affliations": ["google"],
     "web": "http://clic.ub.edu/users/marta-recasens"
   },
   "yves": {
@@ -131,14 +150,17 @@
   },
   "mihai": {
     "name": "Mihai Surdeanu",
+    "affliations": ["arizona"],
     "web": "http://www.surdeanu.name/mihai/"
   },
   "nate": {
     "name": "Nathanael Chambers",
+    "affliations": ["usna"],
     "web": "http://www.usna.edu/Users/cs/nchamber/"
   },
   "danj": {
     "name": "Dan Jurafsky",
+    "affliations": ["stanford"],
     "web": "http://www.stanford.edu/~jurafsky/"
   },
   "davidm": {
@@ -174,11 +196,11 @@
     "name": "Arun Chaganty",
     "web": "http://arun.chagantys.org/"
   },
-  "kevinReschke": {
+  "KevinReschke": {
     "name": "Kevin Reschke",
     "web": "https://sites.google.com/site/kevinreschke/"
   },
-  "keithSiilats": {
+  "KeithSiilats": {
     "name": "Keith Siilats"
   },
   "ericyeh": {
@@ -195,24 +217,25 @@
   "tianrong": {
     "name": "Tianrong Zhang"
   },
-  "vidyaSetlur": {
+  "VidyaSetlur": {
     "name": "Vidya Setlur",
     "web": "https://research.tableau.com/user/vidya-setlur"
   },
-  "sarahBattersby": {
+  "SarahBattersby": {
     "name": "Sarah E. Battersby",
     "web": "https://research.tableau.com/user/sarah-battersby"
   },
-  "melanieTory": {
+  "MelanieTory": {
     "name": "Melanie Tory",
     "web": "https://research.tableau.com/user/melanie-tory"
   },
-  "richGossweiler": {
+  "RichGossweiler": {
     "name": "Rich Gossweiler",
     "web": "https://research.tableau.com/user/rich-gossweiler"
   },
   "christiane": {
     "name": "Christiane Fellbaum",
+    "affliations": ["princeton"],
     "web": "https://www.cs.princeton.edu/~fellbaum/"
   },
   "alexey": {
@@ -221,25 +244,27 @@
   },
   "vladlen": {
     "name": "Vladlen Koltun",
+    "affliations": ["intel"],
     "web": "http://vladlen.info/"
   },
   "grace": {
     "name": "Grace Muzny",
     "web": "http://nlp.stanford.edu/~muzny/"
   },
-  "chrisChoy": {
+  "ChrisChoy": {
     "name": "Christopher B. Choy",
     "web": "https://chrischoy.github.io/"
   },
-  "danielRitchie": {
+  "DanielRitchie": {
     "name": "Daniel Ritchie",
+    "affliations": ["brown"],
     "web": "https://dritchie.github.io/"
   },
-  "armenAvetisyan": {
+  "ArmenAvetisyan": {
     "name": "Armen Avetisyan",
     "web": "https://niessnerlab.org/members/armen_avetisyan/profile.html"
   },
-  "manuelDahnert": {
+  "ManuelDahnert": {
     "name": "Manuel Dahnert",
     "web": "https://niessnerlab.org/members/manuel_dahnert/profile.html"
   },
@@ -251,17 +276,18 @@
     "name": "Shilin Zhu",
     "web": "http://cseweb.ucsd.edu/~shz338/"
   },
-  "subarnaTripathi": {
+  "SubarnaTripathi": {
     "name": "Subarna Tripathi",
     "web": "http://acsweb.ucsd.edu/~stripath/"
   },
-  "kaiWang": {
-    "name": "Kai Wang"
+  "KaiWang": {
+    "name": "Kai Wang",
+    "web": "https://kwang-ether.github.io/"
   },
-  "kevinChen": {
+  "KevinChen": {
     "name": "Kevin Chen"
   },
-  "michaelFang": {
+  "MichaelFang": {
     "name": "Michael Fang"
   },
   "rishi": {
@@ -270,21 +296,49 @@
   "pranav": {
     "name": "Pranav Krishna"
   },
-  "yifeiShi": {
+  "YifeiShi": {
     "name": "Yifei Shi",
     "web": "http://www.yifeishi.net/"
   },
-  "zhelunWu": {
+  "ZhelunWu": {
     "name": "Zhelun Wu"
   },
-  "kaiXu": {
+  "KaiXu": {
     "name": "Kai Xu",
     "web": "https://kevinkaixu.net/"
   },
-  "yuAnLin": {
+  "YuAnLin": {
     "name": "Yu-An Lin"
   },
-  "benWeissmann": {
+  "BenWeissmann": {
     "name": "Ben Weissmann"
+  },
+  "PeterAnderson": {
+    "name": "Peter Anderson",
+    "web": "https://www.panderson.me/"
+  },
+  "DevendraChaplot": {
+    "name": "Devendra Singh Chaplot",
+    "web": "http://www.cs.cmu.edu/~dchaplot/"
+  },
+  "SaurabhGupta": {
+    "name": "Saurabh Gupta",
+    "web": "http://saurabhg.web.illinois.edu/"
+  },
+  "JanaKosecka": {
+    "name": "Jana Kosecka",
+    "web": "https://cs.gmu.edu/~kosecka/"
+  },
+  "JitendraMalik": {
+    "name": "Jitendra Malik",
+    "web": "https://people.eecs.berkeley.edu/~malik/"
+  },
+  "RoozbehMottaghi": {
+    "name": "Roozbeh Mottaghi",
+    "web": "https://cs.stanford.edu/~roozbeh/"
+  },
+  "AmirZamir": {
+    "name": "Amir R. Zamir",
+    "web": "https://cs.stanford.edu/~amirz/"
   }
 }

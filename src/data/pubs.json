@@ -1,18 +1,36 @@
 [
   {
     "date": "2019-03",
+    "title": "PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks",
+    "authors": [
+      "KaiWang",
+      "YuAnLin",
+      "BenWeissmann",
+      "manolis",
+      "angel",
+      "DanielRitchie"
+    ],
+    "text": "SIGGRAPH 2019",
+    "pdf": "https://drive.google.com/file/d/1CJCM6EQyeUWwxdk6tl8cVxEIhV7s3DoA/view",
+    "img": "https://dritchie.github.io/img/pubthumbs/graphsynth.png",
+    "venue": ["graphics", "conference"],
+    "tags": ["3d", "scene"]
+  },
+  {
+    "date": "2019-03",
     "title": "Hierarchy Denoising Recursive Autoencoders for 3D Scene Layout Prediction",
     "authors": [
-      "yifeiShi",
+      "YifeiShi",
       "angel",
-      "zelunWu",
+      "ZelunWu",
       "manolis",
-      "kaiXu"
+      "KaiXu"
     ],
-    "text": "Accepted to CVPR 2019, arXiv:1903.03757 [cs.CV]",
+    "text": "CVPR 2019, arXiv:1903.03757 [cs.CV]",
     "img": "http://www.yifeishi.net/files/hierarchylayout1.JPG",
     "pdf": "https://arxiv.org/pdf/1903.03757",
     "web": "http://www.yifeishi.net/hierarchylayout.html",
+    "code": "https://github.com/yifeishi/HierarchyLayout",
     "venue": ["vision", "conference"],
     "tags": [
       "3d",
@@ -27,11 +45,11 @@
       "shilin",
       "angel",
       "eric",
-      "subarnaTripathi",
+      "SubarnaTripathi",
       "leo",
       "hao"
     ],
-    "text": "Accepted to CVPR 2019, arXiv:1812.02713 [cs.CV]",
+    "text": "CVPR 2019, arXiv:1812.02713 [cs.CV]",
     "img": "https://cs.stanford.edu/~kaichun/partnet/images/teaser.png",
     "pdf": "https://arxiv.org/abs/1812.02713",
     "web": "https://cs.stanford.edu/~kaichun/partnet/",
@@ -48,18 +66,20 @@
     "date": "2018-11",
     "title": "Scan2CAD: Learning CAD Model Alignment in RGB-D Scans",
     "authors": [
-      "armenAvetisyan",
-      "manuelDahnert",
+      "ArmenAvetisyan",
+      "ManuelDahnert",
       "angie",
       "manolis",
       "angel",
       "matthias"
     ],
-    "text": "Accepted to CVPR 2019, arXiv:1811.11187 [cs.CV]",
-    "img": "https://niessnerlab.org/papers/2018/z3scan2cad/teaser.jpg",
+    "text": "CVPR 2019 (oral), arXiv:1811.11187 [cs.CV]",
+    "img": "files/scan2cad.png",
     "pdf": "https://arxiv.org/pdf/1811.11187.pdf",
-    "web": "https://niessnerlab.org/projects/avetisyan2018scan2cad.html",
+    "web": "https://www.scan2cad.org/",
     "video": "http://www.youtube.com/watch?v=PiHSYpgLTfA",
+    "code": "https://github.com/skanti/Scan2CAD",
+    "benchmark": "http://kaldir.vc.in.tum.de/scan2cad_benchmark/",
     "venue": ["vision", "conference"],
     "tags": [
       "3d",
@@ -72,10 +92,10 @@
     "date": "2018-08",
     "title": "Deep Convolutional Priors for Indoor Scene Synthesis",
     "authors": [
-      "kaiWang",
+      "KaiWang",
       "manolis",
       "angel",
-      "danielRitchie"
+      "DanielRitchie"
     ],
     "text": "SIGGRAPH 2018",
     "img": "http://msavva.github.io/files/deepsynth.png",
@@ -88,17 +108,40 @@
     ]
   },
   {
+    "date": "2018-07",
+    "title": "On evaluation of embodied navigation agents",
+    "authors": [
+      "PeterAnderson",
+      "angel",
+      "DevendraChaplot",
+      "alexey",
+      "SaurabhGupta",
+      "vladlen",
+      "JanaKosecka",
+      "JitendraMalik",
+      "RoozbehMottaghi",
+      "manolis",
+      "AmirZamir"
+    ],
+    "text": "arXiv preprint arXiv:1807.06757 [cs.AI]",
+    "pdf": "https://arxiv.org/abs/1807.06757",
+    "venue": ["ai", "preprint"],
+    "tags": [
+      "navigation"
+    ]
+  },
+  {
     "date": "2018-03",
     "title": "Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings",
     "authors": [
-      "kevinChen",
-      "chrisChoy",
+      "KevinChen",
+      "ChrisChoy",
       "manolis",
       "angel",
       "tom",
       "silvio"
     ],
-    "text": "Proceedings of ACCV 2018, arXiv:1803.08495 [cs.CV]",
+    "text": "Proceedings of ACCV 2018 (oral), arXiv:1803.08495 [cs.CV]",
     "pdf": "https://arxiv.org/abs/1803.08495",
     "img": "http://msavva.github.io/files/text2shape.png",
     "web": "http://text2shape.stanford.edu/",
@@ -125,7 +168,7 @@
     "web": "https://www.minosworld.org/",
     "code": "https://github.com/minosworld/minos",
     "video": "https://youtu.be/c0mL9K64q84",
-    "venue": ["robotics", "preprint"],
+    "venue": ["ai", "preprint"],
     "tags": [
       "navigation"
     ]
@@ -233,7 +276,7 @@
       "tom",
       "matthias"
     ],
-    "text": "Proceedings of CVPR 2017, arXiv:1702.04405 [cs.CV]",
+    "text": "Proceedings of CVPR 2017 (spotlight), arXiv:1702.04405 [cs.CV]",
     "img": "http://www.scan-net.org/img/annotations.png",
     "pdf": "https://arxiv.org/pdf/1702.04405.pdf",
     "web": "http://www.scan-net.org/",
@@ -257,7 +300,7 @@
       "manolis",
       "tom"
     ],
-    "text": "Proceedings of CVPR 2017, arXiv:1611.08974 [cs.CV]",
+    "text": "Proceedings of CVPR 2017 (oral), arXiv:1611.08974 [cs.CV]",
     "img": "http://vision.princeton.edu/projects/2016/SSCNet/thumbnail.jpg",
     "pdf": "https://arxiv.org/pdf/1611.08974v1.pdf",
     "web": "http://vision.princeton.edu/projects/2016/SSCNet/",
@@ -273,7 +316,7 @@
     "title": "A Two-stage Sieve Approach to Quote Attribution",
     "authors": [
       "grace",
-      "michaelFang",
+      "MichaelFang",
       "angel",
       "danj"
     ],
@@ -318,10 +361,10 @@
     "date": "2016-10",
     "title": "Eviza: A Natural Language Interface for Visual Analysis",
     "authors": [
-      "vidyaSetlur",
-      "sarahBattersby",
-      "melanieTory",
-      "richGossweiler",
+      "VidyaSetlur",
+      "SarahBattersby",
+      "MelanieTory",
+      "RichGossweiler",
       "angel"
     ],
     "text": "UIST 2016",
@@ -631,11 +674,11 @@
       "gabor",
       "arun",
       "angel",
-      "kevinReschke",
+      "KevinReschke",
       "julie",
       "jean",
       "osbert",
-      "keithSiilats",
+      "KeithSiilats",
       "chrisman"
     ],
     "text": "In Proceedings of the Sixth Text Analysis Conference (TAC 2014)",
