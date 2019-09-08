@@ -1,0 +1,37 @@
+---
+title: "SFU 3D Language Group"
+layout: "default"
+---
+
+<h1>Angel Xuan Chang</h1>
+
+<%- @partial('navbar', false, {}) %>
+
+<div class="row">
+  <div class="col-sm-12">
+
+    <% @students = Object.values(@people).filter((x) => @hasField(x, 'tags', ['student']) ) %>
+    <% @phd = @students.filter((x) => @hasField(x, 'tags', ['PhD']) ) %>
+    <% @masters = @students.filter((x) => @hasField(x, 'tags', ['Master']) ) %>
+    <% @undergrad = @students.filter((x) => @hasField(x, 'tags', ['Undergrad']) ) %>
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>3D Language Group</h2>
+      </div>
+      <div class="panel-body">
+        <h3>Ph.D Students</h3>
+         <%- @partial('people', false, { people: @phd }) %>
+      </div>
+      <div class="panel-body">
+        <h3>Master Students</h3>
+         <%- @partial('people', false, { people: @masters }) %>
+      </div>
+      <div class="panel-body">
+        <h3>Undergradudate Students</h3>
+         <%- @partial('people', false, { people: @undergrad }) %>
+      </div>
+     </div>
+
+  </div>
+</div>

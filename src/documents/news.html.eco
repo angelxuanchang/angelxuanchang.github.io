@@ -1,0 +1,26 @@
+---
+title: "Angel Xuan Chang - News"
+layout: "default"
+---
+
+<h1>Angel Xuan Chang</h1>
+
+<%- @partial('navbar', false, {}) %>
+
+<div class="row">
+  <div class="col-sm-12">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>News</h2>
+      </div>
+      <div class="panel-body">
+        <ul>
+            <% for n in @news: %>
+              <li><%= n.date %> - <%- n.description %></li>
+            <% end %>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</div>

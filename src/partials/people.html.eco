@@ -1,0 +1,11 @@
+        <div class="photos">
+        <% for p in @people: %>
+            <div class="photo">
+              <% if p.photo: %>
+              <img src="<%= p.photo %>" alt="<%= p.name %>" class="img-responsive" style="width: 300px;"/>
+              &nbsp;
+              <% end %>
+              <% if p.web: %><a href="<%= p.web %>"><%= p.name %></a><% else: %><%= p.name %><% end %> 
+            </div>
+        <% end %>
+        </div>

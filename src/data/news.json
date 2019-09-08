@@ -1,7 +1,19 @@
 [
 {
     "date": "August, 2019",
-    "description": "I started as assistant professor at Simon Fraser University"
+    "description": "I started as assistant professor at <a href='https://www.sfu.ca/computing.html'>Simon Fraser University</a>"
+},
+{
+    "date": "July, 25, 2019",
+    "description": "Lecture on deep learning for images at the <a href='https://dlrlsummerschool.ca/'>DLRL Summer School</a> at University of Alberta"
+},
+{
+    "date": "July 18, 2019",
+    "description": "Lecture on natural language processing at <a href='https://www.sfu.ca/computing/inventthefuture.html'>Invent the Future: AI Scholors Program</a> at Simon Fraser University"
+},
+{
+    "date": "June 17, 2019",
+    "description": "Invited talk at the <a href='https://sumochallenge.org/2019-sumo-workshop.html'>360 Indoor Scene Understanding and Modeling (SUMO) workshop</a> at CVPR"
 },
 {
     "date": "May, 2019",

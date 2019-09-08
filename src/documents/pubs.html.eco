@@ -1,0 +1,29 @@
+---
+title: "Angel Xuan Chang - Publications"
+layout: "default"
+---
+
+<h1>Angel Xuan Chang</h1>
+
+<%- @partial('navbar', false, {}) %>
+
+<div class="row">
+  <div class="col-sm-12">
+
+    <% @pubs.forEach((x,i) -> x.id = "pub_" + i) %>
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>Publications</h2>
+        <span class="badge badge-primary selectable" onclick="util.showAllPubs()">all</span>
+        <% for t in @maintags: %>
+          <span class="badge badge-primary selectable" onclick="util.showPubs('maintags', '<%= t %>')"><%= t %></span>
+        <% end %>
+      </div>
+      <div class="panel-body">
+      <% @refereed = @pubs.filter((x) => @hasField(x, 'venue', ['conference', 'journal']) ) %>
+      <%- @partial('pubs', false, { pubs: @pubs, people: @people }) %>  
+      </div>
+    </div>
+
+  </div>
+</div>

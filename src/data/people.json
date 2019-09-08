@@ -268,11 +268,11 @@
     "name": "Manuel Dahnert",
     "web": "https://niessnerlab.org/members/manuel_dahnert/profile.html"
   },
-  "kaichun": {
+  "KaichunMo": {
     "name": "Kaichun Mo",
     "web": "https://cs.stanford.edu/~kaichun"
   },
-  "shilin": {
+  "ShilinZhu": {
     "name": "Shilin Zhu",
     "web": "http://cseweb.ucsd.edu/~shz338/"
   },
@@ -290,10 +290,10 @@
   "MichaelFang": {
     "name": "Michael Fang"
   },
-  "rishi": {
+  "RishiMago": {
     "name": "Rishi Mago"
   },
-  "pranav": {
+  "PranavKrishna": {
     "name": "Pranav Krishna"
   },
   "YifeiShi": {
@@ -340,5 +340,51 @@
   "AmirZamir": {
     "name": "Amir R. Zamir",
     "web": "https://cs.stanford.edu/~amirz/"
+  },
+  "JustinDieter": {
+    "name": "Justin Dieter"
+  },
+  "TianWang": {
+    "name": "Tian Wang"
+  },
+  "YasamanEtesam": {
+    "name": "Yasama Etesma",
+    "affilations": ["sfu"],
+    "tags": ["student", "PhD"]
+  },
+  "AliGholami": {
+    "name": "Ali Gholami",
+    "affilations": ["sfu"],
+    "tags": ["student", "Master"]
+  },
+  "RoyaJavadi": {
+    "name": "Roya Javadi",
+    "affilations": ["sfu"],
+    "tags": ["student", "Master"]
+  },
+  "SoniaRaychaudhuri": {
+    "name": "Sonia Raychaudhuri",
+    "affilations": ["sfu"],
+    "tags": ["student", "Master"]
+  },
+  "LeonKochiev": {
+    "name": "Leon Kochiev",
+    "affilations": ["sfu"],
+    "tags": ["student", "Master"]
+  },
+  "YueRuan": {
+    "name": "Yue Ruan",
+    "affilations": ["sfu"],
+    "tags": ["student", "Master"]
+  },
+  "Akshit Sharma": {
+    "name": "Akshit Sharma",
+    "affilations": ["sfu"],
+    "tags": ["student", "Master"]
+  },
+  "Shawn Jiang": {
+    "name": "Shawn Jiang",
+    "affilations": ["sfu"],
+    "tags": ["student", "Undergrad"]
   }
 }
