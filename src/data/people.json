@@ -193,7 +193,7 @@
     "web": "http://cs.stanford.edu/~angeli/"
   },
   "arun": {
-    "name": "Arun Chaganty",
+    "name": "Arun Tejasvi Chaganty",
     "web": "http://arun.chagantys.org/"
   },
   "KevinReschke": {
@@ -341,6 +341,9 @@
     "name": "Amir R. Zamir",
     "web": "https://cs.stanford.edu/~amirz/"
   },
+  "ZelunWu": {
+    "name": "Zelun Wu"
+  },
   "JustinDieter": {
     "name": "Justin Dieter"
   },
@@ -348,7 +351,7 @@
     "name": "Tian Wang"
   },
   "YasamanEtesam": {
-    "name": "Yasama Etesma",
+    "name": "Yasama Etesam",
     "affilations": ["sfu"],
     "tags": ["student", "PhD"]
   },
@@ -377,12 +380,12 @@
     "affilations": ["sfu"],
     "tags": ["student", "Master"]
   },
-  "Akshit Sharma": {
+  "AkshitSharma": {
     "name": "Akshit Sharma",
     "affilations": ["sfu"],
     "tags": ["student", "Master"]
   },
-  "Shawn Jiang": {
+  "ShawnJiang": {
     "name": "Shawn Jiang",
     "affilations": ["sfu"],
     "tags": ["student", "Undergrad"]

@@ -1,6 +1,21 @@
 [
   {
-    "date": "2019-03",
+    "date": "2019-11",
+    "title": "Mimic and Rephrase: Reflective Listening in Open-Ended Dialogue",
+    "authors": [
+      "JustinDieter",
+      "TianWang",
+      "gabor",
+      "angel",
+      "arun"
+    ],
+    "text": "CONLL 2019",
+    "pdf": "https://www.aclweb.org/anthology/K19-1037.pdf",
+    "venue": ["nlp", "conference"],
+    "tags": ["rephrase"]
+  },
+  {
+    "date": "2019-08",
     "title": "PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks",
     "authors": [
       "KaiWang",
