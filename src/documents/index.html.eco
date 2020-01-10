@@ -1,43 +1,12 @@
 ---
 title: "Angel Xuan Chang"
 layout: "default"
+active_page: home
 ---
 
-<h1>Angel Xuan Chang</h1>
+<%- @partial('navbar', false, {}) %>
 
-<div class="row">
-  <div class="col-sm-8 pull-left" style="min-height: 280px; display: flex; flex-direction: column;">
-    <p>
-      I am an Assistant Professor at  <a href="https://www.sfu.ca/computing.html">Simon Fraser University</a>. 
-       Prior to this, I was a visiting research scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research<a> and a research scientist at <a href="http://eloquent.ai">Eloquent Labs</a> working on dialogue.  I received my Ph.D. in <a href="http://cs.stanford.edu/">Computer Science</a> from <a href="http://www.stanford.edu/">Stanford</a>, where I was part of the <a href="http://nlp.stanford.edu/">Natural Language Processing Group</a> and advised by <a href="http://nlp.stanford.edu/~manning/">Chris Manning</a>.
-      I worked on <a href="http://nlp.stanford.edu/projects/text2scene.shtml">text to 3D scene generation</a>, and the <a href="http://shapenet.cs.stanford.edu/">ShapeNet</a> project.
-      In general, I am interested in the semantics of shapes and scenes, the representation and acquisition of common sense knowledge, and reasoning using probabilistic models.
-      Some of my other <a href="http://www.coiraweb.com/poignance/angel">interests</a> include <a href="http://www.coiraweb.com/poignance/angel/art/reflections.html">drawing</a> and <a href="http://www.coiraweb.com/poignance/angel/dance/dance.html">dance</a>.
-    </p>
-    <p>
-    <h3>News</h3>
-    <ul>
-        <% @topnews = @news.slice(0, 10) %>
-        <% for n in @topnews: %>
-          <li><%= n.date %> - <%- n.description %></li>
-        <% end %>
-    </ul>
-    <a href="news.html">More...</a>
-    </p>
-  </div>
-  <div class="col-sm-4 text-right pull-right">
-    <img src="files/angel.jpg" alt="Angel Xuan Chang" width="150px"/>
-    <div style="font-family:monospace;">
-      angelx-{at}-sfu-[dot]-ca
-    </div><br>
-    Assistant Professor<br/>
-    School of Computing Science<br/>
-    <a href="https://www.sfu.ca/computing.html">Simon Fraser University</a><br/>
-    Canada CIFAR AI Chair<br/>
-    <a href="https://scholar.google.com/citations?user=8gfs8XIAAAAJ&hl=en">Google Scholar</a>
-  </div>
-</div>
-<br>
+<%- @partial('intro', { news_limit: 5 }) %>
 
 <div class="row">
   <div class="col-sm-12">
@@ -46,9 +15,9 @@ layout: "default"
     <div class="panel panel-default">
       <div class="panel-heading">
         <h2>Publications</h2>
-        <span class="badge badge-primary selectable" onclick="util.showAllPubs()">all</span>
+        <button class="badge badge-primary selectable pub_badge" id="pub_all" onclick="util.showAllPubs()">all</button>
         <% for t in @maintags: %>
-          <span class="badge badge-primary selectable" onclick="util.showPubs('maintags', '<%= t %>')"><%= t %></span>
+          <button class="badge badge-primary selectable pub_badge" id="pub_<%= t %>" onclick="util.showPubs('maintags', '<%= t %>')"><%= t %></button>
         <% end %>
       </div>
       <div class="panel-body">

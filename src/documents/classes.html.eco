@@ -1,7 +1,7 @@
 ---
-title: "Angel Xuan Chang - News"
+title: "Classes"
 layout: "default"
-active_page: news
+active_page: classes
 ---
 
 <%- @partial('navbar', false, {}) %>
@@ -10,16 +10,13 @@ active_page: news
 
 <div class="row">
   <div class="col-sm-12">
+
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h2>News</h2>
+        <h2>Classes</h2>
       </div>
       <div class="panel-body">
-        <ul>
-            <% for n in @news: %>
-              <li><%= n.date %> - <%- n.description %></li>
-            <% end %>
-        </ul>
+        Spring 2020 - <a href="https://angelxuanchang.github.io/nlp-class/">CMPT 825 Natural Language Processing</a>
       </div>
     </div>
 

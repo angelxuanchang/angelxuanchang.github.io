@@ -1,7 +1,7 @@
 ---
-title: "Angel Xuan Chang - News"
+title: "Angel Xuan Chang - Projects"
 layout: "default"
-active_page: news
+active_page: projects
 ---
 
 <%- @partial('navbar', false, {}) %>
@@ -10,16 +10,19 @@ active_page: news
 
 <div class="row">
   <div class="col-sm-12">
+
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h2>News</h2>
+        <h2>Projects</h2>
       </div>
       <div class="panel-body">
-        <ul>
-            <% for n in @news: %>
-              <li><%= n.date %> - <%- n.description %></li>
-            <% end %>
-        </ul>
+        Grounded language understanding
+      </div>
+      <div class="panel-body">
+        Natural language driven content creation
+      </div>
+      <div class="panel-body">
+        Story Understanding
       </div>
     </div>
 

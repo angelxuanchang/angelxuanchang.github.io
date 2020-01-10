@@ -1,11 +1,12 @@
 ---
 title: "SFU 3D Language Group"
 layout: "default"
+active_page: group
 ---
 
-<h1>Angel Xuan Chang</h1>
-
 <%- @partial('navbar', false, {}) %>
+
+<%- @partial('intro') %>
 
 <div class="row">
   <div class="col-sm-12">

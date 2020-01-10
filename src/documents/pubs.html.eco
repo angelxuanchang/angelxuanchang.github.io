@@ -1,13 +1,12 @@
 ---
 title: "Angel Xuan Chang - Publications"
 layout: "default"
+active_page: pubs
 ---
 
 <%- @partial('navbar', false, {}) %>
 
-<h1>Angel Xuan Chang</h1>
-
-<%- @partial('navbar', false, {}) %>
+<%- @partial('intro') %>
 
 <div class="row">
   <div class="col-sm-12">
@@ -16,9 +15,9 @@ layout: "default"
     <div class="panel panel-default">
       <div class="panel-heading">
         <h2>Publications</h2>
-        <span class="badge badge-primary selectable" onclick="util.showAllPubs()">all</span>
+        <button class="badge badge-primary selectable" onclick="util.showAllPubs()">all</button>
         <% for t in @maintags: %>
-          <span class="badge badge-primary selectable" onclick="util.showPubs('maintags', '<%= t %>')"><%= t %></span>
+          <button class="badge badge-primary selectable" onclick="util.showPubs('maintags', '<%= t %>')"><%= t %></button>
         <% end %>
       </div>
       <div class="panel-body">

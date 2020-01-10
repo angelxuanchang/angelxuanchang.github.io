@@ -1,0 +1,35 @@
+---
+title: "Contact Details"
+layout: "default"
+active_page: contact
+---
+
+<%- @partial('navbar', false, {}) %>
+
+<%- @partial('intro') %>
+
+<div class="row">
+  <div class="col-sm-12">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>Contact Details</h2>
+      </div>
+      <div class="panel-body">
+        <h3>Mailing Address</h3>
+         Angel Xuan Chang<br/>
+         School of Computing Science<br/>
+         ASB 9971-8888 University Drive<br/>
+         Simon Fraser University<br/>
+         Burnaby, BC V5A 1S6, Canada
+      </div>
+      <div class="panel-body">
+        <h3>Office</h3>
+         Campus: Burnaby Campus<br/>
+         Building: TASC1<br/>
+         Room: 8031
+      </div>
+    </div>
+
+  </div>
+</div>
