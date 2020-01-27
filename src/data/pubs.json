@@ -11,6 +11,7 @@
     ],
     "text": "CONLL 2019",
     "pdf": "https://www.aclweb.org/anthology/K19-1037.pdf",
+    "code": "https://github.com/square/MimicAndRephrase",
     "venue": ["nlp", "conference"],
     "tags": ["rephrase"]
   },
