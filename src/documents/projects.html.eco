@@ -16,13 +16,16 @@ active_page: projects
         <h2>Projects</h2>
       </div>
       <div class="panel-body">
-        Grounded language understanding
-      </div>
-      <div class="panel-body">
         Natural language driven content creation
       </div>
       <div class="panel-body">
-        Story Understanding
+        Grounded language understanding
+      </div>
+      <div class="panel-body">
+        3D shape and scene understanding
+      </div>
+      <div class="panel-body">
+        3D Scene Generation
       </div>
     </div>
 
