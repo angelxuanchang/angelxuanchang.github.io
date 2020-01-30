@@ -338,7 +338,9 @@
     ],
     "text": "Proceedings of EACL 2017",
     "img": "files/quote-attribution.png",
-    "web": "http://nlp.stanford.edu/~muzny/quoteli.html",
+    "pdf": "https://www.aclweb.org/anthology/E17-1044.pdf",
+    "data": "http://nlp.stanford.edu/~muzny/quoteli.html",
+    "code": "http://nlp.stanford.edu/~muzny/quoteli.html",
     "venue": ["nlp", "conference"],
     "tags": [
       "quote-attribution"
