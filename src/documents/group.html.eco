@@ -29,7 +29,7 @@ active_page: group
          <%- @partial('people', false, { people: @masters }) %>
       </div>
       <div class="panel-body">
-        <h3>Undergradudate Students</h3>
+        <h3>Undergraduate Students</h3>
          <%- @partial('people', false, { people: @undergrad }) %>
       </div>
      </div>
