@@ -1,5 +1,28 @@
 [
   {
+    "date": "2020-06",
+    "title": "SAPIEN: a SimulAted Part-based Interactive ENvironment",
+    "authors": [
+      "FanboXiang",
+      "YuzheQin",
+      "KaichunMo",
+      "YikuanXia",
+      "HaoZhu",
+      "FangchenLiu",
+      "MinghuaLiu",
+      "ShawnJiang",
+      "YifuYuan",
+      "HeWang",
+      "LiYi",
+      "angel",
+      "leo",
+      "HaoSu"
+    ],
+    "text": "CVPR 2020",
+    "venue": ["vision", "conference"],
+    "tags": ["simulator", "articulations"]
+  },
+  {
     "date": "2019-11",
     "title": "Mimic and Rephrase: Reflective Listening in Open-Ended Dialogue",
     "authors": [
@@ -60,10 +83,10 @@
       "KaichunMo",
       "ShilinZhu",
       "angel",
-      "eric",
+      "LiYi",
       "SubarnaTripathi",
       "leo",
-      "hao"
+      "HaoSu"
     ],
     "text": "CVPR 2019, arXiv:1812.02713 [cs.CV]",
     "img": "https://cs.stanford.edu/~kaichun/partnet/images/teaser.png",
@@ -186,7 +209,8 @@
     "video": "https://youtu.be/c0mL9K64q84",
     "venue": ["ai", "preprint"],
     "tags": [
-      "navigation"
+      "navigation",
+      "simulator"
     ]
   },
   {
@@ -234,7 +258,7 @@
     "authors": [
       "lin",
       "angel",
-      "hao",
+      "HaoSu",
       "manolis",
       "leo"
     ],
@@ -451,9 +475,9 @@
       "silvio",
       "manolis",
       "shuran",
-      "hao",
+      "HaoSu",
       "jianxiong",
-      "eric",
+      "LiYi",
       "fisher"
     ],
     "text": "arXiv:1512.03012 [cs.GR], Dec 2015",

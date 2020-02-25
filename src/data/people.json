@@ -65,12 +65,12 @@
     "affliations": ["stanford"],
     "web": "http://geometry.stanford.edu/member/guibas/"
   },
-  "hao": {
+  "HaoSu": {
     "name": "Hao Su",
     "affliations": ["ucsd"],
     "web": "http://cseweb.ucsd.edu/~haosu/"
   },
-  "eric": {
+  "LiYi": {
     "name": "Li Yi",
     "web": "https://cs.stanford.edu/~ericyi/"
   },
@@ -262,15 +262,23 @@
   },
   "ArmenAvetisyan": {
     "name": "Armen Avetisyan",
+    "affliations": ["tum"],
     "web": "https://niessnerlab.org/members/armen_avetisyan/profile.html"
   },
   "ManuelDahnert": {
     "name": "Manuel Dahnert",
+    "affliations": ["tum"],
     "web": "https://niessnerlab.org/members/manuel_dahnert/profile.html"
   },
   "KaichunMo": {
     "name": "Kaichun Mo",
+    "affliations": ["stanford"],
     "web": "https://cs.stanford.edu/~kaichun"
+  },
+  "HeWang": {
+    "name": "He Wang",
+    "affliations": ["stanford"],
+    "web": "http://ai.stanford.edu/~hewang/"
   },
   "ShilinZhu": {
     "name": "Shilin Zhu",
@@ -344,6 +352,38 @@
   "ZelunWu": {
     "name": "Zelun Wu"
   },
+  "FanboXiang": {
+    "name": "Fanbo Xiang",
+    "affliations": ["ucsd"],
+    "web": "https://www.fbxiang.com/"
+  },
+  "YuzheQin": {
+    "name": "Yuzhe Qin",
+    "affliations": ["ucsd"]
+  },
+  "YikuanXia": {
+    "name": "Yikuan Xia",
+    "affliations": ["ucsd"]
+  },
+  "HaoZhu": {
+    "name": "Hao Zhu",
+    "affliations": ["ucsd"],
+    "web": "https://berniezhu.github.io/"
+  },
+  "FangchenLiu": {
+    "name": "Fangchen Liu",
+    "affliations": ["ucsd"],
+    "web": "https://fangchenliu.github.io/"
+  },
+  "MinghuaLiu ": {
+    "name": "Minghua Liu",
+    "affliations": ["ucsd"],
+    "web": "http://cseweb.ucsd.edu/~mil070/"
+  },
+  "YifuYuan": {
+    "name": "Yifu Yuan",
+    "affliations": ["ucsd"]
+  },
   "JustinDieter": {
     "name": "Justin Dieter"
   },
@@ -386,7 +426,7 @@
     "tags": ["student", "Master"]
   },
   "ShawnJiang": {
-    "name": "Shawn Jiang",
+    "name": "Hanxiao Jiang",
     "affilations": ["sfu"],
     "tags": ["student", "Undergrad"]
   }
