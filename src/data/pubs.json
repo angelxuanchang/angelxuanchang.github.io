@@ -19,6 +19,9 @@
       "HaoSu"
     ],
     "text": "CVPR 2020",
+    "img": "files/sapien.png",
+    "web": "https://sapien.ucsd.edu/",
+    "pdf": "https://arxiv.org/abs/2003.08515",
     "venue": ["vision", "conference"],
     "tags": ["simulator", "articulations"]
   },
