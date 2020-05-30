@@ -1,6 +1,8 @@
       <% @pubsByYear = @groupBy(@pubs, (p) => p['date'].substring(0,4)) %>
       <% @years = Object.keys(@pubsByYear).map((x) => parseInt(x)).sort().reverse() %>
       <% for year in @years: %>
-        <h3><%= year %></h3>
-        <%- @partial('pubs', false, { pubs: @pubsByYear[year], people: @people }) %>
+        <div class="year">
+          <h3><%= year %></h3>
+          <%- @partial('pubs', false, { pubs: @pubsByYear[year], people: @people }) %>
+        </div>
       <% end %>    

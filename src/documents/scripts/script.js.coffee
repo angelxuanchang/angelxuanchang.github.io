@@ -19,10 +19,18 @@ this.util = {
       else
         $(this).hide()
     )
+    $('.year').each((x,i) ->
+      if $(this).find('.paper:visible').size() > 0
+        $(this).show()
+      else
+        $(this).hide()
+    )
 
   showAllPubs: () ->
     $('.paper').each((x,i) -> 
-        $(this).show()
+      $(this).show()
     )
-
+    $('.year').each((x,i) ->
+      $(this).show()
+    )
 }
