@@ -12,6 +12,9 @@ this.util = {
   showPubs: (field, values) ->
     if not Array.isArray(values)
       values = [values]
+    $('.year').each((x,i) ->
+      $(this).show()
+    )
     $('.paper').each((x,i) -> 
       d = $(this).data()
       if util.hasField(d, field, values)
