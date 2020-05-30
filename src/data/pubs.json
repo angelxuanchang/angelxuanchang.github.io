@@ -81,6 +81,7 @@
   },
   {
     "date": "2018-12",
+    "year": "2019",
     "title": "PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding",
     "authors": [
       "KaichunMo",
@@ -106,6 +107,7 @@
   },
   {
     "date": "2018-11",
+    "year": "2019",
     "title": "Scan2CAD: Learning CAD Model Alignment in RGB-D Scans",
     "authors": [
       "ArmenAvetisyan",
@@ -218,6 +220,7 @@
   },
   {
     "date": "2017-12",
+    "year": "2018",
     "title": "Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View",
     "authors": [
       "shuran",
@@ -239,6 +242,7 @@
   },
   {
     "date": "2017-11",
+    "year": "2018",
     "title": "Linking WordNet to 3D Shapes",
     "authors": [
       "angel",
@@ -334,6 +338,7 @@
   },
   {
     "date": "2016-11",
+    "year": "2017",
     "title": "Semantic Scene Completion from a Single Depth Image",
     "authors": [
       "shuran",

@@ -1,4 +1,4 @@
-      <% @pubsByYear = @groupBy(@pubs, (p) => p['date'].substring(0,4)) %>
+      <% @pubsByYear = @groupBy(@pubs, (p) => if p['year'] then p['year'] else p['date'].substring(0,4)) %>
       <% @years = Object.keys(@pubsByYear).map((x) => parseInt(x)).sort().reverse() %>
       <% for year in @years: %>
         <div class="year">
