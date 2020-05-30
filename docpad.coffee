@@ -17,6 +17,13 @@ docpadConfig = {
         "/scripts/bootstrap.min.js"
         "/scripts/script.js"
       ]
+    groupBy: (array, key) ->
+      return array.reduce( (obj, element) -> 
+        v = if (typeof(key) == 'function') then key(element) else element[key]
+        obj[v] = obj[v] || []
+        obj[v].push(element)
+        return obj
+      , {})
     news: JSON.parse(fs.readFileSync("src/data/news.json"))
     pubs: JSON.parse(fs.readFileSync("src/data/pubs.json"))
     people: JSON.parse(fs.readFileSync("src/data/people.json"))

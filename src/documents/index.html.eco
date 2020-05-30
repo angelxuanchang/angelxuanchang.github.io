@@ -22,7 +22,7 @@ active_page: home
       </div>
       <div class="panel-body">
       <% @refereed = @pubs.filter((x) => @hasField(x, 'venue', ['conference', 'journal']) ) %>
-      <%- @partial('pubs', false, { pubs: @pubs, people: @people }) %>  
+      <%- @partial('pubsByYear', this, { pubs: @pubs, people: @people }) %>
       </div>
     </div>
 

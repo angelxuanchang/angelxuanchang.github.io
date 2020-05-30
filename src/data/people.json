@@ -349,8 +349,8 @@
     "name": "Amir R. Zamir",
     "web": "https://cs.stanford.edu/~amirz/"
   },
-  "ZelunWu": {
-    "name": "Zelun Wu"
+  "ZhelunWu": {
+    "name": "Zhelun Wu"
   },
   "FanboXiang": {
     "name": "Fanbo Xiang",
@@ -397,11 +397,6 @@
   },
   "AliGholami": {
     "name": "Ali Gholami",
-    "affilations": ["sfu"],
-    "tags": ["student", "Master"]
-  },
-  "RoyaJavadi": {
-    "name": "Roya Javadi",
     "affilations": ["sfu"],
     "tags": ["student", "Master"]
   },
