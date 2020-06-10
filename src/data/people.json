@@ -359,7 +359,8 @@
   },
   "YuzheQin": {
     "name": "Yuzhe Qin",
-    "affliations": ["ucsd"]
+    "affliations": ["ucsd"],
+    "web": "https://yzqin.github.io/"
   },
   "YikuanXia": {
     "name": "Yikuan Xia",
@@ -423,6 +424,7 @@
   "ShawnJiang": {
     "name": "Hanxiao Jiang",
     "affilations": ["sfu"],
-    "tags": ["student", "Undergrad"]
+    "tags": ["student", "Undergrad"],
+    "web": "https://jianghanxiao.github.io/"
   }
 }

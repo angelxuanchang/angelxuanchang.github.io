@@ -1,5 +1,13 @@
 [
 {
+    "date": "June, 2020",
+    "description": "I'm co-organizing three workshops at CVPR 2020 <ul><li>June 14th - <a href='https://learn3dgen.github.io/'>Learning 3D Generative Models</a></li><li>June 14-15th - <a href='https://embodied-ai.org/'>Emobided-AI Workshop</a></li><li>June 19th - <a href='http://www.scan-net.org/cvpr2020workshop/'>ScanNet Indoor Scene Understanding Challenge</a></li></ul>"
+},
+{
+    "date": "February, 2020",
+    "description": "Paper on simulation platform with articulated parts (<a href=''>SAPIEN</a>) is accepted at CVPR 2020. "
+},
+{
     "date": "January, 2020",
     "description": "I'm teaching <a href='https://angelxuanchang.github.io/nlp-class'>CMPT 825 Natural language Processing</a> this spring"
 },
