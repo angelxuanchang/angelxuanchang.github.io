@@ -17,7 +17,7 @@
   "matt": {
     "name": "Matthew Fisher",
     "affliations": ["adobe"],
-    "web": "http://graphics.stanford.edu/~mdfisher/"
+    "web": "https://techmatt.github.io/"
   },
   "matthias": {
     "name": "Matthias Nießner",
@@ -30,7 +30,7 @@
   },
   "maciej": {
     "name": "Maciej Halber",
-    "web": "http://www.cs.princeton.edu/~mhalber/"
+    "web": "https://mhalber.github.io/"
   },
   "maneesh": {
     "name": "Maneesh Agrawala",
@@ -94,7 +94,7 @@
   },
   "andy": {
     "name": "Andy Zeng",
-    "web": "http://www.cs.princeton.edu/~andyz/"
+    "web": "http://andyzeng.github.io/"
   },
   "yinda": {
     "name": "Yinda Zhang",
