@@ -426,5 +426,9 @@
     "affilations": ["sfu"],
     "tags": ["student", "Undergrad"],
     "web": "https://jianghanxiao.github.io/"
+  },
+  "DaveZhenyuChen": {
+    "name": "Dave Zhenyu Chen",
+    "affilations": ["tum"]
   }
 }

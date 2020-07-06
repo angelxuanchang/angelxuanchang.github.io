@@ -1,5 +1,9 @@
 [
 {
+  "date": "July, 2020",
+  "description": "Paper on localizing objects in 3D scans is accepted at ECCV 2020."
+},
+{
     "date": "June, 2020",
     "description": "I'm co-organizing three workshops at CVPR 2020 <ul><li>June 14th - <a href='https://learn3dgen.github.io/'>Learning 3D Generative Models</a> (<a href='https://www.rsipvision.com/CVPR2020-Tuesday/24/'>CVPR daily</a>)</li><li>June 14-15th - <a href='https://embodied-ai.org/'>Embodied-AI Workshop</a></li><li>June 19th - <a href='http://www.scan-net.org/cvpr2020workshop/'>ScanNet Indoor Scene Understanding Challenge</a> (<a href='https://www.rsipvision.com/CVPR2020-Wednesday/18/'>CVPR daily</a>)</li></ul>"
 },

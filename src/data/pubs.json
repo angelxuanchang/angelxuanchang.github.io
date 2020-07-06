@@ -1,6 +1,19 @@
 [
   {
     "date": "2020-06",
+    "title": "ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language",
+    "authors": [
+      "DaveZhenyuChen",
+      "angel",
+      "matthias"
+    ],
+    "text": "ECCV 2020",
+    "img": "files/scanrefer.jpg",
+    "venue": ["vision", "conference"],
+    "tags": ["vl"]
+  },
+  {
+    "date": "2020-06",
     "title": "SAPIEN: a SimulAted Part-based Interactive ENvironment",
     "authors": [
       "FanboXiang",
@@ -54,6 +67,7 @@
     ],
     "text": "SIGGRAPH 2019",
     "pdf": "https://drive.google.com/file/d/1CJCM6EQyeUWwxdk6tl8cVxEIhV7s3DoA/view",
+    "code": "https://github.com/brownvc/planit",
     "img": "https://dritchie.github.io/img/pubthumbs/graphsynth.png",
     "venue": ["graphics", "conference"],
     "tags": ["3d", "scene"]
@@ -291,6 +305,7 @@
     "text": "Proceedings of 3DV 2017, arXiv:1709.06158 [cs.CV]",
     "pdf": "https://arxiv.org/pdf/1709.06158.pdf",
     "img": "http://msavva.github.io/files/matterport3d.png",
+    "code": "https://github.com/niessner/Matterport",
     "web": "https://niessner.github.io/Matterport/",
     "venue": ["vision", "conference"],
     "tags": [
