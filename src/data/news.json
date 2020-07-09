@@ -1,7 +1,15 @@
 [
 {
-  "date": "July, 2020",
-  "description": "Paper on localizing objects based on natural language descriptions in 3D scans is accepted at ECCV 2020."
+    "date": "July 9, 2020",
+    "description": "Invited talk at the <a href='https://alvr-workshop.github.io/'>Workshop on Advances in Language and Vision Research (ALVR)</a> at ACL 2020"
+},
+{
+    "date": "July 8, 2020",
+    "description": "<a href='http://www.scan-net.org/'>ScanNet</a> received the <a href='https://sgp2020.sites.uu.nl/awards/'>Symposium on Geometry Processing (SGP)</a> dataset award."
+},
+{
+    "date": "July, 2020",
+    "description": "Paper on localizing objects based on natural language descriptions in 3D scans is accepted at ECCV 2020."
 },
 {
     "date": "June, 2020",
