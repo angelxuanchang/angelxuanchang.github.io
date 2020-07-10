@@ -1,5 +1,9 @@
 [
 {
+    "date": "July 16, 2020",
+    "description": "Lecture on natural language processing at <a href='https://www.sfu.ca/computing/inventthefuture.html'>Invent the Future: AI Scholors Program</a> at Simon Fraser University"
+},
+{
     "date": "July 9, 2020",
     "description": "Invited talk at the <a href='https://alvr-workshop.github.io/'>Workshop on Advances in Language and Vision Research (ALVR)</a> at ACL 2020"
 },
