@@ -7,7 +7,7 @@
   "manolis": {
     "name": "Manolis Savva",
     "affliations": ["sfu"],
-    "web": "http://graphics.stanford.edu/~msavva/"
+    "web": "https://msavva.github.io/"
   },
   "pat": {
     "name": "Pat Hanrahan",
@@ -427,8 +427,19 @@
     "tags": ["student", "Undergrad"],
     "web": "https://jianghanxiao.github.io/"
   },
+  "QiruiWu": {
+    "name": "Qirui Wu",
+    "affilations": ["sfu"],
+    "tags": ["student", "Undergrad"]
+  },
+  "LewisLin": {
+    "name": "Lewis Lin",
+    "affilations": ["sfu"],
+    "tags": ["student", "Undergrad"]
+  },
   "DaveZhenyuChen": {
     "name": "Dave Zhenyu Chen",
+    "web": "http://www.niessnerlab.org/members/zhenyu_chen/profile.html",
     "affilations": ["tum"]
   }
 }

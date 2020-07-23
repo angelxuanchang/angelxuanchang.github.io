@@ -53,6 +53,7 @@
       "arun"
     ],
     "text": "CONLL 2019",
+    "img": "files/mimic.png",
     "pdf": "https://www.aclweb.org/anthology/K19-1037.pdf",
     "code": "https://github.com/square/MimicAndRephrase",
     "venue": ["nlp", "conference"],
@@ -74,7 +75,7 @@
     "code": "https://github.com/brownvc/planit",
     "img": "https://dritchie.github.io/img/pubthumbs/graphsynth.png",
     "venue": ["graphics", "conference"],
-    "tags": ["3d", "scene"]
+    "tags": ["3d", "scene", "synthesis"]
   },
   {
     "date": "2019-03",
@@ -165,6 +166,7 @@
     "code": "https://github.com/brownvc/deep-synth",
     "venue": ["graphics", "conference"],
     "tags": [
+      "3d",
       "scene",
       "synthesis"
     ]
@@ -210,8 +212,11 @@
     "code": "https://github.com/kchen92/text2shape/",
     "venue": ["vision", "conference"],
     "tags": [
+      "3d",
+      "vl",
       "shape",
-      "synthesis"
+      "synthesis",
+      "text2shape"
     ]
   },
   {
@@ -348,6 +353,7 @@
     "web": "http://www.scan-net.org/",
     "code": "https://github.com/ScanNet/ScanNet",
     "video": "http://www.youtube.com/watch?v=Olx4OnoZWQQ",
+    "benchmark": "http://kaldir.vc.in.tum.de/scannet_benchmark/",
     "venue": ["vision", "conference"],
     "tags": [
       "3d",
@@ -408,7 +414,7 @@
     "text": "arXiv:1703.00061 [cs.CG], March 2017",
     "img": "http://msavva.github.io/files/scenesuggest.png",
     "pdf": "http://arxiv.org/abs/1703.00061.pdf",
-    "demo": "https://dovahkiin.stanford.edu/fuzzybox/scene-suggest.html",
+    "demo": "http://aspis.cmpt.sfu.ca/scene-toolkit/scene-suggest.html",
     "venue": ["preprint"]
   },
   {
@@ -423,7 +429,7 @@
     "text": "arXiv:1703.00050 [cs.CG], March 2017",
     "img": "http://msavva.github.io/files/sceneseer.png",
     "pdf": "http://arxiv.org/abs/1703.00050.pdf",
-    "demo": "https://dovahkiin.stanford.edu/fuzzybox/text2scene.html",
+    "demo": "http://aspis.cmpt.sfu.ca/scene-toolkit/text2scene.html",
     "venue": ["preprint"]
   },
   {
@@ -513,7 +519,8 @@
     "bib": "http://shapenet.cs.stanford.edu/resources/shapenet.bib",
     "code": "https://github.com/ShapeNet",
     "web": "http://shapenet.cs.stanford.edu/",
-    "venue": ["3d", "preprint"]
+    "venue": ["preprint"],
+    "tags": ["3d", "shape", "dataset"]
   },
   {
     "date": "2015-10",
