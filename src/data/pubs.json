@@ -9,6 +9,10 @@
     ],
     "text": "ECCV 2020",
     "img": "files/scanrefer.jpg",
+    "web": "https://daveredrum.github.io/ScanRefer/",
+    "pdf": "https://daveredrum.github.io/ScanRefer/davezchen_eccv2020_scanrefer.pdf",
+    "code": "https://github.com/daveredrum/ScanRefer",
+    "benchmark": "http://kaldir.vc.in.tum.de/scanrefer_benchmark/",
     "venue": ["vision", "conference"],
     "tags": ["vl"]
   },
