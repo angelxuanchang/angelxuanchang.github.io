@@ -221,6 +221,14 @@
     "name": "Vidya Setlur",
     "web": "https://research.tableau.com/user/vidya-setlur"
   },
+  "EnamulHoque": {
+    "name": "Enamul Hoque",
+    "web": "https://www.yorku.ca/enamulh/"
+  },
+  "DaeHyunKim": {
+    "name": "Dae Hyun Kim",
+    "web": "https://dhkim16.github.io/"
+  },
   "SarahBattersby": {
     "name": "Sarah E. Battersby",
     "web": "https://research.tableau.com/user/sarah-battersby"
@@ -404,7 +412,7 @@
   "SoniaRaychaudhuri": {
     "name": "Sonia Raychaudhuri",
     "affilations": ["sfu"],
-    "tags": ["student", "Master"]
+    "tags": ["student", "PhD"]
   },
   "LeonKochiev": {
     "name": "Leon Kochiev",
@@ -424,7 +432,7 @@
   "ShawnJiang": {
     "name": "Hanxiao Jiang",
     "affilations": ["sfu"],
-    "tags": ["student", "Undergrad"],
+    "tags": ["student", "Master"],
     "web": "https://jianghanxiao.github.io/"
   },
   "QiruiWu": {
@@ -441,5 +449,15 @@
     "name": "Dave Zhenyu Chen",
     "web": "http://www.niessnerlab.org/members/zhenyu_chen/profile.html",
     "affilations": ["tum"]
+  },
+  "SaimWani": {
+    "name": "Saim Wani"
+  },
+  "ShivanshPatel": {
+    "name": "Shivansh Patel"
+  },
+  "UnnatJain": {
+    "name": "Unnat Jain",
+    "web": "https://unnat.github.io/"
   }
 }
