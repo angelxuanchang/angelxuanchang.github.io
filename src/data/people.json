@@ -429,8 +429,8 @@
     "affilations": ["sfu"],
     "tags": ["student", "Master"]
   },
-  "ShawnJiang": {
-    "name": "Hanxiao Jiang",
+  "HanxiaoJiang": {
+    "name": "Hanxiao (Shawn) Jiang",
     "affilations": ["sfu"],
     "tags": ["student", "Master"],
     "web": "https://jianghanxiao.github.io/"
@@ -459,5 +459,22 @@
   "UnnatJain": {
     "name": "Unnat Jain",
     "web": "https://unnat.github.io/"
+  },
+  "VladmirKim": {
+    "name": "Vladmir Kim",
+    "web": "http://www.vovakim.com/"
+  },
+  "SiddharthaChaudhuri": {
+    "name": "Siddhartha Chaudhuri",
+    "web": "https://www.cse.iitb.ac.in/~sidch/"
+  },
+  "XianghaoXu": {
+    "name": "Xianghao Xu"
+  },
+  "DavidCharatan": {
+    "name": "David Charatan"
+  },
+  "MaeHeitmann": {
+    "name": "Mae Heitmann"
   }
 }

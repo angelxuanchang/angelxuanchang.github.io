@@ -1,5 +1,52 @@
 [
   {
+    "date": "2020-10",
+    "title": "Motion Annotation Programs: A Scalable Approach to Annotating Kinematic. Articulations in Large 3D Shape Collections",
+    "authors": [
+      "XianghaoXu",
+      "DavidCharatan",
+      "SoniaRaychaudhuri",
+      "HanxiaoJiang",
+      "MaeHeitmann",
+      "VladmirKim",
+      "SiddharthaChaudhuri",
+      "manolis",
+      "angel",
+      "DanielRitchie"
+    ],
+    "img": "files/maps.png",
+    "text": "3DV 2020",
+    "venue": ["vision", "conference"]
+  },
+  {
+    "date": "2020-10",
+    "title": "Multi-ON: Benchmarking Semantic Map Memoryusing Multi-Object Navigation",
+    "authors": [
+      "SaimWani",
+      "ShivanshPatel",
+      "UnnatJain",
+      "angel",
+      "manolis"
+    ],
+    "text": "NeurIPS 2020",
+    "venue": ["ml", "conference"]
+  },
+  {
+    "date": "2020-07",
+    "title": "Sneak Pique: Exploring Autocompletion as a Data Discovery Scaffold for Supporting Visual Analysis",
+    "authors": [
+      "VidyaSetlur",
+      "EnamulHoque",
+      "DaeHyunKim",
+      "angel"
+    ],
+    "text": "UIST 2020",
+    "img": "https://research.tableau.com/sites/default/files/uploads/sneakpique_1.png",
+    "web": "https://research.tableau.com/paper/sneak-pique-exploring-autocompletion-data-discovery-scaffold-supporting-visual-analysis",
+    "pdf": "https://research.tableau.com/sites/default/files/Autocomplete-UIST2020.pdf",
+    "venue": ["hci", "conference"]
+  },
+  {
     "date": "2020-06",
     "title": "ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language",
     "authors": [
@@ -27,7 +74,7 @@
       "HaoZhu",
       "FangchenLiu",
       "MinghuaLiu",
-      "ShawnJiang",
+      "HanxiaoJiang",
       "YifuYuan",
       "HeWang",
       "LiYi",
