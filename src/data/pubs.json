@@ -20,7 +20,7 @@
   },
   {
     "date": "2020-10",
-    "title": "Multi-ON: Benchmarking Semantic Map Memoryusing Multi-Object Navigation",
+    "title": "Multi-ON: Benchmarking Semantic Map Memory using Multi-Object Navigation",
     "authors": [
       "SaimWani",
       "ShivanshPatel",
@@ -29,6 +29,9 @@
       "manolis"
     ],
     "text": "NeurIPS 2020",
+    "img": "files/multion.jpg",
+    "web": "https://shivanshpatel35.github.io/multi-ON/",
+    "pdf": "https://shivanshpatel35.github.io/multi-ON/resources/MultiON.pdf",
     "venue": ["ml", "conference"]
   },
   {
@@ -135,7 +138,7 @@
       "KaiXu"
     ],
     "text": "CVPR 2019, arXiv:1903.03757 [cs.CV]",
-    "img": "http://www.yifeishi.net/files/hierarchylayout1.JPG",
+    "img": "files/hierarchylayout.jpg",
     "pdf": "https://arxiv.org/pdf/1903.03757",
     "web": "http://www.yifeishi.net/hierarchylayout.html",
     "code": "https://github.com/yifeishi/HierarchyLayout",
@@ -395,7 +398,7 @@
       "matthias"
     ],
     "text": "Proceedings of CVPR 2017 (spotlight), arXiv:1702.04405 [cs.CV]",
-    "img": "http://www.scan-net.org/img/annotations.png",
+    "img": "files/scannet.jpg",
     "pdf": "https://arxiv.org/pdf/1702.04405.pdf",
     "web": "http://www.scan-net.org/",
     "code": "https://github.com/ScanNet/ScanNet",
