@@ -1,5 +1,13 @@
 [
 {
+    "date": "November 25, 2020",
+    "description": "Invited talk at <a href='https://www.virtualchair.net/events/caida'>Emerging Technologies: BC's AI Showcase</a>"
+},
+{
+    "date": "November, 2020",
+    "description": "Whitepaper on <a href='https://arxiv.org/pdf/2011.01975.pdf'>Rearrangement: A Challenge for Embodied AI</a>"
+},
+{
     "date": "October, 2020",
     "description": "Papers accepted at UIST 2020, 3DV 2020, and NeurIPS 2020"
 },

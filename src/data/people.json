@@ -477,5 +477,28 @@
   },
   "MaeHeitmann": {
     "name": "Mae Heitmann"
+  },
+  "DhruvBatra": {
+    "name": "Dhruv Batra",
+    "web": "https://www.cc.gatech.edu/~dbatra/"
+  },
+  "SoniaChernova": {
+    "name": "Sonia Chernova",
+    "web": "https://www.cc.gatech.edu/~chernova/"
+  },
+  "AndrewDavison": {
+    "name": "Andrew J. Davison",
+    "web": "https://www.doc.ic.ac.uk/~ajd/"
+  },
+  "JiaDeng": {
+    "name": "Jia Deng",
+    "web": "https://www.cs.princeton.edu/~jiadeng/"
+  },
+  "SergeyLevine": {
+    "name": "Sergey Levine",
+    "web": "https://people.eecs.berkeley.edu/~svlevine/"
+  },
+  "IgorMordatch": {
+    "name": "Igor Mordatch"
   }
 }

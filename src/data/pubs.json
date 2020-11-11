@@ -1,5 +1,26 @@
 [
   {
+    "date": "2020-11",
+    "title": "Rearrangement: A Challenge for Embodied AI",
+    "authors": [
+      "DhruvBatra",
+      "angel",
+      "SoniaChernova",
+      "AndrewDavison",
+      "JiaDeng",
+      "vladlen",
+      "SergeyLevine",
+      "JitendraMalik",
+      "IgorMordatch",
+      "RoozbehMottaghi",
+      "manolis",
+      "HaoSu"
+    ],
+    "img": "files/rearrangement.png",
+    "text": "arXiv preprint arXiv:2011.01975 [cs.AI], November 2020",
+    "pdf": "https://arxiv.org/pdf/2011.01975.pdf"
+  },
+  {
     "date": "2020-10",
     "title": "Motion Annotation Programs: A Scalable Approach to Annotating Kinematic. Articulations in Large 3D Shape Collections",
     "authors": [
@@ -237,7 +258,7 @@
       "manolis",
       "AmirZamir"
     ],
-    "text": "arXiv preprint arXiv:1807.06757 [cs.AI]",
+    "text": "arXiv preprint arXiv:1807.06757 [cs.AI], July 2018",
     "pdf": "https://arxiv.org/abs/1807.06757",
     "venue": ["ai", "preprint"],
     "tags": [
