@@ -35,8 +35,12 @@
       "angel",
       "DanielRitchie"
     ],
-    "img": "files/maps.png",
     "text": "3DV 2020",
+    "img": "files/maps.png",
+    "web": "http://visual.cs.brown.edu/projects/articulations-webpage/",
+    "pdf": "http://visual.cs.brown.edu/projects/articulations-webpage/articulations_3dv2020.pdf",
+    "code": "https://github.com/brownvc/articulations",
+    "demo": "http://articulations.cs.brown.edu/",
     "venue": ["vision", "conference"]
   },
   {
@@ -53,6 +57,7 @@
     "img": "files/multion.jpg",
     "web": "https://shivanshpatel35.github.io/multi-ON/",
     "pdf": "https://shivanshpatel35.github.io/multi-ON/resources/MultiON.pdf",
+    "code": "https://github.com/saimwani/multiON",
     "venue": ["ml", "conference"]
   },
   {
