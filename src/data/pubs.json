@@ -1,5 +1,51 @@
 [
   {
+    "date": "2021-06",
+    "title": "Scan2Cap: Context-aware Dense Captioning in RGB-D Scans",
+    "authors": [
+      "DaveZhenyuChen",
+      "AliGholami",
+      "matthias",
+      "angel"
+    ],
+    "text": "CVPR 2021",
+    "pdf": "https://arxiv.org/pdf/2012.02206.pdf",
+    "img": "files/scan2cap.jpg",
+    "web": "https://daveredrum.github.io/Scan2Cap/",
+    "code": "https://github.com/daveredrum/Scan2Cap",
+    "venue": ["vision", "conference"],
+    "tags": ["vl"]
+  },
+  {
+    "date": "2021-06",
+    "title": "Plan2Scene: Converting Floorplans to 3D Scenes",
+    "authors": [
+      "madhawa",
+      "QiruiWu",
+      "yasu",
+      "angel",
+      "manolis"
+    ],
+    "text": "CVPR 2021",
+    "img": "files/plan2scene.png",
+    "venue": ["vision", "conference"],
+    "tags": ["3d"]
+  },
+  {
+    "date": "2021-06",
+    "title": "Mirror3D: Depth Refinement for Mirror Surfaces",
+    "authors": [
+      "JiaqiTan",
+      "WeijieLin",
+      "angel",
+      "manolis"
+    ],
+    "text": "CVPR 2021",
+    "img": "files/mirror3d.png",
+    "venue": ["vision", "conference"],
+    "tags": ["3d"]
+  },
+  {
     "date": "2020-11",
     "title": "Rearrangement: A Challenge for Embodied AI",
     "authors": [

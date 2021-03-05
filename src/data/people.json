@@ -398,6 +398,14 @@
   },
   "TianWang": {
     "name": "Tian Wang"
+  },  
+  "madhawa": {
+    "name": "Madhawa Vidanapathirana",
+    "affilations": ["sfu"]
+  },
+  "yasu": {
+    "name": "Yasutaka Furukawa",
+    "affilations": ["sfu"]
   },
   "YasamanEtesam": {
     "name": "Yasaman Etesam",
@@ -440,8 +448,8 @@
     "affilations": ["sfu"],
     "tags": ["student", "Undergrad"]
   },
-  "LewisLin": {
-    "name": "Lewis Lin",
+  "WeijieLin": {
+    "name": "Weijie (Lewis) Lin",
     "affilations": ["sfu"],
     "tags": ["student", "Undergrad"]
   },
@@ -449,6 +457,10 @@
     "name": "Dave Zhenyu Chen",
     "web": "http://www.niessnerlab.org/members/zhenyu_chen/profile.html",
     "affilations": ["tum"]
+  },
+  "JiaqiTan": {
+    "name": "Jiaqi Tan",
+    "affilations": ["sfu"]
   },
   "SaimWani": {
     "name": "Saim Wani"
