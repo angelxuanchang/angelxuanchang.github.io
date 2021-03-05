@@ -401,10 +401,12 @@
   },  
   "madhawa": {
     "name": "Madhawa Vidanapathirana",
+    "web": "https://madhawav.github.io/",
     "affilations": ["sfu"]
   },
   "yasu": {
     "name": "Yasutaka Furukawa",
+    "web": "https://www.cs.sfu.ca/~furukawa/",
     "affilations": ["sfu"]
   },
   "YasamanEtesam": {
@@ -414,6 +416,7 @@
   },
   "AliGholami": {
     "name": "Ali Gholami",
+    "web": "https://aligholami.github.io/",
     "affilations": ["sfu"],
     "tags": ["student", "Master"]
   },
