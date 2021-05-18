@@ -466,7 +466,8 @@
     "affilations": ["sfu"]
   },
   "SaimWani": {
-    "name": "Saim Wani"
+    "name": "Saim Wani",
+    "web": "https://saimwani.github.io/"
   },
   "ShivanshPatel": {
     "name": "Shivansh Patel",

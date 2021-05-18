@@ -261,7 +261,6 @@
     "text": "CVPR 2019 (oral), arXiv:1811.11187 [cs.CV]",
     "img": "files/scan2cad.png",
     "pdf": "https://arxiv.org/pdf/1811.11187.pdf",
-    "web": "https://www.scan2cad.org/",
     "video": "http://www.youtube.com/watch?v=PiHSYpgLTfA",
     "code": "https://github.com/skanti/Scan2CAD",
     "benchmark": "http://kaldir.vc.in.tum.de/scan2cad_benchmark/",
