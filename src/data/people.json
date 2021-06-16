@@ -442,9 +442,9 @@
   },
   "HanxiaoJiang": {
     "name": "Hanxiao (Shawn) Jiang",
+    "web": "https://jianghanxiao.github.io/",
     "affilations": ["sfu"],
-    "tags": ["student", "Master"],
-    "web": "https://jianghanxiao.github.io/"
+    "tags": ["student", "Master"]
   },
   "QiruiWu": {
     "name": "Qirui Wu",
@@ -453,6 +453,7 @@
   },
   "WeijieLin": {
     "name": "Weijie (Lewis) Lin",
+    "web": "https://lewislinn.github.io/",
     "affilations": ["sfu"],
     "tags": ["student", "Undergrad"]
   },
@@ -463,6 +464,7 @@
   },
   "JiaqiTan": {
     "name": "Jiaqi Tan",
+    "web": "https://christinatan0704.github.io/mysite/",
     "affilations": ["sfu"]
   },
   "SaimWani": {

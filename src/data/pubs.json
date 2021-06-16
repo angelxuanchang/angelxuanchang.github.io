@@ -27,7 +27,10 @@
       "manolis"
     ],
     "text": "CVPR 2021",
+    "pdf": "https://arxiv.org/pdf/2106.05375.pdf",
     "img": "files/plan2scene.png",
+    "web": "https://3dlg-hcvc.github.io/plan2scene/",
+    "code": "https://github.com/3dlg-hcvc/plan2scene",
     "venue": ["vision", "conference"],
     "tags": ["3d"]
   },
@@ -41,7 +44,10 @@
       "manolis"
     ],
     "text": "CVPR 2021",
+    "pdf": "https://arxiv.org/pdf/2106.06629.pdf",
     "img": "files/mirror3d.png",
+    "web": "https://3dlg-hcvc.github.io/mirror3d/",
+    "code": "https://github.com/3dlg-hcvc/mirror3d",
     "venue": ["vision", "conference"],
     "tags": ["3d"]
   },
