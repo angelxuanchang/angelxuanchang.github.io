@@ -1,5 +1,9 @@
 [
 {
+    "date": "July 10-14 2021",
+    "description": "<a href='https://sgp2021.github.io/'>SGP (Symposium for Geometry Processing)</a> happening virtually!"
+},
+{
     "date": "May 2021",
     "description": "Challenges and Workshops at CVPR 2021.  <ul><li>June 19th - <a href='https://sites.google.com/view/cvpr2021-3d-vision-robotics'>3D Vision and Robotics</a></li><li>June 20th - <a href='http://www.scan-net.org/cvpr2021workshop/'>ScanNet Indoor Scene Understanding Challenge</a></li><li>June 20th - <a href='http://multion-challenge.cs.sfu.ca/'>Multi-Object Navigation Challenge</a> at the <a href='https://embodied-ai.org/'>Embodied-AI workshop</a></li><li>June 25th - <a href='https://learn3dg.github.io/'>Learning to Generate 3D Shapes and Scenes</a></li><li>June 25th - <a href='https://language3dscenes.github.io//'>Language for 3D Scenes</a></li></ul>"
 },

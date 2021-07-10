@@ -12,9 +12,14 @@
                 <%= p.title %>
                 <% if p.web: %></a><% end %>
               </h4>
-              <% for a in p.authors when @people[a]: %>
-                <% if @people[a].special: %><b><% end %>
-                <% if @people[a].web: %><a href="<%= @people[a].web %>"><%= @people[a].name %></a><% else: %><%= @people[a].name %><% end %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %><% if @people[a].special: %></b><% end %>
+              <% for a in p.authors: %>
+                <% if @people[a]: %>
+                  <% if @people[a].special: %><b><% end %>
+                  <% if @people[a].web: %><a href="<%= @people[a].web %>"><%= @people[a].name %></a><% else: %><%= @people[a].name %><% end %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %>
+                  <% if @people[a].special: %></b><% end %>
+                <% else: %>
+                  <%= a %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %>
+                <% end %>
               <% end %>
               <%- p.text %><br>
               <% n=0 %>

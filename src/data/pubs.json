@@ -1,6 +1,24 @@
 [
   {
     "date": "2021-06",
+    "title": "Roominoes: Learning to Assemble 3D Rooms into Floor Plans",
+    "authors": [
+      "KaiWang",
+      "XianghaoXu",
+      "Leon Lei",
+      "Selena Ling",
+      "Natalie Lindsay",
+      "angel",
+      "manolis",
+      "DanielRitchie"
+    ],
+    "text": "SGP 2021",
+    "img": "files/roominoes.png",
+    "venue": ["graphics", "conference"],
+    "tags": ["3d"]
+  },
+  {
+    "date": "2021-06",
     "title": "Scan2Cap: Context-aware Dense Captioning in RGB-D Scans",
     "authors": [
       "DaveZhenyuChen",
