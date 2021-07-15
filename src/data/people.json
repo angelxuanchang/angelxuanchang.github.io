@@ -519,5 +519,41 @@
   },
   "IgorMordatch": {
     "name": "Igor Mordatch"
+  },
+  "AndrewSzot": {
+    "name": "Andrew Szot",
+    "web": "https://www.andrewszot.com/"
+  },
+  "ErikWijmans": {
+    "name": "Erik Wijmans",
+    "web": "https://wijmans.xyz/"
+  },
+  "YiliZhao": {
+    "name": "Yili Zhao",
+    "web": "http://www.yilizhao.net/"
+  },
+  "DevendraChaplot": {
+    "name": "Devendra Chaplot",
+    "web": "https://devendrachaplot.github.io/"
+  },
+  "AaronGokaslan": {
+    "name": "Aaron Gokaslan",
+    "web": "https://skylion007.github.io/"
+  },
+  "Mustafa Mukadam": {
+    "name": "Mustafa Mukadam",
+    "web": "http://www.mustafamukadam.com/"
+  },
+  "FranziskaMeier": {
+    "name": "Franziska Meier",
+    "web": "https://fmeier.github.io/"
+  },
+  "ZsoltKira": {
+    "name": "Zsolt Kira",
+    "web": "https://www.cc.gatech.edu/~zk15/"
+  },
+  "VladimírVondrus": {
+    "name": "Vladimír Vondrus",
+    "web": "https://github.com/mosra"
   }
 }

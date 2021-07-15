@@ -1,6 +1,37 @@
 [
   {
     "date": "2021-06",
+    "title": "Habitat 2.0: Training Home Assistants to Rearrange their Habitat",
+    "authors": [
+      "AndrewSzot",
+      "Alexander Clegg", 
+      "Eric Undersander",
+      "ErikWijmans",
+      "YiliZhao",
+      "John Turner", 
+      "Noah Maestre",
+      "MustafaMukadam",
+      "DevendraChaplot",
+      "Oleksandr Maksymets",
+      "AaronGokaslan",
+      "VladimírVondrus",
+      "Sameer Dharur",
+      "FranziskaMeier",
+      "Wojciech Galuba",
+      "angel",
+      "ZsoltKira",
+      "vladlen",
+      "JitendraMalik",
+      "manolis",
+      "DhruvBatra"
+    ],
+    "text": "arXiv preprint arXiv:2106.14405 [cs.LG,cs.RO], June 2020",
+    "img": "files/hab2.jpeg",
+    "pdf": "https://arxiv.org/pdf/2106.14405.pdf",
+    "venue": ["ai"]
+  },
+  {
+    "date": "2021-06",
     "title": "Roominoes: Learning to Assemble 3D Rooms into Floor Plans",
     "authors": [
       "KaiWang",
@@ -14,6 +45,8 @@
     ],
     "text": "SGP 2021",
     "img": "files/roominoes.png",
+    "pdf": "https://drive.google.com/file/d/1aSePGciFxnLRF4dhJynmNNctVfndIRpE/view",
+    "video": "https://www.youtube.com/watch?v=GBzpgLPP5VY&ab_channel=KaiWang",
     "venue": ["graphics", "conference"],
     "tags": ["3d"]
   },
