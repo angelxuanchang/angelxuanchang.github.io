@@ -1,5 +1,22 @@
 [
   {
+    "date": "2021-08",
+    "title": "Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents",
+    "authors": [
+      "ShivanshPatel",
+      "SaimWani",
+      "UnnatJain",
+      "AlexanderSchwing",
+      "SvetlanaLazebnik",
+      "manolis",
+      "angel"
+    ],
+    "text": "ICCV 2021",
+    "img": "files/comon.png",
+    "venue": ["vision", "conference"],
+    "tags": ["embodied"]
+  },
+  {
     "date": "2021-06",
     "title": "Habitat 2.0: Training Home Assistants to Rearrange their Habitat",
     "authors": [
@@ -25,10 +42,13 @@
       "manolis",
       "DhruvBatra"
     ],
-    "text": "arXiv preprint arXiv:2106.14405 [cs.LG,cs.RO], June 2020",
+    "text": "arXiv preprint arXiv:2106.14405 [cs.LG,cs.RO], June 2021",
     "img": "files/hab2.jpeg",
     "pdf": "https://arxiv.org/pdf/2106.14405.pdf",
-    "venue": ["ai"]
+    "post": "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/",
+    "code": "https://github.com/facebookresearch/habitat-sim",
+    "venue": ["ai"],
+    "tags": ["embodied","simulator"]
   },
   {
     "date": "2021-06",
@@ -65,7 +85,7 @@
     "web": "https://daveredrum.github.io/Scan2Cap/",
     "code": "https://github.com/daveredrum/Scan2Cap",
     "venue": ["vision", "conference"],
-    "tags": ["vl"]
+    "tags": ["vl","3d"]
   },
   {
     "date": "2021-06",
@@ -121,7 +141,8 @@
     ],
     "img": "files/rearrangement.png",
     "text": "arXiv preprint arXiv:2011.01975 [cs.AI], November 2020",
-    "pdf": "https://arxiv.org/pdf/2011.01975.pdf"
+    "pdf": "https://arxiv.org/pdf/2011.01975.pdf",
+    "tags": ["embodied"]
   },
   {
     "date": "2020-10",
@@ -144,7 +165,8 @@
     "pdf": "http://visual.cs.brown.edu/projects/articulations-webpage/articulations_3dv2020.pdf",
     "code": "https://github.com/brownvc/articulations",
     "demo": "http://articulations.cs.brown.edu/",
-    "venue": ["vision", "conference"]
+    "venue": ["vision", "conference"],
+    "tags": ["3d","articulations"]
   },
   {
     "date": "2020-10",
@@ -161,7 +183,8 @@
     "web": "https://shivanshpatel35.github.io/multi-ON/",
     "pdf": "https://shivanshpatel35.github.io/multi-ON/resources/MultiON.pdf",
     "code": "https://github.com/saimwani/multiON",
-    "venue": ["ml", "conference"]
+    "venue": ["ml", "conference"],
+    "tags": ["embodied"]
   },
   {
     "date": "2020-07",
@@ -193,7 +216,7 @@
     "code": "https://github.com/daveredrum/ScanRefer",
     "benchmark": "http://kaldir.vc.in.tum.de/scanrefer_benchmark/",
     "venue": ["vision", "conference"],
-    "tags": ["vl"]
+    "tags": ["vl","3d"]
   },
   {
     "date": "2020-06",
@@ -416,7 +439,8 @@
     "venue": ["ai", "preprint"],
     "tags": [
       "navigation",
-      "simulator"
+      "simulator",
+      "embodied"
     ]
   },
   {

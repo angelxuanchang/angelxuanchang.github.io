@@ -555,5 +555,13 @@
   "VladimírVondrus": {
     "name": "Vladimír Vondrus",
     "web": "https://github.com/mosra"
+  },
+  "AlexanderSchwing": {
+    "name": "Alexander Schwing",
+    "web": "https://alexander-schwing.de/"
+  },
+  "SvetlanaLazebnik": {
+    "name": "Svetlana Lazebnik",
+    "web": "https://slazebni.cs.illinois.edu/"
   }
 }
