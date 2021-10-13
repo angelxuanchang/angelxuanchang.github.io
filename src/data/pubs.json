@@ -1,5 +1,48 @@
 [
   {
+    "date": "2021-10",
+    "title": "Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI",
+    "authors": [
+      "SanthoshRamakrishnana",
+      "AaronGokaslan",
+      "ErikWijmans",
+      "Oleksandr Maksymets",
+      "Alexander Clegg",
+      "John Turner",
+      "Eric Undersander",
+      "Wojciech Galuba",
+      "Andrew Westbury",
+      "angel",
+      "manolis",
+      "YiliZhao",
+      "DhruvBatra"
+    ],
+    "text": "NeurIPS Datasets Track 2021",
+    "img": "files/hm3d.jpeg",
+    "pdf": "https://arxiv.org/pdf/2109.08238.pdf",
+    "web": "https://aihabitat.org/datasets/hm3d/",
+    "venue": ["ai"],
+    "tags": ["embodied","data", "3d"]
+  },
+  {
+    "date": "2021-10",
+    "title": "Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments",
+    "authors": [
+      "SoniaRaychaudhuri",
+      "ShivanshPatel",
+      "SaimWani",
+      "UnnatJain",
+      "angel"
+    ],
+    "text": "EMNLP 2021",
+    "web": "https://3dlg-hcvc.github.io/LAW-VLNCE/",
+    "pdf": "https://arxiv.org/pdf/2109.15207.pdf",
+    "code": "https://github.com/3dlg-hcvc/LAW-VLNCE",
+    "img": "files/law-vlnce.gif",
+    "venue": ["nlp", "conference"],
+    "tags": ["embodied"]
+  },
+  {
     "date": "2021-08",
     "title": "Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents",
     "authors": [
@@ -12,6 +55,9 @@
       "angel"
     ],
     "text": "ICCV 2021",
+    "web": "https://shivanshpatel35.github.io/comon/",
+    "pdf": "https://arxiv.org/pdf/2110.05769.pdf",
+    "code": "https://github.com/saimwani/CoMON",
     "img": "files/comon.png",
     "venue": ["vision", "conference"],
     "tags": ["embodied"]
@@ -42,12 +88,12 @@
       "manolis",
       "DhruvBatra"
     ],
-    "text": "arXiv preprint arXiv:2106.14405 [cs.LG,cs.RO], June 2021",
+    "text": "NeurIPS 2021",
     "img": "files/hab2.jpeg",
     "pdf": "https://arxiv.org/pdf/2106.14405.pdf",
     "post": "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/",
     "code": "https://github.com/facebookresearch/habitat-sim",
-    "venue": ["ai"],
+    "venue": ["ai", "conference"],
     "tags": ["embodied","simulator"]
   },
   {

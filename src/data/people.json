@@ -450,13 +450,19 @@
   "QiruiWu": {
     "name": "Qirui Wu",
     "affilations": ["sfu"],
-    "tags": ["student", "Undergrad"]
+    "tags": ["student", "PhD"]
   },
   "WeijieLin": {
     "name": "Weijie (Lewis) Lin",
     "web": "https://lewislinn.github.io/",
     "affilations": ["sfu"],
     "tags": ["student", "Undergrad"]
+  },
+  "HanHungLee": {
+    "name": "Han-Hung Lee",
+    "web": "https://hanhung.github.io/",
+    "affliations": ["sfu"],
+    "tags": ["student", "PhD"]
   },
   "DaveZhenyuChen": {
     "name": "Dave Zhenyu Chen",
@@ -563,5 +569,9 @@
   "SvetlanaLazebnik": {
     "name": "Svetlana Lazebnik",
     "web": "https://slazebni.cs.illinois.edu/"
+  },
+  "SanthoshRamakrishnan": {
+    "name": "Santhosh K. Ramakrishnan",
+    "web": "https://srama2512.github.io/"
   }
 }
