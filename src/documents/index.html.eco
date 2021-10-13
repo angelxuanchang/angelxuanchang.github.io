@@ -11,19 +11,30 @@ active_page: home
 <div class="row">
   <div class="col-sm-12">
 
-    <% @pubs.forEach((x,i) -> x.id = "pub_" + i) %>
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h2>Publications</h2>
-        <button class="badge badge-primary selectable pub_badge" id="pub_all" onclick="util.showAllPubs()">all</button>
-        <% for t in @maintags: %>
-          <button class="badge badge-primary selectable pub_badge" id="pub_<%= t %>" onclick="util.showPubs('maintags', '<%= t %>')"><%= t %></button>
-        <% end %>
+        <h2>Recent Publications</h2>
       </div>
       <div class="panel-body">
-      <% @refereed = @pubs.filter((x) => @hasField(x, 'venue', ['conference', 'journal']) ) %>
-      <%- @partial('pubsByYear', this, { pubs: @pubs, people: @people }) %>
+      <% recent_pubs = @pubs.slice(0, 5) %>  
+      <%- @partial('pubs', this, { pubs: recent_pubs, people: @people }) %>
+       <a href="pubs.html">More...</a>
       </div>
+    </div>
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>Research Themes</h2>
+      </div>
+      <% @included = @pubs.filter((x) => @hasField(x, 'venue', ['conference', 'journal', 'preprint']) ) %>
+      <% for topic in @topics: %>
+      <div class="panel-body">
+        <h3><%= topic.name %></h3>
+        <%= topic.description %><br>
+        <% topic_pubs = @included.filter((x) => @hasSet(x, 'tags', topic.tagsets) ) %>
+        <%- @partial('pubs', this, { pubs: topic_pubs, people: @people }) %>
+      </div>
+      <% end %>
     </div>
 
   </div>
