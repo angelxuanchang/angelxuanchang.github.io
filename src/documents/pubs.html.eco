@@ -15,9 +15,9 @@ active_page: pubs
     <div class="panel panel-default">
       <div class="panel-heading">
         <h2>Publications</h2>
-        <button class="badge badge-primary selectable" onclick="util.showAllPubs()">all</button>
+        <button class="badge badge-primary selectable pub_badge" id="pub_all" onclick="util.showAllPubs()">all</button>
         <% for t in @maintags: %>
-          <button class="badge badge-primary selectable" onclick="util.showPubs('maintags', '<%= t %>')"><%= t %></button>
+          <button class="badge badge-primary selectable pub_badge" id="pub_<%= t %>" onclick="util.showPubs('maintags', '<%= t %>')"><%= t %></button>
         <% end %>
       </div>
       <div class="panel-body">

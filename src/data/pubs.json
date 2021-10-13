@@ -3,7 +3,7 @@
     "date": "2021-10",
     "title": "Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI",
     "authors": [
-      "SanthoshRamakrishnana",
+      "SanthoshRamakrishnan",
       "AaronGokaslan",
       "ErikWijmans",
       "Oleksandr Maksymets",
@@ -17,12 +17,12 @@
       "YiliZhao",
       "DhruvBatra"
     ],
-    "text": "NeurIPS Datasets Track 2021",
+    "text": "NeurIPS Datasets and Benchmarks Track 2021",
     "img": "files/hm3d.jpeg",
     "pdf": "https://arxiv.org/pdf/2109.08238.pdf",
     "web": "https://aihabitat.org/datasets/hm3d/",
-    "venue": ["ai"],
-    "tags": ["embodied","data", "3d"]
+    "venue": ["ai","conference"],
+    "tags": ["embodied","dataset","3d"]
   },
   {
     "date": "2021-10",
@@ -114,7 +114,7 @@
     "pdf": "https://drive.google.com/file/d/1aSePGciFxnLRF4dhJynmNNctVfndIRpE/view",
     "video": "https://www.youtube.com/watch?v=GBzpgLPP5VY&ab_channel=KaiWang",
     "venue": ["graphics", "conference"],
-    "tags": ["3d"]
+    "tags": ["3d", "scene"]
   },
   {
     "date": "2021-06",
@@ -245,7 +245,8 @@
     "img": "https://research.tableau.com/sites/default/files/uploads/sneakpique_1.png",
     "web": "https://research.tableau.com/paper/sneak-pique-exploring-autocompletion-data-discovery-scaffold-supporting-visual-analysis",
     "pdf": "https://research.tableau.com/sites/default/files/Autocomplete-UIST2020.pdf",
-    "venue": ["hci", "conference"]
+    "venue": ["hci", "conference"],
+    "tags": ["dataviz"]
   },
   {
     "date": "2020-06",
@@ -436,9 +437,11 @@
     ],
     "text": "arXiv preprint arXiv:1807.06757 [cs.AI], July 2018",
     "pdf": "https://arxiv.org/abs/1807.06757",
+    "img":  "files/spl.jpeg",
     "venue": ["ai", "preprint"],
     "tags": [
-      "navigation"
+      "navigation",
+      "embodied"
     ]
   },
   {
@@ -460,7 +463,6 @@
     "venue": ["vision", "conference"],
     "tags": [
       "3d",
-      "vl",
       "shape",
       "synthesis",
       "text2shape"
@@ -566,6 +568,7 @@
     "web": "https://niessner.github.io/Matterport/",
     "venue": ["vision", "conference"],
     "tags": [
+      "3d",
       "scans",
       "dataset"
     ]
@@ -622,7 +625,7 @@
       "tom"
     ],
     "text": "Proceedings of CVPR 2017 (oral), arXiv:1611.08974 [cs.CV]",
-    "img": "http://vision.princeton.edu/projects/2016/SSCNet/thumbnail.jpg",
+    "img": "files/sscnet.jpeg",
     "pdf": "https://arxiv.org/pdf/1611.08974v1.pdf",
     "web": "http://vision.princeton.edu/projects/2016/SSCNet/",
     "venue": ["vision", "conference"],
@@ -694,7 +697,8 @@
     "img": "https://research.tableau.com/sites/default/files/uploads/eviza_teaser.png",
     "pdf": "https://research.tableau.com/sites/default/files/uist4832-setlurA_0.pdf",
     "web": "https://research.tableau.com/paper/eviza-natural-language-interface-visual-analysis",
-    "venue": ["hci", "conference"]
+    "venue": ["hci", "conference"],
+    "tags": ["dataviz"]
   },
   {
     "date": "2016-07",
