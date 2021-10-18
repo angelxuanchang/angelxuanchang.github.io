@@ -1,32 +1,38 @@
 [
 	{
 		"name": "Grounding language to 3D",
-		"description": "I'm intereseted in how can we have AI system for describing and localizing 3D objects in scenes.",
+		"description": "I'm interested in how can we create AI systems for describing and localizing 3D objects in scenes.",
 		"tagsets": [["vl", "3d"]],
 		"img": ""
 	},
 	{
 		"name": "Language based content creation",
-		"description": "I'm also interested in using language to assist with the creation of 3D content.  3D interfaces can be challenging to use and natural language interfaces can make it easier for anyone to create and arrange 3D objects",
+		"description": "I'm also interested in using language to assist with the creation of 3D content.  3D interfaces can be challenging to use and natural language interfaces can make it easier for anyone to create 3D objects and generate 3D scenes.",
 		"tagsets": [["text2shape"], ["text2scene"]],
 		"img": ""
 	},
 	{
 		"name": "Embodied AI",
-		"description": "In embodied AI, we want to study how an artificial agent can <em>learn</em> to <em>act</em> based on sensory <em>perception</em>.  In this setting, there is a environment, through which the agent moves about and interacts with various objects, and then predict what action to take next based on the current sensory input (e.g. frame of visual observation) and past history (e.g. memory of actions and observation).",
+		"description": "In embodied AI, we want to study how an artificial agent can learn to act based on sensory perception.",
 		"tagsets": [["embodied", "!simulator", "!dataset"]],
 		"img": ""
 	},
 	{
 		"name": "Simulation platforms",
-		"description": "We need easy  to use simulation platforms to support embodied AI.",
+		"description": "To foster research in the area of embodied AI, we need to have easy-to-use simulation platforms.",
 		"tagsets": [["simulator"]],
 		"img": ""
 	},
 	{
 		"name": "Large-scale datasets for 3D deep learning",
-		"description": "One focus of my work is the creation of large-scale 3D datasets. With data, we can develope data-driven methods for semantic 3D understanding, how to generate 3D shapes and scenes, and how to move and interact with 3D objects in 3D environments.",
+		"description": "Another focus of my work is the creation of large-scale 3D datasets. With data, we can develop new models and tasks for 3D understanding and generation. These assets are also essential for training embodied AI agents to learn to move and interact in 3D environments.",
 		"tagsets": [["3d", "dataset"]],
+		"img": ""
+	},
+	{
+		"name": "3D scene understanding and generation",
+		"description": "",
+		"tagsets": [["3d", "scene", "!dataset"]],
 		"img": ""
 	}
 ]

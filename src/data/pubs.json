@@ -34,7 +34,7 @@
       "UnnatJain",
       "angel"
     ],
-    "text": "EMNLP 2021",
+    "text": "EMNLP 2021 (short)",
     "web": "https://3dlg-hcvc.github.io/LAW-VLNCE/",
     "pdf": "https://arxiv.org/pdf/2109.15207.pdf",
     "code": "https://github.com/3dlg-hcvc/LAW-VLNCE",
@@ -149,7 +149,7 @@
     "web": "https://3dlg-hcvc.github.io/plan2scene/",
     "code": "https://github.com/3dlg-hcvc/plan2scene",
     "venue": ["vision", "conference"],
-    "tags": ["3d"]
+    "tags": ["3d", "scene"]
   },
   {
     "date": "2021-06",
@@ -166,7 +166,7 @@
     "web": "https://3dlg-hcvc.github.io/mirror3d/",
     "code": "https://github.com/3dlg-hcvc/mirror3d",
     "venue": ["vision", "conference"],
-    "tags": ["3d"]
+    "tags": ["3d", "dataset"]
   },
   {
     "date": "2020-11",
@@ -188,6 +188,7 @@
     "img": "files/rearrangement.png",
     "text": "arXiv preprint arXiv:2011.01975 [cs.AI], November 2020",
     "pdf": "https://arxiv.org/pdf/2011.01975.pdf",
+    "venue": ["preprint"],
     "tags": ["embodied"]
   },
   {
@@ -631,8 +632,7 @@
     "venue": ["vision", "conference"],
     "tags": [
       "3d",
-      "scene",
-      "dataset"
+      "scene"
     ]
   },
   {

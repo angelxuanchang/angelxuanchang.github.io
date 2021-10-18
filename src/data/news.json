@@ -1,7 +1,27 @@
 [
 {
+    "date": "October 2021",
+    "description": "<a href='https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/'>Habitat 2.0</a> to be presented at NeurIPS 2021 as a spotlight, and <a href='https://aihabitat.org/datasets/hm3d/'>HM3D</a> accepted to NeurIPS 2021 datasets and benchmarks."
+},
+{
+    "date": "September 2021",
+    "description": "Short paper on using <a href='https://3dlg-hcvc.github.io/LAW-VLNCE/'>language-aligned waypoints</a> for supervising VLN-CE accepted to EMNLP 2021.  Congratulations to Sonia, Shivansh, Saim, and Unnat!"
+},
+{
+    "date": "August, 2021",
+    "description": "Congratulations to Leon for defending his MSc thesis!"
+},
+{
+    "date": "July, 2021",
+    "description": "Paper studying <a href='https://shivanshpatel35.github.io/comon/'>communication mechanisms between embodied AI agents for navigation</a> accepted at ICCV 2021.  Great job by Shivansh, Saim and Unnat!"
+},
+{
     "date": "July 10-14 2021",
     "description": "<a href='https://sgp2021.github.io/'>SGP (Symposium for Geometry Processing)</a> happening virtually!"
+},
+{
+    "date": "June 2021",
+    "description": "<a href='https://drive.google.com/file/d/1aSePGciFxnLRF4dhJynmNNctVfndIRpE/view'>Roominoes</a> accepted to SGP 2021.  Congratulations to Kai!"
 },
 {
     "date": "May 2021",
