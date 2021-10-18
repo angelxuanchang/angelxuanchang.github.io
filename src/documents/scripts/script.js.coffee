@@ -1,3 +1,9 @@
+dehighlightPubPills = () ->
+  $('.pub_badge').removeClass('active')
+
+highlightPubPills = (tags) ->
+  tags.forEach((t) -> $('#pub_' + t).addClass('active'))
+
 this.util = {
   hasField: (obj, field, values) ->
     if obj[field]
@@ -12,6 +18,8 @@ this.util = {
   showPubs: (field, values) ->
     if not Array.isArray(values)
       values = [values]
+    dehighlightPubPills()
+    highlightPubPills(values)
     $('.year').each((x,i) ->
       $(this).show()
     )
@@ -30,6 +38,8 @@ this.util = {
     )
 
   showAllPubs: () ->
+    dehighlightPubPills()
+    highlightPubPills(['all'])
     $('.paper').each((x,i) -> 
       $(this).show()
     )
