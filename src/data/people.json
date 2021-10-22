@@ -72,7 +72,7 @@
   },
   "LiYi": {
     "name": "Li Yi",
-    "web": "https://cs.stanford.edu/~ericyi/"
+    "web": "https://ericyi.github.io/"
   },
   "qixing": {
     "name": "Qixing Huang",
@@ -243,16 +243,14 @@
   },
   "christiane": {
     "name": "Christiane Fellbaum",
-    "affliations": ["princeton"],
     "web": "https://www.cs.princeton.edu/~fellbaum/"
   },
   "alexey": {
     "name": "Alexey Dosovitskiy",
-    "web": "https://dosovits.github.io/"
+    "web": "https://scholar.google.de/citations?user=FXNJRDoAAAAJ&hl=en"
   },
   "vladlen": {
     "name": "Vladlen Koltun",
-    "affliations": ["intel"],
     "web": "http://vladlen.info/"
   },
   "grace": {
@@ -265,28 +263,23 @@
   },
   "DanielRitchie": {
     "name": "Daniel Ritchie",
-    "affliations": ["brown"],
     "web": "https://dritchie.github.io/"
   },
   "ArmenAvetisyan": {
     "name": "Armen Avetisyan",
-    "affliations": ["tum"],
     "web": "https://niessnerlab.org/members/armen_avetisyan/profile.html"
   },
   "ManuelDahnert": {
     "name": "Manuel Dahnert",
-    "affliations": ["tum"],
     "web": "https://niessnerlab.org/members/manuel_dahnert/profile.html"
   },
   "KaichunMo": {
     "name": "Kaichun Mo",
-    "affliations": ["stanford"],
     "web": "https://cs.stanford.edu/~kaichun"
   },
   "HeWang": {
     "name": "He Wang",
-    "affliations": ["stanford"],
-    "web": "http://ai.stanford.edu/~hewang/"
+    "web": "https://hughw19.github.io/"
   },
   "ShilinZhu": {
     "name": "Shilin Zhu",
