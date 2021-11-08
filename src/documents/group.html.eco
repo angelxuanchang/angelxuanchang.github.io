@@ -6,8 +6,6 @@ active_page: group
 
 <%- @partial('navbar', false, {}) %>
 
-<%- @partial('intro') %>
-
 <div class="row">
   <div class="col-sm-12">
 
