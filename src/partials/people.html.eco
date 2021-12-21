@@ -5,7 +5,8 @@
               <img src="<%= p.photo %>" alt="<%= p.name %>" class="img-responsive" style="width: 300px;"/>
               &nbsp;
               <% end %>
-              <% if p.web: %><a href="<%= p.web %>"><%= p.name %></a><% else: %><%= p.name %><% end %> 
+              <% if p.web: %><a href="<%= p.web %>"><%= p.name %></a><% else: %><%= p.name %><% end %>
+              <% if p.details: %> (<%- p.details %>)<% end %>
             </div>
         <% end %>
         </div>

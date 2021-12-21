@@ -1,6 +1,6 @@
 [
   {
-    "date": "2021-10",
+    "date": "2021-12",
     "title": "Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI",
     "authors": [
       "SanthoshRamakrishnan",
@@ -23,6 +23,40 @@
     "web": "https://aihabitat.org/datasets/hm3d/",
     "venue": ["ai","conference"],
     "tags": ["embodied","dataset","3d"]
+  },
+  {
+    "date": "2021-12",
+    "title": "Habitat 2.0: Training Home Assistants to Rearrange their Habitat",
+    "authors": [
+      "AndrewSzot",
+      "Alexander Clegg", 
+      "Eric Undersander",
+      "ErikWijmans",
+      "YiliZhao",
+      "John Turner", 
+      "Noah Maestre",
+      "MustafaMukadam",
+      "DevendraChaplot",
+      "Oleksandr Maksymets",
+      "AaronGokaslan",
+      "VladimírVondrus",
+      "Sameer Dharur",
+      "FranziskaMeier",
+      "Wojciech Galuba",
+      "angel",
+      "ZsoltKira",
+      "vladlen",
+      "JitendraMalik",
+      "manolis",
+      "DhruvBatra"
+    ],
+    "text": "NeurIPS 2021",
+    "img": "files/hab2.jpeg",
+    "pdf": "https://arxiv.org/pdf/2106.14405.pdf",
+    "post": "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/",
+    "code": "https://github.com/facebookresearch/habitat-sim",
+    "venue": ["ai", "conference"],
+    "tags": ["embodied","simulator"]
   },
   {
     "date": "2021-10",
@@ -61,40 +95,6 @@
     "img": "files/comon.png",
     "venue": ["vision", "conference"],
     "tags": ["embodied"]
-  },
-  {
-    "date": "2021-06",
-    "title": "Habitat 2.0: Training Home Assistants to Rearrange their Habitat",
-    "authors": [
-      "AndrewSzot",
-      "Alexander Clegg", 
-      "Eric Undersander",
-      "ErikWijmans",
-      "YiliZhao",
-      "John Turner", 
-      "Noah Maestre",
-      "MustafaMukadam",
-      "DevendraChaplot",
-      "Oleksandr Maksymets",
-      "AaronGokaslan",
-      "VladimírVondrus",
-      "Sameer Dharur",
-      "FranziskaMeier",
-      "Wojciech Galuba",
-      "angel",
-      "ZsoltKira",
-      "vladlen",
-      "JitendraMalik",
-      "manolis",
-      "DhruvBatra"
-    ],
-    "text": "NeurIPS 2021",
-    "img": "files/hab2.jpeg",
-    "pdf": "https://arxiv.org/pdf/2106.14405.pdf",
-    "post": "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/",
-    "code": "https://github.com/facebookresearch/habitat-sim",
-    "venue": ["ai", "conference"],
-    "tags": ["embodied","simulator"]
   },
   {
     "date": "2021-06",

@@ -13,22 +13,30 @@ active_page: group
     <% @phd = @students.filter((x) => @hasField(x, 'tags', ['PhD']) ) %>
     <% @masters = @students.filter((x) => @hasField(x, 'tags', ['Master']) ) %>
     <% @undergrad = @students.filter((x) => @hasField(x, 'tags', ['Undergrad']) ) %>
+    <% @external = Object.values(@people).filter((x) => @hasField(x, 'tags', ['external']) ) %>
+    <% @alumni = Object.values(@people).filter((x) => @hasField(x, 'tags', ['alumni']) )  %>
 
     <div class="panel panel-default">
       <div class="panel-heading">
         <h2>3D Language Group</h2>
       </div>
       <div class="panel-body">
-        <h3>Ph.D Students</h3>
+        <h3>Current Students</h3>
+        <h4>PhD Students</h4>
          <%- @partial('people', false, { people: @phd }) %>
-      </div>
-      <div class="panel-body">
-        <h3>Master Students</h3>
+         <br/>
+        <h4>Master Students</h4>
          <%- @partial('people', false, { people: @masters }) %>
+         <br/>
+        <h4>Undergraduate Students</h4>
+         <%- @partial('people', false, { people: @undergrad }) %>
+         <br/>
+        <h4>External (non-SFU) Students</h4>
+         <%- @partial('people', false, { people: @external }) %>
       </div>
       <div class="panel-body">
-        <h3>Undergraduate Students</h3>
-         <%- @partial('people', false, { people: @undergrad }) %>
+        <h3>Alumni</h3>
+         <%- @partial('alumni', false, { people: @alumni }) %>
       </div>
      </div>
 

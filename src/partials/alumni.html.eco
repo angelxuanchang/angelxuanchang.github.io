@@ -1,0 +1,13 @@
+        <% for p in @people: %>
+        <div>
+            <% if p.web: %><a href="<%= p.web %>"><%= p.name %></a><% else: %><%= p.name %><% end %>
+            <% for entry in p.alumni: %>
+                <% if typeof entry is 'string': %>
+                (<%- entry %>)
+                <% else: %>
+                (<%- entry.description %>), Thesis: <a href="<%= entry.thesis.url %>"><i><%= entry.thesis.title %></i></a> 
+                <% end %>
+                <br/>
+            <% end %>
+        </div>
+        <% end %>
