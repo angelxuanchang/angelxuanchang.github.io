@@ -451,8 +451,16 @@
   "DaveZhenyuChen": {
     "name": "Dave Zhenyu Chen",
     "web": "http://www.niessnerlab.org/members/zhenyu_chen/profile.html",
-    "tags": ["external", "student"],
-    "details": "PhD at <a href='https://www.tum.de/'>Technical University of Munich</a>; co-advised with <a href='http://www.niessnerlab.org/index.html'>Matthias Niessner</a>"
+    "tags": ["external", "student", "visitor"],
+    "details": "PhD at <a href='https://www.tum.de/'>Technical University of Munich</a>; co-advised with <a href='http://www.niessnerlab.org/index.html'>Matthias Niessner</a>",
+    "visitor": "Spring 2022"
+  },
+  "TommasoCampari": {
+    "name": "Tommaso Campari",
+    "web": "https://www.tommasocampari.com/",
+    "tags": ["student", "visitor"],
+    "details": "PhD at University of Padova",
+    "visitor": "Spring 2022"
   },
   "JiaqiTan": {
     "name": "Jiaqi Tan",

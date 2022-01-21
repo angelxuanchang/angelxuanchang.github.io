@@ -14,6 +14,7 @@ active_page: group
     <% @masters = @students.filter((x) => @hasField(x, 'tags', ['Master']) ) %>
     <% @undergrad = @students.filter((x) => @hasField(x, 'tags', ['Undergrad']) ) %>
     <% @external = Object.values(@people).filter((x) => @hasField(x, 'tags', ['external']) ) %>
+    <% @visitor = Object.values(@people).filter((x) => @hasField(x, 'tags', ['visitor']) ) %>
     <% @alumni = Object.values(@people).filter((x) => @hasField(x, 'tags', ['alumni']) )  %>
 
     <div class="panel panel-default">
@@ -31,8 +32,8 @@ active_page: group
         <h4>Undergraduate Students</h4>
          <%- @partial('people', false, { people: @undergrad }) %>
          <br/>
-        <h4>External (non-SFU) Students</h4>
-         <%- @partial('people', false, { people: @external }) %>
+        <h4>External (non-SFU) Students and Visitors</h4>
+         <%- @partial('people', false, { people: @visitor }) %>
       </div>
       <div class="panel-body">
         <h3>Alumni</h3>
