@@ -1,5 +1,17 @@
 [
 {
+    "date": "March 2022",
+    "description": "I'm excited to be part of <a href='https://ibol.org/programs/bioscan/'>BIOSCAN</a>, a large, world-wide collaboration to identify and categorize the species of the world, and understand how they interact.  I'm looking for a <a href='posts/BIOSCAN-jobposting_SimonFraser.pdf'>postdoc</a> to use the latest advances in machine learning to develop algorithms to contribute to this project."
+},
+{
+    "date": "February 2022",
+    "description": "We are hosting the <a href='http://multion-challenge.cs.sfu.ca/'>Multi-Object Navigation challenge</a>, as part of the <a href='https://embodied-ai.org/'>embodied AI workshop</a> at CVPR 2022."
+},
+{
+    "date": "January 2022",
+    "description": "I'm happy to be hosting Dave Zhenyu Chen and Tommaso Campari as visiting students this term at SFU."
+},
+{
     "date": "October 2021",
     "description": "<a href='https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/'>Habitat 2.0</a> to be presented at NeurIPS 2021 as a spotlight, and <a href='https://aihabitat.org/datasets/hm3d/'>HM3D</a> accepted to NeurIPS 2021 datasets and benchmarks."
 },
