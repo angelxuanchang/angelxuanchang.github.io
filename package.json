@@ -18,7 +18,11 @@
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
     "start": "node_modules/.bin/docpad-server",
-    "deploy": "node_modules/.bin/docpad deploy-ghpages --silent --env static"
+    "deploy": "node_modules/.bin/docpad deploy-ghpages --silent --env static",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.9"
   },
   "devDependencies": {
     "docpad-plugin-ghpages": "~2.4.4"

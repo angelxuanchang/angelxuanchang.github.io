@@ -374,14 +374,24 @@
   },
   "YasamanEtesam": {
     "name": "Yasaman Etesam",
-    "tags": ["student", "PhD"],
-    "details": "Fall 2019"
+    "tags": ["alumni"],
+    "alumni": [
+      "Fall 2019"
+    ]
   },
   "AliGholami": {
     "name": "Ali Gholami",
     "web": "https://aligholami.github.io/",
-    "tags": ["student", "Master"],
-    "details": "Fall 2019"
+    "tags": ["alumni"],
+    "alumni": [
+      { 
+        "description": "M.Sc. Fall 2019 to Spring 2022, next Zippin" ,
+        "thesis": { 
+          "title": "Dense Captioning for 3D Environments using Natural Language", 
+          "url": "https://theses.lib.sfu.ca/file/thesis/6920"
+        }
+      }
+    ]
   },
   "SoniaRaychaudhuri": {
     "name": "Sonia Raychaudhuri",
@@ -394,7 +404,7 @@
     "tags": ["alumni"],
     "alumni": [
       { 
-        "description": "M.Sc. Summer 2021" ,
+        "description": "M.Sc. Fall 2019 to Summer 2021, next Integrant" ,
         "thesis": { 
           "title": "Neural State Machine for 2D and 3D Visual Question Answering", 
           "url": "https://theses.lib.sfu.ca/file/thesis/6675"
@@ -404,8 +414,16 @@
   },
   "YueRuan": {
     "name": "Yue Ruan",
-    "tags": ["student", "Master"],
-    "details": "Fall 2019"
+    "tags": ["alumni"],
+    "alumni": [
+      { 
+        "description": "M.Sc. Fall 2019 to Spring 2022, next Amazon" ,
+        "thesis": { 
+          "title": "TriCoLo: Trimodal Contrastive Loss for Text to Shape Retrieval", 
+          "url": "https://theses.lib.sfu.ca/file/thesis/6930"
+        }
+      }
+    ]
   },
   "AkshitSharma": {
     "name": "Akshit Sharma",
@@ -427,6 +445,11 @@
     "tags": ["student", "PhD"],
     "details": "Fall 2021"
   },
+  "Xiaohao Sun": {
+    "name": "Xiaohao Sun",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2021"
+  },
   "QiruiWu": {
     "name": "Qirui Wu",
     "tags": ["alumni", "student", "PhD"],
@@ -438,7 +461,10 @@
   "WeijieLin": {
     "name": "Weijie (Lewis) Lin",
     "web": "https://lewislinn.github.io/",
-    "tags": ["student", "Undergrad"]
+    "tags": ["alumni"],
+    "alumni": [
+      "undergrad, Spring 2020 - 2021, next CMU MS"
+    ]
   },
   "YimingZhang": {
     "name": "Yiming Zhang",
@@ -448,19 +474,30 @@
       "undergrad, 2021, next SFU MSc"
     ]
   },
+  "ZemingGong": {
+    "name": "Zeming Gong",
+    "tags": ["student", "Undergrad"],
+    "details": "Summer 2022"
+  },
   "DaveZhenyuChen": {
     "name": "Dave Zhenyu Chen",
     "web": "http://www.niessnerlab.org/members/zhenyu_chen/profile.html",
     "tags": ["external", "student", "visitor"],
-    "details": "PhD at <a href='https://www.tum.de/'>Technical University of Munich</a>; co-advised with <a href='http://www.niessnerlab.org/index.html'>Matthias Niessner</a>",
-    "visitor": "Spring 2022"
+    "details": "PhD at <a href='https://www.tum.de/'>Technical University of Munich</a>; co-advised with <a href='http://www.niessnerlab.org/index.html'>Matthias Niessner</a>"
   },
   "TommasoCampari": {
     "name": "Tommaso Campari",
     "web": "https://www.tommasocampari.com/",
+    "tags": ["alumni"],
+    "alumni": [
+      "visiting student, Spring 2022, PhD at University of Padova"
+    ]
+  },
+  "AditiJain": {
+    "name": "Aditi Jain",
     "tags": ["student", "visitor"],
-    "details": "PhD at University of Padova",
-    "visitor": "Spring 2022"
+    "details": "Undergraduate at IIT Delhi",
+    "visitor": "Summer 2022"
   },
   "JiaqiTan": {
     "name": "Jiaqi Tan",
