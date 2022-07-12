@@ -1,5 +1,52 @@
 [
   {
+    "date": "2022-07",
+    "title": "OPD: Single-view 3D Openable Part Detection",
+    "authors": [
+      "HanxiaoJiang",
+      "YongsenMao",
+      "manolis",
+      "angel"
+    ],
+    "text": "ECCV 2022",
+    "img": "files/opd.png",
+    "pdf": "https://arxiv.org/pdf/2203.16421.pdf",
+    "web": "https://3dlg-hcvc.github.io/OPD/",
+    "venue": ["vision", "conference"],
+    "tags": ["articulations","3d"]
+  },
+  {
+    "date": "2022-07",
+    "title": "D3Net: A Speaker-Listener Architecture for Semi-supervised Dense Captioning and Visual Grounding in RGB-D Scans",
+    "authors": [
+      "DaveZhenyuChen",
+      "QiruiWu",
+      "matthias",
+      "angel"
+    ],
+    "text": "ECCV 2022",
+    "img": "files/d3net.png",
+    "pdf": "https://arxiv.org/pdf/2112.01551.pdf",
+    "web": "https://daveredrum.github.io/D3Net/",
+    "venue": ["vision", "conference"],
+    "tags": ["vl","3d"]
+  },
+  {
+    "date": "2022-05",
+    "title": "3DVQA: Visual Question Answering for 3D Environments",
+    "authors": [
+      "YasamanEtesam",
+      "LeonKochiev",
+      "angel"
+    ],
+    "text": "CRV 2022",
+    "img": "files/3dvqa.png",
+    "pdf": "files/3dvqa.pdf",
+    "web": "https://3dlg-hcvc.github.io/3DVQA/",
+    "venue": ["vision", "conference"],
+    "tags": ["vqa","3d"]
+  },
+  {
     "date": "2021-12",
     "title": "Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI",
     "authors": [
@@ -193,7 +240,7 @@
   },
   {
     "date": "2020-10",
-    "title": "Motion Annotation Programs: A Scalable Approach to Annotating Kinematic. Articulations in Large 3D Shape Collections",
+    "title": "Motion Annotation Programs: A Scalable Approach to Annotating Kinematic Articulations in Large 3D Shape Collections",
     "authors": [
       "XianghaoXu",
       "DavidCharatan",

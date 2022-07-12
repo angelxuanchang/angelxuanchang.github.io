@@ -1,7 +1,15 @@
 [
 {
+    "date": "July 2022",
+    "description": "Two papers accepted at ECCV 2022. Congratulations to <ul><li>Dave and Qirui for their work on <a href='https://daveredrum.github.io/D3Net/'>D3Net, a speaker-listener model for 3D visual grounding and captioning</a></li> <li>Shawn and Yongsen for their work on <a href='https://3dlg-hcvc.github.io/OPD/'>OPDet for openable part detection from single-view images</a></li></ul>"
+},
+{
     "date": "June 2022",
     "description": "Workshops and Tutorials at CVPR 2022.  <ul><li>June 19th - <a href='http://www.scan-net.org/cvpr2022workshop/'>ScanNet Indoor Scene Understanding Challenge</a></li><li>June 19th - <a href='http://multion-challenge.cs.sfu.ca/'>Multi-Object Navigation Challenge</a> at the <a href='https://embodied-ai.org/'>Embodied-AI workshop</a></li><li>June 20th - <a href='https://ai-workshops.github.io/building-and-working-in-environments-for-embodied-ai-cvpr-2022/'>Tutorial: Building and Working in Environments for Embodied AI</a></li></ul>"
+},
+{
+    "date": "June 2022",
+    "description": "3DVQA work by Yasaman and Leon will be presented at CRV 2022."
 },
 {
     "date": "April 2022",

@@ -285,8 +285,7 @@
     "name": "Pranav Krishna"
   },
   "YifeiShi": {
-    "name": "Yifei Shi",
-    "web": "http://www.yifeishi.net/"
+    "name": "Yifei Shi"
   },
   "ZhelunWu": {
     "name": "Zhelun Wu"
@@ -381,7 +380,6 @@
   },
   "AliGholami": {
     "name": "Ali Gholami",
-    "web": "https://aligholami.github.io/",
     "tags": ["alumni"],
     "alumni": [
       { 
@@ -438,6 +436,9 @@
     "alumni": [
       "undergrad, Fall 2019 - 2020, next SFU MSc"
     ]
+  },
+  "YongsenMao": {
+    "name": "Yongsen Mao"
   },
   "HanHungLee": {
     "name": "Han-Hung Lee",
