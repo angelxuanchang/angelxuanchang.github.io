@@ -1,5 +1,37 @@
 [
   {
+    "date": "2022-9",
+    "title": "MultiScan: Scalable RGBD scanning for 3D environments with articulated objects",
+    "authors": [
+      "YongsenMao",
+      "YimingZhang",
+      "HanxiaoJiang",
+      "angel",
+      "manolis"
+    ],
+    "text": "NeurIPS 2022",
+    "img": "files/MultiScan.png",
+    "venue": ["ai", "conference"],
+    "tags": ["articulations","3d"]
+  },
+  {
+    "date": "2022-09",
+    "title": "Articulated 3D Human-Object Interactions from RGB Videos: An Empirical Analysis of Approaches and Challenges",
+    "authors": [
+      "SanjayHaresh",
+      "XiaohaoSun",
+      "HanxiaoJiang",
+      "angel",
+      "manolis"
+    ],
+    "text": "3DV 2022",
+    "img": "files/3dhoi.png",
+    "pdf": "https://arxiv.org/pdf/2209.05612.pdf",
+    "web": "https://3dlg-hcvc.github.io/3dhoi/",
+    "venue": ["vision", "conference"],
+    "tags": ["articulations","3d"]
+  },
+  {
     "date": "2022-07",
     "title": "OPD: Single-view 3D Openable Part Detection",
     "authors": [
@@ -41,10 +73,27 @@
     ],
     "text": "CRV 2022",
     "img": "files/3dvqa.png",
-    "pdf": "files/3dvqa.pdf",
+    "pdf": "https://ieeexplore.ieee.org/document/9866910",
     "web": "https://3dlg-hcvc.github.io/3DVQA/",
     "venue": ["vision", "conference"],
     "tags": ["vqa","3d"]
+  },
+  {
+    "date": "2022-01",
+    "title": "TriCoLo: Trimodal Contrastive Loss for fine-grained Text to Shape Retrieval",
+    "authors": [
+      "YueRuan",
+      "HanHungLee",
+      "Ke Zhang",
+      "angel"
+    ],
+    "text": "arXiv preprint arXiv:2201.07366 [cs.CV], January 2022",
+    "img": "files/tricolo.png",
+    "pdf": "https://arxiv.org/pdf/2201.07366.pdf",
+    "web": "https://3dlg-hcvc.github.io/tricolo/",
+    "code": "https://github.com/3dlg-hcvc/tricolo",
+    "venue": ["vision"],
+    "tags": ["vl","3d"]
   },
   {
     "date": "2021-12",

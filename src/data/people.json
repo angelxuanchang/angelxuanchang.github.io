@@ -440,13 +440,16 @@
   "YongsenMao": {
     "name": "Yongsen Mao"
   },
+  "SanjayHaresh": {
+    "name": "Sanjay Haresh"
+  },
   "HanHungLee": {
     "name": "Han-Hung Lee",
     "web": "https://hanhung.github.io/",
     "tags": ["student", "PhD"],
     "details": "Fall 2021"
   },
-  "Xiaohao Sun": {
+  "XiaohaoSun": {
     "name": "Xiaohao Sun",
     "tags": ["student", "PhD"],
     "details": "Fall 2021"

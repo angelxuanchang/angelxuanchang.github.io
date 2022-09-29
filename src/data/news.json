@@ -1,5 +1,17 @@
 [
 {
+    "date": "October 2022",
+    "description": "Workshops at ECCV 2022.  <ul><li>Oct 23rd - <a href='https://languagefor3dscenes.github.io/ECCV2022/'>Workshop on Language for 3D Scenes</a></li><li>Oct 23rd - <a href='https://learn3dg.github.io/'>Workshop on Learning to Generate 3D Shapes and Scenes</a></li></ul>"
+},
+{
+    "date": "September 2022",
+    "description": "One paper accepted at NeurIPS 2022.  Congratulations to Yongsen, Yiming, and Shawn for their work on MultiScan."
+},
+{
+    "date": "September 2022",
+    "description": "One paper accepted at 3DV 2022.  Congratulations to Sanjay, Xiaohao, and Shawn for their work on <a href='https://3dlg-hcvc.github.io/3dhoi/'>understanding articulated 3D human-object interactions</a>."
+},
+{
     "date": "July 2022",
     "description": "Two papers accepted at ECCV 2022. Congratulations to <ul><li>Dave and Qirui for their work on <a href='https://daveredrum.github.io/D3Net/'>D3Net, a speaker-listener model for 3D visual grounding and captioning</a></li> <li>Shawn and Yongsen for their work on <a href='https://3dlg-hcvc.github.io/OPD/'>OPDet for openable part detection from single-view images</a></li></ul>"
 },
