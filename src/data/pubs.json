@@ -1,5 +1,20 @@
 [
   {
+    "date": "2022-09",
+    "title": "Understanding Pure CLIP Guidance for Voxel Grid NeRF Models",
+    "authors": [
+      "HanHungLee",
+      "angel"
+    ],
+    "text": "arXiv:2201.07366 [cs.CV], September 2022",
+    "img": "files/pureclipnerf.png",
+    "pdf": "https://arxiv.org/pdf/2209.15172.pdf",
+    "web": "https://hanhung.github.io/PureCLIPNeRF/",
+    "code": "https://github.com/hanhung/PureCLIPNeRF",
+    "venue": ["preprint"],
+    "tags": ["3d", "shape", "synthesis", "text2shape"]
+  },
+  {
     "date": "2022-9",
     "title": "MultiScan: Scalable RGBD scanning for 3D environments with articulated objects",
     "authors": [
@@ -87,12 +102,12 @@
       "Ke Zhang",
       "angel"
     ],
-    "text": "arXiv preprint arXiv:2201.07366 [cs.CV], January 2022",
+    "text": "arXiv:2201.07366 [cs.CV], January 2022",
     "img": "files/tricolo.png",
     "pdf": "https://arxiv.org/pdf/2201.07366.pdf",
     "web": "https://3dlg-hcvc.github.io/tricolo/",
     "code": "https://github.com/3dlg-hcvc/tricolo",
-    "venue": ["vision"],
+    "venue": ["preprint"],
     "tags": ["vl","3d"]
   },
   {
@@ -282,7 +297,7 @@
       "HaoSu"
     ],
     "img": "files/rearrangement.png",
-    "text": "arXiv preprint arXiv:2011.01975 [cs.AI], November 2020",
+    "text": "arXiv:2011.01975 [cs.AI], November 2020",
     "pdf": "https://arxiv.org/pdf/2011.01975.pdf",
     "venue": ["preprint"],
     "tags": ["embodied"]
@@ -532,7 +547,7 @@
       "manolis",
       "AmirZamir"
     ],
-    "text": "arXiv preprint arXiv:1807.06757 [cs.AI], July 2018",
+    "text": "arXiv:1807.06757 [cs.AI], July 2018",
     "pdf": "https://arxiv.org/abs/1807.06757",
     "img":  "files/spl.jpeg",
     "venue": ["ai", "preprint"],
