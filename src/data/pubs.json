@@ -299,7 +299,7 @@
     "img": "files/rearrangement.png",
     "text": "arXiv:2011.01975 [cs.AI], November 2020",
     "pdf": "https://arxiv.org/pdf/2011.01975.pdf",
-    "venue": ["preprint"],
+    "venue": ["ai","preprint"],
     "tags": ["embodied"]
   },
   {
