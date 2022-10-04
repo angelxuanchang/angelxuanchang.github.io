@@ -18,7 +18,7 @@ active_page: home
       <div class="panel-body">
       <% recent_pubs = @pubs.slice(0, 5) %>  
       <%- @partial('pubs', this, { pubs: recent_pubs, people: @people }) %>
-       <a href="pubs.html">More...</a>
+       <a href="pubsall.html">More...</a>
       </div>
     </div>
 
