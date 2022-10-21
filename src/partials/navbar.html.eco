@@ -18,7 +18,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li><a href="index.html">Home</a></li>
-        <li><a href="pubs.html">Publications</a></li>
+        <li><a href="pubsall.html">Publications</a></li>
         <li><a href="classes.html">Classes</a></li>
         <li><a href="group.html">Group</a></li>
         <li><a href="news.html">News</a></li>
