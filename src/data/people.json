@@ -425,8 +425,16 @@
   },
   "AkshitSharma": {
     "name": "Akshit Sharma",
-    "tags": ["student", "Master"],
-    "details": "Fall 2019"
+    "tags": ["alumni"],
+    "alumni": [
+      { 
+        "description": "M.Sc. Fall 2019 to Fall 2022",
+        "thesis": { 
+          "title": "DenseRefer3D: A Language and 3D Dataset for Coreference  Resolution and Referring Expression Comprehension", 
+          "url": "https://theses.lib.sfu.ca/file/thesis/7202"
+        }
+      }
+    ]
   },
   "HanxiaoJiang": {
     "name": "Hanxiao (Shawn) Jiang",
@@ -441,7 +449,8 @@
     "name": "Yongsen Mao"
   },
   "SanjayHaresh": {
-    "name": "Sanjay Haresh"
+    "name": "Sanjay Haresh",
+    "web": "https://www.sanjayharesh.com/"
   },
   "HanHungLee": {
     "name": "Han-Hung Lee",
@@ -499,9 +508,19 @@
   },
   "AditiJain": {
     "name": "Aditi Jain",
+    "tags": ["alumni"],
+    "alumni": [
+      "visiting student, Summer 2022, Undergraduate at IIT Delhi"
+    ]
+  },
+  "NingWang": {
+    "name": "Ning Wang",
     "tags": ["student", "visitor"],
-    "details": "Undergraduate at IIT Delhi",
-    "visitor": "Summer 2022"
+    "details": "PhD at Wuhan University",
+    "visitor": "Fall 2022-2023",
+    "alumni": [
+      "visiting student, Fall 2022-2023, PhD at Wuhan University"
+    ]
   },
   "JiaqiTan": {
     "name": "Jiaqi Tan",
