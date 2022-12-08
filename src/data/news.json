@@ -1,5 +1,13 @@
 [
 {
+    "date": "December 15, 2022",
+    "description": "Invited talk at CoRL 2022 workshop on <a href='https://gjstein.github.io/corl2022wkshp-long-horizon-planning/'>Learning, Perception, and Abstraction for Long-Horizon Planning</a>."
+},
+{
+    "date": "December 2022",
+    "description": "<a href='https://aihabitat.org/challenge/2022_rearrange/'>Habitat Rearrangement Competition</a> (Dec 8th) at NeurIPS 2022."
+},
+{
     "date": "October 2022",
     "description": "Workshops at ECCV 2022.  <ul><li>Oct 23rd - <a href='https://languagefor3dscenes.github.io/ECCV2022/'>Workshop on Language for 3D Scenes</a></li><li>Oct 23rd - <a href='https://learn3dg.github.io/'>Workshop on Learning to Generate 3D Shapes and Scenes</a></li></ul>"
 },

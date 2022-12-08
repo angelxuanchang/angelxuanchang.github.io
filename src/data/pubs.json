@@ -26,6 +26,9 @@
     ],
     "text": "NeurIPS 2022",
     "img": "files/multiscan.png",
+    "pdf": "https://openreview.net/pdf?id=YxUdazpgweG",
+    "web": "https://3dlg-hcvc.github.io/multiscan",
+    "code": "https://github.com/smartscenes/multiscan",
     "venue": ["ai", "conference"],
     "tags": ["articulations","3d"]
   },
