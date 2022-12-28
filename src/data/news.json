@@ -1,5 +1,9 @@
 [
 {
+    "date": "January 7, 2023",
+    "description": "Keynote at WACV 2023 workshop on <a href='https://sites.google.com/view/piesworkshop/pies-cv2023?pli=1'>Photorealistic Image and Environment Synthesis for Computer Vision (PIES-CV)</a>."
+},
+{
     "date": "December 15, 2022",
     "description": "Invited talk at CoRL 2022 workshop on <a href='https://gjstein.github.io/corl2022wkshp-long-horizon-planning/'>Learning, Perception, and Abstraction for Long-Horizon Planning</a>."
 },
