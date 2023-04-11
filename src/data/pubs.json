@@ -1,5 +1,29 @@
 [
   {
+    "date": "2022-10",
+    "title": "Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI",
+    "authors": [
+      "Karmesh Yadav", 
+      "Ram Ramrakhya", 
+      "SanthoshRamakrishnan",
+      "Theo Gervet",
+      "John Turner",
+      "AaronGokaslan",
+      "Noah Maestre",
+      "angel",
+      "DhruvBatra", 
+      "manolis",
+      "Alexander William Clegg", 
+      "Devendra Singh Chaplot"    
+    ],
+    "text": "arXiv:2201.07366 [cs.CV], October 2022",
+    "img": "files/hm3dsem.png",
+    "pdf": "https://arxiv.org/pdf/2210.05633.pdf",
+    "web": "https://aihabitat.org/datasets/hm3d-semantics/",
+    "venue": ["preprint"],
+    "tags": ["3d", "scans", "dataset"]
+  },
+  {
     "date": "2022-09",
     "title": "Understanding Pure CLIP Guidance for Voxel Grid NeRF Models",
     "authors": [
@@ -808,9 +832,9 @@
       "angel"
     ],
     "text": "UIST 2016",
-    "img": "https://research.tableau.com/sites/default/files/uploads/eviza_teaser.png",
-    "pdf": "https://research.tableau.com/sites/default/files/uist4832-setlurA_0.pdf",
-    "web": "https://research.tableau.com/paper/eviza-natural-language-interface-visual-analysis",
+    "img": "https://www.tableau.com/sites/default/files/2023-01/eviza_teaser_0.png",
+    "pdf": "https://www.tableau.com/sites/default/files/2023-01/uist4832-setlurA_0.pdf",
+    "web": "https://www.tableau.com/research/publications/eviza-natural-language-interface-visual-analysis",
     "venue": ["hci", "conference"],
     "tags": ["dataviz"]
   },
