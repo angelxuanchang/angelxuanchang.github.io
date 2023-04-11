@@ -1,0 +1,62 @@
+---
+title: "Teaching and Service"
+layout: "default"
+active_page: classes
+---
+
+<%- @partial('navbar', false, {}) %>
+
+<%- @partial('intro') %>
+
+<div class="row">
+  <div class="col-sm-12">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>Classes</h2>
+      </div>
+      <div class="panel-body">
+        Fall 2022 - <a href="https://angelxuanchang.github.io/nlp-class/">CMPT 713 Natural Language Processing</a><br/> 
+        Spring 2022 - <a href="https://angelxuanchang.github.io/cmpt983-sp2022/">CMPT 983 Grounded Natural Language Understanding</a><br/> 
+        Fall 2021 - <a href="https://angelxuanchang.github.io/nlp-class/">CMPT 413/713 Natural Language Processing</a><br/> 
+        Spring 2021 - <a href="https://angelxuanchang.github.io/cmpt983-sp2021/">CMPT 983 Grounded Natural Language Understanding</a><br/> 
+        Fall 2020 - CMPT 413/825 Natural Language Processing<br/>
+        Spring 2020 - CMPT 825 Natural Language Processing
+      </div>
+    </div>
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>Service</h2>
+      </div>
+      <div class="panel-body">
+        <h3>Conference and workshop organizer</h3> 
+        <b>Conferences:</b> <a href="https://sgp2021.github.io/">SGP 2021</a> <br/>
+        <b>Workshops</b>
+        <ul>    
+         <li><a href="https://languagefor3dscenes.github.io/ECCV2022/">Language for 3D Scenes Workshop</a> at CVPR 2021, ECCV 2022</li> 
+         <li><a href="http://www.scan-net.org/cvpr2022workshop/">ScanNet Benchmark Challenge</a> at CVPR 2019-2022</li>
+         <li><a href="https://learn3dg.github.io/">Learning to Generate 3D Shapes and Scenes</a> at CVPR 2021, ECCV 2022</li>
+         <li><a href="https://learn3dgen.github.io/">Learning 3D Generative Models</a> at CVPR 2020</li>
+         <li><a href="https://3dscenegen.github.io/">3D Scene Generation Workshop</a> at CVPR 2019</li>
+         <li><a href="https://sites.google.com/view/cvpr2021-3d-vision-robotics/">3D Vision and Robotics Workshop</a> at CVPR 2021</li>
+         <li><a href="https://embodied-ai.org/">Embodied AI Workshop</a> at CVPR 2020</li>
+         <li><a href="https://eccv18-vlease.github.io/">Visual Learning and Embodied Agents in Simulation Environments workshop</a> at ECCV 2018</li>
+        </ul> 
+        <h3>Area chair / senior program committee</h3>
+        <ul>
+        <li>ICLR (2020-2021,2023), CVPR (2020-2021,2023), ICCV (2023)</li>
+        <li>SIGGRAPH Asia (2020)</li>
+        <li>IJCAI (2021), AAAI (2021,2023)</li>
+        </ul>
+        <h3>Reviewer</h3>
+        <ul>
+        <li>ACL (outstanding reviewer 2018), NACCL, EMNLP, EACL, Coling, AKBC, SLSP</li> 
+        <li>AAAI, ICML (top reviewer 2020,2022), NeurIPS (top reviewer 2020)</li>
+        <li>SIGGRAPH, SIGGRAPH Asia, Eurographics, 3DV, UIST, GI, CRV</li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</div>
