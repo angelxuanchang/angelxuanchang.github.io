@@ -1,12 +1,29 @@
 [
   {
+    "date": "2022-12",
+    "title": "UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding",
+    "authors": [
+      "DaveZhenyuChen",
+      "RonghangHu",
+      "XinlenChen",
+      "matthias",
+      "angel"
+    ],
+    "text": "arXiv:2212.00836 [cs.CV], December 2022",
+    "img": "files/unit3d.jpeg",
+    "pdf": "https://arxiv.org/pdf/2212.00836.pdf",
+    "web": "http://www.niessnerlab.org/projects/chen2022unit3d.html",
+    "venue": ["preprint"],
+    "tags": ["3d", "vl"]
+  },
+  {
     "date": "2022-10",
     "title": "Habitat-Matterport 3D Semantics Dataset",
     "authors": [
-      "Karmesh Yadav", 
-      "Ram Ramrakhya", 
+      "KarmeshYadav", 
+      "RamRamrakhya", 
       "SanthoshRamakrishnan",
-      "Theo Gervet",
+      "TheoGervet",
       "John Turner",
       "AaronGokaslan",
       "Noah Maestre",
@@ -16,7 +33,7 @@
       "Alexander William Clegg", 
       "Devendra Singh Chaplot"    
     ],
-    "text": "arXiv:2201.07366 [cs.CV], October 2022",
+    "text": "arXiv:2210.05633 [cs.CV], October 2022",
     "img": "files/hm3dsem.png",
     "pdf": "https://arxiv.org/pdf/2210.05633.pdf",
     "web": "https://aihabitat.org/datasets/hm3d-semantics/",
