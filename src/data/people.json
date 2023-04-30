@@ -489,8 +489,11 @@
   },
   "ZemingGong": {
     "name": "Zeming Gong",
-    "tags": ["student", "Undergrad"],
-    "details": "Summer 2022"
+    "tags": ["alumni", "student", "Master"],
+    "details": "Summer 2023",
+    "alumni": [
+      "undergrad, 2022, next SFU MSc"
+    ]
   },
   "DaveZhenyuChen": {
     "name": "Dave Zhenyu Chen",
@@ -517,10 +520,7 @@
     "name": "Ning Wang",
     "tags": ["student", "visitor"],
     "details": "PhD at Wuhan University",
-    "visitor": "Fall 2022-2023",
-    "alumni": [
-      "visiting student, Fall 2022-2023, PhD at Wuhan University"
-    ]
+    "visitor": "Spring 2023-2024"
   },
   "JiaqiTan": {
     "name": "Jiaqi Tan",
