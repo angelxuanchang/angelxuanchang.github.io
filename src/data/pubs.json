@@ -108,7 +108,7 @@
   },
   {
     "date": "2022-07",
-    "title": "D3Net: A Speaker-Listener Architecture for Semi-supervised Dense Captioning and Visual Grounding in RGB-D Scans",
+    "title": "D3Net: A Unified Speaker-Listener Architecture for 3D Dense Captioning and Visual Grounding",
     "authors": [
       "DaveZhenyuChen",
       "QiruiWu",
