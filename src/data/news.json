@@ -1,5 +1,17 @@
 [
 {
+    "date": "June 2023",
+    "description": "Workshops and talks at CVPR 2023.  <ul><li>June 18th - Talk at <a href='https://sites.google.com/view/cvpr2023-3d-vision-robotics'>workshop on 3D vision and robotics</a></li><li>June 18th - Talk at <a href='https://3dcompat-dataset.org/workshop/'>workshop on compositional 3D vision</a></li><li>June 19th - Talk at <a href='https://sites.google.com/view/wicvcvpr2023/program/schedule'>WiCV</a> workshop</li><li>June 19th - Talk at <a href='https://asu-apg.github.io/odrum/'>Open-Domain Reasoning Under Multi-Modal Settings</a> workshop</li><li>June 19th - <a href='http://www.scan-net.org/cvpr2023workshop/'>ScanNet Indoor Scene Understanding Challenge</a></li><li>June 19th - <a href='http://multion-challenge.cs.sfu.ca/'>Multi-Object Navigation Challenge</a> at the <a href='https://embodied-ai.org/'>Embodied-AI workshop</a></li></ul>"
+},
+{
+    "date": "March 2023",
+    "description": "Congratulations to Shawn Jiang for defending his MSc thesis!"
+},
+{
+    "date": "February 20, 2023",
+    "description": "Talk on <i>Connecting 3D and Language</i> at <a href='https://3dl.cs.uchicago.edu/'>3DL</a> group seminar at University of Chicago"
+},
+{
     "date": "January 7, 2023",
     "description": "Keynote at WACV 2023 workshop on <a href='https://sites.google.com/view/piesworkshop/pies-cv2023?pli=1'>Photorealistic Image and Environment Synthesis for Computer Vision (PIES-CV)</a>."
 },
