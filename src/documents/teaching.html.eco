@@ -32,8 +32,12 @@ active_page: classes
         <h2>Service</h2>
       </div>
       <div class="panel-body">
-        <h3>Conference and workshop organizer</h3> 
-        <b>Conferences:</b> <a href="https://sgp2021.github.io/">SGP 2021</a> <br/>
+        <h3>Conference and workshop organization</h3> 
+        <b>Conferences</b> 
+        <ul>
+          <li>Co-chair: <a href="https://sgp2021.github.io/">SGP 2021</a></li> 
+          <li>Social activities chair: <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a></li> 
+        </ul>
         <b>Workshops</b>
         <ul>    
          <li><a href="https://languagefor3dscenes.github.io/ECCV2022/">Language for 3D Scenes Workshop</a> at CVPR 2021, ECCV 2022</li> 
@@ -47,7 +51,8 @@ active_page: classes
         </ul> 
         <h3>Area chair / senior program committee</h3>
         <ul>
-        <li>ICLR (2020-2021,2023), CVPR (2020-2021,2023), ICCV (2023)</li>
+        <li>ICLR (2020-2021,2023), NeurIPS (2023)</li>
+        <li>CVPR (2020-2021,2023), ICCV (2023)</li>
         <li>SIGGRAPH Asia (2020)</li>
         <li>IJCAI (2021), AAAI (2021,2023)</li>
         </ul>
