@@ -645,5 +645,33 @@
   "TheoGervet": {
     "name": "Theo Gervet",
     "web": "https://theophilegervet.github.io/"
+  },
+  "EnricoCancelli": {
+    "name": "Enrico Cancelli",
+    "web": "http://hit.psy.unipd.it/enrico-cancelli"
+  },
+  "LucianoSerafini": {
+    "name": "Luciano Serafini",
+    "web": "https://dkm.fbk.eu/author/lucianoserafini/"
+  },
+  "LambertoBallan": {
+    "name": "Lamberto Ballan",
+    "web": "http://www.lambertoballan.net/"
+  },
+  "YonatanBisk": {
+    "name": "Yonatan Bisk",
+    "web": "https://yonatanbisk.com/"
+  },
+  "MukulKhanna": {
+    "name": "Mukul Khanna",
+    "web": "https://mukulkhanna.github.io/"
+  },
+  "ChrisPaxton": {
+    "name": "Chris Paxton",
+    "web": "https://cpaxton.github.io/"
+  },
+  "BrennanShacklett": {
+    "name": "BrennanShacklett",
+    "web": "https://cs.stanford.edu/~bps/"
   }
 }

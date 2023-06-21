@@ -13,7 +13,7 @@ active_page: home
 
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h2>Recent Publications</h2>
+        <h2>Recent Papers</h2>
       </div>
       <div class="panel-body">
       <% recent_pubs = @pubs.slice(0, 5) %>  

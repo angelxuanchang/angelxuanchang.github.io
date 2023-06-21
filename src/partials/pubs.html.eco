@@ -23,7 +23,7 @@
               <% end %>
               <%- p.text %><br>
               <% n=0 %>
-              <% for k in ['pdf', 'bib', 'code', 'data', 'video', 'slides', 'poster', 'benchmark', 'demo', 'post']: %>
+              <% for k in ['pdf', 'bib', 'code', 'data', 'video', 'slides', 'poster', 'benchmark', 'demo', 'post', 'challenge']: %>
                  <% if p[k]: %>
                    <% if n > 0: %> | <% end %>
                    <a href="<%= p[k] %>"><%= k %></a> 

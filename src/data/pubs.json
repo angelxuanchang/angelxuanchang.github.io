@@ -1,5 +1,126 @@
 [
   {
+    "date": "2023-06",
+    "title": "HomeRobot: Open Vocabulary Mobile Manipulation",
+    "authors": [
+      "Sriram Yenamandra",
+      "Arun Ramachandran", 
+      "KarmeshYadav", 
+      "Austin Wang",
+      "MukulKhanna",
+      "TheoGervet", 
+      "Tsung-Yen Yang", 
+      "Vidhi Jain", 
+      "Alexander William Clegg", 
+      "John Turner", 
+      "ZsoltKira",
+      "manolis",
+      "angel",
+      "DevendraChaplot",
+      "DhruvBatra", 
+      "RoozbehMottaghi",
+      "YonatanBisk", 
+      "ChrisPaxton"      
+    ],
+    "text": "arXiv:2306.11565 [cs.RO, cs.CV], June 2023",
+    "img": "files/ovmm.jpeg",
+    "pdf": "https://arxiv.org/pdf/2306.11565.pdf",
+    "web": "https://ovmm.github.io/",
+    "code": "https://github.com/facebookresearch/home-robot",
+    "challenge": "https://aihabitat.org/challenge/2023_homerobot_ovmm/",
+    "venue": ["preprint"],
+    "tags": ["embodied", "rearrangement"]
+  },
+  {
+    "date": "2023-06",
+    "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
+    "authors": [
+      "MukulKhanna",
+      "YongsenMao",
+      "HanxiaoJiang",
+      "SanjayHaresh",
+      "BrennanShacklett", 
+      "DhruvBatra", 
+      "Alexander William Clegg", 
+      "Eric Undersander",
+      "angel",
+      "manolis"
+    ],
+    "text": "arXiv:2306.11290 [cs.CV], June 2023",
+    "img": "files/hssd.png",
+    "pdf": "https://arxiv.org/pdf/2306.11290.pdf",
+    "web": "https://3dlg-hcvc.github.io/hssd/",
+    "code": "https://github.com/3dlg-hcvc/hssd/",
+    "data": "https://huggingface.co/hssd",
+    "venue": ["preprint"],
+    "tags": ["embodied", "navigation", "3d", "dataset"]
+  },
+  {
+    "date": "2023-06",
+    "title": "Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance",
+    "authors": [
+      "Supriya Pandhre",
+      "angel",
+      "manolis"
+    ],
+    "text": "CRV 2023",
+    "img": "files/3drotinv.png",
+    "pdf": "https://arxiv.org/pdf/2305.18557.pdf",
+    "venue": ["vision","conference"],
+    "tags": ["3d"]
+  },
+  {
+    "date": "2023-04",
+    "title": "Reduce, Reuse, Recycle: Modular Multi-Object Navigation",
+    "authors": [
+      "SoniaRaychaudhuri",
+      "TommasoCampari",
+      "UnnatJain",
+      "manolis",
+      "angel"
+    ],
+    "text": "arXiv:2304.03696 [cs.RO, cs.CV], April 2023",
+    "img": "files/rrr.gif",
+    "pdf": "https://arxiv.org/pdf/2304.03696.pdf",
+    "web": "https://3dlg-hcvc.github.io/rrr/",
+    "code": "https://github.com/3dlg-hcvc/rrr",
+    "venue": ["preprint"],
+    "tags": ["embodied", "navigation"]
+  },
+  {
+    "date": "2023-03",
+    "title": "OPDMulti: Openable Part Detection for Multiple Objects",
+    "authors": [
+      "XiaohaoSun",
+      "HanxiaoJiang",
+      "manolis",
+      "angel"
+    ],
+    "text": "arXiv:2303.14087 [cs.CV], March 2023",
+    "img": "files/opdmulti.png",
+    "pdf": "https://arxiv.org/pdf/2303.14087.pdf",
+    "web": "https://3dlg-hcvc.github.io/OPDMulti/",
+    "code": "https://github.com/3dlg-hcvc/OPDMulti",
+    "venue": ["preprint"],
+    "tags": ["articulations", "3d"]
+  },
+  {
+    "date": "2022-12",
+    "title": "Exploiting Socially-Aware Tasks for Embodied Social Navigation",
+    "authors": [
+      "EnricoCancelli",
+      "TommasoCampari",
+      "LucianoSerafini",
+      "angel",
+      "LambertoBallan"
+    ],
+    "text": "arXiv:2212.00767 [cs.CV], December 2022",
+    "img": "files/prox.png",
+    "pdf": "https://arxiv.org/pdf/2212.00767.pdf",
+    "venue": ["preprint"],
+    "tags": ["embodied", "navigation"]
+  },
+  {
     "date": "2022-12",
     "title": "UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding",
     "authors": [
@@ -31,13 +152,13 @@
       "DhruvBatra", 
       "manolis",
       "Alexander William Clegg", 
-      "Devendra Singh Chaplot"    
+      "DevendraChaplot"    
     ],
-    "text": "arXiv:2210.05633 [cs.CV], October 2022",
+    "text": "CVPR 2023",
     "img": "files/hm3dsem.png",
     "pdf": "https://arxiv.org/pdf/2210.05633.pdf",
     "web": "https://aihabitat.org/datasets/hm3d-semantics/",
-    "venue": ["preprint"],
+    "venue": ["vision", "conference"],
     "tags": ["3d", "scans", "dataset"]
   },
   {
@@ -87,6 +208,7 @@
     "img": "files/3dhoi.png",
     "pdf": "https://arxiv.org/pdf/2209.05612.pdf",
     "web": "https://3dlg-hcvc.github.io/3dhoi/",
+    "code": "https://github.com/3dlg-hcvc/3dhoi",
     "venue": ["vision", "conference"],
     "tags": ["articulations","3d"]
   },
@@ -103,6 +225,7 @@
     "img": "files/opd.png",
     "pdf": "https://arxiv.org/pdf/2203.16421.pdf",
     "web": "https://3dlg-hcvc.github.io/OPD/",
+    "code": "https://github.com/3dlg-hcvc/OPD",
     "venue": ["vision", "conference"],
     "tags": ["articulations","3d"]
   },
@@ -119,6 +242,7 @@
     "img": "files/d3net.png",
     "pdf": "https://arxiv.org/pdf/2112.01551.pdf",
     "web": "https://daveredrum.github.io/D3Net/",
+    "code": "https://github.com/daveredrum/D3Net",
     "venue": ["vision", "conference"],
     "tags": ["vl","3d"]
   },
@@ -134,6 +258,7 @@
     "img": "files/3dvqa.png",
     "pdf": "https://ieeexplore.ieee.org/document/9866910",
     "web": "https://3dlg-hcvc.github.io/3DVQA/",
+    "code": "https://github.com/3dlg-hcvc/3DVQA",
     "venue": ["vision", "conference"],
     "tags": ["vqa","3d"]
   },
@@ -398,9 +523,9 @@
       "angel"
     ],
     "text": "UIST 2020",
-    "img": "https://research.tableau.com/sites/default/files/uploads/sneakpique_1.png",
-    "web": "https://research.tableau.com/paper/sneak-pique-exploring-autocompletion-data-discovery-scaffold-supporting-visual-analysis",
-    "pdf": "https://research.tableau.com/sites/default/files/Autocomplete-UIST2020.pdf",
+    "img": "https://www.tableau.com/sites/default/files/2023-01/sneakpique_1.png",
+    "web": "https://www.tableau.com/research/publications/sneak-pique",
+    "pdf": "https://www.tableau.com/sites/default/files/2023-01/Autocomplete-UIST2020.pdf",
     "venue": ["hci", "conference"],
     "tags": ["dataviz"]
   },

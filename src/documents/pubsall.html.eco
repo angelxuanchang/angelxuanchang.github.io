@@ -14,7 +14,7 @@ active_page: pubs
     <% @pubs.forEach((x,i) -> x.id = "pub_" + i) %>
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h2>Publications</h2>
+        <h2>Preprints and publications</h2>
         <button class="badge badge-primary selectable pub_badge" id="pub_all" onclick="util.showAllPubs()">all</button>
         <% for t in @maintags: %>
           <button class="badge badge-primary selectable pub_badge" id="pub_<%= t %>" onclick="util.showPubs('maintags', '<%= t %>')"><%= t %></button>
