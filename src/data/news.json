@@ -1,5 +1,21 @@
 [
 {
+    "date": "July 2023",
+    "description": "Three papers accepted at ICCV 2023. Congratulations to <ul><li>Yiming and ZeMing for their work on Multi3DRefer, a extension of 3D visual grounding to multiple objects</li>< li>Dave for his work on <a href='http://www.niessnerlab.org/projects/chen2022unit3d.html'>UniT3D, a unified transformer model for 3D visual grounding and captioning</a></li> <li>Enrico and Tommaso for their work on <a href='https://arxiv.org/pdf/2212.00767.pdf'>proximity-aware tasks for social navigation</a></li></ul>"
+},
+{
+    "date": "July 24, 2023",
+    "description": "Lecture on natural language processing at <a href='https://www.sfu.ca/computing/inventthefuture.html'>Invent the Future: AI Scholars Program</a> at Simon Fraser University"
+},
+{
+    "date": "July 13, 2023",
+    "description": "Talk on <i>Connecting 3D and Language</i> at KAIST."
+},
+{
+    "date": "July 4, 2023",
+    "description": "Talk on <i>Connecting 3D and Language</i> at University of Padova."
+},
+{
     "date": "July 1, 2023",
     "description": "Tutorial on Language and 3D at <a href='https://sgp2023.github.io/program/#graduate-school'>SGP 2023</a>."
 },
@@ -44,6 +60,10 @@
     "description": "Two papers accepted at ECCV 2022. Congratulations to <ul><li>Dave and Qirui for their work on <a href='https://daveredrum.github.io/D3Net/'>D3Net, a speaker-listener model for 3D visual grounding and captioning</a></li> <li>Shawn and Yongsen for their work on <a href='https://3dlg-hcvc.github.io/OPD/'>OPDet for openable part detection from single-view images</a></li></ul>"
 },
 {
+    "date": "July 18, 2023",
+    "description": "Lecture on natural language processing at <a href='https://www.sfu.ca/computing/inventthefuture.html'>Invent the Future: AI Scholars Program</a> at Simon Fraser University"
+},
+{
     "date": "June 2022",
     "description": "Workshops and Tutorials at CVPR 2022.  <ul><li>June 19th - <a href='http://www.scan-net.org/cvpr2022workshop/'>ScanNet Indoor Scene Understanding Challenge</a></li><li>June 19th - <a href='http://multion-challenge.cs.sfu.ca/'>Multi-Object Navigation Challenge</a> at the <a href='https://embodied-ai.org/'>Embodied-AI workshop</a></li><li>June 20th - <a href='https://ai-workshops.github.io/building-and-working-in-environments-for-embodied-ai-cvpr-2022/'>Tutorial: Building and Working in Environments for Embodied AI</a></li></ul>"
 },
@@ -82,6 +102,10 @@
 {
     "date": "July, 2021",
     "description": "Paper studying <a href='https://shivanshpatel35.github.io/comon/'>communication mechanisms between embodied AI agents for navigation</a> accepted at ICCV 2021.  Great job by Shivansh, Saim and Unnat!"
+},
+{
+    "date": "July 21, 2021",
+    "description": "Lecture on natural language processing at <a href='https://www.sfu.ca/computing/inventthefuture.html'>Invent the Future: AI Scholars Program</a> at Simon Fraser University"
 },
 {
     "date": "July 10-14 2021",

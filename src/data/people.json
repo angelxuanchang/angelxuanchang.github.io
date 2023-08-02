@@ -471,6 +471,16 @@
       "undergrad, Fall 2019 - 2021, next SFU PhD"
     ]
   },
+  "AustinWang": {
+    "name": "Austin T. Wang",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2023"
+  },
+  "Xiangliang Huo": {
+    "name": "Xiangliang Huo",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2023"
+  },
   "WeijieLin": {
     "name": "Weijie (Lewis) Lin",
     "web": "https://lewislinn.github.io/",
@@ -547,10 +557,12 @@
     "web": "https://www.cse.iitb.ac.in/~sidch/"
   },
   "XianghaoXu": {
-    "name": "Xianghao Xu"
+    "name": "Xianghao Xu",
+    "web": "https://xxh43.github.io/"
   },
   "DavidCharatan": {
-    "name": "David Charatan"
+    "name": "David Charatan",
+    "web": "https://davidcharatan.com/"
   },
   "MaeHeitmann": {
     "name": "Mae Heitmann"
