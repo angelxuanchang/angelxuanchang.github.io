@@ -439,14 +439,18 @@
   "HanxiaoJiang": {
     "name": "Hanxiao (Shawn) Jiang",
     "web": "https://jianghanxiao.github.io/",
-    "tags": ["alumni", "student", "Master"],
-    "details": "Fall 2020",
-    "alumni": [
-      "undergrad, Fall 2019 - 2020, next SFU MSc"
-    ]
+    "tags": ["alumni"],
+    "alumni": [{
+      "description": "undergrad, Fall 2019 - 2020, M.Sc. Fall 2020 to Fall 2023, next UIUC PhD",
+      "thesis": { 
+        "title": "OPD: Single-view 3D Openable Part Detection", 
+        "url": "https://theses.lib.sfu.ca/file/thesis/36177"
+      }
+    }]
   },
   "YongsenMao": {
-    "name": "Yongsen Mao"
+    "name": "Yongsen Mao",
+    "web": "https://sammaoys.github.io/"
   },
   "SanjayHaresh": {
     "name": "Sanjay Haresh",
@@ -479,7 +483,7 @@
   "Xiaoliang Huo": {
     "name": "Xiaoliang Huo",
     "tags": ["student", "PhD"],
-    "details": "Fall 2023"
+    "details": "Fall 2023, co-advised with Manolis Savva"
   },
   "WeijieLin": {
     "name": "Weijie (Lewis) Lin",
