@@ -1,6 +1,35 @@
 [
   {
-    "date": "2023-06",
+    "date": "2023-12",
+    "title": "A Step Towards Worldwide Biodiversity Assessment: The BIOSCAN-1M Insect Dataset",
+    "authors": [
+      "Zahra Gharaee",
+      "ZemingGong", 
+      "Nicholas Pellegrino", 
+      "Iuliia Zarubiieva",
+      "JoakimHaurum",
+      "ScottLowe", 
+      "Jaclyn TA McKeown", 
+      "Chris CY Ho", 
+      "Joschka McLeod", 
+      "Yi-Yun C Wei", 
+      "Jireh Agda",
+      "Sujeevan Ratnasingham",
+      "Dirk Steinke",
+      "angel",
+      "GrahamTaylor", 
+      "PaulFieguth"
+    ],
+    "text": "arXiv:2307.10455, July 2023",
+    "img": "files/bioscan1m.png",
+    "pdf": "https://arxiv.org/pdf/2307.10455.pdf",
+    "web": "https://biodiversitygenomics.net/1M_insects/",
+    "code": "https://github.com/zahrag/BIOSCAN-1M",
+    "venue": ["ai", "conference"],
+    "tags": ["bioscan", "dataset"]
+  },
+  {
+    "date": "2023-11",
     "title": "HomeRobot: Open Vocabulary Mobile Manipulation",
     "authors": [
       "Sriram Yenamandra",
@@ -22,14 +51,63 @@
       "YonatanBisk", 
       "ChrisPaxton"      
     ],
-    "text": "arXiv:2306.11565 [cs.RO, cs.CV], June 2023",
+    "text": "CoRL 2023",
     "img": "files/ovmm.jpeg",
     "pdf": "https://arxiv.org/pdf/2306.11565.pdf",
     "web": "https://ovmm.github.io/",
     "code": "https://github.com/facebookresearch/home-robot",
     "challenge": "https://aihabitat.org/challenge/2023_homerobot_ovmm/",
-    "venue": ["preprint"],
+    "venue": ["robotics", "conference"],
     "tags": ["embodied", "rearrangement"]
+  },
+  {
+    "date": "2023-10",
+    "title": "Multi3DRefer: Grounding Text Description to Multiple 3D Objects",
+    "authors": [
+      "YimingZhang",
+      "ZemingGong",
+      "angel"
+    ],
+    "text": "ICCV 2023",
+    "img": "files/multi3drefer.png",
+    "pdf": "https://arxiv.org/pdf/2309.05251.pdf",
+    "web": "https://3dlg-hcvc.github.io/multi3drefer",
+    "code": "https://github.com/3dlg-hcvc/M3DRef-CLIP",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "vl"]
+  },
+  {
+    "date": "2023-10",
+    "title": "Exploiting Proximity-Aware Tasks for Embodied Social Navigation",
+    "authors": [
+      "EnricoCancelli",
+      "TommasoCampari",
+      "LucianoSerafini",
+      "angel",
+      "LambertoBallan"
+    ],
+    "text": "ICCV 2023",
+    "img": "files/prox.png",
+    "pdf": "https://arxiv.org/pdf/2212.00767.pdf",
+    "venue": ["vision", "conference"],
+    "tags": ["embodied", "navigation"]
+  },
+  {
+    "date": "2023-10",
+    "title": "UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding",
+    "authors": [
+      "DaveZhenyuChen",
+      "RonghangHu",
+      "XinleiChen",
+      "matthias",
+      "angel"
+    ],
+    "text": "ICCV 2023",
+    "img": "files/unit3d.jpeg",
+    "pdf": "https://arxiv.org/pdf/2212.00836.pdf",
+    "web": "http://www.niessnerlab.org/projects/chen2022unit3d.html",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "vl"]
   },
   {
     "date": "2023-06",
@@ -54,20 +132,6 @@
     "data": "https://huggingface.co/hssd",
     "venue": ["preprint"],
     "tags": ["embodied", "navigation", "3d", "dataset"]
-  },
-  {
-    "date": "2023-06",
-    "title": "Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance",
-    "authors": [
-      "Supriya Pandhre",
-      "angel",
-      "manolis"
-    ],
-    "text": "CRV 2023",
-    "img": "files/3drotinv.png",
-    "pdf": "https://arxiv.org/pdf/2305.18557.pdf",
-    "venue": ["vision","conference"],
-    "tags": ["3d"]
   },
   {
     "date": "2023-04",
@@ -105,40 +169,7 @@
     "tags": ["articulations", "3d"]
   },
   {
-    "date": "2022-12",
-    "title": "Exploiting Proximity-Aware Tasks for Embodied Social Navigation",
-    "authors": [
-      "EnricoCancelli",
-      "TommasoCampari",
-      "LucianoSerafini",
-      "angel",
-      "LambertoBallan"
-    ],
-    "text": "arXiv:2212.00767 [cs.CV], December 2022",
-    "img": "files/prox.png",
-    "pdf": "https://arxiv.org/pdf/2212.00767.pdf",
-    "venue": ["preprint"],
-    "tags": ["embodied", "navigation"]
-  },
-  {
-    "date": "2022-12",
-    "title": "UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding",
-    "authors": [
-      "DaveZhenyuChen",
-      "RonghangHu",
-      "XinleiChen",
-      "matthias",
-      "angel"
-    ],
-    "text": "arXiv:2212.00836 [cs.CV], December 2022",
-    "img": "files/unit3d.jpeg",
-    "pdf": "https://arxiv.org/pdf/2212.00836.pdf",
-    "web": "http://www.niessnerlab.org/projects/chen2022unit3d.html",
-    "venue": ["preprint"],
-    "tags": ["3d", "vl"]
-  },
-  {
-    "date": "2022-10",
+    "date": "2023-06",
     "title": "Habitat-Matterport 3D Semantics Dataset",
     "authors": [
       "KarmeshYadav", 
@@ -160,6 +191,20 @@
     "web": "https://aihabitat.org/datasets/hm3d-semantics/",
     "venue": ["vision", "conference"],
     "tags": ["3d", "scans", "dataset"]
+  },
+  {
+    "date": "2023-06",
+    "title": "Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance",
+    "authors": [
+      "Supriya Pandhre",
+      "angel",
+      "manolis"
+    ],
+    "text": "CRV 2023",
+    "img": "files/3drotinv.png",
+    "pdf": "https://arxiv.org/pdf/2305.18557.pdf",
+    "venue": ["vision","conference"],
+    "tags": ["3d"]
   },
   {
     "date": "2022-09",

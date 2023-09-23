@@ -1,7 +1,11 @@
 [
 {
+    "date": "October 2023",
+    "description": "Workshops at ICCV 2023.  <ul><li>Oct 2nd am - <a href='https://3dv-in-ecommerce.github.io/'>Workshop on 3D Vision and Modeling Challenges in eCommerce</a></li><li>Oct 2nd - <a href='https://iccv-clvl.github.io/2023/'>Workshop on closing the loop between vision and language (CLVL)</a></li><li>Oct 3rd pm - <a href='https://languagefor3dscenes.github.io/ICCV2023/'>Workshop on Language for 3D Scenes (L3DS)</a></li></ul>"
+},
+{
     "date": "July 2023",
-    "description": "Three papers accepted at ICCV 2023. Congratulations to <ul><li>Yiming and ZeMing for their work on Multi3DRefer, a extension of 3D visual grounding to multiple objects</li><li>Dave for his work on <a href='http://www.niessnerlab.org/projects/chen2022unit3d.html'>UniT3D, a unified transformer model for 3D visual grounding and captioning</a></li> <li>Enrico and Tommaso for their work on <a href='https://arxiv.org/pdf/2212.00767.pdf'>proximity-aware tasks for social navigation</a></li></ul>"
+    "description": "Three papers accepted at ICCV 2023. Congratulations to <ul><li>Yiming and ZeMing for their work on <a href='https://3dlg-hcvc.github.io/multi3drefer'>Multi3DRefer</a>, a extension of 3D visual grounding to multiple objects</li><li>Dave for his work on <a href='http://www.niessnerlab.org/projects/chen2022unit3d.html'>UniT3D, a unified transformer model for 3D visual grounding and captioning</a></li> <li>Enrico and Tommaso for their work on <a href='https://arxiv.org/pdf/2212.00767.pdf'>proximity-aware tasks for social navigation</a></li></ul>"
 },
 {
     "date": "July 24, 2023",

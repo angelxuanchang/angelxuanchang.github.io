@@ -509,6 +509,16 @@
       "undergrad, 2022, next SFU MSc"
     ]
   },
+  "DenysIliash": {
+    "name": "Denys Iliash",
+    "tags": ["student", "Undergrad"],
+    "details": "Fall 2023"
+  },
+  "MrinalGoshalia": {
+    "name": "Mrinal Goshalia",
+    "tags": ["student", "Undergrad"],
+    "details": "Fall 2023"
+  },
   "DaveZhenyuChen": {
     "name": "Dave Zhenyu Chen",
     "web": "http://www.niessnerlab.org/members/zhenyu_chen/profile.html",
@@ -689,5 +699,21 @@
   "BrennanShacklett": {
     "name": "Brennan Shacklett",
     "web": "https://cs.stanford.edu/~bps/"
+  },
+  "JoakimHaurum": {
+    "name": "Joakim Bruslund Haurum",
+    "web": "https://joakimhaurum.github.io/"
+  },
+  "ScottLowe": {
+    "name": "Scott C Lowe",
+    "web": "https://scottclowe.com/"
+  },
+  "GrahamTaylor": {
+    "name": "Graham W Taylor",
+    "web": "https://www.gwtaylor.ca/"
+  },
+  "PaulFieguth": {
+    "name": "Paul Fieguth",
+    "web": "https://uwaterloo.ca/systems-design-engineering/profile/pfieguth"
   }
 }
