@@ -1,7 +1,15 @@
 [
 {
     "date": "October 2023",
+    "description": "Two papers accepted at 3DV 2024.  Congratulations to <ul><li>Xiaohao and Shawn for their work on <a href='https://3dlg-hcvc.github.io/OPDMulti/'>OPDMulti: Openable Part Detection for Multiple Objects</a>.</li><li>Qirui for his work on <i>Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects</i>.</li></ul>"
+},
+{
+    "date": "October 2023",
     "description": "Workshops at ICCV 2023.  <ul><li>Oct 2nd am - <a href='https://3dv-in-ecommerce.github.io/'>Workshop on 3D Vision and Modeling Challenges in eCommerce</a></li><li>Oct 2nd - <a href='https://iccv-clvl.github.io/2023/'>Workshop on closing the loop between vision and language (CLVL)</a></li><li>Oct 3rd pm - <a href='https://languagefor3dscenes.github.io/ICCV2023/'>Workshop on Language for 3D Scenes (L3DS)</a></li></ul>"
+},
+{
+    "date": "September 2023",
+    "description": "Congratulations to ZeMing (together with Zahra and Nick from U. of Waterloo) on the acceptance of their work <a href='https://biodiversitygenomics.net/1M_insects/'>BIOSCAN-1M Insect dataset</a> at NeurIPS datasets and benchmarks 2023."
 },
 {
     "date": "July 2023",
