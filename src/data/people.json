@@ -444,7 +444,7 @@
       "description": "undergrad, Fall 2019 - 2020, M.Sc. Fall 2020 to Fall 2023, next UIUC PhD",
       "thesis": { 
         "title": "OPD: Single-view 3D Openable Part Detection", 
-        "url": "https://theses.lib.sfu.ca/file/thesis/36177"
+        "url": "https://summit.sfu.ca/item/36177"
       }
     }]
   },
@@ -495,14 +495,15 @@
   },
   "YimingZhang": {
     "name": "Yiming Zhang",
-    "tags": ["alumni", "student", "Master"],
-    "details": "Spring 2022",
+    "tags": ["alumni", "student", "PhD"],
+    "details": "Spring 2024",
     "alumni": [
-      "undergrad, 2021, next SFU MSc"
+      "undergrad, 2021, M.Sc. 2022 - 2023, next SFU PhD"
     ]
   },
   "ZemingGong": {
     "name": "Zeming Gong",
+    "web": "https://zmgong.github.io/",
     "tags": ["alumni", "student", "Master"],
     "details": "Summer 2023",
     "alumni": [
@@ -511,8 +512,11 @@
   },
   "DenysIliash": {
     "name": "Denys Iliash",
-    "tags": ["student", "Undergrad"],
-    "details": "Fall 2023"
+    "tags": ["student", "Master"],
+    "details": "Spring 2024",
+    "alumni": [
+      "undergrad, Fall 2023, next SFU MSc"
+    ]
   },
   "MrinalGoshalia": {
     "name": "Mrinal Goshalia",

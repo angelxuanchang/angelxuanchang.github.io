@@ -1,6 +1,30 @@
 [
   {
     "date": "2023-12",
+    "title": "BarcodeBERT: Transformers for Biodiversity Analysis",
+    "authors": [
+      "Pablo Millan Arias",
+      "Niousha Sadjadi",
+      "Monireh Safari",
+      "ZemingGong", 
+      "AustinWang",
+      "ScottLowe", 
+      "JoakimHaurum",
+      "Iuliia Zarubiieva",
+      "Dirk Steinke",
+      "Lila Kari",
+      "angel",
+      "GrahamTaylor"
+    ],
+    "text": "4th Workshop on Self-Supervised Learning: Theory and Practice (NeurIPS 2023)",
+    "img": "files/barcodebert.png",
+    "pdf": "https://arxiv.org/pdf/2311.02401.pdf",
+    "code": "https://github.com/Kari-Genomics-Lab/BarcodeBERT",
+    "venue": ["ai", "workshop"],
+    "tags": ["bioscan"]
+  },
+  {
+    "date": "2023-12",
     "title": "A Step Towards Worldwide Biodiversity Assessment: The BIOSCAN-1M Insect Dataset",
     "authors": [
       "Zahra Gharaee",
@@ -135,7 +159,7 @@
   },
   {
     "date": "2023-04",
-    "title": "Reduce, Reuse, Recycle: Modular Multi-Object Navigation",
+    "title": "MOPA: Modular Object Navigation with PointGoal Agents",
     "authors": [
       "SoniaRaychaudhuri",
       "TommasoCampari",
@@ -143,12 +167,12 @@
       "manolis",
       "angel"
     ],
-    "text": "arXiv:2304.03696 [cs.RO, cs.CV], April 2023",
-    "img": "files/rrr.gif",
+    "text": "WACV 2024, arXiv:2304.03696 [cs.RO, cs.CV], April 2023",
+    "img": "files/mopa.gif",
     "pdf": "https://arxiv.org/pdf/2304.03696.pdf",
-    "web": "https://3dlg-hcvc.github.io/rrr/",
-    "code": "https://github.com/3dlg-hcvc/rrr",
-    "venue": ["preprint"],
+    "web": "https://3dlg-hcvc.github.io/mopa/",
+    "code": "https://github.com/3dlg-hcvc/mopa",
+    "venue": ["vision", "conference"],
     "tags": ["embodied", "navigation"]
   },
   {

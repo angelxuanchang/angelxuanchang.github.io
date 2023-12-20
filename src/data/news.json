@@ -1,5 +1,13 @@
 [
 {
+    "date": "December, 2023",
+    "description": "Congratulations to Yiming Zhang for defending his MSc thesis!"
+},
+{
+    "date": "October 2023",
+    "description": "Two papers accepted at WACV 2024.  Congratulations to <ul><li>Sonia and Tommaso for their work on <a href='https://3dlg-hcvc.github.io/mopa/'>MOPA: Modular Object Navigation with PointGoal Agents</a>.</li><li>Yue, Han-Hung and Yiming for their work on <a href='https://3dlg-hcvc.github.io/tricolo/'>TriCoLo: Trimodal Contrastive Loss for Text to Shape Retrieval</a>.</li></ul>"
+},
+{
     "date": "October 2023",
     "description": "Two papers accepted at 3DV 2024.  Congratulations to <ul><li>Xiaohao and Shawn for their work on <a href='https://3dlg-hcvc.github.io/OPDMulti/'>OPDMulti: Openable Part Detection for Multiple Objects</a>.</li><li>Qirui for his work on <i>Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects</i>.</li></ul>"
 },
