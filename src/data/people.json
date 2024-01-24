@@ -464,11 +464,13 @@
   },
   "XiaohaoSun": {
     "name": "Xiaohao Sun",
+    "web": "https://sun-xh.github.io/",
     "tags": ["student", "PhD"],
     "details": "Fall 2021"
   },
   "QiruiWu": {
     "name": "Qirui Wu",
+    "web": "https://qiruiw.github.io/",
     "tags": ["alumni", "student", "PhD"],
     "details": "Spring 2022",
     "alumni": [
@@ -546,6 +548,7 @@
   },
   "NingWang": {
     "name": "Ning Wang",
+    "web": "https://scholar.google.com/citations?user=DL3GDfUAAAAJ",
     "tags": ["student", "visitor"],
     "details": "PhD at Wuhan University",
     "visitor": "Spring 2023-2024"
