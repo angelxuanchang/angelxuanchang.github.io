@@ -1,5 +1,39 @@
 [
   {
+    "date": "2024-03",
+    "title": "Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects",
+    "authors": [
+      "QiruiWu",
+      "DanielRitchie",
+      "manolis",
+      "angel"
+    ],
+    "text": "3DV 2024",
+    "img": "files/genshaperetr.png",
+    "web": "https://3dlg-hcvc.github.io/generalizing_shape_retrieval/",
+    "pdf": "https://arxiv.org/pdf/2401.00405.pdf",
+    "code": "https://github.com/3dlg-hcvc/generalizing_shape_retrieval",
+    "venue": ["vision", "conference"],
+    "tags": ["3d"]
+  },
+  {
+    "date": "2024-03",
+    "title": "OPDMulti: Openable Part Detection for Multiple Objects",
+    "authors": [
+      "XiaohaoSun",
+      "HanxiaoJiang",
+      "manolis",
+      "angel"
+    ],
+    "text": "3DV 2024, arXiv:2303.14087 [cs.CV], arXiv March 2023",
+    "img": "files/opdmulti.png",
+    "pdf": "https://arxiv.org/pdf/2303.14087.pdf",
+    "web": "https://3dlg-hcvc.github.io/OPDMulti/",
+    "code": "https://github.com/3dlg-hcvc/OPDMulti",
+    "venue": ["vision", "conference"],
+    "tags": ["articulations", "3d"]
+  },
+  {
     "date": "2023-12",
     "title": "BarcodeBERT: Transformers for Biodiversity Analysis",
     "authors": [
@@ -174,23 +208,6 @@
     "code": "https://github.com/3dlg-hcvc/mopa",
     "venue": ["vision", "conference"],
     "tags": ["embodied", "navigation"]
-  },
-  {
-    "date": "2023-03",
-    "title": "OPDMulti: Openable Part Detection for Multiple Objects",
-    "authors": [
-      "XiaohaoSun",
-      "HanxiaoJiang",
-      "manolis",
-      "angel"
-    ],
-    "text": "arXiv:2303.14087 [cs.CV], March 2023",
-    "img": "files/opdmulti.png",
-    "pdf": "https://arxiv.org/pdf/2303.14087.pdf",
-    "web": "https://3dlg-hcvc.github.io/OPDMulti/",
-    "code": "https://github.com/3dlg-hcvc/OPDMulti",
-    "venue": ["preprint"],
-    "tags": ["articulations", "3d"]
   },
   {
     "date": "2023-06",
