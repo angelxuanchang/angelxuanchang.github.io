@@ -1,5 +1,44 @@
 [
   {
+    "date": "2024-06",
+    "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
+    "authors": [
+      "MukulKhanna",
+      "YongsenMao",
+      "HanxiaoJiang",
+      "SanjayHaresh",
+      "BrennanShacklett", 
+      "DhruvBatra", 
+      "Alexander William Clegg", 
+      "Eric Undersander",
+      "angel",
+      "manolis"
+    ],
+    "text": "CVPR 2024, arXiv:2306.11290 [cs.CV], June 2023",
+    "img": "files/hssd.png",
+    "pdf": "https://arxiv.org/pdf/2306.11290.pdf",
+    "web": "https://3dlg-hcvc.github.io/hssd/",
+    "code": "https://github.com/3dlg-hcvc/hssd/",
+    "data": "https://huggingface.co/hssd",
+    "venue": ["vision", "conference"],
+    "tags": ["embodied", "navigation", "3d", "dataset"]
+  },
+  {
+    "date": "2024-04",
+    "title": "Text-to-3D Shape Generation",
+    "authors": [
+      "HanHungLee",
+      "manolis",
+      "angel"
+    ],
+    "text": "Eurographics STAR (State of The Art Report), CGF 2024",
+    "img": "files/tt3dstar.png",
+    "web": "https://3dlg-hcvc.github.io/tt3dstar/",
+    "pdf": "https://arxiv.org/pdf/2403.13289.pdf",
+    "venue": ["journal"],
+    "tags": ["3d", "shape", "synthesis", "text2shape", "survey"]
+  },
+  {
     "date": "2024-03",
     "title": "Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects",
     "authors": [
@@ -32,6 +71,42 @@
     "code": "https://github.com/3dlg-hcvc/OPDMulti",
     "venue": ["vision", "conference"],
     "tags": ["articulations", "3d"]
+  },
+  {
+    "date": "2024-01",
+    "title": "MOPA: Modular Object Navigation with PointGoal Agents",
+    "authors": [
+      "SoniaRaychaudhuri",
+      "TommasoCampari",
+      "UnnatJain",
+      "manolis",
+      "angel"
+    ],
+    "text": "WACV 2024, arXiv:2304.03696 [cs.RO, cs.CV], April 2023",
+    "img": "files/mopa.gif",
+    "pdf": "https://arxiv.org/pdf/2304.03696.pdf",
+    "web": "https://3dlg-hcvc.github.io/mopa/",
+    "code": "https://github.com/3dlg-hcvc/mopa",
+    "venue": ["vision", "conference"],
+    "tags": ["embodied", "navigation"]
+  },
+  {
+    "date": "2024-01",
+    "title": "TriCoLo: Trimodal Contrastive Loss for Text to Shape Retrieval",
+    "authors": [
+      "YueRuan",
+      "HanHungLee",
+      "YimingZhang",
+      "Ke Zhang",
+      "angel"
+    ],
+    "text": "WACV 2024, arXiv:2201.07366 [cs.CV], January 2022",
+    "img": "files/tricolo.png",
+    "pdf": "https://arxiv.org/pdf/2201.07366.pdf",
+    "web": "https://3dlg-hcvc.github.io/tricolo/",
+    "code": "https://github.com/3dlg-hcvc/tricolo",
+    "venue": ["vision", "conference"],
+    "tags": ["vl","3d"]
   },
   {
     "date": "2023-12",
@@ -166,48 +241,6 @@
     "web": "http://www.niessnerlab.org/projects/chen2022unit3d.html",
     "venue": ["vision", "conference"],
     "tags": ["3d", "vl"]
-  },
-  {
-    "date": "2023-06",
-    "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
-    "authors": [
-      "MukulKhanna",
-      "YongsenMao",
-      "HanxiaoJiang",
-      "SanjayHaresh",
-      "BrennanShacklett", 
-      "DhruvBatra", 
-      "Alexander William Clegg", 
-      "Eric Undersander",
-      "angel",
-      "manolis"
-    ],
-    "text": "arXiv:2306.11290 [cs.CV], June 2023",
-    "img": "files/hssd.png",
-    "pdf": "https://arxiv.org/pdf/2306.11290.pdf",
-    "web": "https://3dlg-hcvc.github.io/hssd/",
-    "code": "https://github.com/3dlg-hcvc/hssd/",
-    "data": "https://huggingface.co/hssd",
-    "venue": ["preprint"],
-    "tags": ["embodied", "navigation", "3d", "dataset"]
-  },
-  {
-    "date": "2023-04",
-    "title": "MOPA: Modular Object Navigation with PointGoal Agents",
-    "authors": [
-      "SoniaRaychaudhuri",
-      "TommasoCampari",
-      "UnnatJain",
-      "manolis",
-      "angel"
-    ],
-    "text": "WACV 2024, arXiv:2304.03696 [cs.RO, cs.CV], April 2023",
-    "img": "files/mopa.gif",
-    "pdf": "https://arxiv.org/pdf/2304.03696.pdf",
-    "web": "https://3dlg-hcvc.github.io/mopa/",
-    "code": "https://github.com/3dlg-hcvc/mopa",
-    "venue": ["vision", "conference"],
-    "tags": ["embodied", "navigation"]
   },
   {
     "date": "2023-06",
@@ -347,23 +380,6 @@
     "code": "https://github.com/3dlg-hcvc/3DVQA",
     "venue": ["vision", "conference"],
     "tags": ["vqa","3d"]
-  },
-  {
-    "date": "2022-01",
-    "title": "TriCoLo: Trimodal Contrastive Loss for fine-grained Text to Shape Retrieval",
-    "authors": [
-      "YueRuan",
-      "HanHungLee",
-      "Ke Zhang",
-      "angel"
-    ],
-    "text": "arXiv:2201.07366 [cs.CV], January 2022",
-    "img": "files/tricolo.png",
-    "pdf": "https://arxiv.org/pdf/2201.07366.pdf",
-    "web": "https://3dlg-hcvc.github.io/tricolo/",
-    "code": "https://github.com/3dlg-hcvc/tricolo",
-    "venue": ["preprint"],
-    "tags": ["vl","3d"]
   },
   {
     "date": "2021-12",
