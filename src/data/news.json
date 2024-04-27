@@ -1,5 +1,13 @@
 [
 {
+    "date": "April 22, 2024",
+    "description": "<a href='https://hanhung.github.io/'>Han-Hung</a> presented his state-of-the-art report (STAR) on <a href='https://3dlg-hcvc.github.io/tt3dstar/'>Text to 3D Shape Generation</a> at Eurographics 2024."
+},
+{
+    "date": "March, 2024",
+    "description": "Qirui and Xiaohao presented their papers at 3DV 2024 on <a href='https://3dlg-hcvc.github.io/generalizing_shape_retrieval/'>Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects</a> and <a href='https://3dlg-hcvc.github.io/OPDMulti/'>OPDMulti: Openable Part Detection for Multiple Objects</a>."
+},
+{
     "date": "December, 2023",
     "description": "Congratulations to Yiming Zhang for defending his MSc thesis!"
 },
