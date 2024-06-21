@@ -479,6 +479,7 @@
   },
   "AustinWang": {
     "name": "Austin T. Wang",
+    "web": "https://atwang16.github.io/",
     "tags": ["student", "PhD"],
     "details": "Fall 2023"
   },
@@ -528,8 +529,10 @@
   "DaveZhenyuChen": {
     "name": "Dave Zhenyu Chen",
     "web": "http://www.niessnerlab.org/members/zhenyu_chen/profile.html",
-    "tags": ["external", "student", "visitor"],
-    "details": "PhD at <a href='https://www.tum.de/'>Technical University of Munich</a>; co-advised with <a href='http://www.niessnerlab.org/index.html'>Matthias Niessner</a>"
+    "tags": ["alumni"],
+    "alumni": [
+      "visiting student, Spring 2022, PhD at <a href='https://www.tum.de/'>Technical University of Munich</a>; TUM-IAS funded student co-advised with <a href='http://www.niessnerlab.org/index.html'>Matthias Niessner</a>"
+    ]
   },
   "TommasoCampari": {
     "name": "Tommaso Campari",
@@ -537,6 +540,14 @@
     "tags": ["alumni"],
     "alumni": [
       "visiting student, Spring 2022, PhD at University of Padova"
+    ]
+  },
+  "EnricoCancelli": {
+    "name": "Enrico Cancelli",
+    "web": "http://hit.psy.unipd.it/enrico-cancelli",
+    "tags": ["alumni"],
+    "alumni": [
+      "visiting student, Spring 2024, PhD at University of Padova"
     ]
   },
   "AditiJain": {
@@ -549,9 +560,10 @@
   "NingWang": {
     "name": "Ning Wang",
     "web": "https://scholar.google.com/citations?user=DL3GDfUAAAAJ",
-    "tags": ["student", "visitor"],
-    "details": "PhD at Wuhan University",
-    "visitor": "Spring 2023-2024"
+    "tags": ["alumni"],
+    "alumni": [
+      "visiting student, Spring 2023-2024, PhD at Wuhan University"
+    ]
   },
   "JiaqiTan": {
     "name": "Jiaqi Tan",
@@ -678,10 +690,6 @@
   "TheoGervet": {
     "name": "Theo Gervet",
     "web": "https://theophilegervet.github.io/"
-  },
-  "EnricoCancelli": {
-    "name": "Enrico Cancelli",
-    "web": "http://hit.psy.unipd.it/enrico-cancelli"
   },
   "LucianoSerafini": {
     "name": "Luciano Serafini",

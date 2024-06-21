@@ -32,8 +32,6 @@ active_page: group
          <h4>Undergraduate Students</h4>
          <%- @partial('people', false, { people: @undergrad }) %>
          <br/>
-        <h4>External (non-SFU) Students and Visitors</h4>
-         <%- @partial('people', false, { people: @visitor }) %>
       </div>
       <div class="panel-body">
         <h3>Alumni</h3>
