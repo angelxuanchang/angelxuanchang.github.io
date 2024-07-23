@@ -1,5 +1,23 @@
 [
   {
+    "date": "2024-07",
+    "title": "R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding",
+    "authors": [
+      "QiruiWu",
+      "SoniaRaychaudhuri",
+      "DanielRitchie",
+      "manolis",
+      "angel"
+    ],
+    "text": "3DV 2024",
+    "img": "files/r3ds.webp",
+    "web": "https://3dlg-hcvc.github.io/r3ds/",
+    "pdf": "https://arxiv.org/abs/2403.12301.pdf",
+    "code": "https://github.com/3dlg-hcvc/r3ds",
+    "venue": ["vision", "conference"],
+    "tags": ["3d"]
+  },
+  {
     "date": "2024-06",
     "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
     "authors": [

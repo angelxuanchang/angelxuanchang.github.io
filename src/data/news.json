@@ -1,7 +1,19 @@
 [
 {
+  "date": "August 16, 2024",
+  "description": "Talk at <a href='https://alvr-workshop.github.io/'>Workshop on Advances in Language and Vision Research (ALVR)</a> at ACL 2024"
+},
+{
+  "date" : "July, 2024",
+  "description": "Congratulations to Qirui and Sonia on the acceptance of their paper <a href='https://3dlg-hcvc.github.io/r3ds/'>R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding</a> at ECCV 2024."
+},
+{
+  "date" : "July 11, 2024",
+  "description": "Talk at <a href='https://dlrl.ca/'>CIFAR DLRLSS</a> on language and 3D"
+},
+{
     "date": "June 2024",
-    "description": "Workshops at CVPR 2023.  <ul><li>June 17th - <a href='https://ai3dg.github.io/'>AI for 3D Generation</a></li><li>June 17th pm - <a href='https://multimodalitiesfor3dscenes.github.io/'>Workshop on Multimodalities for 3D Scenes</a></li><li>June 18th - <a href='https://embodied-ai.org/'>Embodied AI workshop</a></li></ul>Papers at workhops and main conference<ul><li>June 18th - <a href='https://openreview.net/pdf?id=B7PKwbqNdo'>R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding</a> at <a href='https://syndata4cv.github.io/'>workshop on Synthetic Data for Computer Vision</a></li><li>June 18th - BIOSCAN-CLIP: Bridging Vision and Genomics for Biodiversity Monitoring at Scale at <a href='https://sites.google.com/view/fgvc11/'>workshop on Fine-Grained Visual Categorization</a></li><li>June 20th - <a href='https://3dlg-hcvc.github.io/hssd/'>Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation</a></li></ul>"
+    "description": "Workshops at CVPR 2024.  <ul><li>June 17th - <a href='https://ai3dg.github.io/'>AI for 3D Generation</a></li><li>June 17th pm - <a href='https://multimodalitiesfor3dscenes.github.io/'>Workshop on Multimodalities for 3D Scenes</a></li><li>June 18th - <a href='https://embodied-ai.org/'>Embodied AI workshop</a></li></ul>Papers at workhops and main conference<ul><li>June 18th - <a href='https://openreview.net/pdf?id=B7PKwbqNdo'>R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding</a> at <a href='https://syndata4cv.github.io/'>workshop on Synthetic Data for Computer Vision</a></li><li>June 18th - BIOSCAN-CLIP: Bridging Vision and Genomics for Biodiversity Monitoring at Scale at <a href='https://sites.google.com/view/fgvc11/'>workshop on Fine-Grained Visual Categorization</a></li><li>June 20th - <a href='https://3dlg-hcvc.github.io/hssd/'>Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation</a></li></ul>"
 },    
 {
     "date": "June 2024",
