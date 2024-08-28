@@ -12,6 +12,12 @@
 		"img": ""
 	},
 	{
+		"name": "BIOSCAN",
+		"description": "BIOSCAN is an multi-institutional, multi-discpline effort to monitor biodiversity of the world.  As part of this effort, we are developing datasets and tools so that we can use machine learning to assist in this effort.",
+		"tagsets": [["bioscan"]],
+		"img": ""
+	},
+	{
 		"name": "Embodied AI",
 		"description": "In embodied AI, we want to study how an artificial agent can learn to act based on sensory perception.",
 		"tagsets": [["embodied", "!simulator", "!dataset"]],

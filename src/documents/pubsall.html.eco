@@ -19,6 +19,11 @@ active_page: pubs
         <% for t in @maintags: %>
           <button class="badge badge-primary selectable pub_badge" id="pub_<%= t %>" onclick="util.showPubs('maintags', '<%= t %>')"><%= t %></button>
         <% end %>
+        <br/>
+        <% for topic in @topics: %>
+          <% tstr = topic.tagsets.map((ts) => "'" + ts + "'" ).join(',') %>
+          <li class="oneline-li"><a onclick="util.showPubsInTopic('<%= topic.name %>', <%= '[' + tstr + ']' %>)"><%= topic.name %></a></li>
+        <% end %>
       </div>
       <div class="panel-body">
       <% @refereed = @pubs.filter((x) => @hasField(x, 'venue', ['conference', 'journal']) ) %>

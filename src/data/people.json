@@ -468,6 +468,12 @@
     "tags": ["student", "PhD"],
     "details": "Fall 2021"
   },
+  "XingguangYan": {
+    "name": "Xingguang Yan",
+    "web": "http://yanxg.art/",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2022"
+  },
   "QiruiWu": {
     "name": "Qirui Wu",
     "web": "https://qiruiw.github.io/",
@@ -483,7 +489,7 @@
     "tags": ["student", "PhD"],
     "details": "Fall 2023"
   },
-  "Xiaoliang Huo": {
+  "XiaoliangHuo": {
     "name": "Xiaoliang Huo",
     "tags": ["student", "PhD"],
     "details": "Fall 2023, co-advised with Manolis Savva"
@@ -559,7 +565,7 @@
   },
   "NingWang": {
     "name": "Ning Wang",
-    "web": "https://scholar.google.com/citations?user=DL3GDfUAAAAJ",
+    "web": "https://wangning-001.github.io/",
     "tags": ["alumni"],
     "alumni": [
       "visiting student, Spring 2023-2024, PhD at Wuhan University"
@@ -727,8 +733,20 @@
     "name": "Graham W Taylor",
     "web": "https://www.gwtaylor.ca/"
   },
+  "LilaKari": {
+    "name": "Lila Kari",
+    "web": "https://cs.uwaterloo.ca/~lila/"
+  },
   "PaulFieguth": {
     "name": "Paul Fieguth",
     "web": "https://uwaterloo.ca/systems-design-engineering/profile/pfieguth"
+  },
+  "PabloMillanArias": {
+    "name": "Pablo Millan Arias",
+    "web": "https://millanp95.github.io/"
+  },
+  "ZiyuWan": {
+    "name": "Ziyu Wan",
+    "web": "http://raywzy.com/"
   }
 }

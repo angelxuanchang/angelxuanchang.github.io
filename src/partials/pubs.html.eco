@@ -1,5 +1,5 @@
         <% for p in @pubs: %>
-          <div class="row paper vertical-center" id="<%= p.id %>" data-maintags="<%= p.venue %>">
+          <div class="row paper vertical-center" id="<%= p.id %>" data-maintags="<%= p.venue %>" data-tags="<%= p.tags %>">
             <div class="col-sm-3 paper-img">
             <% if p.img: %>
               <a href="<%= p.web || p.pdf %>"><img src="<%= p.img %>" alt="<%= p.title %>" class="img-responsive" style="width: 300px;"/></a>

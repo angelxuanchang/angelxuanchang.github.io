@@ -1,5 +1,41 @@
 [
   {
+    "date": "2024-08",
+    "title": "An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion",
+    "authors": [
+      "XingguangYan",
+      "HanHungLee",
+      "ZiyuWan",
+      "angel"
+    ],
+    "text": "arXiv:2408.03178 [cs.CV], August 2024",
+    "img": "files/omage.png",
+    "web": "https://omages.github.io/",
+    "pdf": "https://arxiv.org/pdf/2408.03178",
+    "code": "https://github.com/3dlg-hcvc/omages",
+    "venue": ["vision", "preprint"],
+    "tags": ["3d", "synthesis"]
+  },
+  {
+    "date": "2024-08",
+    "title": "SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements",
+    "authors": [
+      "Hou In Ivan Tam",
+      "Hou In Derek Pun",
+      "AustinWang",
+      "angel",
+      "manolis"
+    ],
+    "text": "arXiv:2408.02211 [cs.GR], August 2024",
+    "img": "files/smc.png",
+    "web": "https://3dlg-hcvc.github.io/smc/",
+    "pdf": "https://arxiv.org/pdf/2408.02211",
+    "code": "https://github.com/3dlg-hcvc/smc",
+    "video": "https://youtu.be/iXsx18R7NN8",
+    "venue": ["vision", "preprint"],
+    "tags": ["3d", "synthesis", "text2scene"]
+  },
+  {
     "date": "2024-07",
     "title": "R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding",
     "authors": [
@@ -12,10 +48,52 @@
     "text": "ECCV 2024",
     "img": "files/r3ds.webp",
     "web": "https://3dlg-hcvc.github.io/r3ds/",
-    "pdf": "https://arxiv.org/abs/2403.12301.pdf",
+    "pdf": "https://arxiv.org/pdf/2403.12301",
     "code": "https://github.com/3dlg-hcvc/r3ds",
     "venue": ["vision", "conference"],
     "tags": ["3d"]
+  },
+  {
+    "date": "2023-12",
+    "title": "BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity",
+    "authors": [
+      "Zahra Gharaee",
+      "ScottLowe", 
+      "ZemingGong", 
+      "PabloMillanArias",
+      "Nicholas Pellegrino", 
+      "AustinWang",
+      "JoakimHaurum",
+      "Iuliia Zarubiieva",
+      "LilaKari",
+      "Dirk Steinke",
+      "GrahamTaylor", 
+      "PaulFieguth",
+      "angel"
+    ],
+    "text": "arXiv:2406.12723 [cs.LG], June 2024",
+    "img": "files/bioscan5m.png",
+    "pdf": "https://arxiv.org/pdf/2406.12723",
+    "web": "https://biodiversitygenomics.net/projects/5m-insects/",
+    "code": "https://github.com/zahrag/BIOSCAN-5M",
+    "venue": ["ai", "preprint"],
+    "tags": ["bioscan", "dataset"]
+  },
+  {
+    "date": "2024-08",
+    "title": "Duoduo CLIP: Efficient 3D Understanding with Multi-View Images",
+    "authors": [
+      "HanHungLee",
+      "YimingZhang",
+      "angel"
+    ],
+    "text": "arXiv:2406.11579 [cs.CV], June 2024",
+    "img": "files/duoduoclip.png",
+    "web": "https://3dlg-hcvc.github.io/DuoduoCLIP/",
+    "pdf": "https://arxiv.org/pdf/2406.11579",
+    "code": "https://github.com/3dlg-hcvc/DuoduoCLIP",
+    "venue": ["vision", "preprint"],
+    "tags": ["vl","3d"]
   },
   {
     "date": "2024-06",
@@ -40,6 +118,39 @@
     "data": "https://huggingface.co/hssd",
     "venue": ["vision", "conference"],
     "tags": ["embodied", "navigation", "3d", "dataset"]
+  },
+  {
+    "date": "2024-05",
+    "title": "BIOSCAN-CLIP: Bridging Vision and Genomics for Biodiversity Monitoring at Scale",
+    "authors": [
+      "ZemingGong", 
+      "AustinWang",
+      "JoakimHaurum",
+      "ScottLowe", 
+      "GrahamTaylor",
+      "angel"
+    ],
+    "text": "arXiv:2405.17537 [cs.AI], May 2024",
+    "img": "files/bioscanclip.png",
+    "web": "https://3dlg-hcvc.github.io/bioscan-clip/",
+    "pdf": "https://arxiv.org/pdf/2405.17537",
+    "code": "https://github.com/3dlg-hcvc/bioscan-clip",
+    "venue": ["ai", "preprint"],
+    "tags": ["bioscan"]
+  },
+  {
+    "date": "2024-05",
+    "title": "M2DNeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields",
+    "authors": [
+      "NingWang",
+      "Lefei Zhang",
+      "angel"
+    ],
+    "text": "arXiv:2405.05010 [cs.CV], May 2024",
+    "img": "files/m2dnerf.png",
+    "pdf": "https://arxiv.org/pdf/2405.05010",
+    "venue": ["vision", "preprint"],
+    "tags": ["3d"]
   },
   {
     "date": "2024-04",
@@ -130,7 +241,7 @@
     "date": "2023-12",
     "title": "BarcodeBERT: Transformers for Biodiversity Analysis",
     "authors": [
-      "Pablo Millan Arias",
+      "PabloMillanArias",
       "Niousha Sadjadi",
       "Monireh Safari",
       "ZemingGong", 
@@ -139,7 +250,7 @@
       "JoakimHaurum",
       "Iuliia Zarubiieva",
       "Dirk Steinke",
-      "Lila Kari",
+      "LilaKari",
       "angel",
       "GrahamTaylor"
     ],
@@ -1650,6 +1761,6 @@
     "img": "files/dragonCurve.png",
     "pdf": "pubs/dragonbound.pdf",
     "bib": "pubs/dragonbound.bib",
-    "venue": ["msic", "journal"]
+    "venue": ["misc", "journal"]
   }
 ]
