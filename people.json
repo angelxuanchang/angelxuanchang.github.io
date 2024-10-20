@@ -1,0 +1,752 @@
+{
+  "angel": {
+    "name": "Angel X. Chang",
+    "special": true
+  },
+  "manolis": {
+    "name": "Manolis Savva",
+    "web": "https://msavva.github.io/"
+  },
+  "pat": {
+    "name": "Pat Hanrahan",
+    "web": "http://graphics.stanford.edu/~hanrahan/"
+  },
+  "matt": {
+    "name": "Matthew Fisher",
+    "web": "https://techmatt.github.io/"
+  },
+  "matthias": {
+    "name": "Matthias Nießner",
+    "web": "https://niessnerlab.org/members/matthias_niessner/profile.html"
+  },
+  "angie": {
+    "name": "Angela Dai",
+    "web": "http://cs.stanford.edu/people/adai"
+  },
+  "maciej": {
+    "name": "Maciej Halber",
+    "web": "https://mhalber.github.io/"
+  },
+  "maneesh": {
+    "name": "Maneesh Agrawala",
+    "web": "http://graphics.stanford.edu/~maneesh/"
+  },
+  "mihail": {
+    "name": "Mihail Eric",
+    "web": "https://www.mihaileric.com/"
+  },
+  "gilbert": {
+    "name": "Gilbert Bernstein",
+    "web": "http://graphics.stanford.edu/~gilbo/"
+  },
+  "chrisman": {
+    "name": "Christopher D. Manning",
+    "web": "http://nlp.stanford.edu/manning/"
+  },
+  "chrispotts": {
+    "name": "Christopher Potts",
+    "web": "http://web.stanford.edu/~cgpotts/"
+  },
+  "tom": {
+    "name": "Thomas Funkhouser",
+    "web": "http://www.cs.princeton.edu/~funk/"
+  },
+  "leo": {
+    "name": "Leonidas Guibas",
+    "web": "http://geometry.stanford.edu/member/guibas/"
+  },
+  "HaoSu": {
+    "name": "Hao Su",
+    "web": "http://cseweb.ucsd.edu/~haosu/"
+  },
+  "LiYi": {
+    "name": "Li Yi",
+    "web": "https://ericyi.github.io/"
+  },
+  "qixing": {
+    "name": "Qixing Huang",
+    "web": "http://www.cs.utexas.edu/~huangqx/"
+  },
+  "zimo": {
+    "name": "Zimo Li"
+  },
+  "silvio": {
+    "name": "Silvio Savarese",
+    "web": "http://cvgl.stanford.edu/silvio/"
+  },
+  "shuran": {
+    "name": "Shuran Song",
+    "web": "http://vision.princeton.edu/people/shurans/"
+  },
+  "andy": {
+    "name": "Andy Zeng",
+    "web": "http://andyzeng.github.io/"
+  },
+  "yinda": {
+    "name": "Yinda Zhang",
+    "web": "http://robots.princeton.edu/people/yindaz/"
+  },
+  "kyle": {
+    "name": "Kyle Genova",
+    "web": "http://www.kylegenova.com/"
+  },
+  "lin": {
+    "name": "Lin Shao",
+    "web": "https://linsats.github.io/"
+  },
+  "jianxiong": {
+    "name": "Jianxiong Xiao",
+    "web": "http://www.jianxiongxiao.com/"
+  },
+  "fisher": {
+    "name": "Fisher Yu",
+    "web": "http://yf.io/"
+  },
+  "will": {
+    "name": "Will Monroe",
+    "web": "https://wmonroeiv.github.io/"
+  },
+  "sebastian": {
+    "name": "Sebastian Schuster",
+    "web": "http://sebschu.com/"
+  },
+  "ranjay": {
+    "name": "Ranjay Krishna",
+    "web": "http://www.ranjaykrishna.com/"
+  },
+  "fei-fei": {
+    "name": "Li Fei-Fei",
+    "web": "http://vision.stanford.edu/feifeili/"
+  },
+  "heeyoung": {
+    "name": "Heeyoung Lee"
+  },
+  "marta": {
+    "name": "Marta Recasens",
+    "web": "http://clic.ub.edu/users/marta-recasens"
+  },
+  "yves": {
+    "name": "Yves Peirsman",
+    "web": "http://nlp.yvespeirsman.be/"
+  },
+  "mihai": {
+    "name": "Mihai Surdeanu",
+    "web": "http://www.surdeanu.name/mihai/"
+  },
+  "nate": {
+    "name": "Nathanael Chambers",
+    "web": "http://www.usna.edu/Users/cs/nchamber/"
+  },
+  "danj": {
+    "name": "Dan Jurafsky",
+    "web": "http://www.stanford.edu/~jurafsky/"
+  },
+  "davidm": {
+    "name": "David McClosky",
+    "web": "http://nlp.stanford.edu/~mcclosky/"
+  },
+  "eneko": {
+    "name": "Eneko Agirre",
+    "web": "http://ixa2.si.ehu.es/~jipagbee/"
+  },
+  "val": {
+    "name": "Valentin I. Spitkovsky",
+    "web": "http://nlp.stanford.edu/valentin/"
+  },
+  "johnbauer": {
+    "name": "John Bauer"
+  },
+  "julie": {
+    "name": "Julie Tibshirani"
+  },
+  "jean": {
+    "name": "Jean Y. Wu"
+  },
+  "osbert": {
+    "name": "Osbert Bastani",
+    "web": "https://obastani.github.io/"
+  },
+  "gabor": {
+    "name": "Gabor Angeli",
+    "web": "http://cs.stanford.edu/~angeli/"
+  },
+  "arun": {
+    "name": "Arun Tejasvi Chaganty",
+    "web": "http://arun.chagantys.org/"
+  },
+  "KevinReschke": {
+    "name": "Kevin Reschke",
+    "web": "https://sites.google.com/site/kevinreschke/"
+  },
+  "KeithSiilats": {
+    "name": "Keith Siilats"
+  },
+  "ericyeh": {
+    "name": "Eric Yeh",
+    "web": "http://www.ai.sri.com/people/yeh/"
+  },
+  "sonal": {
+    "name": "Sonal Gupta",
+    "web": "http://www.cs.stanford.edu/people/sonal/"
+  },
+  "hiyan": {
+    "name": "Hiyan Alshawi"
+  },
+  "tianrong": {
+    "name": "Tianrong Zhang"
+  },
+  "VidyaSetlur": {
+    "name": "Vidya Setlur",
+    "web": "https://research.tableau.com/user/vidya-setlur"
+  },
+  "EnamulHoque": {
+    "name": "Enamul Hoque",
+    "web": "https://www.yorku.ca/enamulh/"
+  },
+  "DaeHyunKim": {
+    "name": "Dae Hyun Kim",
+    "web": "https://dhkim16.github.io/"
+  },
+  "SarahBattersby": {
+    "name": "Sarah E. Battersby",
+    "web": "https://research.tableau.com/user/sarah-battersby"
+  },
+  "MelanieTory": {
+    "name": "Melanie Tory",
+    "web": "https://research.tableau.com/user/melanie-tory"
+  },
+  "RichGossweiler": {
+    "name": "Rich Gossweiler",
+    "web": "https://research.tableau.com/user/rich-gossweiler"
+  },
+  "christiane": {
+    "name": "Christiane Fellbaum",
+    "web": "https://www.cs.princeton.edu/~fellbaum/"
+  },
+  "alexey": {
+    "name": "Alexey Dosovitskiy",
+    "web": "https://scholar.google.de/citations?user=FXNJRDoAAAAJ&hl=en"
+  },
+  "vladlen": {
+    "name": "Vladlen Koltun",
+    "web": "http://vladlen.info/"
+  },
+  "grace": {
+    "name": "Grace Muzny",
+    "web": "http://nlp.stanford.edu/~muzny/"
+  },
+  "ChrisChoy": {
+    "name": "Christopher B. Choy",
+    "web": "https://chrischoy.github.io/"
+  },
+  "DanielRitchie": {
+    "name": "Daniel Ritchie",
+    "web": "https://dritchie.github.io/"
+  },
+  "ArmenAvetisyan": {
+    "name": "Armen Avetisyan",
+    "web": "https://niessnerlab.org/members/armen_avetisyan/profile.html"
+  },
+  "ManuelDahnert": {
+    "name": "Manuel Dahnert",
+    "web": "https://niessnerlab.org/members/manuel_dahnert/profile.html"
+  },
+  "KaichunMo": {
+    "name": "Kaichun Mo",
+    "web": "https://cs.stanford.edu/~kaichun"
+  },
+  "HeWang": {
+    "name": "He Wang",
+    "web": "https://hughw19.github.io/"
+  },
+  "ShilinZhu": {
+    "name": "Shilin Zhu",
+    "web": "http://cseweb.ucsd.edu/~shz338/"
+  },
+  "SubarnaTripathi": {
+    "name": "Subarna Tripathi",
+    "web": "http://acsweb.ucsd.edu/~stripath/"
+  },
+  "KaiWang": {
+    "name": "Kai Wang",
+    "web": "https://kwang-ether.github.io/"
+  },
+  "KevinChen": {
+    "name": "Kevin Chen",
+    "web": "https://cs.stanford.edu/~kchen92"
+  },
+  "MichaelFang": {
+    "name": "Michael Fang"
+  },
+  "RishiMago": {
+    "name": "Rishi Mago"
+  },
+  "PranavKrishna": {
+    "name": "Pranav Krishna"
+  },
+  "YifeiShi": {
+    "name": "Yifei Shi"
+  },
+  "ZhelunWu": {
+    "name": "Zhelun Wu"
+  },
+  "KaiXu": {
+    "name": "Kai Xu",
+    "web": "https://kevinkaixu.net/"
+  },
+  "YuAnLin": {
+    "name": "Yu-An Lin"
+  },
+  "BenWeissmann": {
+    "name": "Ben Weissmann"
+  },
+  "PeterAnderson": {
+    "name": "Peter Anderson",
+    "web": "https://www.panderson.me/"
+  },
+  "DevendraChaplot": {
+    "name": "Devendra Singh Chaplot",
+    "web": "http://www.cs.cmu.edu/~dchaplot/"
+  },
+  "SaurabhGupta": {
+    "name": "Saurabh Gupta",
+    "web": "http://saurabhg.web.illinois.edu/"
+  },
+  "JanaKosecka": {
+    "name": "Jana Kosecka",
+    "web": "https://cs.gmu.edu/~kosecka/"
+  },
+  "JitendraMalik": {
+    "name": "Jitendra Malik",
+    "web": "https://people.eecs.berkeley.edu/~malik/"
+  },
+  "RoozbehMottaghi": {
+    "name": "Roozbeh Mottaghi",
+    "web": "https://cs.stanford.edu/~roozbeh/"
+  },
+  "AmirZamir": {
+    "name": "Amir R. Zamir",
+    "web": "https://cs.stanford.edu/~amirz/"
+  },
+  "ZhelunWu": {
+    "name": "Zhelun Wu"
+  },
+  "FanboXiang": {
+    "name": "Fanbo Xiang",
+    "web": "https://www.fbxiang.com/"
+  },
+  "YuzheQin": {
+    "name": "Yuzhe Qin",
+    "web": "https://yzqin.github.io/"
+  },
+  "YikuanXia": {
+    "name": "Yikuan Xia"
+  },
+  "HaoZhu": {
+    "name": "Hao Zhu",
+    "web": "https://berniezhu.github.io/"
+  },
+  "FangchenLiu": {
+    "name": "Fangchen Liu",
+    "web": "https://fangchenliu.github.io/"
+  },
+  "MinghuaLiu": {
+    "name": "Minghua Liu",
+    "web": "http://cseweb.ucsd.edu/~mil070/"
+  },
+  "YifuYuan": {
+    "name": "Yifu Yuan"
+  },
+  "JustinDieter": {
+    "name": "Justin Dieter"
+  },
+  "TianWang": {
+    "name": "Tian Wang"
+  },  
+  "madhawa": {
+    "name": "Madhawa Vidanapathirana",
+    "web": "https://madhawav.github.io/"
+  },
+  "yasu": {
+    "name": "Yasutaka Furukawa",
+    "web": "https://www.cs.sfu.ca/~furukawa/"
+  },
+  "YasamanEtesam": {
+    "name": "Yasaman Etesam",
+    "tags": ["alumni"],
+    "alumni": [
+      "Fall 2019"
+    ]
+  },
+  "AliGholami": {
+    "name": "Ali Gholami",
+    "tags": ["alumni"],
+    "alumni": [
+      { 
+        "description": "M.Sc. Fall 2019 to Spring 2022, next Zippin" ,
+        "thesis": { 
+          "title": "Dense Captioning for 3D Environments using Natural Language", 
+          "url": "https://theses.lib.sfu.ca/file/thesis/6920"
+        }
+      }
+    ]
+  },
+  "SoniaRaychaudhuri": {
+    "name": "Sonia Raychaudhuri",
+    "web": "https://sonia-raychaudhuri.github.io/",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2020"
+  },
+  "LeonKochiev": {
+    "name": "Leon Kochiev",
+    "tags": ["alumni"],
+    "alumni": [
+      { 
+        "description": "M.Sc. Fall 2019 to Summer 2021, next Integrant" ,
+        "thesis": { 
+          "title": "Neural State Machine for 2D and 3D Visual Question Answering", 
+          "url": "https://theses.lib.sfu.ca/file/thesis/6675"
+        }
+      }
+    ]
+  },
+  "YueRuan": {
+    "name": "Yue Ruan",
+    "tags": ["alumni"],
+    "alumni": [
+      { 
+        "description": "M.Sc. Fall 2019 to Spring 2022, next Amazon" ,
+        "thesis": { 
+          "title": "TriCoLo: Trimodal Contrastive Loss for Text to Shape Retrieval", 
+          "url": "https://theses.lib.sfu.ca/file/thesis/6930"
+        }
+      }
+    ]
+  },
+  "AkshitSharma": {
+    "name": "Akshit Sharma",
+    "tags": ["alumni"],
+    "alumni": [
+      { 
+        "description": "M.Sc. Fall 2019 to Fall 2022",
+        "thesis": { 
+          "title": "DenseRefer3D: A Language and 3D Dataset for Coreference  Resolution and Referring Expression Comprehension", 
+          "url": "https://theses.lib.sfu.ca/file/thesis/7202"
+        }
+      }
+    ]
+  },
+  "HanxiaoJiang": {
+    "name": "Hanxiao (Shawn) Jiang",
+    "web": "https://jianghanxiao.github.io/",
+    "tags": ["alumni"],
+    "alumni": [{
+      "description": "undergrad, Fall 2019 - 2020, M.Sc. Fall 2020 to Summer 2023, next UIUC PhD",
+      "thesis": { 
+        "title": "OPD: Single-view 3D Openable Part Detection", 
+        "url": "https://summit.sfu.ca/item/36177"
+      }
+    }]
+  },
+  "YongsenMao": {
+    "name": "Yongsen Mao",
+    "web": "https://sammaoys.github.io/"
+  },
+  "SanjayHaresh": {
+    "name": "Sanjay Haresh",
+    "web": "https://www.sanjayharesh.com/"
+  },
+  "HanHungLee": {
+    "name": "Han-Hung Lee",
+    "web": "https://hanhung.github.io/",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2021"
+  },
+  "XiaohaoSun": {
+    "name": "Xiaohao Sun",
+    "web": "https://sun-xh.github.io/",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2021"
+  },
+  "XingguangYan": {
+    "name": "Xingguang Yan",
+    "web": "http://yanxg.art/",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2022"
+  },
+  "QiruiWu": {
+    "name": "Qirui Wu",
+    "web": "https://qiruiw.github.io/",
+    "tags": ["alumni", "student", "PhD"],
+    "details": "Spring 2022",
+    "alumni": [
+      "undergrad, Fall 2019 - 2021, next SFU PhD"
+    ]
+  },
+  "AustinWang": {
+    "name": "Austin T. Wang",
+    "web": "https://atwang16.github.io/",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2023"
+  },
+  "XiaoliangHuo": {
+    "name": "Xiaoliang Huo",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2023, co-advised with Manolis Savva"
+  },
+  "WeijieLin": {
+    "name": "Weijie (Lewis) Lin",
+    "web": "https://lewislinn.github.io/",
+    "tags": ["alumni"],
+    "alumni": [
+      "undergrad, Spring 2020 - 2021, next CMU MS"
+    ]
+  },
+  "YimingZhang": {
+    "name": "Yiming Zhang",
+    "tags": ["alumni", "student", "PhD"],
+    "details": "Spring 2024",
+    "alumni": [
+      "undergrad, 2021, M.Sc. 2022 - 2023, next SFU PhD"
+    ]
+  },
+  "ZemingGong": {
+    "name": "Zeming Gong",
+    "web": "https://zmgong.github.io/",
+    "tags": ["alumni", "student", "Master"],
+    "details": "Summer 2023",
+    "alumni": [
+      "undergrad, 2022, next SFU MSc"
+    ]
+  },
+  "DenysIliash": {
+    "name": "Denys Iliash",
+    "tags": ["student", "Master"],
+    "details": "Spring 2024",
+    "alumni": [
+      "undergrad, Fall 2023, next SFU MSc"
+    ]
+  },
+  "MrinalGoshalia": {
+    "name": "Mrinal Goshalia",
+    "tags": ["student", "Undergrad"],
+    "details": "Fall 2023"
+  },
+  "DaveZhenyuChen": {
+    "name": "Dave Zhenyu Chen",
+    "web": "http://www.niessnerlab.org/members/zhenyu_chen/profile.html",
+    "tags": ["alumni"],
+    "alumni": [
+      "visiting student, Spring 2022, PhD at <a href='https://www.tum.de/'>Technical University of Munich</a>; TUM-IAS funded student co-advised with <a href='http://www.niessnerlab.org/index.html'>Matthias Niessner</a>"
+    ]
+  },
+  "TommasoCampari": {
+    "name": "Tommaso Campari",
+    "web": "https://www.tommasocampari.com/",
+    "tags": ["alumni"],
+    "alumni": [
+      "visiting student, Spring 2022, PhD at University of Padova"
+    ]
+  },
+  "EnricoCancelli": {
+    "name": "Enrico Cancelli",
+    "web": "http://hit.psy.unipd.it/enrico-cancelli",
+    "tags": ["alumni"],
+    "alumni": [
+      "visiting student, Spring 2024, PhD at University of Padova"
+    ]
+  },
+  "AditiJain": {
+    "name": "Aditi Jain",
+    "tags": ["alumni"],
+    "alumni": [
+      "visiting student, Summer 2022, Undergraduate at IIT Delhi"
+    ]
+  },
+  "NingWang": {
+    "name": "Ning Wang",
+    "web": "https://wangning-001.github.io/",
+    "tags": ["alumni"],
+    "alumni": [
+      "visiting student, Spring 2023-2024, PhD at Wuhan University"
+    ]
+  },
+  "JiaqiTan": {
+    "name": "Jiaqi Tan",
+    "web": "https://christinatan0704.github.io/mysite/"
+  },
+  "SaimWani": {
+    "name": "Saim Wani",
+    "web": "https://saimwani.github.io/"
+  },
+  "ShivanshPatel": {
+    "name": "Shivansh Patel",
+    "web": "https://shivanshpatel35.github.io/"
+  },
+  "UnnatJain": {
+    "name": "Unnat Jain",
+    "web": "https://unnat.github.io/"
+  },
+  "VladmirKim": {
+    "name": "Vladmir Kim",
+    "web": "http://www.vovakim.com/"
+  },
+  "SiddharthaChaudhuri": {
+    "name": "Siddhartha Chaudhuri",
+    "web": "https://www.cse.iitb.ac.in/~sidch/"
+  },
+  "XianghaoXu": {
+    "name": "Xianghao Xu",
+    "web": "https://xxh43.github.io/"
+  },
+  "DavidCharatan": {
+    "name": "David Charatan",
+    "web": "https://davidcharatan.com/"
+  },
+  "MaeHeitmann": {
+    "name": "Mae Heitmann"
+  },
+  "DhruvBatra": {
+    "name": "Dhruv Batra",
+    "web": "https://www.cc.gatech.edu/~dbatra/"
+  },
+  "SoniaChernova": {
+    "name": "Sonia Chernova",
+    "web": "https://www.cc.gatech.edu/~chernova/"
+  },
+  "AndrewDavison": {
+    "name": "Andrew J. Davison",
+    "web": "https://www.doc.ic.ac.uk/~ajd/"
+  },
+  "JiaDeng": {
+    "name": "Jia Deng",
+    "web": "https://www.cs.princeton.edu/~jiadeng/"
+  },
+  "SergeyLevine": {
+    "name": "Sergey Levine",
+    "web": "https://people.eecs.berkeley.edu/~svlevine/"
+  },
+  "IgorMordatch": {
+    "name": "Igor Mordatch"
+  },
+  "AndrewSzot": {
+    "name": "Andrew Szot",
+    "web": "https://www.andrewszot.com/"
+  },
+  "ErikWijmans": {
+    "name": "Erik Wijmans",
+    "web": "https://wijmans.xyz/"
+  },
+  "YiliZhao": {
+    "name": "Yili Zhao",
+    "web": "http://www.yilizhao.net/"
+  },
+  "DevendraChaplot": {
+    "name": "Devendra Chaplot",
+    "web": "https://devendrachaplot.github.io/"
+  },
+  "AaronGokaslan": {
+    "name": "Aaron Gokaslan",
+    "web": "https://skylion007.github.io/"
+  },
+  "MustafaMukadam": {
+    "name": "Mustafa Mukadam",
+    "web": "http://www.mustafamukadam.com/"
+  },
+  "FranziskaMeier": {
+    "name": "Franziska Meier",
+    "web": "https://fmeier.github.io/"
+  },
+  "ZsoltKira": {
+    "name": "Zsolt Kira",
+    "web": "https://www.cc.gatech.edu/~zk15/"
+  },
+  "VladimírVondrus": {
+    "name": "Vladimír Vondrus",
+    "web": "https://github.com/mosra"
+  },
+  "AlexanderSchwing": {
+    "name": "Alexander Schwing",
+    "web": "https://alexander-schwing.de/"
+  },
+  "SvetlanaLazebnik": {
+    "name": "Svetlana Lazebnik",
+    "web": "https://slazebni.cs.illinois.edu/"
+  },
+  "SanthoshRamakrishnan": {
+    "name": "Santhosh K. Ramakrishnan",
+    "web": "https://srama2512.github.io/"
+  },
+  "RonghangHu": {
+    "name": "Ronghang Hu",
+    "web": "https://ronghanghu.com/"
+  },
+  "XinleiChen": {
+    "name": "Xinlei Chen",
+    "web": "https://xinleic.xyz/"
+  },
+  "KarmeshYadav": {
+    "name": "Karmesh Yadav",
+    "web": "https://www.karmeshyadav.com/"
+  },
+  "RamRamrakhya": {
+    "name": "Ram Ramrakhya",
+    "web": "https://ram81.github.io/"
+  },
+  "TheoGervet": {
+    "name": "Theo Gervet",
+    "web": "https://theophilegervet.github.io/"
+  },
+  "LucianoSerafini": {
+    "name": "Luciano Serafini",
+    "web": "https://dkm.fbk.eu/author/lucianoserafini/"
+  },
+  "LambertoBallan": {
+    "name": "Lamberto Ballan",
+    "web": "http://www.lambertoballan.net/"
+  },
+  "YonatanBisk": {
+    "name": "Yonatan Bisk",
+    "web": "https://yonatanbisk.com/"
+  },
+  "MukulKhanna": {
+    "name": "Mukul Khanna",
+    "web": "https://mukulkhanna.github.io/"
+  },
+  "ChrisPaxton": {
+    "name": "Chris Paxton",
+    "web": "https://cpaxton.github.io/"
+  },
+  "BrennanShacklett": {
+    "name": "Brennan Shacklett",
+    "web": "https://cs.stanford.edu/~bps/"
+  },
+  "JoakimHaurum": {
+    "name": "Joakim Bruslund Haurum",
+    "web": "https://joakimhaurum.github.io/"
+  },
+  "ScottLowe": {
+    "name": "Scott C Lowe",
+    "web": "https://scottclowe.com/"
+  },
+  "GrahamTaylor": {
+    "name": "Graham W Taylor",
+    "web": "https://www.gwtaylor.ca/"
+  },
+  "LilaKari": {
+    "name": "Lila Kari",
+    "web": "https://cs.uwaterloo.ca/~lila/"
+  },
+  "PaulFieguth": {
+    "name": "Paul Fieguth",
+    "web": "https://uwaterloo.ca/systems-design-engineering/profile/pfieguth"
+  },
+  "PabloMillanArias": {
+    "name": "Pablo Millan Arias",
+    "web": "https://millanp95.github.io/"
+  },
+  "ZiyuWan": {
+    "name": "Ziyu Wan",
+    "web": "http://raywzy.com/"
+  }
+}
