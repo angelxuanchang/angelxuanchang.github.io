@@ -503,8 +503,13 @@
     "name": "Yiming Zhang",
     "tags": ["alumni", "student", "PhD"],
     "details": "Spring 2024",
-    "alumni": [
-      "undergrad, 2021, M.Sc. 2022 - 2023, next SFU PhD"
+    "alumni": [ {
+        "description": "undergrad, 2021, M.Sc. 2022 - 2023, next SFU PhD",
+        "thesis": { 
+          "title": "Multi3DRefer: Grounding text description to multiple 3D objects", 
+          "url": "https://summit.sfu.ca/item/37957"
+        }
+      }
     ]
   },
   "ZemingGong": {

@@ -1,7 +1,15 @@
 [
 {
+  "date": "October 14, 2024",
+  "description": "Talk (remote) at <a href='https://www.ai-meets-autonomy.com/iros-workshop'>Workshop on AI Meets Autonomy: Vision, Language, and Autonomous Systems</a> at IROS 2024"
+},
+{
+  "date": "September 2024",
+  "description": "<a href='https://biodiversitygenomics.net/projects/5m-insects/'>BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity</a> accepted at NeurIPS datasets and benchmarks 2024."
+},
+{
   "date": "August 16, 2024",
-  "description": "Talk at <a href='https://alvr-workshop.github.io/'>Workshop on Advances in Language and Vision Research (ALVR)</a> at ACL 2024"
+  "description": "Talk (remote) at <a href='https://alvr-workshop.github.io/'>Workshop on Advances in Language and Vision Research (ALVR)</a> at ACL 2024"
 },
 {
   "date" : "July, 2024",
@@ -49,7 +57,7 @@
 },
 {
     "date": "September 2023",
-    "description": "Congratulations to ZeMing (together with Zahra and Nick from U. of Waterloo) on the acceptance of their work <a href='https://biodiversitygenomics.net/1M_insects/'>BIOSCAN-1M Insect dataset</a> at NeurIPS datasets and benchmarks 2023."
+    "description": "Congratulations to ZeMing (together with Zahra and Nick from U. of Waterloo) on the acceptance of their work <a href='https://biodiversitygenomics.net/projects/1m-insects/'>BIOSCAN-1M Insect dataset</a> at NeurIPS datasets and benchmarks 2023."
 },
 {
     "date": "July 2023",
