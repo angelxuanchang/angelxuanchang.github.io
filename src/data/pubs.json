@@ -1,5 +1,41 @@
 [
   {
+    "date": "2024-10",
+    "title": "SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects",
+    "authors": [
+      "JiayiLiu",
+      "DenysIliash",
+      "angel",
+      "manolis",
+      "AliMahdaviAmiri"
+    ],
+    "text": "arXiv:2410.16499 [cs.CV], October 2024",
+    "img": "files/singapo.png",
+    "web": "https://3dlg-hcvc.github.io/singapo/",
+    "pdf": "https://arxiv.org/pdf/2410.16499",
+    "code": "https://github.com/3dlg-hcvc/singapo",
+    "venue": ["vision", "preprint"],
+    "tags": ["3d", "articulations"]
+  },
+  {
+    "date": "2024-09",
+    "title": "S2O: Static to Openable Enhancement for Articulated 3D Objects",
+    "authors": [
+      "DenysIliash",
+      "HanxiaoJiang",
+      "YimingZhang",
+      "manolis",
+      "angel"
+    ],
+    "text": "arXiv:2409.18896 [cs.CV], September 2024",
+    "img": "files/s2o.png",
+    "web": "https://3dlg-hcvc.github.io/s2o/",
+    "pdf": "https://arxiv.org/pdf/2409.18896",
+    "code": "https://github.com/3dlg-hcvc/s2o",
+    "venue": ["vision", "preprint"],
+    "tags": ["3d", "articulations"]
+  },
+  {
     "date": "2024-08",
     "title": "An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion",
     "authors": [
@@ -8,7 +44,7 @@
       "ZiyuWan",
       "angel"
     ],
-    "text": "arXiv:2408.03178 [cs.CV], August 2024",
+    "text": "3DV 2025, arXiv:2408.03178 [cs.CV], August 2024",
     "img": "files/omage.png",
     "web": "https://omages.github.io/",
     "pdf": "https://arxiv.org/pdf/2408.03178",
@@ -26,7 +62,7 @@
       "angel",
       "manolis"
     ],
-    "text": "arXiv:2408.02211 [cs.GR], August 2024",
+    "text": "3DV 2025, arXiv:2408.02211 [cs.GR], August 2024",
     "img": "files/smc.png",
     "web": "https://3dlg-hcvc.github.io/smc/",
     "pdf": "https://arxiv.org/pdf/2408.02211",
@@ -71,7 +107,7 @@
       "PaulFieguth",
       "angel"
     ],
-    "text": "arXiv:2406.12723 [cs.LG], June 2024",
+    "text": "NeurIPS D&B 2024, arXiv:2406.12723 [cs.LG], June 2024",
     "img": "files/bioscan5m.png",
     "pdf": "https://arxiv.org/pdf/2406.12723",
     "web": "https://biodiversitygenomics.net/projects/5m-insects/",
@@ -121,10 +157,11 @@
   },
   {
     "date": "2024-05",
-    "title": "BIOSCAN-CLIP: Bridging Vision and Genomics for Biodiversity Monitoring at Scale",
+    "title": "CLIBD: Bridging Vision and Genomics for Biodiversity Monitoring at Scale",
     "authors": [
       "ZemingGong", 
       "AustinWang",
+      "XiaoliangHuo",
       "JoakimHaurum",
       "ScottLowe", 
       "GrahamTaylor",
