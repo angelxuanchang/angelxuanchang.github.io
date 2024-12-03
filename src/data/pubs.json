@@ -1,6 +1,42 @@
 [
   {
     "date": "2024-10",
+    "title": "Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling",
+    "authors": [
+      "QiruiWu",
+      "DenysIliash",
+      "DanielRitchie",
+      "manolis",
+      "angel"
+    ],
+    "text": "arXiv:2411.19492 [cs.CV], November 2024",
+    "img": "files/diorama.webp",
+    "web": "https://3dlg-hcvc.github.io/diorama/",
+    "pdf": "https://arxiv.org/pdf/2411.19492",
+    "venue": ["vision", "preprint"],
+    "tags": ["3d", "scene"]
+  },
+  {
+    "date": "2024-10",
+    "title": "NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN",
+    "authors": [
+      "SoniaRaychaudhuri",
+      "DuyTa",
+      "KatrinaAshton",
+      "angel",
+      "JiuguangWang",
+      "BernadetteBucher"
+    ],
+    "text": "arXiv:2411.07848 [cs.RO], November 2024",
+    "img": "files/nlslam.gif",
+    "web": "https://sonia-raychaudhuri.github.io/nlslam/",
+    "pdf": "https://arxiv.org/abs/2411.07848",
+    "video": "https://youtu.be/O26NiiL2XL4",
+    "venue": ["vision", "preprint"],
+    "tags": ["embodied"]
+  },
+  {
+    "date": "2024-10",
     "title": "SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects",
     "authors": [
       "JiayiLiu",
