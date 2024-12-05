@@ -1,5 +1,9 @@
 [
 {
+    "date": "December 2024",
+    "description": "We are excited that NeurIPS will be Vancouver and will be running a series of exciting talks on the mornings of Dec 11-13.  See <a href='https://sites.google.com/view/sfu-at-neurips-2024'>event page</a> for details."
+},
+{
   "date": "November 2024",
   "description": "Two papers accepted at 3DV 2025.  Congratulations to <ul><li>Xingguang, Han-Hung, and Ziyu for their work on <a href='https://omages.github.io/'>An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion</a>.</li><li>Ivan, Derek, and Austin for their work on <a href='https://3dlg-hcvc.github.io/smc/'>SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements</a>.</li></ul>"
 },
