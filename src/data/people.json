@@ -529,8 +529,15 @@
       "undergrad, Fall 2023, next SFU MSc"
     ]
   },
+  "QinghongHan": {
+    "name": "Qinghong Han",
+    "web": "https://sulley.cc/",
+    "tags": ["student", "Master"],
+    "details": "Spring 2025"
+  },
   "MrinalGoshalia": {
     "name": "Mrinal Goshalia",
+    "web": "https://www.mrinalg.com/",
     "tags": ["student", "Undergrad"],
     "details": "Fall 2023"
   },
