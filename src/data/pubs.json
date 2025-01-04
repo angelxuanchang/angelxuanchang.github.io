@@ -1,6 +1,21 @@
 [
   {
-    "date": "2024-10",
+    "date": "2025-01",
+    "title": "ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding",
+    "authors": [
+      "AustinWang",
+      "ZemingGong",
+      "angel"
+    ],
+    "text": "arXiv:2501.01366 [cs.CV], January 2025",
+    "img": "files/vigil3d.png",
+    "web": "https://3dlg-hcvc.github.io/vigil3d/",
+    "pdf": "https://arxiv.org/pdf/2501.01366",
+    "venue": ["preprint"],
+    "tags": ["3d", "vl"]
+  },
+  {
+    "date": "2024-11",
     "title": "Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling",
     "authors": [
       "QiruiWu",
@@ -126,7 +141,7 @@
     "tags": ["3d"]
   },
   {
-    "date": "2023-12",
+    "date": "2024-12",
     "title": "BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity",
     "authors": [
       "Zahra Gharaee",
