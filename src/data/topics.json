@@ -36,8 +36,8 @@
 		"img": ""
 	},
 	{
-		"name": "Large-scale datasets for 3D deep learning",
-		"description": "Another focus of my work is the creation of large-scale 3D datasets. With data, we can develop new models and tasks for 3D understanding and generation. These assets are also essential for training embodied AI agents to learn to move and interact in 3D environments.",
+		"name": "Datasets for 3D deep learning",
+		"description": "Another focus of my work is the creation of 3D datasets. With data, we can develop new models and tasks for 3D understanding and generation. These assets are also essential for training embodied AI agents to learn to move and interact in 3D environments.",
 		"tagsets": [["3d", "dataset"]],
 		"img": ""
 	},

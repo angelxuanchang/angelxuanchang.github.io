@@ -1,6 +1,19 @@
 [
   {
     "date": "2025-01",
+    "title": "Semantic Mapping in Indoor Embodied AI - A Comprehensive Survey and Future Directions",
+    "authors": [
+      "SoniaRaychaudhuri",
+      "angel"
+    ],
+    "text": "arXiv:2501.05750 [cs.CV], January 2025",
+    "img": "files/semmap.png",
+    "pdf": "https://arxiv.org/pdf/2501.05750",
+    "venue": ["preprint"],
+    "tags": ["3d"]
+  },
+  {
+    "date": "2025-01",
     "title": "ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding",
     "authors": [
       "AustinWang",
@@ -11,8 +24,99 @@
     "img": "files/vigil3d.png",
     "web": "https://3dlg-hcvc.github.io/vigil3d/",
     "pdf": "https://arxiv.org/pdf/2501.01366",
+    "code": "https://github.com/3dlg-hcvc/vigil3d",
     "venue": ["preprint"],
-    "tags": ["3d", "vl"]
+    "tags": ["3d", "vl", "latest"]
+  },
+  {
+    "date": "2025-04",
+    "title": "CLIBD: Bridging Vision and Genomics for Biodiversity Monitoring at Scale",
+    "authors": [
+      "ZemingGong", 
+      "AustinWang",
+      "XiaoliangHuo",
+      "JoakimHaurum",
+      "ScottLowe", 
+      "GrahamTaylor",
+      "angel"
+    ],
+    "text": "ICLR 2025, arXiv:2405.17537 [cs.AI], May 2024",
+    "img": "files/bioscanclip.png",
+    "web": "https://3dlg-hcvc.github.io/bioscan-clip/",
+    "pdf": "https://arxiv.org/pdf/2405.17537",
+    "code": "https://github.com/3dlg-hcvc/bioscan-clip",
+    "venue": ["ai", "conference"],
+    "tags": ["bioscan", "latest"]
+  },
+  {
+    "date": "2025-04",
+    "title": "SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects",
+    "authors": [
+      "JiayiLiu",
+      "DenysIliash",
+      "angel",
+      "manolis",
+      "AliMahdaviAmiri"
+    ],
+    "text": "ICLR 2025, arXiv:2410.16499 [cs.CV], October 2024",
+    "img": "files/singapo.png",
+    "web": "https://3dlg-hcvc.github.io/singapo/",
+    "pdf": "https://arxiv.org/pdf/2410.16499",
+    "code": "https://github.com/3dlg-hcvc/singapo",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "articulations", "latest"]
+  },
+  {
+    "date": "2025-04",
+    "title": "Duoduo CLIP: Efficient 3D Understanding with Multi-View Images",
+    "authors": [
+      "HanHungLee",
+      "YimingZhang",
+      "angel"
+    ],
+    "text": "ICLR 2025, arXiv:2406.11579 [cs.CV], June 2024",
+    "img": "files/duoduoclip.png",
+    "web": "https://3dlg-hcvc.github.io/DuoduoCLIP/",
+    "pdf": "https://arxiv.org/pdf/2406.11579",
+    "code": "https://github.com/3dlg-hcvc/DuoduoCLIP",
+    "venue": ["vision", "conference"],
+    "tags": ["vl","3d", "latest"]
+  },
+  {
+    "date": "2025-03",
+    "title": "An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion",
+    "authors": [
+      "XingguangYan",
+      "HanHungLee",
+      "ZiyuWan",
+      "angel"
+    ],
+    "text": "3DV 2025, arXiv:2408.03178 [cs.CV], August 2024",
+    "img": "files/omage.png",
+    "web": "https://omages.github.io/",
+    "pdf": "https://arxiv.org/pdf/2408.03178",
+    "code": "https://github.com/3dlg-hcvc/omages",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "synthesis", "latest"]
+  },
+  {
+    "date": "2025-03",
+    "title": "SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements",
+    "authors": [
+      "Hou In Ivan Tam",
+      "Hou In Derek Pun",
+      "AustinWang",
+      "angel",
+      "manolis"
+    ],
+    "text": "3DV 2025, arXiv:2408.02211 [cs.GR], August 2024",
+    "img": "files/smc.png",
+    "web": "https://3dlg-hcvc.github.io/smc/",
+    "pdf": "https://arxiv.org/pdf/2408.02211",
+    "code": "https://github.com/3dlg-hcvc/smc",
+    "video": "https://youtu.be/iXsx18R7NN8",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "synthesis", "text2scene", "latest"]
   },
   {
     "date": "2024-11",
@@ -29,7 +133,7 @@
     "web": "https://3dlg-hcvc.github.io/diorama/",
     "pdf": "https://arxiv.org/pdf/2411.19492",
     "venue": ["vision", "preprint"],
-    "tags": ["3d", "scene"]
+    "tags": ["3d", "scene", "latest"]
   },
   {
     "date": "2024-10",
@@ -48,25 +152,7 @@
     "pdf": "https://arxiv.org/abs/2411.07848",
     "video": "https://youtu.be/O26NiiL2XL4",
     "venue": ["vision", "preprint"],
-    "tags": ["embodied"]
-  },
-  {
-    "date": "2024-10",
-    "title": "SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects",
-    "authors": [
-      "JiayiLiu",
-      "DenysIliash",
-      "angel",
-      "manolis",
-      "AliMahdaviAmiri"
-    ],
-    "text": "arXiv:2410.16499 [cs.CV], October 2024",
-    "img": "files/singapo.png",
-    "web": "https://3dlg-hcvc.github.io/singapo/",
-    "pdf": "https://arxiv.org/pdf/2410.16499",
-    "code": "https://github.com/3dlg-hcvc/singapo",
-    "venue": ["vision", "preprint"],
-    "tags": ["3d", "articulations"]
+    "tags": ["embodied", "latest"]
   },
   {
     "date": "2024-09",
@@ -83,62 +169,8 @@
     "web": "https://3dlg-hcvc.github.io/s2o/",
     "pdf": "https://arxiv.org/pdf/2409.18896",
     "code": "https://github.com/3dlg-hcvc/s2o",
-    "venue": ["vision", "preprint"],
-    "tags": ["3d", "articulations"]
-  },
-  {
-    "date": "2024-08",
-    "title": "An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion",
-    "authors": [
-      "XingguangYan",
-      "HanHungLee",
-      "ZiyuWan",
-      "angel"
-    ],
-    "text": "3DV 2025, arXiv:2408.03178 [cs.CV], August 2024",
-    "img": "files/omage.png",
-    "web": "https://omages.github.io/",
-    "pdf": "https://arxiv.org/pdf/2408.03178",
-    "code": "https://github.com/3dlg-hcvc/omages",
-    "venue": ["vision", "preprint"],
-    "tags": ["3d", "synthesis"]
-  },
-  {
-    "date": "2024-08",
-    "title": "SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements",
-    "authors": [
-      "Hou In Ivan Tam",
-      "Hou In Derek Pun",
-      "AustinWang",
-      "angel",
-      "manolis"
-    ],
-    "text": "3DV 2025, arXiv:2408.02211 [cs.GR], August 2024",
-    "img": "files/smc.png",
-    "web": "https://3dlg-hcvc.github.io/smc/",
-    "pdf": "https://arxiv.org/pdf/2408.02211",
-    "code": "https://github.com/3dlg-hcvc/smc",
-    "video": "https://youtu.be/iXsx18R7NN8",
-    "venue": ["vision", "preprint"],
-    "tags": ["3d", "synthesis", "text2scene"]
-  },
-  {
-    "date": "2024-07",
-    "title": "R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding",
-    "authors": [
-      "QiruiWu",
-      "SoniaRaychaudhuri",
-      "DanielRitchie",
-      "manolis",
-      "angel"
-    ],
-    "text": "ECCV 2024",
-    "img": "files/r3ds.webp",
-    "web": "https://3dlg-hcvc.github.io/r3ds/",
-    "pdf": "https://arxiv.org/pdf/2403.12301",
-    "code": "https://github.com/3dlg-hcvc/r3ds",
     "venue": ["vision", "conference"],
-    "tags": ["3d"]
+    "tags": ["3d", "articulations", "latest"]
   },
   {
     "date": "2024-12",
@@ -163,24 +195,26 @@
     "pdf": "https://arxiv.org/pdf/2406.12723",
     "web": "https://biodiversitygenomics.net/projects/5m-insects/",
     "code": "https://github.com/zahrag/BIOSCAN-5M",
-    "venue": ["ai", "preprint"],
+    "venue": ["ai", "conference"],
     "tags": ["bioscan", "dataset"]
   },
   {
-    "date": "2024-08",
-    "title": "Duoduo CLIP: Efficient 3D Understanding with Multi-View Images",
+    "date": "2024-07",
+    "title": "R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding",
     "authors": [
-      "HanHungLee",
-      "YimingZhang",
+      "QiruiWu",
+      "SoniaRaychaudhuri",
+      "DanielRitchie",
+      "manolis",
       "angel"
     ],
-    "text": "arXiv:2406.11579 [cs.CV], June 2024",
-    "img": "files/duoduoclip.png",
-    "web": "https://3dlg-hcvc.github.io/DuoduoCLIP/",
-    "pdf": "https://arxiv.org/pdf/2406.11579",
-    "code": "https://github.com/3dlg-hcvc/DuoduoCLIP",
-    "venue": ["vision", "preprint"],
-    "tags": ["vl","3d"]
+    "text": "ECCV 2024",
+    "img": "files/r3ds.webp",
+    "web": "https://3dlg-hcvc.github.io/r3ds/",
+    "pdf": "https://arxiv.org/pdf/2403.12301",
+    "code": "https://github.com/3dlg-hcvc/r3ds",
+    "venue": ["vision", "conference"],
+    "tags": ["3d"]
   },
   {
     "date": "2024-06",
@@ -205,26 +239,6 @@
     "data": "https://huggingface.co/hssd",
     "venue": ["vision", "conference"],
     "tags": ["embodied", "navigation", "3d", "dataset"]
-  },
-  {
-    "date": "2024-05",
-    "title": "CLIBD: Bridging Vision and Genomics for Biodiversity Monitoring at Scale",
-    "authors": [
-      "ZemingGong", 
-      "AustinWang",
-      "XiaoliangHuo",
-      "JoakimHaurum",
-      "ScottLowe", 
-      "GrahamTaylor",
-      "angel"
-    ],
-    "text": "arXiv:2405.17537 [cs.AI], May 2024",
-    "img": "files/bioscanclip.png",
-    "web": "https://3dlg-hcvc.github.io/bioscan-clip/",
-    "pdf": "https://arxiv.org/pdf/2405.17537",
-    "code": "https://github.com/3dlg-hcvc/bioscan-clip",
-    "venue": ["ai", "preprint"],
-    "tags": ["bioscan"]
   },
   {
     "date": "2024-05",

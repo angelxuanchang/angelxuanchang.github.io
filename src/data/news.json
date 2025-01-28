@@ -1,5 +1,9 @@
 [
 {
+    "date": "January 2025",
+    "description": "Three papers accepted at ICLR 2025.  Congratulations to <ul><li>Han-Hung and Yiming for their work on <a href='https://3dlg-hcvc.github.io/DuoduoCLIP/'>Duoduo CLIP: Efficient 3D Understanding with Multi-View Images</a>.</li><li>ZeMing, Austin, and Xiaoliang for their work on <a href='https://bioscan-ml.github.io/clibd/'>CLIBD: Bridging Vision and Genomics for Biodiversity Monitoring at Scale</a>.</li><li>Jiayi and Denys for their work on <a href='https://3dlg-hcvc.github.io/singapo/'>SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects</a>.</li></ul>"
+},
+{
     "date": "December 2024",
     "description": "We are excited that NeurIPS will be Vancouver and will be running a series of exciting talks on the mornings of Dec 11-13.  See <a href='https://sites.google.com/view/sfu-at-neurips-2024'>event page</a> for details."
 },

@@ -16,7 +16,7 @@ active_page: home
         <h2>Recent Papers</h2>
       </div>
       <div class="panel-body">
-      <% recent_pubs = @pubs.slice(0, 5) %>  
+      <% recent_pubs = @pubs.filter((x) => @hasField(x, 'tags', ['latest'])) %>  
       <%- @partial('pubs', this, { pubs: recent_pubs, people: @people }) %>
        <a href="pubsall.html">More...</a>
       </div>
