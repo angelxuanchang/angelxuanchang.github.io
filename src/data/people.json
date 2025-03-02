@@ -383,7 +383,7 @@
         "description": "M.Sc. Fall 2019 to Spring 2022, next Zippin" ,
         "thesis": { 
           "title": "Dense Captioning for 3D Environments using Natural Language", 
-          "url": "https://theses.lib.sfu.ca/file/thesis/6920"
+          "url": "https://summit.sfu.ca/item/36211"
         }
       }
     ]
@@ -402,7 +402,7 @@
         "description": "M.Sc. Fall 2019 to Summer 2021, next Integrant" ,
         "thesis": { 
           "title": "Neural State Machine for 2D and 3D Visual Question Answering", 
-          "url": "https://theses.lib.sfu.ca/file/thesis/6675"
+          "url": "https://summit.sfu.ca/item/34849"
         }
       }
     ]
@@ -415,7 +415,7 @@
         "description": "M.Sc. Fall 2019 to Spring 2022, next Amazon" ,
         "thesis": { 
           "title": "TriCoLo: Trimodal Contrastive Loss for Text to Shape Retrieval", 
-          "url": "https://theses.lib.sfu.ca/file/thesis/6930"
+          "url": "https://summit.sfu.ca/item/35615"
         }
       }
     ]
@@ -428,7 +428,7 @@
         "description": "M.Sc. Fall 2019 to Fall 2022",
         "thesis": { 
           "title": "DenseRefer3D: A Language and 3D Dataset for Coreference  Resolution and Referring Expression Comprehension", 
-          "url": "https://theses.lib.sfu.ca/file/thesis/7202"
+          "url": "https://summit.sfu.ca/item/35432"
         }
       }
     ]
@@ -540,6 +540,17 @@
     "web": "https://www.mrinalg.com/",
     "tags": ["student", "Undergrad"],
     "details": "Fall 2023"
+  },
+  "ChuanqiTang": {
+    "name": "Chuanqi Tang",
+    "tags": ["student", "Master"],
+    "details": "Zhejiang dual-degree student, Fall 2024"
+  },
+  "FrancescoTaioli": {
+    "name": "Francesco Taioli",
+    "web": "https://francescotaioli.github.io/",
+    "tags": ["visitor"],
+    "details": "visiting student, Spring 2025, PhD at Polytechnic of Turin"
   },
   "DaveZhenyuChen": {
     "name": "Dave Zhenyu Chen",

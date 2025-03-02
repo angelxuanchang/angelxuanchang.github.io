@@ -29,9 +29,14 @@ active_page: group
         <h4>Master Students</h4>
          <%- @partial('people', false, { people: @masters }) %>
          <br/>
-         <h4>Undergraduate Students</h4>
+        <h4>Undergraduate Students</h4>
          <%- @partial('people', false, { people: @undergrad }) %>
          <br/>
+        <% if @visitor.length: %> 
+        <h4>Visiting Students</h4>
+         <%- @partial('people', false, { people: @visitor }) %>
+         <br/>
+        <% end %> 
       </div>
       <div class="panel-body">
         <h3>Alumni</h3>
