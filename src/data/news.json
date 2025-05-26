@@ -1,5 +1,13 @@
 [
 {
+    "date": "May 27, 2025",
+    "description": "Invited talk at <a href='https://www.computerrobotvision.org/'>CRV 2025</a>"
+},
+{
+    "date": "May 2025",
+    "description": "Congratulations to Austin and ZeMing on the acceptance of their paper <a href='https://github.com/3dlg-hcvc/vigil3d'>ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding</a> to ACL 2025."
+},
+{
     "date": "March 2025",
     "description": "Congratulations to Xingguang, Han-Hung, and Ziyu for receiving the best paper award at 3DV for their work on <a href='https://omages.github.io/'>An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion</a>!"
 },
