@@ -660,7 +660,7 @@
     "web": "https://3dlg-hcvc.github.io/3DVQA/",
     "code": "https://github.com/3dlg-hcvc/3DVQA",
     "venue": ["vision", "conference"],
-    "tags": ["vqa","3d"]
+    "tags": ["vqa","vl","3d"]
   },
   {
     "date": "2021-12",
