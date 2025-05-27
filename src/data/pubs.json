@@ -70,7 +70,7 @@
       "ZemingGong",
       "angel"
     ],
-    "text": "arXiv:2501.01366 [cs.CV], January 2025",
+    "text": "ACL 2025, arXiv:2501.01366 [cs.CV], January 2025",
     "img": "files/vigil3d.png",
     "web": "https://3dlg-hcvc.github.io/vigil3d/",
     "pdf": "https://arxiv.org/pdf/2501.01366",
@@ -187,7 +187,7 @@
   },
   {
     "date": "2024-10",
-    "title": "NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN",
+    "title": "Zero-shot Object-Centric Instruction Following: Integrating Foundation Models with Traditional Navigation",
     "authors": [
       "SoniaRaychaudhuri",
       "DuyTa",
