@@ -488,8 +488,10 @@
   },
   "XiaoliangHuo": {
     "name": "Xiaoliang Huo",
-    "tags": ["student", "PhD"],
-    "details": "Fall 2023, co-advised with Manolis Savva"
+    "tags": ["alumni"],
+    "alumni": [
+      "Fall 2023 - Spring 2025"
+    ]
   },
   "WeijieLin": {
     "name": "Weijie (Lewis) Lin",
@@ -501,6 +503,7 @@
   },
   "YimingZhang": {
     "name": "Yiming Zhang",
+    "web": "https://scholar.google.ca/citations?user=scUaE38AAAAJ&hl=en",
     "tags": ["alumni", "student", "PhD"],
     "details": "Spring 2024",
     "alumni": [ {
@@ -523,17 +526,26 @@
   },
   "DenysIliash": {
     "name": "Denys Iliash",
+    "web": "https://scholar.google.com/citations?user=guExFlYAAAAJ&hl=en",
     "tags": ["student", "Master"],
     "details": "Spring 2024",
     "alumni": [
       "undergrad, Fall 2023, next SFU MSc"
     ]
   },
+  "ShipingYang": {
+    "name": "Shiping Yang",
+    "web": "https://maybenotime.github.io/",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2025"
+  },
   "QinghongHan": {
     "name": "Qinghong Han",
     "web": "https://sulley.cc/",
-    "tags": ["student", "Master"],
-    "details": "Spring 2025"
+    "tags": ["alumni"],
+    "alumni": [
+      "Spring 2025"
+    ]
   },
   "MrinalGoshalia": {
     "name": "Mrinal Goshalia",

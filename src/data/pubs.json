@@ -11,6 +11,7 @@
     "img": "files/nuiscene.png",
     "web": "https://3dlg-hcvc.github.io/NuiScene/",
     "pdf": "https://arxiv.org/pdf/2503.16375",
+    "code": "https://github.com/3dlg-hcvc/NuiScene",
     "venue": ["preprint"],
     "tags": ["3d", "latest"]
   },
