@@ -1,19 +1,52 @@
 [
   {
-    "date": "2025-03",
+    "date": "2025-10",
     "title": "NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes",
     "authors": [
       "HanHungLee",
       "QinghongHan",
       "angel"
     ],
-    "text": "arXiv:2503.16375 [cs.CV], March 2025",
+    "text": "ICCV 2025, arXiv:2503.16375 [cs.CV], March 2025",
     "img": "files/nuiscene.png",
     "web": "https://3dlg-hcvc.github.io/NuiScene/",
     "pdf": "https://arxiv.org/pdf/2503.16375",
     "code": "https://github.com/3dlg-hcvc/NuiScene",
-    "venue": ["preprint"],
+    "venue": ["vision", "conference"],
     "tags": ["3d", "latest"]
+  },
+  {
+    "date": "2025-10",
+    "title": "Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling",
+    "authors": [
+      "QiruiWu",
+      "DenysIliash",
+      "DanielRitchie",
+      "manolis",
+      "angel"
+    ],
+    "text": "ICCV 2025, arXiv:2411.19492 [cs.CV], November 2024",
+    "img": "files/diorama.webp",
+    "web": "https://3dlg-hcvc.github.io/diorama/",
+    "pdf": "https://arxiv.org/pdf/2411.19492",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "scene", "latest"]
+  },
+  {
+    "date": "2025-07",
+    "title": "ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding",
+    "authors": [
+      "AustinWang",
+      "ZemingGong",
+      "angel"
+    ],
+    "text": "ACL 2025, arXiv:2501.01366 [cs.CV], January 2025",
+    "img": "files/vigil3d.png",
+    "web": "https://3dlg-hcvc.github.io/vigil3d/",
+    "pdf": "https://arxiv.org/pdf/2501.01366",
+    "code": "https://github.com/3dlg-hcvc/vigil3d",
+    "venue": ["nlp", "conference"],
+    "tags": ["3d", "vl", "latest"]
   },
   {
     "date": "2025-03",
@@ -47,6 +80,7 @@
     "img": "files/sceneeval.png",
     "web": "https://3dlg-hcvc.github.io/SceneEval/",
     "pdf": "http://arxiv.org/pdf/2503.14756",
+    "code": "https://github.com/3dlg-hcvc/SceneEval",
     "venue": ["preprint"],
     "tags": ["3d", "evaluation", "text2scene", "latest"]
   },
@@ -62,22 +96,6 @@
     "pdf": "https://arxiv.org/pdf/2501.05750",
     "venue": ["preprint"],
     "tags": ["3d"]
-  },
-  {
-    "date": "2025-01",
-    "title": "ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding",
-    "authors": [
-      "AustinWang",
-      "ZemingGong",
-      "angel"
-    ],
-    "text": "ACL 2025, arXiv:2501.01366 [cs.CV], January 2025",
-    "img": "files/vigil3d.png",
-    "web": "https://3dlg-hcvc.github.io/vigil3d/",
-    "pdf": "https://arxiv.org/pdf/2501.01366",
-    "code": "https://github.com/3dlg-hcvc/vigil3d",
-    "venue": ["preprint"],
-    "tags": ["3d", "vl", "latest"]
   },
   {
     "date": "2025-04",
@@ -121,8 +139,8 @@
     "date": "2025-04",
     "title": "Duoduo CLIP: Efficient 3D Understanding with Multi-View Images",
     "authors": [
-      "HanHungLee",
-      "YimingZhang",
+      "HanHungLee*",
+      "YimingZhang*",
       "angel"
     ],
     "text": "ICLR 2025, arXiv:2406.11579 [cs.CV], June 2024",
@@ -170,23 +188,6 @@
     "tags": ["3d", "synthesis", "text2scene", "latest"]
   },
   {
-    "date": "2024-11",
-    "title": "Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling",
-    "authors": [
-      "QiruiWu",
-      "DenysIliash",
-      "DanielRitchie",
-      "manolis",
-      "angel"
-    ],
-    "text": "arXiv:2411.19492 [cs.CV], November 2024",
-    "img": "files/diorama.webp",
-    "web": "https://3dlg-hcvc.github.io/diorama/",
-    "pdf": "https://arxiv.org/pdf/2411.19492",
-    "venue": ["vision", "preprint"],
-    "tags": ["3d", "scene", "latest"]
-  },
-  {
     "date": "2024-10",
     "title": "Zero-shot Object-Centric Instruction Following: Integrating Foundation Models with Traditional Navigation",
     "authors": [
@@ -227,19 +228,19 @@
     "date": "2024-12",
     "title": "BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity",
     "authors": [
-      "Zahra Gharaee",
-      "ScottLowe", 
-      "ZemingGong", 
-      "PabloMillanArias",
+      "Zahra Gharaee*",
+      "ScottLowe*", 
+      "ZemingGong*", 
+      "PabloMillanArias*",
       "Nicholas Pellegrino", 
       "AustinWang",
       "JoakimHaurum",
       "Iuliia Zarubiieva",
       "LilaKari",
-      "Dirk Steinke",
-      "GrahamTaylor", 
-      "PaulFieguth",
-      "angel"
+      "Dirk Steinke†",
+      "GrahamTaylor†", 
+      "PaulFieguth†",
+      "angel†"
     ],
     "text": "NeurIPS D&B 2024, arXiv:2406.12723 [cs.LG], June 2024",
     "img": "files/bioscan5m.png",
@@ -376,8 +377,8 @@
     "date": "2024-01",
     "title": "TriCoLo: Trimodal Contrastive Loss for Text to Shape Retrieval",
     "authors": [
-      "YueRuan",
-      "HanHungLee",
+      "YueRuan*",
+      "HanHungLee*",
       "YimingZhang",
       "Ke Zhang",
       "angel"
@@ -418,9 +419,9 @@
     "date": "2023-12",
     "title": "A Step Towards Worldwide Biodiversity Assessment: The BIOSCAN-1M Insect Dataset",
     "authors": [
-      "Zahra Gharaee",
-      "ZemingGong", 
-      "Nicholas Pellegrino", 
+      "Zahra Gharaee*",
+      "ZemingGong*", 
+      "Nicholas Pellegrino*", 
       "Iuliia Zarubiieva",
       "JoakimHaurum",
       "ScottLowe", 
@@ -430,10 +431,10 @@
       "Yi-Yun C Wei", 
       "Jireh Agda",
       "Sujeevan Ratnasingham",
-      "Dirk Steinke",
-      "angel",
-      "GrahamTaylor", 
-      "PaulFieguth"
+      "Dirk Steinke†",
+      "angel†",
+      "GrahamTaylor†", 
+      "PaulFieguth†"
     ],
     "text": "NeurIPS Datasets and Benchmarks 2023",
     "img": "files/bioscan1m.png",

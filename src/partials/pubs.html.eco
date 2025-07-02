@@ -12,13 +12,17 @@
                 <%= p.title %>
                 <% if p.web: %></a><% end %>
               </h4>
-              <% for a in p.authors: %>
+              <% for aname in p.authors: %>
+                <% last = aname[aname.length-1] %>
+                <% hasMark = '*†'.indexOf(last) >= 0 %>
+                <% a = if hasMark then aname.substring(0,aname.length-1) else aname %>
+                <% m = if hasMark then last else '' %>
                 <% if @people[a]: %>
                   <% if @people[a].special: %><b><% end %>
-                  <% if @people[a].web: %><a href="<%= @people[a].web %>"><%= @people[a].name %></a><% else: %><%= @people[a].name %><% end %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %>
+                  <% if @people[a].web: %><a href="<%= @people[a].web %>"><%= @people[a].name %><%= m %></a><% else: %><%= @people[a].name %><%= m %><% end %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %>
                   <% if @people[a].special: %></b><% end %>
                 <% else: %>
-                  <%= a %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %>
+                  <%= a %><%= m %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %>
                 <% end %>
               <% end %>
               <%- p.text %><br>
