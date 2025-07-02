@@ -99,6 +99,24 @@
   },
   {
     "date": "2025-04",
+    "title": "Enhancing DNA Foundation Models to Address Masking Inefficiencies",
+    "authors": [
+      "MonirehSafari", 
+      "PabloMillanArias",
+      "ScottLowe",
+      "LilaKari",
+      "angel",
+      "GrahamTaylor"
+    ],
+    "text": "Nucleic Acids Workshop and Machine Learning for Genomics Exploration Workshop at ICLR 2025",
+    "img": "files/barcodemae.png",
+    "pdf": "https://arxiv.org/pdf/2502.18405",
+    "code": "https://github.com/bioscan-ml/BarcodeMAE",
+    "venue": ["ai", "workshop", "preprint"],
+    "tags": ["bioscan", "latest"]
+  },
+  {
+    "date": "2025-04",
     "title": "CLIBD: Bridging Vision and Genomics for Biodiversity Monitoring at Scale",
     "authors": [
       "ZemingGong", 
@@ -111,9 +129,9 @@
     ],
     "text": "ICLR 2025, arXiv:2405.17537 [cs.AI], May 2024",
     "img": "files/bioscanclip.png",
-    "web": "https://3dlg-hcvc.github.io/bioscan-clip/",
+    "web": "https://bioscan-ml/clibd/",
     "pdf": "https://arxiv.org/pdf/2405.17537",
-    "code": "https://github.com/3dlg-hcvc/bioscan-clip",
+    "code": "https://github.com/bioscan-ml/clibd/",
     "venue": ["ai", "conference"],
     "tags": ["bioscan", "latest"]
   },
@@ -228,7 +246,7 @@
     "date": "2024-12",
     "title": "BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity",
     "authors": [
-      "Zahra Gharaee*",
+      "ZahraGharaee*",
       "ScottLowe*", 
       "ZemingGong*", 
       "PabloMillanArias*",
@@ -272,8 +290,8 @@
     "date": "2024-06",
     "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
     "authors": [
-      "MukulKhanna",
-      "YongsenMao",
+      "MukulKhanna*",
+      "YongsenMao*",
       "HanxiaoJiang",
       "SanjayHaresh",
       "BrennanShacklett", 
@@ -342,8 +360,8 @@
     "date": "2024-03",
     "title": "OPDMulti: Openable Part Detection for Multiple Objects",
     "authors": [
-      "XiaohaoSun",
-      "HanxiaoJiang",
+      "XiaohaoSun*",
+      "HanxiaoJiang*",
       "manolis",
       "angel"
     ],
@@ -397,7 +415,7 @@
     "authors": [
       "PabloMillanArias",
       "Niousha Sadjadi",
-      "Monireh Safari",
+      "MonirehSafari",
       "ZemingGong", 
       "AustinWang",
       "ScottLowe", 
@@ -412,14 +430,14 @@
     "img": "files/barcodebert.png",
     "pdf": "https://arxiv.org/pdf/2311.02401.pdf",
     "code": "https://github.com/Kari-Genomics-Lab/BarcodeBERT",
-    "venue": ["ai", "workshop"],
+    "venue": ["ai", "workshop", "preprint"],
     "tags": ["bioscan"]
   },
   {
     "date": "2023-12",
     "title": "A Step Towards Worldwide Biodiversity Assessment: The BIOSCAN-1M Insect Dataset",
     "authors": [
-      "Zahra Gharaee*",
+      "ZahraGharaee*",
       "ZemingGong*", 
       "Nicholas Pellegrino*", 
       "Iuliia Zarubiieva",
@@ -745,9 +763,9 @@
     "date": "2021-08",
     "title": "Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents",
     "authors": [
-      "ShivanshPatel",
-      "SaimWani",
-      "UnnatJain",
+      "ShivanshPatel*",
+      "SaimWani*",
+      "UnnatJain*",
       "AlexanderSchwing",
       "SvetlanaLazebnik",
       "manolis",
@@ -884,9 +902,9 @@
     "date": "2020-10",
     "title": "Multi-ON: Benchmarking Semantic Map Memory using Multi-Object Navigation",
     "authors": [
-      "SaimWani",
-      "ShivanshPatel",
-      "UnnatJain",
+      "SaimWani*",
+      "ShivanshPatel*",
+      "UnnatJain*",
       "angel",
       "manolis"
     ],

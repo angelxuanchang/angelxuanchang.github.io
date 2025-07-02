@@ -806,5 +806,13 @@
   "BernadetteBucher": {
     "name": "Bernadette Bucher",
     "web": "https://bucherb.github.io/"
+  },
+  "ZahraGharaee": {
+    "name": "Zahra Gharaee",
+    "web": "https://zahrag.github.io/"
+  },
+  "MonirehSafari": {
+    "name": "Monireh Safari",
+    "web": "https://uwaterloo.ca/scholar/m4safari"
   }
 }
