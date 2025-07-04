@@ -129,7 +129,7 @@
     ],
     "text": "ICLR 2025, arXiv:2405.17537 [cs.AI], May 2024",
     "img": "files/bioscanclip.png",
-    "web": "https://bioscan-ml/clibd/",
+    "web": "https://bioscan-ml.github.io/clibd/",
     "pdf": "https://arxiv.org/pdf/2405.17537",
     "code": "https://github.com/bioscan-ml/clibd/",
     "venue": ["ai", "conference"],
@@ -264,7 +264,7 @@
     "img": "files/bioscan5m.png",
     "pdf": "https://arxiv.org/pdf/2406.12723",
     "web": "https://biodiversitygenomics.net/projects/5m-insects/",
-    "code": "https://github.com/zahrag/BIOSCAN-5M",
+    "code": "https://github.com/bioscan-ml/BIOSCAN-5M",
     "venue": ["ai", "conference"],
     "tags": ["bioscan", "dataset"]
   },
@@ -458,7 +458,7 @@
     "img": "files/bioscan1m.png",
     "pdf": "https://arxiv.org/pdf/2307.10455.pdf",
     "web": "https://biodiversitygenomics.net/1M_insects/",
-    "code": "https://github.com/zahrag/BIOSCAN-1M",
+    "code": "https://github.com/bioscan-ml/BIOSCAN-1M",
     "venue": ["ai", "conference"],
     "tags": ["bioscan", "dataset"]
   },
