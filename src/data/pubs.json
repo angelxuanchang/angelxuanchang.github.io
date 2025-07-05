@@ -7,7 +7,7 @@
       "QinghongHan",
       "angel"
     ],
-    "text": "ICCV 2025, arXiv:2503.16375 [cs.CV], March 2025",
+    "text": "ICCV 2025, arXiv:2503.16375 [cs.CV]",
     "img": "files/nuiscene.png",
     "web": "https://3dlg-hcvc.github.io/NuiScene/",
     "pdf": "https://arxiv.org/pdf/2503.16375",
@@ -25,7 +25,7 @@
       "manolis",
       "angel"
     ],
-    "text": "ICCV 2025, arXiv:2411.19492 [cs.CV], November 2024",
+    "text": "ICCV 2025, arXiv:2411.19492 [cs.CV]",
     "img": "files/diorama.webp",
     "web": "https://3dlg-hcvc.github.io/diorama/",
     "pdf": "https://arxiv.org/pdf/2411.19492",
@@ -40,7 +40,7 @@
       "ZemingGong",
       "angel"
     ],
-    "text": "ACL 2025, arXiv:2501.01366 [cs.CV], January 2025",
+    "text": "ACL 2025, arXiv:2501.01366 [cs.CV]",
     "img": "files/vigil3d.png",
     "web": "https://3dlg-hcvc.github.io/vigil3d/",
     "pdf": "https://arxiv.org/pdf/2501.01366",
@@ -127,7 +127,7 @@
       "GrahamTaylor",
       "angel"
     ],
-    "text": "ICLR 2025, arXiv:2405.17537 [cs.AI], May 2024",
+    "text": "ICLR 2025, arXiv:2405.17537 [cs.AI]",
     "img": "files/bioscanclip.png",
     "web": "https://bioscan-ml.github.io/clibd/",
     "pdf": "https://arxiv.org/pdf/2405.17537",
@@ -145,7 +145,7 @@
       "manolis",
       "AliMahdaviAmiri"
     ],
-    "text": "ICLR 2025, arXiv:2410.16499 [cs.CV], October 2024",
+    "text": "ICLR 2025, arXiv:2410.16499 [cs.CV]",
     "img": "files/singapo.png",
     "web": "https://3dlg-hcvc.github.io/singapo/",
     "pdf": "https://arxiv.org/pdf/2410.16499",
@@ -161,7 +161,7 @@
       "YimingZhang*",
       "angel"
     ],
-    "text": "ICLR 2025, arXiv:2406.11579 [cs.CV], June 2024",
+    "text": "ICLR 2025, arXiv:2406.11579 [cs.CV]",
     "img": "files/duoduoclip.png",
     "web": "https://3dlg-hcvc.github.io/DuoduoCLIP/",
     "pdf": "https://arxiv.org/pdf/2406.11579",
@@ -178,7 +178,7 @@
       "ZiyuWan",
       "angel"
     ],
-    "text": "3DV 2025, arXiv:2408.03178 [cs.CV], August 2024",
+    "text": "3DV 2025 <b><i>Best paper</i></b>, arXiv:2408.03178 [cs.CV]",
     "img": "files/omage.png",
     "web": "https://omages.github.io/",
     "pdf": "https://arxiv.org/pdf/2408.03178",
@@ -196,7 +196,7 @@
       "angel",
       "manolis"
     ],
-    "text": "3DV 2025, arXiv:2408.02211 [cs.GR], August 2024",
+    "text": "3DV 2025, arXiv:2408.02211 [cs.GR]",
     "img": "files/smc.png",
     "web": "https://3dlg-hcvc.github.io/smc/",
     "pdf": "https://arxiv.org/pdf/2408.02211",
@@ -260,7 +260,7 @@
       "PaulFieguth†",
       "angel†"
     ],
-    "text": "NeurIPS D&B 2024, arXiv:2406.12723 [cs.LG], June 2024",
+    "text": "NeurIPS D&B 2024, arXiv:2406.12723 [cs.LG]",
     "img": "files/bioscan5m.png",
     "pdf": "https://arxiv.org/pdf/2406.12723",
     "web": "https://biodiversitygenomics.net/projects/5m-insects/",
@@ -301,7 +301,7 @@
       "angel",
       "manolis"
     ],
-    "text": "CVPR 2024, arXiv:2306.11290 [cs.CV], June 2023",
+    "text": "CVPR 2024, arXiv:2306.11290 [cs.CV], arXiv June 2023",
     "img": "files/hssd.png",
     "pdf": "https://arxiv.org/pdf/2306.11290.pdf",
     "web": "https://3dlg-hcvc.github.io/hssd/",
@@ -383,7 +383,7 @@
       "manolis",
       "angel"
     ],
-    "text": "WACV 2024, arXiv:2304.03696 [cs.RO, cs.CV], April 2023",
+    "text": "WACV 2024, arXiv:2304.03696 [cs.RO, cs.CV], arXiv April 2023",
     "img": "files/mopa.gif",
     "pdf": "https://arxiv.org/pdf/2304.03696.pdf",
     "web": "https://3dlg-hcvc.github.io/mopa/",
@@ -401,7 +401,7 @@
       "Ke Zhang",
       "angel"
     ],
-    "text": "WACV 2024, arXiv:2201.07366 [cs.CV], January 2022",
+    "text": "WACV 2024, arXiv:2201.07366 [cs.CV], arXiv January 2022",
     "img": "files/tricolo.png",
     "pdf": "https://arxiv.org/pdf/2201.07366.pdf",
     "web": "https://3dlg-hcvc.github.io/tricolo/",
