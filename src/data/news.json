@@ -1,5 +1,9 @@
 [
 {
+    "date": "July 2025",
+    "description": "Come and join us in two ICML-related events at downtown Vancouver.<ul><li>July 14th - <a href='https://sites.google.com/view/vancouver-icml2025/'>Vancouver Vision and Learning workshop</a> (co-organized between SFU, UBC, and Vector Institute)</li><li>July 21th - <a href='https://sites.google.com/view/sfu-at-icml-2025/sfuicml2025'>SFU post-ICML workshop</a></li></ul>"
+},
+{
     "date": "June 2025",
     "description": "Two papers accepted at ICCV 2025.  Congratulations to <ul><li>Han-Hung and Qinghong for their work on <a href='https://3dlg-hcvc.github.io/NuiScene/'>NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes</a>.</li><li>Qirui and Denys for their work on <a href='https://3dlg-hcvc.github.io/diorama/'>Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling</a>.</li></ul>"
 },
