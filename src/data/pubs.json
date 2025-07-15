@@ -49,6 +49,25 @@
     "tags": ["3d", "vl", "latest"]
   },
   {
+    "date": "2025-07",
+    "title": "LangNavBench: Evaluation of Natural Language Understanding in Semantic Navigation",
+    "authors": [
+      "SoniaRaychaudhuri",
+      "EnricoCancelli",
+      "TommasoCampari",
+      "LambertoBallan",
+      "manolis",
+      "angel"
+    ],
+    "text": "arXiv:2507.07299 [cs.RO, cs.CV]",
+    "img": "files/langnavbench.png",
+    "web": "https://3dlg-hcvc.github.io/langmonmap/",
+    "pdf": "https://arxiv.org/pdf/2507.07299",
+    "code": "https://github.com/3dlg-hcvc/langmonmap",
+    "venue": ["vision", "preprint"],
+    "tags": ["embodied", "vl", "latest"]
+  },
+  {
     "date": "2025-03",
     "title": "HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation",
     "authors": [
