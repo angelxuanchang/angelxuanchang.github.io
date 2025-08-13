@@ -110,11 +110,11 @@
       "SoniaRaychaudhuri",
       "angel"
     ],
-    "text": "arXiv:2501.05750 [cs.CV], January 2025",
+    "text": "TMLR August 2025, arXiv:2501.05750 [cs.CV]",
     "img": "files/semmap.png",
     "pdf": "https://arxiv.org/pdf/2501.05750",
-    "venue": ["preprint"],
-    "tags": ["3d"]
+    "venue": ["TMLR"],
+    "tags": ["3d", "embodied", "latest"]
   },
   {
     "date": "2025-04",
