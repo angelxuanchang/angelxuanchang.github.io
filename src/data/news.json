@@ -1,5 +1,21 @@
 [
 {
+    "date": "October 2025",
+    "description": "This year, I'm co-organizing the following workshops at IROS 2025:<ul><li>Oct 24th pm - <a href='https://heai-iros25-workshop.github.io/'>Human-aware Embodied AI (HEAI) Workshop</a></li><li>Oct 24th - <a href='https://www.ai-meets-autonomy.com/'>AI Meets Autonomy: Vision, Language, and Autonomous Systems Workshop</a></li></ul>"
+},
+{
+    "date": "October 2025",
+    "description": "Talks and workshops at ICCV 2025. <ul><li>Oct 19th pm - Talk at <a href='hhttps://opensun3d.github.io/'>Workshop on Open-World 3D Scene Understanding with Foundation Models (OpenSUN3D)</a></li><li>Oct 20th pm - Talk at <a href='https://s3dsgr.github.io/'>Workshop on Scalable 3D Scene Generation and Geometric Scene Understanding</a></li><li>Oct 20th am - Co-organizing <a href='https://ai3dcc.github.io/'>Workshop on AI for 3D Content Creation</a></li><li>Oct 20th - Co-organizing <a href='https://iccv-clvl.github.io/2025'>CLVL: 6th Workshop on Closing the Loop Between Vision and Language (Decade Mark)</a></li></ul>"
+},
+{
+    "date": "August 2025",
+    "description": "Congratulations to Sonia for acceptance of her <a href='https://openreview.net/pdf?id=USgQ38RG6G'>semantic mapping survey</a> at TMLR!"
+},
+{
+    "date": "July 2025",
+    "description": "Submit to our <a href='https://www.codabench.org/competitions/9829/'>3D Vision and Language Challenge</a> (organized by Austin and Yiming), one of four challenges at the <a href='https://iccv-clvl.github.io/2025'>ICCV CLVL workshop</a>." 
+},
+{
     "date": "July 2025",
     "description": "Come and join us in two ICML-related events at downtown Vancouver.<ul><li>July 14th - <a href='https://sites.google.com/view/vancouver-icml2025/'>Vancouver Vision and Learning workshop</a> (co-organized between SFU, UBC, and Vector Institute)</li><li>July 21th - <a href='https://sites.google.com/view/sfu-at-icml-2025/sfuicml2025'>SFU post-ICML workshop</a></li></ul>"
 },
