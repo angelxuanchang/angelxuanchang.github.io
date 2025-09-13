@@ -16,6 +16,8 @@ active_page: group
     <% @external = Object.values(@people).filter((x) => @hasField(x, 'tags', ['external']) ) %>
     <% @visitor = Object.values(@people).filter((x) => @hasField(x, 'tags', ['visitor']) ) %>
     <% @alumni = Object.values(@people).filter((x) => @hasField(x, 'tags', ['alumni']) )  %>
+    <% @alumni_vistor = Object.values(@alumni).filter((x) => @hasField(x, 'alumni_group', ['visitor']) )  %>
+    <% @alumni_sfu = Object.values(@alumni).filter((x) => !@hasField(x, 'alumni_group', ['visitor']) )  %>
 
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -40,7 +42,10 @@ active_page: group
       </div>
       <div class="panel-body">
         <h3>Alumni</h3>
-         <%- @partial('alumni', false, { people: @alumni }) %>
+         <h4>SFU Students</h4>
+           <%- @partial('alumni', false, { people: @alumni_sfu }) %>
+         <h4>Visiting Students</h4>
+           <%- @partial('alumni', false, { people: @alumni_vistor }) %>
       </div>
      </div>
 

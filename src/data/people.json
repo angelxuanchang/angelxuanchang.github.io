@@ -371,6 +371,7 @@
   "YasamanEtesam": {
     "name": "Yasaman Etesam",
     "tags": ["alumni"],
+    "alumni_group": ["other"],
     "alumni": [
       "Fall 2019"
     ]
@@ -378,6 +379,7 @@
   "AliGholami": {
     "name": "Ali Gholami",
     "tags": ["alumni"],
+    "alumni_group": ["Master"],
     "alumni": [
       { 
         "description": "M.Sc. Fall 2019 to Spring 2022, next Zippin" ,
@@ -397,6 +399,7 @@
   "LeonKochiev": {
     "name": "Leon Kochiev",
     "tags": ["alumni"],
+    "alumni_group": ["Master"],
     "alumni": [
       { 
         "description": "M.Sc. Fall 2019 to Summer 2021, next Integrant" ,
@@ -410,6 +413,7 @@
   "YueRuan": {
     "name": "Yue Ruan",
     "tags": ["alumni"],
+    "alumni_group": ["Master"],
     "alumni": [
       { 
         "description": "M.Sc. Fall 2019 to Spring 2022, next Amazon" ,
@@ -423,6 +427,7 @@
   "AkshitSharma": {
     "name": "Akshit Sharma",
     "tags": ["alumni"],
+    "alumni_group": ["Master"],
     "alumni": [
       { 
         "description": "M.Sc. Fall 2019 to Fall 2022",
@@ -437,6 +442,7 @@
     "name": "Hanxiao (Shawn) Jiang",
     "web": "https://jianghanxiao.github.io/",
     "tags": ["alumni"],
+    "alumni_group": ["Master", "undergrad"],
     "alumni": [{
       "description": "undergrad, Fall 2019 - 2020, M.Sc. Fall 2020 to Summer 2023, next UIUC PhD",
       "thesis": { 
@@ -488,6 +494,7 @@
   },
   "XiaoliangHuo": {
     "name": "Xiaoliang Huo",
+    "alumni_group": ["other"],
     "tags": ["alumni"],
     "alumni": [
       "Fall 2023 - Spring 2025"
@@ -496,6 +503,7 @@
   "WeijieLin": {
     "name": "Weijie (Lewis) Lin",
     "web": "https://lewislinn.github.io/",
+    "alumni_group": ["undergrad"],
     "tags": ["alumni"],
     "alumni": [
       "undergrad, Spring 2020 - 2021, next CMU MS"
@@ -506,6 +514,7 @@
     "web": "https://scholar.google.ca/citations?user=scUaE38AAAAJ&hl=en",
     "tags": ["alumni", "student", "PhD"],
     "details": "Spring 2024",
+    "alumni_group": ["Master", "undergrad"],
     "alumni": [ {
         "description": "undergrad, 2021, M.Sc. 2022 - 2023, next SFU PhD",
         "thesis": { 
@@ -522,7 +531,8 @@
     "details": "Summer 2023",
     "alumni": [
       "undergrad, 2022, next SFU MSc"
-    ]
+    ],
+    "alumni_group": ["undergrad"]
   },
   "DenysIliash": {
     "name": "Denys Iliash",
@@ -531,7 +541,8 @@
     "details": "Spring 2024",
     "alumni": [
       "undergrad, Fall 2023, next SFU MSc"
-    ]
+    ],
+    "alumni_group": ["undergrad"]
   },
   "ShipingYang": {
     "name": "Shiping Yang",
@@ -545,7 +556,8 @@
     "tags": ["alumni"],
     "alumni": [
       "Spring 2025"
-    ]
+    ],
+    "alumni_group": ["other"]
   },
   "MrinalGoshalia": {
     "name": "Mrinal Goshalia",
@@ -557,16 +569,52 @@
     "tags": ["student", "Master"],
     "details": "Zhejiang dual-degree student, Fall 2024"
   },
+  "TommasoGalliena": {
+    "name": "Tommaso Galliena",
+    "web": "https://scholar.google.com/citations?user=9aKwCo0AAAAJ&hl=en",
+    "tags": ["visitor"],
+    "details": "visiting student, Fall 2025, PhD at Italian Institute of Technology"
+  },
   "FrancescoTaioli": {
     "name": "Francesco Taioli",
     "web": "https://francescotaioli.github.io/",
-    "tags": ["visitor"],
-    "details": "visiting student, Spring 2025, PhD at Polytechnic of Turin"
+    "tags": ["alumni"],
+    "alumni_group": ["visitor"],
+    "alumni": [
+      "visiting student, Spring 2025, PhD at Polytechnic of Turin"
+    ]
+  },
+  "EnricoCancelli": {
+    "name": "Enrico Cancelli",
+    "web": "http://hit.psy.unipd.it/enrico-cancelli",
+    "tags": ["alumni"],
+    "alumni_group": ["visitor"],
+    "alumni": [
+      "visiting student, Spring 2024, PhD at University of Padova"
+    ]
+  },
+  "NingWang": {
+    "name": "Ning Wang",
+    "web": "https://wangning-001.github.io/",
+    "tags": ["alumni"],
+    "alumni_group": ["visitor"],
+    "alumni": [
+      "visiting student, Spring 2023-2024, PhD at Wuhan University"
+    ]
+  },
+  "AditiJain": {
+    "name": "Aditi Jain",
+    "tags": ["alumni"],
+    "alumni_group": ["visitor"],
+    "alumni": [
+      "visiting student, Summer 2022, Undergraduate at IIT Delhi"
+    ]
   },
   "DaveZhenyuChen": {
     "name": "Dave Zhenyu Chen",
     "web": "http://www.niessnerlab.org/members/zhenyu_chen/profile.html",
     "tags": ["alumni"],
+    "alumni_group": ["visitor"],
     "alumni": [
       "visiting student, Spring 2022, PhD at <a href='https://www.tum.de/'>Technical University of Munich</a>; TUM-IAS funded student co-advised with <a href='http://www.niessnerlab.org/index.html'>Matthias Niessner</a>"
     ]
@@ -575,31 +623,9 @@
     "name": "Tommaso Campari",
     "web": "https://dkm.fbk.eu/author/tommasocampari/",
     "tags": ["alumni"],
+    "alumni_group": ["visitor"],
     "alumni": [
       "visiting student, Spring 2022, PhD at University of Padova"
-    ]
-  },
-  "EnricoCancelli": {
-    "name": "Enrico Cancelli",
-    "web": "http://hit.psy.unipd.it/enrico-cancelli",
-    "tags": ["alumni"],
-    "alumni": [
-      "visiting student, Spring 2024, PhD at University of Padova"
-    ]
-  },
-  "AditiJain": {
-    "name": "Aditi Jain",
-    "tags": ["alumni"],
-    "alumni": [
-      "visiting student, Summer 2022, Undergraduate at IIT Delhi"
-    ]
-  },
-  "NingWang": {
-    "name": "Ning Wang",
-    "web": "https://wangning-001.github.io/",
-    "tags": ["alumni"],
-    "alumni": [
-      "visiting student, Spring 2023-2024, PhD at Wuhan University"
     ]
   },
   "JiayiLiu": {
