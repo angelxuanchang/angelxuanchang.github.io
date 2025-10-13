@@ -5,7 +5,11 @@
 },
 {
     "date": "October 2025",
-    "description": "Talks and workshops at ICCV 2025. <ul><li>Oct 19th pm - Talk at <a href='https://opensun3d.github.io/'>Workshop on Open-World 3D Scene Understanding with Foundation Models (OpenSUN3D)</a></li><li>Oct 20th pm - Talk at <a href='https://s3dsgr.github.io/'>Workshop on Scalable 3D Scene Generation and Geometric Scene Understanding</a></li><li>Oct 20th am - Co-organizing <a href='https://ai3dcc.github.io/'>Workshop on AI for 3D Content Creation</a></li><li>Oct 20th - Co-organizing <a href='https://iccv-clvl.github.io/2025'>CLVL: 6th Workshop on Closing the Loop Between Vision and Language (Decade Mark)</a></li></ul>"
+    "description": "Talks, workshops, and papers at ICCV 2025. <ul><li>Oct 19th pm - Poster on <a href='https://arxiv.org/abs/2508.16744'>Hyperbolic Multimodal Representation Learning for Biological Taxonomies</a> at <a href='https://sites.google.com/view/beyondeuclidean/home'>Beyond Euclidean Workshop</a></li><li>Oct 19th pm - Talk at <a href='https://opensun3d.github.io/'>Workshop on Open-World 3D Scene Understanding with Foundation Models (OpenSUN3D)</a></li><li>Oct 20th pm - Talk at <a href='https://s3dsgr.github.io/'>Workshop on Scalable 3D Scene Generation and Geometric Scene Understanding</a></li><li>Oct 20th am - Co-organizing <a href='https://ai3dcc.github.io/'>Workshop on AI for 3D Content Creation</a></li><li>Oct 20th - Co-organizing <a href='https://iccv-clvl.github.io/2025'>CLVL: 6th Workshop on Closing the Loop Between Vision and Language (Decade Mark)</a></li><li>Oct 21st - Qirui presenting poster on <a href='https://3dlg-hcvc.github.io/diorama/'>Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling</a></li><li>Oct 23rd - Han-Hung presenting poster on <a href='https://3dlg-hcvc.github.io/NuiScene/'>NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes</a></li></ul>"
+},
+{
+    "date": "October 2025",
+    "description": "Congratulations to Sonia for successfully defending her PhD thesis!"
 },
 {
     "date": "August 2025",
