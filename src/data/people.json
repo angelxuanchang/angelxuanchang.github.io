@@ -840,5 +840,9 @@
   "MonirehSafari": {
     "name": "Monireh Safari",
     "web": "https://uwaterloo.ca/scholar/m4safari"
+  },
+  "DivyamGoel": {
+    "name": "Divyam Goel",
+    "web": "https://dv-fenix.github.io/"
   }
 }

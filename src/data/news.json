@@ -1,5 +1,13 @@
 [
 {
+    "date": "November 2025",
+    "description": "Two papers accepted at WACV 2025.  Congratulations to <ul><li>Denys, Shawn, and Yiming for their work on <a href='https://3dlg-hcvc.github.io/s2o/'>S2O: Static to Openable Enhancement for Articulated 3D Objects</a>.</li><li>Ivan, Derek, and Austin for their work on <a href='https://3dlg-hcvc.github.io/SceneEval/'>SceneEval: Evaluating semantic coherence in text-conditioned 3D indoor scene synthesis</a>.</li></ul>"
+},
+{
+    "date": "November 2025",
+    "description": "Two papers accepted at 3DV 2025.  Congratulations to <ul><li>Xiaohao and Divyam for their work on <a href='https://3dlg-hcvc.github.io/SemLayoutDiff/'>SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis</a>.</li><li>Derek, Ivan, Austin, and Xiaoliang for their work on <a href='https://3dlg-hcvc.github.io/hsm/'>HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation</a>.</li></ul>"
+},
+{
     "date": "October 2025",
     "description": "This year, I'm co-organizing the following workshops at IROS 2025:<ul><li>Oct 24th pm - <a href='https://heai-iros25-workshop.github.io/'>Human-aware Embodied AI (HEAI) Workshop</a></li><li>Oct 24th pm - <a href='https://www.ai-meets-autonomy.com/'>AI Meets Autonomy: Vision, Language, and Autonomous Systems Workshop</a></li></ul>"
 },
