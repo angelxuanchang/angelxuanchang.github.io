@@ -1,6 +1,10 @@
 [
 {
     "date": "November 2025",
+    "description": "Congratulations to ZeMing for successfully defending his PhD thesis!"
+},
+{
+    "date": "November 2025",
     "description": "Two papers accepted at WACV 2025.  Congratulations to <ul><li>Denys, Shawn, and Yiming for their work on <a href='https://3dlg-hcvc.github.io/s2o/'>S2O: Static to Openable Enhancement for Articulated 3D Objects</a>.</li><li>Ivan, Derek, and Austin for their work on <a href='https://3dlg-hcvc.github.io/SceneEval/'>SceneEval: Evaluating semantic coherence in text-conditioned 3D indoor scene synthesis</a>.</li></ul>"
 },
 {

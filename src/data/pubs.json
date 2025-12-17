@@ -1,6 +1,6 @@
 [
   {
-    "date": "2025-03",
+    "date": "2026-03",
     "title": "SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis",
     "authors": [
       "XiaohaoSun",
@@ -15,7 +15,7 @@
     "tags": ["3d", "scene", "synthesis", "latest"]
   },
   {
-    "date": "2025-03",
+    "date": "2026-03",
     "title": "HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation",
     "authors": [
       "DerekPun",
@@ -33,7 +33,7 @@
     "tags": ["3d", "text2scene", "latest"]
   },
   {
-    "date": "2025-03",
+    "date": "2026-03",
     "title": "SceneEval: Evaluating Semantic Coherence in Text-Conditioned 3D Indoor Scene Synthesis",
     "authors": [
       "IvanTam",
@@ -51,7 +51,7 @@
     "tags": ["3d", "evaluation", "text2scene", "latest"]
   },
   {
-    "date": "2024-09",
+    "date": "2026-03",
     "title": "S2O: Static to Openable Enhancement for Articulated 3D Objects",
     "authors": [
       "DenysIliash",
