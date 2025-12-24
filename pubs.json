@@ -1,0 +1,1972 @@
+[
+  {
+    "date": "2026-03",
+    "title": "SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis",
+    "authors": [
+      "XiaohaoSun",
+      "DivyamGoel",
+      "angel"
+    ],
+    "text": "3DV 2026, arXiv:2508.18597 [cs.GR], August 2025",
+    "img": "files/semlayoutdiff.png",
+    "web": "https://3dlg-hcvc.github.io/SemLayoutDiff/",
+    "pdf": "https://arxiv.org/pdf/2508.18597",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "scene", "synthesis", "latest"]
+  },
+  {
+    "date": "2026-03",
+    "title": "HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation",
+    "authors": [
+      "DerekPun",
+      "IvanTam",
+      "AustinWang",
+      "XiaoliangHuo",
+      "angel",
+      "manolis"
+    ],
+    "text": "3DV 2026, arXiv:2503.16848 [cs.CV], March 2025",
+    "img": "files/hsm.png",
+    "web": "https://3dlg-hcvc.github.io/hsm/",
+    "pdf": "http://arxiv.org/pdf/2503.16848",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "text2scene", "latest"]
+  },
+  {
+    "date": "2026-03",
+    "title": "SceneEval: Evaluating Semantic Coherence in Text-Conditioned 3D Indoor Scene Synthesis",
+    "authors": [
+      "IvanTam",
+      "DerekPun",
+      "AustinWang",
+      "angel",
+      "manolis"
+    ],
+    "text": "WACV 2026, arXiv:2503.14756 [cs.CV], March 2025",
+    "img": "files/sceneeval.png",
+    "web": "https://3dlg-hcvc.github.io/SceneEval/",
+    "pdf": "http://arxiv.org/pdf/2503.14756",
+    "code": "https://github.com/3dlg-hcvc/SceneEval",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "evaluation", "text2scene", "latest"]
+  },
+  {
+    "date": "2026-03",
+    "title": "S2O: Static to Openable Enhancement for Articulated 3D Objects",
+    "authors": [
+      "DenysIliash",
+      "HanxiaoJiang",
+      "YimingZhang",
+      "manolis",
+      "angel"
+    ],
+    "text": "WACV 2026, arXiv:2409.18896 [cs.CV], September 2024",
+    "img": "files/s2o.png",
+    "web": "https://3dlg-hcvc.github.io/s2o/",
+    "pdf": "https://arxiv.org/pdf/2409.18896",
+    "code": "https://github.com/3dlg-hcvc/s2o",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "articulations", "latest"]
+  },
+  {
+    "date": "2025-10",
+    "title": "NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes",
+    "authors": [
+      "HanHungLee",
+      "QinghongHan",
+      "angel"
+    ],
+    "text": "ICCV 2025, arXiv:2503.16375 [cs.CV]",
+    "img": "files/nuiscene.png",
+    "web": "https://3dlg-hcvc.github.io/NuiScene/",
+    "pdf": "https://arxiv.org/pdf/2503.16375",
+    "code": "https://github.com/3dlg-hcvc/NuiScene",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "latest"]
+  },
+  {
+    "date": "2025-10",
+    "title": "Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling",
+    "authors": [
+      "QiruiWu",
+      "DenysIliash",
+      "DanielRitchie",
+      "manolis",
+      "angel"
+    ],
+    "text": "ICCV 2025, arXiv:2411.19492 [cs.CV]",
+    "img": "files/diorama.webp",
+    "web": "https://3dlg-hcvc.github.io/diorama/",
+    "pdf": "https://arxiv.org/pdf/2411.19492",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "scene", "latest"]
+  },
+  {
+    "date": "2025-07",
+    "title": "ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding",
+    "authors": [
+      "AustinWang",
+      "ZemingGong",
+      "angel"
+    ],
+    "text": "ACL 2025, arXiv:2501.01366 [cs.CV]",
+    "img": "files/vigil3d.png",
+    "web": "https://3dlg-hcvc.github.io/vigil3d/",
+    "pdf": "https://arxiv.org/pdf/2501.01366",
+    "code": "https://github.com/3dlg-hcvc/vigil3d",
+    "venue": ["nlp", "conference"],
+    "tags": ["3d", "vl", "latest"]
+  },
+  {
+    "date": "2025-07",
+    "title": "LangNavBench: Evaluation of Natural Language Understanding in Semantic Navigation",
+    "authors": [
+      "SoniaRaychaudhuri",
+      "EnricoCancelli",
+      "TommasoCampari",
+      "LambertoBallan",
+      "manolis",
+      "angel"
+    ],
+    "text": "arXiv:2507.07299 [cs.RO, cs.CV]",
+    "img": "files/langnavbench.png",
+    "web": "https://3dlg-hcvc.github.io/langmonmap/",
+    "pdf": "https://arxiv.org/pdf/2507.07299",
+    "code": "https://github.com/3dlg-hcvc/langmonmap",
+    "venue": ["vision", "preprint"],
+    "tags": ["embodied", "vl", "latest"]
+  },
+  {
+    "date": "2025-01",
+    "title": "Semantic Mapping in Indoor Embodied AI - A Comprehensive Survey and Future Directions",
+    "authors": [
+      "SoniaRaychaudhuri",
+      "angel"
+    ],
+    "text": "TMLR August 2025, arXiv:2501.05750 [cs.CV]",
+    "img": "files/semmap.png",
+    "pdf": "https://arxiv.org/pdf/2501.05750",
+    "venue": ["TMLR"],
+    "tags": ["3d", "embodied", "latest"]
+  },
+  {
+    "date": "2025-04",
+    "title": "Enhancing DNA Foundation Models to Address Masking Inefficiencies",
+    "authors": [
+      "MonirehSafari", 
+      "PabloMillanArias",
+      "ScottLowe",
+      "LilaKari",
+      "angel",
+      "GrahamTaylor"
+    ],
+    "text": "Nucleic Acids Workshop and Machine Learning for Genomics Exploration Workshop at ICLR 2025",
+    "img": "files/barcodemae.png",
+    "pdf": "https://arxiv.org/pdf/2502.18405",
+    "code": "https://github.com/bioscan-ml/BarcodeMAE",
+    "venue": ["ai", "workshop", "preprint"],
+    "tags": ["bioscan", "latest"]
+  },
+  {
+    "date": "2025-04",
+    "title": "CLIBD: Bridging Vision and Genomics for Biodiversity Monitoring at Scale",
+    "authors": [
+      "ZemingGong", 
+      "AustinWang",
+      "XiaoliangHuo",
+      "JoakimHaurum",
+      "ScottLowe", 
+      "GrahamTaylor",
+      "angel"
+    ],
+    "text": "ICLR 2025, arXiv:2405.17537 [cs.AI]",
+    "img": "files/bioscanclip.png",
+    "web": "https://bioscan-ml.github.io/clibd/",
+    "pdf": "https://arxiv.org/pdf/2405.17537",
+    "code": "https://github.com/bioscan-ml/clibd/",
+    "venue": ["ai", "conference"],
+    "tags": ["bioscan", "latest"]
+  },
+  {
+    "date": "2025-04",
+    "title": "SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects",
+    "authors": [
+      "JiayiLiu",
+      "DenysIliash",
+      "angel",
+      "manolis",
+      "AliMahdaviAmiri"
+    ],
+    "text": "ICLR 2025, arXiv:2410.16499 [cs.CV]",
+    "img": "files/singapo.png",
+    "web": "https://3dlg-hcvc.github.io/singapo/",
+    "pdf": "https://arxiv.org/pdf/2410.16499",
+    "code": "https://github.com/3dlg-hcvc/singapo",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "articulations", "latest"]
+  },
+  {
+    "date": "2025-04",
+    "title": "Duoduo CLIP: Efficient 3D Understanding with Multi-View Images",
+    "authors": [
+      "HanHungLee*",
+      "YimingZhang*",
+      "angel"
+    ],
+    "text": "ICLR 2025, arXiv:2406.11579 [cs.CV]",
+    "img": "files/duoduoclip.png",
+    "web": "https://3dlg-hcvc.github.io/DuoduoCLIP/",
+    "pdf": "https://arxiv.org/pdf/2406.11579",
+    "code": "https://github.com/3dlg-hcvc/DuoduoCLIP",
+    "venue": ["vision", "conference"],
+    "tags": ["vl","3d", "latest"]
+  },
+  {
+    "date": "2025-03",
+    "title": "An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion",
+    "authors": [
+      "XingguangYan",
+      "HanHungLee",
+      "ZiyuWan",
+      "angel"
+    ],
+    "text": "3DV 2025 <b><i>Best paper</i></b>, arXiv:2408.03178 [cs.CV]",
+    "img": "files/omage.png",
+    "web": "https://omages.github.io/",
+    "pdf": "https://arxiv.org/pdf/2408.03178",
+    "code": "https://github.com/3dlg-hcvc/omages",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "synthesis", "latest"]
+  },
+  {
+    "date": "2025-03",
+    "title": "SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements",
+    "authors": [
+      "IvanTam",
+      "DerekPun",
+      "AustinWang",
+      "angel",
+      "manolis"
+    ],
+    "text": "3DV 2025, arXiv:2408.02211 [cs.GR]",
+    "img": "files/smc.png",
+    "web": "https://3dlg-hcvc.github.io/smc/",
+    "pdf": "https://arxiv.org/pdf/2408.02211",
+    "code": "https://github.com/3dlg-hcvc/smc",
+    "video": "https://youtu.be/iXsx18R7NN8",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "synthesis", "text2scene", "latest"]
+  },
+  {
+    "date": "2024-10",
+    "title": "Zero-shot Object-Centric Instruction Following: Integrating Foundation Models with Traditional Navigation",
+    "authors": [
+      "SoniaRaychaudhuri",
+      "DuyTa",
+      "KatrinaAshton",
+      "angel",
+      "JiuguangWang",
+      "BernadetteBucher"
+    ],
+    "text": "arXiv:2411.07848 [cs.RO], November 2024",
+    "img": "files/nlslam.gif",
+    "web": "https://sonia-raychaudhuri.github.io/nlslam/",
+    "pdf": "https://arxiv.org/abs/2411.07848",
+    "video": "https://youtu.be/O26NiiL2XL4",
+    "venue": ["vision", "preprint"],
+    "tags": ["embodied", "latest"]
+  },
+  {
+    "date": "2024-12",
+    "title": "BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity",
+    "authors": [
+      "ZahraGharaee*",
+      "ScottLowe*", 
+      "ZemingGong*", 
+      "PabloMillanArias*",
+      "Nicholas Pellegrino", 
+      "AustinWang",
+      "JoakimHaurum",
+      "Iuliia Zarubiieva",
+      "LilaKari",
+      "Dirk Steinke†",
+      "GrahamTaylor†", 
+      "PaulFieguth†",
+      "angel†"
+    ],
+    "text": "NeurIPS D&B 2024, arXiv:2406.12723 [cs.LG]",
+    "img": "files/bioscan5m.png",
+    "pdf": "https://arxiv.org/pdf/2406.12723",
+    "web": "https://biodiversitygenomics.net/projects/5m-insects/",
+    "code": "https://github.com/bioscan-ml/BIOSCAN-5M",
+    "venue": ["ai", "conference"],
+    "tags": ["bioscan", "dataset"]
+  },
+  {
+    "date": "2024-07",
+    "title": "R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding",
+    "authors": [
+      "QiruiWu",
+      "SoniaRaychaudhuri",
+      "DanielRitchie",
+      "manolis",
+      "angel"
+    ],
+    "text": "ECCV 2024",
+    "img": "files/r3ds.webp",
+    "web": "https://3dlg-hcvc.github.io/r3ds/",
+    "pdf": "https://arxiv.org/pdf/2403.12301",
+    "code": "https://github.com/3dlg-hcvc/r3ds",
+    "venue": ["vision", "conference"],
+    "tags": ["3d"]
+  },
+  {
+    "date": "2024-06",
+    "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
+    "authors": [
+      "MukulKhanna*",
+      "YongsenMao*",
+      "HanxiaoJiang",
+      "SanjayHaresh",
+      "BrennanShacklett", 
+      "DhruvBatra", 
+      "Alexander William Clegg", 
+      "Eric Undersander",
+      "angel",
+      "manolis"
+    ],
+    "text": "CVPR 2024, arXiv:2306.11290 [cs.CV], arXiv June 2023",
+    "img": "files/hssd.png",
+    "pdf": "https://arxiv.org/pdf/2306.11290.pdf",
+    "web": "https://3dlg-hcvc.github.io/hssd/",
+    "code": "https://github.com/3dlg-hcvc/hssd/",
+    "data": "https://huggingface.co/hssd",
+    "venue": ["vision", "conference"],
+    "tags": ["embodied", "navigation", "3d", "dataset"]
+  },
+  {
+    "date": "2024-05",
+    "title": "M2DNeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields",
+    "authors": [
+      "NingWang",
+      "Lefei Zhang",
+      "angel"
+    ],
+    "text": "arXiv:2405.05010 [cs.CV], May 2024",
+    "img": "files/m2dnerf.png",
+    "pdf": "https://arxiv.org/pdf/2405.05010",
+    "venue": ["vision", "preprint"],
+    "tags": ["3d"]
+  },
+  {
+    "date": "2024-04",
+    "title": "Text-to-3D Shape Generation",
+    "authors": [
+      "HanHungLee",
+      "manolis",
+      "angel"
+    ],
+    "text": "Eurographics STAR (State of The Art Report), CGF 2024",
+    "img": "files/tt3dstar.png",
+    "web": "https://3dlg-hcvc.github.io/tt3dstar/",
+    "pdf": "https://arxiv.org/pdf/2403.13289.pdf",
+    "venue": ["journal"],
+    "tags": ["3d", "shape", "synthesis", "text2shape", "survey"]
+  },
+  {
+    "date": "2024-03",
+    "title": "Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects",
+    "authors": [
+      "QiruiWu",
+      "DanielRitchie",
+      "manolis",
+      "angel"
+    ],
+    "text": "3DV 2024",
+    "img": "files/genshaperetr.png",
+    "web": "https://3dlg-hcvc.github.io/generalizing_shape_retrieval/",
+    "pdf": "https://arxiv.org/pdf/2401.00405.pdf",
+    "code": "https://github.com/3dlg-hcvc/generalizing_shape_retrieval",
+    "venue": ["vision", "conference"],
+    "tags": ["3d"]
+  },
+  {
+    "date": "2024-03",
+    "title": "OPDMulti: Openable Part Detection for Multiple Objects",
+    "authors": [
+      "XiaohaoSun*",
+      "HanxiaoJiang*",
+      "manolis",
+      "angel"
+    ],
+    "text": "3DV 2024, arXiv:2303.14087 [cs.CV], arXiv March 2023",
+    "img": "files/opdmulti.png",
+    "pdf": "https://arxiv.org/pdf/2303.14087.pdf",
+    "web": "https://3dlg-hcvc.github.io/OPDMulti/",
+    "code": "https://github.com/3dlg-hcvc/OPDMulti",
+    "venue": ["vision", "conference"],
+    "tags": ["articulations", "3d"]
+  },
+  {
+    "date": "2024-01",
+    "title": "MOPA: Modular Object Navigation with PointGoal Agents",
+    "authors": [
+      "SoniaRaychaudhuri",
+      "TommasoCampari",
+      "UnnatJain",
+      "manolis",
+      "angel"
+    ],
+    "text": "WACV 2024, arXiv:2304.03696 [cs.RO, cs.CV], arXiv April 2023",
+    "img": "files/mopa.gif",
+    "pdf": "https://arxiv.org/pdf/2304.03696.pdf",
+    "web": "https://3dlg-hcvc.github.io/mopa/",
+    "code": "https://github.com/3dlg-hcvc/mopa",
+    "venue": ["vision", "conference"],
+    "tags": ["embodied", "navigation"]
+  },
+  {
+    "date": "2024-01",
+    "title": "TriCoLo: Trimodal Contrastive Loss for Text to Shape Retrieval",
+    "authors": [
+      "YueRuan*",
+      "HanHungLee*",
+      "YimingZhang",
+      "Ke Zhang",
+      "angel"
+    ],
+    "text": "WACV 2024, arXiv:2201.07366 [cs.CV], arXiv January 2022",
+    "img": "files/tricolo.png",
+    "pdf": "https://arxiv.org/pdf/2201.07366.pdf",
+    "web": "https://3dlg-hcvc.github.io/tricolo/",
+    "code": "https://github.com/3dlg-hcvc/tricolo",
+    "venue": ["vision", "conference"],
+    "tags": ["vl","3d"]
+  },
+  {
+    "date": "2023-12",
+    "title": "BarcodeBERT: Transformers for Biodiversity Analysis",
+    "authors": [
+      "PabloMillanArias",
+      "Niousha Sadjadi",
+      "MonirehSafari",
+      "ZemingGong", 
+      "AustinWang",
+      "ScottLowe", 
+      "JoakimHaurum",
+      "Iuliia Zarubiieva",
+      "Dirk Steinke",
+      "LilaKari",
+      "angel",
+      "GrahamTaylor"
+    ],
+    "text": "4th Workshop on Self-Supervised Learning: Theory and Practice (NeurIPS 2023)",
+    "img": "files/barcodebert.png",
+    "pdf": "https://arxiv.org/pdf/2311.02401.pdf",
+    "code": "https://github.com/Kari-Genomics-Lab/BarcodeBERT",
+    "venue": ["ai", "workshop", "preprint"],
+    "tags": ["bioscan"]
+  },
+  {
+    "date": "2023-12",
+    "title": "A Step Towards Worldwide Biodiversity Assessment: The BIOSCAN-1M Insect Dataset",
+    "authors": [
+      "ZahraGharaee*",
+      "ZemingGong*", 
+      "Nicholas Pellegrino*", 
+      "Iuliia Zarubiieva",
+      "JoakimHaurum",
+      "ScottLowe", 
+      "Jaclyn TA McKeown", 
+      "Chris CY Ho", 
+      "Joschka McLeod", 
+      "Yi-Yun C Wei", 
+      "Jireh Agda",
+      "Sujeevan Ratnasingham",
+      "Dirk Steinke†",
+      "angel†",
+      "GrahamTaylor†", 
+      "PaulFieguth†"
+    ],
+    "text": "NeurIPS Datasets and Benchmarks 2023",
+    "img": "files/bioscan1m.png",
+    "pdf": "https://arxiv.org/pdf/2307.10455.pdf",
+    "web": "https://biodiversitygenomics.net/1M_insects/",
+    "code": "https://github.com/bioscan-ml/BIOSCAN-1M",
+    "venue": ["ai", "conference"],
+    "tags": ["bioscan", "dataset"]
+  },
+  {
+    "date": "2023-11",
+    "title": "HomeRobot: Open Vocabulary Mobile Manipulation",
+    "authors": [
+      "Sriram Yenamandra",
+      "Arun Ramachandran", 
+      "KarmeshYadav", 
+      "Austin Wang",
+      "MukulKhanna",
+      "TheoGervet", 
+      "Tsung-Yen Yang", 
+      "Vidhi Jain", 
+      "Alexander William Clegg", 
+      "John Turner", 
+      "ZsoltKira",
+      "manolis",
+      "angel",
+      "DevendraChaplot",
+      "DhruvBatra", 
+      "RoozbehMottaghi",
+      "YonatanBisk", 
+      "ChrisPaxton"      
+    ],
+    "text": "CoRL 2023",
+    "img": "files/ovmm.jpeg",
+    "pdf": "https://arxiv.org/pdf/2306.11565.pdf",
+    "web": "https://ovmm.github.io/",
+    "code": "https://github.com/facebookresearch/home-robot",
+    "challenge": "https://aihabitat.org/challenge/2023_homerobot_ovmm/",
+    "venue": ["robotics", "conference"],
+    "tags": ["embodied", "rearrangement"]
+  },
+  {
+    "date": "2023-10",
+    "title": "Multi3DRefer: Grounding Text Description to Multiple 3D Objects",
+    "authors": [
+      "YimingZhang",
+      "ZemingGong",
+      "angel"
+    ],
+    "text": "ICCV 2023",
+    "img": "files/multi3drefer.png",
+    "pdf": "https://arxiv.org/pdf/2309.05251.pdf",
+    "web": "https://3dlg-hcvc.github.io/multi3drefer",
+    "code": "https://github.com/3dlg-hcvc/M3DRef-CLIP",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "vl"]
+  },
+  {
+    "date": "2023-10",
+    "title": "Exploiting Proximity-Aware Tasks for Embodied Social Navigation",
+    "authors": [
+      "EnricoCancelli",
+      "TommasoCampari",
+      "LucianoSerafini",
+      "angel",
+      "LambertoBallan"
+    ],
+    "text": "ICCV 2023",
+    "img": "files/prox.png",
+    "pdf": "https://arxiv.org/pdf/2212.00767.pdf",
+    "venue": ["vision", "conference"],
+    "tags": ["embodied", "navigation"]
+  },
+  {
+    "date": "2023-10",
+    "title": "UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding",
+    "authors": [
+      "DaveZhenyuChen",
+      "RonghangHu",
+      "XinleiChen",
+      "matthias",
+      "angel"
+    ],
+    "text": "ICCV 2023",
+    "img": "files/unit3d.jpeg",
+    "pdf": "https://arxiv.org/pdf/2212.00836.pdf",
+    "web": "http://www.niessnerlab.org/projects/chen2022unit3d.html",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "vl"]
+  },
+  {
+    "date": "2023-06",
+    "title": "Habitat-Matterport 3D Semantics Dataset",
+    "authors": [
+      "KarmeshYadav", 
+      "RamRamrakhya", 
+      "SanthoshRamakrishnan",
+      "TheoGervet",
+      "John Turner",
+      "AaronGokaslan",
+      "Noah Maestre",
+      "angel",
+      "DhruvBatra", 
+      "manolis",
+      "Alexander William Clegg", 
+      "DevendraChaplot"    
+    ],
+    "text": "CVPR 2023",
+    "img": "files/hm3dsem.png",
+    "pdf": "https://arxiv.org/pdf/2210.05633.pdf",
+    "web": "https://aihabitat.org/datasets/hm3d-semantics/",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "scans", "dataset"]
+  },
+  {
+    "date": "2023-06",
+    "title": "Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance",
+    "authors": [
+      "Supriya Pandhre",
+      "angel",
+      "manolis"
+    ],
+    "text": "CRV 2023",
+    "img": "files/3drotinv.png",
+    "pdf": "https://arxiv.org/pdf/2305.18557.pdf",
+    "venue": ["vision","conference"],
+    "tags": ["3d"]
+  },
+  {
+    "date": "2022-09",
+    "title": "Understanding Pure CLIP Guidance for Voxel Grid NeRF Models",
+    "authors": [
+      "HanHungLee",
+      "angel"
+    ],
+    "text": "arXiv:2201.07366 [cs.CV], September 2022",
+    "img": "files/pureclipnerf.png",
+    "pdf": "https://arxiv.org/pdf/2209.15172.pdf",
+    "web": "https://hanhung.github.io/PureCLIPNeRF/",
+    "code": "https://github.com/hanhung/PureCLIPNeRF",
+    "venue": ["preprint"],
+    "tags": ["3d", "shape", "synthesis", "text2shape"]
+  },
+  {
+    "date": "2022-9",
+    "title": "MultiScan: Scalable RGBD scanning for 3D environments with articulated objects",
+    "authors": [
+      "YongsenMao",
+      "YimingZhang",
+      "HanxiaoJiang",
+      "angel",
+      "manolis"
+    ],
+    "text": "NeurIPS 2022",
+    "img": "files/multiscan.png",
+    "pdf": "https://openreview.net/pdf?id=YxUdazpgweG",
+    "web": "https://3dlg-hcvc.github.io/multiscan",
+    "code": "https://github.com/smartscenes/multiscan",
+    "venue": ["ai", "conference"],
+    "tags": ["articulations","3d"]
+  },
+  {
+    "date": "2022-09",
+    "title": "Articulated 3D Human-Object Interactions from RGB Videos: An Empirical Analysis of Approaches and Challenges",
+    "authors": [
+      "SanjayHaresh",
+      "XiaohaoSun",
+      "HanxiaoJiang",
+      "angel",
+      "manolis"
+    ],
+    "text": "3DV 2022",
+    "img": "files/3dhoi.png",
+    "pdf": "https://arxiv.org/pdf/2209.05612.pdf",
+    "web": "https://3dlg-hcvc.github.io/3dhoi/",
+    "code": "https://github.com/3dlg-hcvc/3dhoi",
+    "venue": ["vision", "conference"],
+    "tags": ["articulations","3d"]
+  },
+  {
+    "date": "2022-07",
+    "title": "OPD: Single-view 3D Openable Part Detection",
+    "authors": [
+      "HanxiaoJiang",
+      "YongsenMao",
+      "manolis",
+      "angel"
+    ],
+    "text": "ECCV 2022",
+    "img": "files/opd.png",
+    "pdf": "https://arxiv.org/pdf/2203.16421.pdf",
+    "web": "https://3dlg-hcvc.github.io/OPD/",
+    "code": "https://github.com/3dlg-hcvc/OPD",
+    "venue": ["vision", "conference"],
+    "tags": ["articulations","3d"]
+  },
+  {
+    "date": "2022-07",
+    "title": "D3Net: A Unified Speaker-Listener Architecture for 3D Dense Captioning and Visual Grounding",
+    "authors": [
+      "DaveZhenyuChen",
+      "QiruiWu",
+      "matthias",
+      "angel"
+    ],
+    "text": "ECCV 2022",
+    "img": "files/d3net.png",
+    "pdf": "https://arxiv.org/pdf/2112.01551.pdf",
+    "web": "https://daveredrum.github.io/D3Net/",
+    "code": "https://github.com/daveredrum/D3Net",
+    "venue": ["vision", "conference"],
+    "tags": ["vl","3d"]
+  },
+  {
+    "date": "2022-05",
+    "title": "3DVQA: Visual Question Answering for 3D Environments",
+    "authors": [
+      "YasamanEtesam",
+      "LeonKochiev",
+      "angel"
+    ],
+    "text": "CRV 2022",
+    "img": "files/3dvqa.png",
+    "pdf": "https://ieeexplore.ieee.org/document/9866910",
+    "web": "https://3dlg-hcvc.github.io/3DVQA/",
+    "code": "https://github.com/3dlg-hcvc/3DVQA",
+    "venue": ["vision", "conference"],
+    "tags": ["vqa","vl","3d"]
+  },
+  {
+    "date": "2021-12",
+    "title": "Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI",
+    "authors": [
+      "SanthoshRamakrishnan",
+      "AaronGokaslan",
+      "ErikWijmans",
+      "Oleksandr Maksymets",
+      "Alexander Clegg",
+      "John Turner",
+      "Eric Undersander",
+      "Wojciech Galuba",
+      "Andrew Westbury",
+      "angel",
+      "manolis",
+      "YiliZhao",
+      "DhruvBatra"
+    ],
+    "text": "NeurIPS Datasets and Benchmarks Track 2021",
+    "img": "files/hm3d.jpeg",
+    "pdf": "https://arxiv.org/pdf/2109.08238.pdf",
+    "web": "https://aihabitat.org/datasets/hm3d/",
+    "venue": ["ai","conference"],
+    "tags": ["embodied","dataset","3d"]
+  },
+  {
+    "date": "2021-12",
+    "title": "Habitat 2.0: Training Home Assistants to Rearrange their Habitat",
+    "authors": [
+      "AndrewSzot",
+      "Alexander Clegg", 
+      "Eric Undersander",
+      "ErikWijmans",
+      "YiliZhao",
+      "John Turner", 
+      "Noah Maestre",
+      "MustafaMukadam",
+      "DevendraChaplot",
+      "Oleksandr Maksymets",
+      "AaronGokaslan",
+      "VladimírVondrus",
+      "Sameer Dharur",
+      "FranziskaMeier",
+      "Wojciech Galuba",
+      "angel",
+      "ZsoltKira",
+      "vladlen",
+      "JitendraMalik",
+      "manolis",
+      "DhruvBatra"
+    ],
+    "text": "NeurIPS 2021",
+    "img": "files/hab2.jpeg",
+    "pdf": "https://arxiv.org/pdf/2106.14405.pdf",
+    "post": "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/",
+    "code": "https://github.com/facebookresearch/habitat-sim",
+    "venue": ["ai", "conference"],
+    "tags": ["embodied","simulator"]
+  },
+  {
+    "date": "2021-10",
+    "title": "Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments",
+    "authors": [
+      "SoniaRaychaudhuri",
+      "ShivanshPatel",
+      "SaimWani",
+      "UnnatJain",
+      "angel"
+    ],
+    "text": "EMNLP 2021 (short)",
+    "web": "https://3dlg-hcvc.github.io/LAW-VLNCE/",
+    "pdf": "https://arxiv.org/pdf/2109.15207.pdf",
+    "code": "https://github.com/3dlg-hcvc/LAW-VLNCE",
+    "img": "files/law-vlnce.gif",
+    "venue": ["nlp", "conference"],
+    "tags": ["embodied"]
+  },
+  {
+    "date": "2021-08",
+    "title": "Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents",
+    "authors": [
+      "ShivanshPatel*",
+      "SaimWani*",
+      "UnnatJain*",
+      "AlexanderSchwing",
+      "SvetlanaLazebnik",
+      "manolis",
+      "angel"
+    ],
+    "text": "ICCV 2021",
+    "web": "https://shivanshpatel35.github.io/comon/",
+    "pdf": "https://arxiv.org/pdf/2110.05769.pdf",
+    "code": "https://github.com/saimwani/CoMON",
+    "img": "files/comon.png",
+    "venue": ["vision", "conference"],
+    "tags": ["embodied"]
+  },
+  {
+    "date": "2021-06",
+    "title": "Roominoes: Learning to Assemble 3D Rooms into Floor Plans",
+    "authors": [
+      "KaiWang",
+      "XianghaoXu",
+      "Leon Lei",
+      "Selena Ling",
+      "Natalie Lindsay",
+      "angel",
+      "manolis",
+      "DanielRitchie"
+    ],
+    "text": "SGP 2021",
+    "img": "files/roominoes.png",
+    "pdf": "https://drive.google.com/file/d/1aSePGciFxnLRF4dhJynmNNctVfndIRpE/view",
+    "video": "https://www.youtube.com/watch?v=GBzpgLPP5VY&ab_channel=KaiWang",
+    "venue": ["graphics", "conference"],
+    "tags": ["3d", "scene"]
+  },
+  {
+    "date": "2021-06",
+    "title": "Scan2Cap: Context-aware Dense Captioning in RGB-D Scans",
+    "authors": [
+      "DaveZhenyuChen",
+      "AliGholami",
+      "matthias",
+      "angel"
+    ],
+    "text": "CVPR 2021",
+    "pdf": "https://arxiv.org/pdf/2012.02206.pdf",
+    "img": "files/scan2cap.jpg",
+    "web": "https://daveredrum.github.io/Scan2Cap/",
+    "code": "https://github.com/daveredrum/Scan2Cap",
+    "venue": ["vision", "conference"],
+    "tags": ["vl","3d"]
+  },
+  {
+    "date": "2021-06",
+    "title": "Plan2Scene: Converting Floorplans to 3D Scenes",
+    "authors": [
+      "madhawa",
+      "QiruiWu",
+      "yasu",
+      "angel",
+      "manolis"
+    ],
+    "text": "CVPR 2021",
+    "pdf": "https://arxiv.org/pdf/2106.05375.pdf",
+    "img": "files/plan2scene.png",
+    "web": "https://3dlg-hcvc.github.io/plan2scene/",
+    "code": "https://github.com/3dlg-hcvc/plan2scene",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "scene"]
+  },
+  {
+    "date": "2021-06",
+    "title": "Mirror3D: Depth Refinement for Mirror Surfaces",
+    "authors": [
+      "JiaqiTan",
+      "WeijieLin",
+      "angel",
+      "manolis"
+    ],
+    "text": "CVPR 2021",
+    "pdf": "https://arxiv.org/pdf/2106.06629.pdf",
+    "img": "files/mirror3d.png",
+    "web": "https://3dlg-hcvc.github.io/mirror3d/",
+    "code": "https://github.com/3dlg-hcvc/mirror3d",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "dataset"]
+  },
+  {
+    "date": "2020-11",
+    "title": "Rearrangement: A Challenge for Embodied AI",
+    "authors": [
+      "DhruvBatra",
+      "angel",
+      "SoniaChernova",
+      "AndrewDavison",
+      "JiaDeng",
+      "vladlen",
+      "SergeyLevine",
+      "JitendraMalik",
+      "IgorMordatch",
+      "RoozbehMottaghi",
+      "manolis",
+      "HaoSu"
+    ],
+    "img": "files/rearrangement.png",
+    "text": "arXiv:2011.01975 [cs.AI], November 2020",
+    "pdf": "https://arxiv.org/pdf/2011.01975.pdf",
+    "venue": ["ai","preprint"],
+    "tags": ["embodied"]
+  },
+  {
+    "date": "2020-10",
+    "title": "Motion Annotation Programs: A Scalable Approach to Annotating Kinematic Articulations in Large 3D Shape Collections",
+    "authors": [
+      "XianghaoXu",
+      "DavidCharatan",
+      "SoniaRaychaudhuri",
+      "HanxiaoJiang",
+      "MaeHeitmann",
+      "VladmirKim",
+      "SiddharthaChaudhuri",
+      "manolis",
+      "angel",
+      "DanielRitchie"
+    ],
+    "text": "3DV 2020",
+    "img": "files/maps.png",
+    "web": "http://visual.cs.brown.edu/projects/articulations-webpage/",
+    "pdf": "http://visual.cs.brown.edu/projects/articulations-webpage/articulations_3dv2020.pdf",
+    "code": "https://github.com/brownvc/articulations",
+    "demo": "http://articulations.cs.brown.edu/",
+    "venue": ["vision", "conference"],
+    "tags": ["3d","articulations"]
+  },
+  {
+    "date": "2020-10",
+    "title": "Multi-ON: Benchmarking Semantic Map Memory using Multi-Object Navigation",
+    "authors": [
+      "SaimWani*",
+      "ShivanshPatel*",
+      "UnnatJain*",
+      "angel",
+      "manolis"
+    ],
+    "text": "NeurIPS 2020",
+    "img": "files/multion.jpg",
+    "web": "https://shivanshpatel35.github.io/multi-ON/",
+    "pdf": "https://shivanshpatel35.github.io/multi-ON/resources/MultiON.pdf",
+    "code": "https://github.com/saimwani/multiON",
+    "venue": ["ml", "conference"],
+    "tags": ["embodied"]
+  },
+  {
+    "date": "2020-07",
+    "title": "Sneak Pique: Exploring Autocompletion as a Data Discovery Scaffold for Supporting Visual Analysis",
+    "authors": [
+      "VidyaSetlur",
+      "EnamulHoque",
+      "DaeHyunKim",
+      "angel"
+    ],
+    "text": "UIST 2020",
+    "img": "https://www.tableau.com/sites/default/files/2023-01/sneakpique_1.png",
+    "web": "https://www.tableau.com/research/publications/sneak-pique",
+    "pdf": "https://www.tableau.com/sites/default/files/2023-01/Autocomplete-UIST2020.pdf",
+    "venue": ["hci", "conference"],
+    "tags": ["dataviz"]
+  },
+  {
+    "date": "2020-06",
+    "title": "ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language",
+    "authors": [
+      "DaveZhenyuChen",
+      "angel",
+      "matthias"
+    ],
+    "text": "ECCV 2020",
+    "img": "files/scanrefer.jpg",
+    "web": "https://daveredrum.github.io/ScanRefer/",
+    "pdf": "https://daveredrum.github.io/ScanRefer/davezchen_eccv2020_scanrefer.pdf",
+    "code": "https://github.com/daveredrum/ScanRefer",
+    "benchmark": "http://kaldir.vc.in.tum.de/scanrefer_benchmark/",
+    "venue": ["vision", "conference"],
+    "tags": ["vl","3d"]
+  },
+  {
+    "date": "2020-06",
+    "title": "SAPIEN: a SimulAted Part-based Interactive ENvironment",
+    "authors": [
+      "FanboXiang",
+      "YuzheQin",
+      "KaichunMo",
+      "YikuanXia",
+      "HaoZhu",
+      "FangchenLiu",
+      "MinghuaLiu",
+      "HanxiaoJiang",
+      "YifuYuan",
+      "HeWang",
+      "LiYi",
+      "angel",
+      "leo",
+      "HaoSu"
+    ],
+    "text": "CVPR 2020",
+    "img": "files/sapien.png",
+    "web": "https://sapien.ucsd.edu/",
+    "pdf": "https://arxiv.org/abs/2003.08515",
+    "venue": ["vision", "conference"],
+    "tags": ["simulator", "articulations"]
+  },
+  {
+    "date": "2019-11",
+    "title": "Mimic and Rephrase: Reflective Listening in Open-Ended Dialogue",
+    "authors": [
+      "JustinDieter",
+      "TianWang",
+      "gabor",
+      "angel",
+      "arun"
+    ],
+    "text": "CONLL 2019",
+    "img": "files/mimic.png",
+    "pdf": "https://www.aclweb.org/anthology/K19-1037.pdf",
+    "code": "https://github.com/square/MimicAndRephrase",
+    "venue": ["nlp", "conference"],
+    "tags": ["rephrase"]
+  },
+  {
+    "date": "2019-08",
+    "title": "PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks",
+    "authors": [
+      "KaiWang",
+      "YuAnLin",
+      "BenWeissmann",
+      "manolis",
+      "angel",
+      "DanielRitchie"
+    ],
+    "text": "SIGGRAPH 2019",
+    "pdf": "https://drive.google.com/file/d/1CJCM6EQyeUWwxdk6tl8cVxEIhV7s3DoA/view",
+    "code": "https://github.com/brownvc/planit",
+    "img": "https://dritchie.github.io/img/pubthumbs/graphsynth.png",
+    "venue": ["graphics", "conference"],
+    "tags": ["3d", "scene", "synthesis"]
+  },
+  {
+    "date": "2019-03",
+    "title": "Hierarchy Denoising Recursive Autoencoders for 3D Scene Layout Prediction",
+    "authors": [
+      "YifeiShi",
+      "angel",
+      "ZhelunWu",
+      "manolis",
+      "KaiXu"
+    ],
+    "text": "CVPR 2019, arXiv:1903.03757 [cs.CV]",
+    "img": "files/hierarchylayout.jpg",
+    "pdf": "https://arxiv.org/pdf/1903.03757",
+    "web": "http://www.yifeishi.net/hierarchylayout.html",
+    "code": "https://github.com/yifeishi/HierarchyLayout",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "scene"
+    ]
+  },
+  {
+    "date": "2018-12",
+    "year": "2019",
+    "title": "PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding",
+    "authors": [
+      "KaichunMo",
+      "ShilinZhu",
+      "angel",
+      "LiYi",
+      "SubarnaTripathi",
+      "leo",
+      "HaoSu"
+    ],
+    "text": "CVPR 2019, arXiv:1812.02713 [cs.CV]",
+    "img": "https://cs.stanford.edu/~kaichun/partnet/images/teaser.png",
+    "pdf": "https://arxiv.org/abs/1812.02713",
+    "web": "https://cs.stanford.edu/~kaichun/partnet/",
+    "video": "https://youtu.be/7pEuoxmb-MI",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "shape",
+      "parts",
+      "dataset"
+    ]
+  },
+  {
+    "date": "2018-11",
+    "year": "2019",
+    "title": "Scan2CAD: Learning CAD Model Alignment in RGB-D Scans",
+    "authors": [
+      "ArmenAvetisyan",
+      "ManuelDahnert",
+      "angie",
+      "manolis",
+      "angel",
+      "matthias"
+    ],
+    "text": "CVPR 2019 (oral), arXiv:1811.11187 [cs.CV]",
+    "img": "files/scan2cad.png",
+    "pdf": "https://arxiv.org/pdf/1811.11187.pdf",
+    "video": "http://www.youtube.com/watch?v=PiHSYpgLTfA",
+    "code": "https://github.com/skanti/Scan2CAD",
+    "benchmark": "http://kaldir.vc.in.tum.de/scan2cad_benchmark/",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "scene",
+      "scans",
+      "dataset"
+    ]
+  },
+  {
+    "date": "2018-08",
+    "title": "Deep Convolutional Priors for Indoor Scene Synthesis",
+    "authors": [
+      "KaiWang",
+      "manolis",
+      "angel",
+      "DanielRitchie"
+    ],
+    "text": "SIGGRAPH 2018",
+    "img": "http://msavva.github.io/files/deepsynth.png",
+    "pdf": "https://dritchie.github.io/pdf/deepsynth.pdf",
+    "code": "https://github.com/brownvc/deep-synth",
+    "venue": ["graphics", "conference"],
+    "tags": [
+      "3d",
+      "scene",
+      "synthesis"
+    ]
+  },
+  {
+    "date": "2018-07",
+    "title": "On evaluation of embodied navigation agents",
+    "authors": [
+      "PeterAnderson",
+      "angel",
+      "DevendraChaplot",
+      "alexey",
+      "SaurabhGupta",
+      "vladlen",
+      "JanaKosecka",
+      "JitendraMalik",
+      "RoozbehMottaghi",
+      "manolis",
+      "AmirZamir"
+    ],
+    "text": "arXiv:1807.06757 [cs.AI], July 2018",
+    "pdf": "https://arxiv.org/abs/1807.06757",
+    "img":  "files/spl.jpeg",
+    "venue": ["ai", "preprint"],
+    "tags": [
+      "navigation",
+      "embodied"
+    ]
+  },
+  {
+    "date": "2018-03",
+    "title": "Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings",
+    "authors": [
+      "KevinChen",
+      "ChrisChoy",
+      "manolis",
+      "angel",
+      "tom",
+      "silvio"
+    ],
+    "text": "Proceedings of ACCV 2018 (oral), arXiv:1803.08495 [cs.CV]",
+    "pdf": "https://arxiv.org/abs/1803.08495",
+    "img": "http://msavva.github.io/files/text2shape.png",
+    "web": "http://text2shape.stanford.edu/",
+    "code": "https://github.com/kchen92/text2shape/",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "shape",
+      "synthesis",
+      "text2shape"
+    ]
+  },
+  {
+    "date": "2017-12",
+    "title": "MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments",
+    "authors": [
+      "manolis",
+      "angel",
+      "alexey",
+      "tom",
+      "vladlen"
+    ],
+    "text": "arXiv:1712.03931 [cs.LG]",
+    "pdf": "https://arxiv.org/abs/1712.03931",
+    "img": "https://github.com/minosworld/minos/raw/master/docs/img/video_thumbnail.png",
+    "web": "https://www.minosworld.org/",
+    "code": "https://github.com/minosworld/minos",
+    "video": "https://youtu.be/c0mL9K64q84",
+    "venue": ["ai", "preprint"],
+    "tags": [
+      "navigation",
+      "simulator",
+      "embodied"
+    ]
+  },
+  {
+    "date": "2017-12",
+    "year": "2018",
+    "title": "Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View",
+    "authors": [
+      "shuran",
+      "andy",
+      "angel",
+      "manolis",
+      "silvio",
+      "tom"
+    ],
+    "text": "Proceedings of CVPR 2018, arXiv:1712.04569 [cs.CV]",
+    "pdf": "https://arxiv.org/abs/1712.04569",
+    "img": "http://im2pano3d.cs.princeton.edu/teaser.jpg",
+    "web": "http://im2pano3d.cs.princeton.edu/",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "vision",
+      "panorama"
+    ]
+  },
+  {
+    "date": "2017-11",
+    "year": "2018",
+    "title": "Linking WordNet to 3D Shapes",
+    "authors": [
+      "angel",
+      "RishiMago",
+      "PranavKrishna",
+      "manolis",
+      "christiane"
+    ],
+    "text": "Proceedings of Global WordNet Conference 2018",
+    "pdf": "http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_66.pdf",
+    "img": "files/wordnetLink.png",
+    "venue": ["nlp", "resources"],
+    "tags": [
+      "shape"
+    ]
+  },
+  {
+    "date": "2017-10",
+    "title": "Cross-modal Attribute Transfer for Rescaling 3D Models",
+    "authors": [
+      "lin",
+      "angel",
+      "HaoSu",
+      "manolis",
+      "leo"
+    ],
+    "text": "Proceedings of 3DV 2017",
+    "pdf": "http://cseweb.ucsd.edu/~haosu/papers/3dv2017_attribute_transfer.pdf",
+    "img": "http://msavva.github.io/files/attributeTransfer.png",
+    "venue": ["vision", "conference"]
+  },
+  {
+    "date": "2017-10",
+    "title": "Matterport3D: Learning from RGB-D Data in Indoor Environments",
+    "authors": [
+      "angel",
+      "angie",
+      "tom",
+      "maciej",
+      "matthias",
+      "manolis",
+      "shuran",
+      "andy",
+      "yinda"
+    ],
+    "text": "Proceedings of 3DV 2017, arXiv:1709.06158 [cs.CV]",
+    "pdf": "https://arxiv.org/pdf/1709.06158.pdf",
+    "img": "http://msavva.github.io/files/matterport3d.png",
+    "code": "https://github.com/niessner/Matterport",
+    "web": "https://niessner.github.io/Matterport/",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "scans",
+      "dataset"
+    ]
+  },
+  {
+    "date": "2017-04",
+    "title": "Learning Where to Look: Data-Driven Viewpoint Set Selection for 3D Scenes",
+    "authors": [
+      "kyle",
+      "manolis",
+      "angel",
+      "tom"
+    ],
+    "text": "arXiv:1704.02393 [cs.CV]",
+    "pdf": "https://arxiv.org/pdf/1704.02393.pdf",
+    "img": "http://msavva.github.io/files/viewsets.png",
+    "venue": ["vision", "preprint"]
+  },
+  {
+    "date": "2017-02",
+    "title": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes",
+    "authors": [
+      "angie",
+      "angel",
+      "manolis",
+      "maciej",
+      "tom",
+      "matthias"
+    ],
+    "text": "Proceedings of CVPR 2017 (spotlight), arXiv:1702.04405 [cs.CV]",
+    "img": "files/scannet.jpg",
+    "pdf": "https://arxiv.org/pdf/1702.04405.pdf",
+    "web": "http://www.scan-net.org/",
+    "code": "https://github.com/ScanNet/ScanNet",
+    "video": "http://www.youtube.com/watch?v=Olx4OnoZWQQ",
+    "benchmark": "http://kaldir.vc.in.tum.de/scannet_benchmark/",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "scans",
+      "dataset"
+    ]
+  },
+  {
+    "date": "2016-11",
+    "year": "2017",
+    "title": "Semantic Scene Completion from a Single Depth Image",
+    "authors": [
+      "shuran",
+      "fisher",
+      "andy",
+      "angel",
+      "manolis",
+      "tom"
+    ],
+    "text": "Proceedings of CVPR 2017 (oral), arXiv:1611.08974 [cs.CV]",
+    "img": "files/sscnet.jpeg",
+    "pdf": "https://arxiv.org/pdf/1611.08974v1.pdf",
+    "web": "http://vision.princeton.edu/projects/2016/SSCNet/",
+    "venue": ["vision", "conference"],
+    "tags": [
+      "3d",
+      "scene"
+    ]
+  },
+  {
+    "date": "2017-04",
+    "title": "A Two-stage Sieve Approach to Quote Attribution",
+    "authors": [
+      "grace",
+      "MichaelFang",
+      "angel",
+      "danj"
+    ],
+    "text": "Proceedings of EACL 2017",
+    "img": "files/quote-attribution.png",
+    "pdf": "https://www.aclweb.org/anthology/E17-1044.pdf",
+    "data": "http://nlp.stanford.edu/~muzny/quoteli.html",
+    "code": "http://nlp.stanford.edu/~muzny/quoteli.html",
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "quote-attribution"
+    ]
+  },
+  {
+    "date": "2017-03",
+    "title": "SceneSuggest: Context-driven 3D Scene Design",
+    "authors": [
+      "manolis",
+      "angel",
+      "maneesh"
+    ],
+    "text": "arXiv:1703.00061 [cs.CG], March 2017",
+    "img": "http://msavva.github.io/files/scenesuggest.png",
+    "pdf": "http://arxiv.org/abs/1703.00061.pdf",
+    "demo": "http://aspis.cmpt.sfu.ca/scene-toolkit/scene-suggest.html",
+    "venue": ["preprint"]
+  },
+  {
+    "date": "2017-03",
+    "title": "SceneSeer: 3D Scene Design with Natural Language",
+    "authors": [
+      "angel",
+      "mihail",
+      "manolis",
+      "chrisman"
+    ],
+    "text": "arXiv:1703.00050 [cs.CG], March 2017",
+    "img": "http://msavva.github.io/files/sceneseer.png",
+    "pdf": "http://arxiv.org/abs/1703.00050.pdf",
+    "demo": "http://aspis.cmpt.sfu.ca/scene-toolkit/text2scene.html",
+    "venue": ["preprint"]
+  },
+  {
+    "date": "2016-10",
+    "title": "Eviza: A Natural Language Interface for Visual Analysis",
+    "authors": [
+      "VidyaSetlur",
+      "SarahBattersby",
+      "MelanieTory",
+      "RichGossweiler",
+      "angel"
+    ],
+    "text": "UIST 2016",
+    "img": "https://www.tableau.com/sites/default/files/2023-01/eviza_teaser_0.png",
+    "pdf": "https://www.tableau.com/sites/default/files/2023-01/uist4832-setlurA_0.pdf",
+    "web": "https://www.tableau.com/research/publications/eviza-natural-language-interface-visual-analysis",
+    "venue": ["hci", "conference"],
+    "tags": ["dataviz"]
+  },
+  {
+    "date": "2016-07",
+    "title": "PiGraphs: Learning Interaction Snapshots from Observations",
+    "authors": [
+      "manolis",
+      "angel",
+      "pat",
+      "matt",
+      "matthias"
+    ],
+    "text": "SIGGRAPH 2016",
+    "img": "http://graphics.stanford.edu/projects/pigraphs/pigraphs.png",
+    "pdf": "http://graphics.stanford.edu/projects/pigraphs/",
+    "bib": "http://graphics.stanford.edu/projects/pigraphs/",
+    "web": "http://graphics.stanford.edu/projects/pigraphs/",
+    "venue": ["graphics", "conference"]
+  },
+  {
+    "date": "2016-03",
+    "title": "Evaluating the word-expert approach for Named-Entity Disambiguation",
+    "authors": [
+      "angel",
+      "val",
+      "chrisman",
+      "eneko"
+    ],
+    "text": "arXiv:1603.04767 [cs.CL], March 2016",
+    "pdf": "http://arxiv.org/pdf/1603.04767v1",
+    "venue": ["nlp", "preprint"],
+    "tags": [
+      "entity-linking"
+    ]
+  },
+  {
+    "date": "2015-12",
+    "title": "Text to 3D scene generation",
+    "authors": [
+      "angel"
+    ],
+    "text": "Ph.D. dissertation, Department of Computer Science, Stanford University, 2015",
+    "img": "files/text2scene.png",
+    "pdf": "https://purl.stanford.edu/vg064sy5087",
+    "venue": ["thesis"],
+    "tags": [
+      "text2scene"
+    ]
+  },
+  {
+    "date": "2015-12",
+    "title": "ShapeNet: An Information-Rich 3D Model Repository",
+    "authors": [
+      "angel",
+      "tom",
+      "leo",
+      "pat",
+      "qixing",
+      "zimo",
+      "silvio",
+      "manolis",
+      "shuran",
+      "HaoSu",
+      "jianxiong",
+      "LiYi",
+      "fisher"
+    ],
+    "text": "arXiv:1512.03012 [cs.GR], Dec 2015",
+    "img": "files/shapenet.png",
+    "pdf": "http://arxiv.org/pdf/1512.03012v1",
+    "bib": "http://shapenet.cs.stanford.edu/resources/shapenet.bib",
+    "code": "https://github.com/ShapeNet",
+    "web": "http://shapenet.cs.stanford.edu/",
+    "venue": ["preprint"],
+    "tags": ["3d", "shape", "dataset"]
+  },
+  {
+    "date": "2015-10",
+    "title": "Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval",
+    "authors": [
+      "sebastian",
+      "ranjay",
+      "angel",
+      "fei-fei",
+      "chrisman"
+    ],
+    "text": "In Proceedings of the Fourth Workshop on Vision and Language (VL15)",
+    "pdf": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.pdf",
+    "bib": "http://nlp.stanford.edu/~sebschu/pubs/schuster-krishna-chang-feifei-manning-vl15.bib",
+    "web": "http://nlp.stanford.edu/software/scenegraph-parser.shtml",
+    "img": "files/twomen.png",
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "scene-graphs",
+      "image-retrieval"
+    ]
+  },
+  {
+    "date": "2015-07",
+    "title": "Semantically-Enriched 3D Models for Common-sense Knowledge",
+    "authors": [
+      "manolis",
+      "angel",
+      "pat"
+    ],
+    "text": "CVPR 2015 Vision meets Cognition Workshop",
+    "img": "files/semgeo.png",
+    "pdf": "http://graphics.stanford.edu/projects/semgeo/semgeo.pdf",
+    "bib": "http://graphics.stanford.edu/projects/semgeo/semgeo.bib",
+    "web": "http://graphics.stanford.edu/projects/semgeo/",
+    "venue": ["vision", "workshop"],
+    "tags": [
+      "common-sense"
+    ]
+  },
+  {
+    "date": "2015-06",
+    "title": "Text to 3D Scene Generation with Rich Lexical Grounding",
+    "authors": [
+      "angel",
+      "will",
+      "manolis",
+      "chrispotts",
+      "chrisman"
+    ],
+    "text": "Proceedings of ACL 2015",
+    "img": "files/lexground.png",
+    "pdf": "http://nlp.stanford.edu/pubs/chang-acl2015-lexground.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/chang-acl2015-lexground.bib",
+    "web": "http://nlp.stanford.edu/data/text2scene.shtml",
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "spatial",
+      "text2scene"
+    ]
+  },
+  {
+    "date": "2014-12",
+    "title": "SceneGrok: Inferring Action Maps in 3D Environments",
+    "authors": [
+      "manolis",
+      "angel",
+      "pat",
+      "matt",
+      "matthias"
+    ],
+    "text": "Proceedings of SIGGRAPH Asia 2014",
+    "img": "files/scenegrok.png",
+    "pdf": "http://graphics.stanford.edu/projects/scenegrok/scenegrok.pdf",
+    "bib": "http://graphics.stanford.edu/projects/scenegrok/scenegrok.bib",
+    "web": "http://graphics.stanford.edu/projects/scenegrok/",
+    "venue": ["graphics", "conference"],
+    "tags": [
+      "actionmap"
+    ]
+  },
+  {
+    "date": "2014-12",
+    "title": "On Being the Right Scale: Sizing Large Collections of 3D Models",
+    "authors": [
+      "manolis",
+      "angel",
+      "gilbert",
+      "chrisman",
+      "pat"
+    ],
+    "text": "SIGGRAPH Asia 2014 Workshop on Indoor Scene Understanding: Where Graphics meets Vision",
+    "img": "files/sizes.png",
+    "pdf": "http://graphics.stanford.edu/projects/sizes/sizes.pdf",
+    "bib": "http://graphics.stanford.edu/projects/sizes/sizes.bib",
+    "web": "http://graphics.stanford.edu/projects/sizes/",
+    "venue": ["graphics", "workshop"],
+    "tags": [
+      "common-sense"
+    ]
+  },
+  {
+    "date": "2014-10",
+    "title": "Learning Spatial Knowledge for Text to 3D Scene Generation",
+    "authors": [
+      "angel",
+      "manolis",
+      "chrisman"
+    ],
+    "text": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP 2014)",
+    "img": "files/spatialLearning.png",
+    "pdf": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.bib",
+    "web": "http://nlp.stanford.edu/projects/text2scene.shtml",
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "spatial",
+      "text2scene"
+    ]
+  },
+  {
+    "date": "2014-07",
+    "title": "Learning Affordance Maps by Observing Interactions",
+    "authors": [
+      "manolis",
+      "angel",
+      "matt",
+      "matthias",
+      "pat"
+    ],
+    "text": "CVPR 2014 Workshop on Functionality, Physics, Intentionality and Causality",
+    "img": "files/fpic2014.png",
+    "pdf": "files/fpic2014.pdf",
+    "bib": "files/fpic2014.bib",
+    "venue": ["vision", "workshop"]
+  },
+  {
+    "date": "2014-06",
+    "title": "Interactive Learning of Spatial Knowledge for Text to 3D Scene Generation",
+    "authors": [
+      "angel",
+      "manolis",
+      "chrisman"
+    ],
+    "text": "Proceedings of the ACL 2014 Workshop on Interactive Language Learning, Visualization, and Interfaces",
+    "img": "files/interactiveLearning.png",
+    "pdf": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.bib",
+    "web": "http://nlp.stanford.edu/projects/text2scene.shtml",
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "spatial",
+      "text2scene"
+    ]
+  },
+  {
+    "date": "2014-06",
+    "title": "Semantic Parsing for Text to 3D Scene Generation",
+    "authors": [
+      "angel",
+      "manolis",
+      "chrisman"
+    ],
+    "text": "Proceedings of the ACL 2014 Workshop on Semantic Parsing",
+    "img": "files/semanticParsing.png",
+    "pdf": "http://nlp.stanford.edu/pubs/scenegen-sp2014.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/scenegen-sp2014.bib",
+    "web": "http://nlp.stanford.edu/projects/text2scene.shtml",
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "text2scene"
+    ]
+  },
+  {
+    "date": "2014-05",
+    "title": "TransPhoner: Automated Mnemonic Keyword Generation",
+    "authors": [
+      "manolis",
+      "angel",
+      "chrisman",
+      "pat"
+    ],
+    "text": "Proceedings of CHI 2014",
+    "img": "files/transphoner.png",
+    "pdf": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.pdf",
+    "bib": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.bib",
+    "web": "http://graphics.stanford.edu/projects/transphoner/",
+    "venue": ["hci", "conference"]
+  },
+  {
+    "date": "2014-04",
+    "title": "TokensRegex: Defining cascaded regular expressions over tokens",
+    "authors": [
+      "angel",
+      "chrisman"
+    ],
+    "text": "Stanford University Technical Report",
+    "pdf": "http://nlp.stanford.edu/pubs/tokensregex-tr-2014.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/tokensregex-tr-2014.bib",
+    "web": "http://nlp.stanford.edu/software/tokensregex.shtml",
+    "venue": ["nlp", "preprint"]
+  },
+  {
+    "date": "2013-12",
+    "title": "Deterministic coreference resolution based on entity-centric, precision-ranked rules",
+    "authors": [
+      "heeyoung",
+      "angel",
+      "yves",
+      "nate",
+      "mihai",
+      "danj"
+    ],
+    "text": "In Computational Linguistics 39(4)",
+    "img": "files/corefSieves.png",
+    "pdf": "http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00152",
+    "web": "http://nlp.stanford.edu/software/dcoref.shtml",
+    "venue": ["nlp", "journal"],
+    "tags": [
+      "coreference"
+    ]
+  },
+  {
+    "date": "2013-11",
+    "title": "Stanford's 2013 KBP System",
+    "authors": [
+      "gabor",
+      "arun",
+      "angel",
+      "KevinReschke",
+      "julie",
+      "jean",
+      "osbert",
+      "KeithSiilats",
+      "chrisman"
+    ],
+    "text": "In Proceedings of the Sixth Text Analysis Conference (TAC 2014)",
+    "pdf": "http://stanford.edu/~angeli/papers/2014-tac-kbp.pdf",
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "kbp"
+    ]
+  },
+  {
+    "date": "2013-07",
+    "title": "SUTime: Evaluation in TempEval-3",
+    "authors": [
+      "angel",
+      "chrisman"
+    ],
+    "text": "In Second Joint Conference on Lexical and Computational Semantics (*SEM), Volume 2: Proceedings of the Seventh International Workshop on Semantic Evaluation (SemEval 2013)",
+    "pdf": "http://aclweb.org/anthology/S/S13/S13-2013.pdf",
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "date": "2012-07",
+    "title": "Joint Entity and Event Coreference Resolution across Documents",
+    "authors": [
+      "heeyoung",
+      "marta",
+      "angel",
+      "mihai",
+      "danj"
+    ],
+    "text": "Proceedings of the Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL 2012)",
+    "pdf": "http://nlp.stanford.edu/pubs/emnlp2012-coref.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/emnlp2012-coref.bib",
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "coreference"
+    ]
+  },
+  {
+    "date": "2012-05",
+    "title": "SUTime: A Library for Recognizing and Normalizing Time Expressions.",
+    "authors": [
+      "angel",
+      "chrisman"
+    ],
+    "text": "In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC 2012)",
+    "img": "files/sutime.png",
+    "pdf": "http://nlp.stanford.edu/pubs/lrec2012-sutime.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/lrec2012-sutime.bib",
+    "poster": "http://nlp.stanford.edu/pubs/lrec2012-sutime-poster.pdf",
+    "web": "http://nlp.stanford.edu/software/sutime.shtml",
+    "demo": "http://nlp.stanford.edu:8080/sutime",
+    "venue": ["nlp", "resources"],
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "date": "2012-05",
+    "title": "A Cross-Lingual Dictionary for English Wikipedia Concepts",
+    "authors": [
+      "val",
+      "angel"
+    ],
+    "text": "In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC 2012)",
+    "pdf": "http://nlp.stanford.edu/pubs/crosswikis.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/crosswikis.bib",
+    "slides": "http://nlp.stanford.edu/pubs/crosswikis-slides.pdf",
+    "post": "https://plus.google.com/117790530324740296539/posts/VSjc4KYpug2",
+    "data": "http://nlp.stanford.edu/pubs/crosswikis-data.tar.bz2",
+    "venue": ["nlp", "resources"],
+    "tags": [
+      "entity-linking"
+    ]
+  },
+  {
+    "date": "2011-11",
+    "title": "Stanford's Distantly-Supervised Slot-Filling System",
+    "authors": [
+      "mihai",
+      "sonal",
+      "johnbauer",
+      "davidm",
+      "angel",
+      "val",
+      "chrisman"
+    ],
+    "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
+    "pdf": "http://nlp.stanford.edu/pubs/kbp2011-slotfilling.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/kbp2011-slotfilling.bib",
+    "data": "http://nlp.stanford.edu/pubs/kbp_trigger_words.txt",
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "kbp"
+    ]
+  },
+  {
+    "date": "2011-11",
+    "title": "Strong Baselines for Cross-Lingual Entity Linking",
+    "authors": [
+      "val",
+      "angel"
+    ],
+    "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
+    "pdf": "http://nlp.stanford.edu/pubs/kbp2011-crosslinking.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/kbp2011-crosslinking.bib",
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "entity-linking"
+    ]
+  },
+  {
+    "date": "2011-11",
+    "title": "Stanford-UBC Entity Linking at TAC-KBP, Again",
+    "authors": [
+      "angel",
+      "val",
+      "eneko",
+      "chrisman"
+    ],
+    "text": "In Proceedings of the Fourth Text Analysis Conference (TAC 2011)",
+    "pdf": "http://nlp.stanford.edu/pubs/kbp2011-entitylinking.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/kbp2011-entitylinking.bib",
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "entity-linking"
+    ]
+  },
+  {
+    "date": "2011-07",
+    "title": "Unsupervised Dependency Parsing without Gold Part-of-Speech Tags",
+    "authors": [
+      "val",
+      "hiyan",
+      "angel",
+      "danj"
+    ],
+    "text": "In Proceedings of the 2011 Conference on Empirical Methods in Natural Language Processing (EMNLP 2011)",
+    "pdf": "http://nlp.stanford.edu/pubs/goldtags.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/goldtags.bib",
+    "poster": "http://nlp.stanford.edu/pubs/goldtags-poster.pdf",
+    "data": "http://nlp.stanford.edu/pubs/goldtags-data.tar.bz2",
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "parsing"
+    ]
+  },
+  {
+    "date": "2011-06",
+    "title": "Stanford's Multi-Pass Sieve Coreference Resolution System at the CoNLL-2011 Shared Task",
+    "authors": [
+      "heeyoung",
+      "yves",
+      "angel",
+      "nate",
+      "mihai",
+      "danj"
+    ],
+    "text": "In Proceedings of the CoNLL-2011 Shared Task",
+    "pdf": "http://nlp.stanford.edu/pubs/conllst2011-coref.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/conllst2011-coref.bib",
+    "web": "http://nlp.stanford.edu/software/dcoref.shtml",
+    "venue": ["nlp", "conference"],
+    "tags": [
+      "coreference"
+    ]
+  },
+  {
+    "date": "2010-11",
+    "title": "A Simple Distant Supervision Approach for the TAC-KBP Slot Filling Task",
+    "authors": [
+      "mihai",
+      "davidm",
+      "julie",
+      "johnbauer",
+      "angel",
+      "val",
+      "chrisman"
+    ],
+    "text": "In Proceedings of the Third Text Analysis Conference (TAC 2010)",
+    "pdf": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling.bib",
+    "slides": "http://nlp.stanford.edu/pubs/kbp2010-slotfilling-slides.pptx",
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "kbp",
+      "Slot-Filling"
+    ]
+  },
+  {
+    "date": "2010-11",
+    "title": "Stanford-UBC Entity Linking at TAC-KBP",
+    "authors": [
+      "angel",
+      "val",
+      "ericyeh",
+      "eneko",
+      "chrisman"
+    ],
+    "text": "In Proceedings of the Third Text Analysis Conference (TAC 2010)",
+    "pdf": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking.bib",
+    "poster": "http://nlp.stanford.edu/pubs/kbp2010-entitylinking-poster.pdf",
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "kbp",
+      "entity-linking"
+    ]
+  },
+  {
+    "date": "2009-11",
+    "title": "Stanford-UBC at TAC-KBP",
+    "authors": [
+      "eneko",
+      "angel",
+      "danj",
+      "chrisman",
+      "val",
+      "ericyeh"
+    ],
+    "text": "In Proceedings of the Second Text Analysis Conference (TAC 2009)",
+    "pdf": "http://nlp.stanford.edu/pubs/subctackbp.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/subctackbp.bib",
+    "slides": "http://nlp.stanford.edu/pubs/subctackbp-slides.pdf",
+    "venue": ["nlp", "workshop"],
+    "tags": [
+      "kbp"
+    ]
+  },
+  {
+    "date": "2000-01",
+    "title": "The Fractal Geometry of the Boundary of Dragon Curves",
+    "authors": [
+      "angel",
+      "tianrong"
+    ],
+    "text": "In Journal of Recreational Mathematics 30 (1), 9-22",
+    "img": "files/dragonCurve.png",
+    "pdf": "pubs/dragonbound.pdf",
+    "bib": "pubs/dragonbound.bib",
+    "venue": ["misc", "journal"]
+  }
+]

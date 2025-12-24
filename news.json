@@ -1,0 +1,370 @@
+[
+{
+    "date": "November 2025",
+    "description": "Congratulations to ZeMing for successfully defending his MSc thesis!"
+},
+{
+    "date": "November 2025",
+    "description": "Two papers accepted at WACV 2025.  Congratulations to <ul><li>Denys, Shawn, and Yiming for their work on <a href='https://3dlg-hcvc.github.io/s2o/'>S2O: Static to Openable Enhancement for Articulated 3D Objects</a>.</li><li>Ivan, Derek, and Austin for their work on <a href='https://3dlg-hcvc.github.io/SceneEval/'>SceneEval: Evaluating semantic coherence in text-conditioned 3D indoor scene synthesis</a>.</li></ul>"
+},
+{
+    "date": "November 2025",
+    "description": "Two papers accepted at 3DV 2025.  Congratulations to <ul><li>Xiaohao and Divyam for their work on <a href='https://3dlg-hcvc.github.io/SemLayoutDiff/'>SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis</a>.</li><li>Derek, Ivan, Austin, and Xiaoliang for their work on <a href='https://3dlg-hcvc.github.io/hsm/'>HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation</a>.</li></ul>"
+},
+{
+    "date": "October 2025",
+    "description": "This year, I'm co-organizing the following workshops at IROS 2025:<ul><li>Oct 24th pm - <a href='https://heai-iros25-workshop.github.io/'>Human-aware Embodied AI (HEAI) Workshop</a></li><li>Oct 24th pm - <a href='https://www.ai-meets-autonomy.com/'>AI Meets Autonomy: Vision, Language, and Autonomous Systems Workshop</a></li></ul>"
+},
+{
+    "date": "October 2025",
+    "description": "Talks, workshops, and papers at ICCV 2025. <ul><li>Oct 19th pm - Poster on <a href='https://arxiv.org/abs/2508.16744'>Hyperbolic Multimodal Representation Learning for Biological Taxonomies</a> at <a href='https://sites.google.com/view/beyondeuclidean/home'>Beyond Euclidean Workshop</a></li><li>Oct 19th pm - Talk at <a href='https://opensun3d.github.io/'>Workshop on Open-World 3D Scene Understanding with Foundation Models (OpenSUN3D)</a></li><li>Oct 20th pm - Talk at <a href='https://s3dsgr.github.io/'>Workshop on Scalable 3D Scene Generation and Geometric Scene Understanding</a></li><li>Oct 20th am - Co-organizing <a href='https://ai3dcc.github.io/'>Workshop on AI for 3D Content Creation</a></li><li>Oct 20th - Co-organizing <a href='https://iccv-clvl.github.io/2025'>CLVL: 6th Workshop on Closing the Loop Between Vision and Language (Decade Mark)</a></li><li>Oct 21st - Qirui presenting poster on <a href='https://3dlg-hcvc.github.io/diorama/'>Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling</a></li><li>Oct 23rd - Han-Hung presenting poster on <a href='https://3dlg-hcvc.github.io/NuiScene/'>NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes</a></li></ul>"
+},
+{
+    "date": "October 2025",
+    "description": "Congratulations to Sonia for successfully defending her PhD thesis!"
+},
+{
+    "date": "August 2025",
+    "description": "Congratulations to Sonia for acceptance of her <a href='https://openreview.net/pdf?id=USgQ38RG6G'>semantic mapping survey</a> at TMLR!"
+},
+{
+    "date": "July 2025",
+    "description": "Submit to our <a href='https://www.codabench.org/competitions/9829/'>3D Vision and Language Challenge</a> (organized by Austin and Yiming), one of four challenges at the <a href='https://iccv-clvl.github.io/2025'>ICCV CLVL workshop</a>." 
+},
+{
+    "date": "July 2025",
+    "description": "Come and join us in two ICML-related events at downtown Vancouver.<ul><li>July 14th - <a href='https://sites.google.com/view/vancouver-icml2025/'>Vancouver Vision and Learning workshop</a> (co-organized between SFU, UBC, and Vector Institute)</li><li>July 21th - <a href='https://sites.google.com/view/sfu-at-icml-2025/sfuicml2025'>SFU post-ICML workshop</a></li></ul>"
+},
+{
+    "date": "June 2025",
+    "description": "Two papers accepted at ICCV 2025.  Congratulations to <ul><li>Han-Hung and Qinghong for their work on <a href='https://3dlg-hcvc.github.io/NuiScene/'>NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes</a>.</li><li>Qirui and Denys for their work on <a href='https://3dlg-hcvc.github.io/diorama/'>Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling</a>.</li></ul>"
+},
+{
+    "date": "June 2025",
+    "description": "Talks and workshops at CVPR 2025.  <ul><li>June 11th - Talk at <a href='https://scene-understanding.com'>Workshop on 3D Scene Understanding for Vision, Graphics, and Robotics</a></li><li>June 11th - Talk at <a href='https://robo-3dvlms.github.io/'>Workshop on 3D Vision Language Models (VLMs) for Robotic Manipulation</a></li><li>June 12th - Talk at <a href='https://3d-llm-vla.github.io/'>Workshop on Bridging Language, Vision and Action in 3D Environments</a></li><li>June 12th - Talk at <a href='https://3dcompat-dataset.org/workshop/C3DV25/'>Workshop on Compositional 3D Vision</a></li><li>June 12th - <a href='https://embodied-ai.org/'>Co-organizing the Embodied-AI workshop</a></li></ul>"
+},
+{
+    "date": "May 27, 2025",
+    "description": "Invited talk at <a href='https://www.computerrobotvision.org/'>CRV 2025</a>."
+},
+{
+    "date": "May 2025",
+    "description": "Congratulations to Austin and ZeMing on the acceptance of their paper <a href='https://github.com/3dlg-hcvc/vigil3d'>ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding</a> to ACL 2025."
+},
+{
+    "date": "March 2025",
+    "description": "Congratulations to Xingguang, Han-Hung, and Ziyu for receiving the best paper award at 3DV for their work on <a href='https://omages.github.io/'>An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion</a>!"
+},
+{
+    "date": "January 2025",
+    "description": "Three papers accepted at ICLR 2025.  Congratulations to <ul><li>Han-Hung and Yiming for their work on <a href='https://3dlg-hcvc.github.io/DuoduoCLIP/'>Duoduo CLIP: Efficient 3D Understanding with Multi-View Images</a>.</li><li>ZeMing, Austin, and Xiaoliang for their work on <a href='https://bioscan-ml.github.io/clibd/'>CLIBD: Bridging Vision and Genomics for Biodiversity Monitoring at Scale</a>.</li><li>Jiayi and Denys for their work on <a href='https://3dlg-hcvc.github.io/singapo/'>SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects</a>.</li></ul>"
+},
+{
+    "date": "December 2024",
+    "description": "We are excited that NeurIPS will be Vancouver and will be running a series of exciting talks on the mornings of Dec 11-13.  See <a href='https://sites.google.com/view/sfu-at-neurips-2024'>event page</a> for details."
+},
+{
+  "date": "November 2024",
+  "description": "Two papers accepted at 3DV 2025.  Congratulations to <ul><li>Xingguang, Han-Hung, and Ziyu for their work on <a href='https://omages.github.io/'>An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion</a>.</li><li>Ivan, Derek, and Austin for their work on <a href='https://3dlg-hcvc.github.io/smc/'>SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements</a>.</li></ul>"
+},
+{
+  "date": "October 14, 2024",
+  "description": "Talk (remote) at <a href='https://www.ai-meets-autonomy.com/iros-workshop'>Workshop on AI Meets Autonomy: Vision, Language, and Autonomous Systems</a> at IROS 2024"
+},
+{
+  "date": "September 2024",
+  "description": "<a href='https://biodiversitygenomics.net/projects/5m-insects/'>BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity</a> accepted at NeurIPS datasets and benchmarks 2024."
+},
+{
+  "date": "August 16, 2024",
+  "description": "Talk (remote) at <a href='https://alvr-workshop.github.io/'>Workshop on Advances in Language and Vision Research (ALVR)</a> at ACL 2024"
+},
+{
+  "date" : "July, 2024",
+  "description": "Congratulations to Qirui and Sonia on the acceptance of their paper <a href='https://3dlg-hcvc.github.io/r3ds/'>R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding</a> at ECCV 2024."
+},
+{
+  "date" : "July 11, 2024",
+  "description": "Talk at <a href='https://dlrl.ca/'>CIFAR DLRLSS</a> on language and 3D"
+},
+{
+    "date": "June 2024",
+    "description": "Workshops at CVPR 2024.  <ul><li>June 17th - <a href='https://ai3dg.github.io/'>AI for 3D Generation</a></li><li>June 17th pm - <a href='https://multimodalitiesfor3dscenes.github.io/'>Workshop on Multimodalities for 3D Scenes</a></li><li>June 18th - <a href='https://embodied-ai.org/'>Embodied AI workshop</a></li></ul>Papers at workhops and main conference<ul><li>June 18th - <a href='https://openreview.net/pdf?id=B7PKwbqNdo'>R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding</a> at <a href='https://syndata4cv.github.io/'>workshop on Synthetic Data for Computer Vision</a></li><li>June 18th - BIOSCAN-CLIP: Bridging Vision and Genomics for Biodiversity Monitoring at Scale at <a href='https://sites.google.com/view/fgvc11/'>workshop on Fine-Grained Visual Categorization</a></li><li>June 20th - <a href='https://3dlg-hcvc.github.io/hssd/'>Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation</a></li></ul>"
+},    
+{
+    "date": "June 2024",
+    "description": "I have received tenure!"
+},    
+{
+    "date": "May 24, 2024",
+    "description": "I'm presenting a talk on Text to 3D at <a href='https://www.upperbound.ai/'>Upper Bound</a> in Edmonton."
+},    
+{
+    "date": "April 22, 2024",
+    "description": "<a href='https://hanhung.github.io/'>Han-Hung</a> presented his state-of-the-art report (STAR) on <a href='https://3dlg-hcvc.github.io/tt3dstar/'>Text to 3D Shape Generation</a> at Eurographics 2024."
+},
+{
+    "date": "March, 2024",
+    "description": "Qirui and Xiaohao presented their papers at 3DV 2024 on <a href='https://3dlg-hcvc.github.io/generalizing_shape_retrieval/'>Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects</a> and <a href='https://3dlg-hcvc.github.io/OPDMulti/'>OPDMulti: Openable Part Detection for Multiple Objects</a>."
+},
+{
+    "date": "December, 2023",
+    "description": "Congratulations to Yiming Zhang for defending his MSc thesis!"
+},
+{
+    "date": "October 2023",
+    "description": "Two papers accepted at WACV 2024.  Congratulations to <ul><li>Sonia and Tommaso for their work on <a href='https://3dlg-hcvc.github.io/mopa/'>MOPA: Modular Object Navigation with PointGoal Agents</a>.</li><li>Yue, Han-Hung and Yiming for their work on <a href='https://3dlg-hcvc.github.io/tricolo/'>TriCoLo: Trimodal Contrastive Loss for Text to Shape Retrieval</a>.</li></ul>"
+},
+{
+    "date": "October 2023",
+    "description": "Two papers accepted at 3DV 2024.  Congratulations to <ul><li>Xiaohao and Shawn for their work on <a href='https://3dlg-hcvc.github.io/OPDMulti/'>OPDMulti: Openable Part Detection for Multiple Objects</a>.</li><li>Qirui for his work on <a href='https://3dlg-hcvc.github.io/generalizing_shape_retrieval/'>Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects</a>.</li></ul>"
+},
+{
+    "date": "October 2023",
+    "description": "Workshops at ICCV 2023.  <ul><li>Oct 2nd - <a href='https://3dv-in-ecommerce.github.io/'>Workshop on 3D Vision and Modeling Challenges in eCommerce</a></li><li>Oct 2nd - <a href='https://iccv-clvl.github.io/2023/'>Workshop on closing the loop between vision and language (CLVL)</a></li><li>Oct 3rd pm - <a href='https://languagefor3dscenes.github.io/ICCV2023/'>Workshop on Language for 3D Scenes (L3DS)</a></li></ul>"
+},
+{
+    "date": "September 2023",
+    "description": "I'm happy to be a recipient of the <a href='https://www.sony.com/en/SonyInfo/research-award-program/'>Sony Research Award for 2022</a>."
+},
+{
+    "date": "September 2023",
+    "description": "Congratulations to ZeMing (together with Zahra and Nick from U. of Waterloo) on the acceptance of their work <a href='https://biodiversitygenomics.net/projects/1m-insects/'>BIOSCAN-1M Insect dataset</a> at NeurIPS datasets and benchmarks 2023."
+},
+{
+    "date": "July 2023",
+    "description": "Three papers accepted at ICCV 2023. Congratulations to <ul><li>Yiming and ZeMing for their work on <a href='https://3dlg-hcvc.github.io/multi3drefer'>Multi3DRefer</a>, a extension of 3D visual grounding to multiple objects</li><li>Dave for his work on <a href='http://www.niessnerlab.org/projects/chen2022unit3d.html'>UniT3D, a unified transformer model for 3D visual grounding and captioning</a></li> <li>Enrico and Tommaso for their work on <a href='https://arxiv.org/pdf/2212.00767.pdf'>proximity-aware tasks for social navigation</a></li></ul>"
+},
+{
+    "date": "July 24, 2023",
+    "description": "Lecture on natural language processing at <a href='https://www.sfu.ca/computing/inventthefuture.html'>Invent the Future: AI Scholars Program</a> at Simon Fraser University"
+},
+{
+    "date": "July 13, 2023",
+    "description": "Talk on <i>Connecting 3D and Language</i> at Seoul National University."
+},
+{
+    "date": "July 4, 2023",
+    "description": "Talk on <i>Connecting 3D and Language</i> at University of Padova."
+},
+{
+    "date": "July 1, 2023",
+    "description": "Tutorial on Language and 3D at <a href='https://sgp2023.github.io/program/#graduate-school'>SGP 2023</a>."
+},
+{
+    "date": "June 2023",
+    "description": "Workshops and talks at CVPR 2023.  <ul><li>June 18th - Talk at <a href='https://sites.google.com/view/cvpr2023-3d-vision-robotics'>workshop on 3D vision and robotics</a></li><li>June 18th - Talk at <a href='https://3dcompat-dataset.org/workshop/'>workshop on compositional 3D vision</a></li><li>June 19th - Talk at <a href='https://sites.google.com/view/wicvcvpr2023/program/schedule'>WiCV</a> workshop</li><li>June 19th - Talk at <a href='https://asu-apg.github.io/odrum/'>Open-Domain Reasoning Under Multi-Modal Settings</a> workshop</li><li>June 19th - <a href='http://www.scan-net.org/cvpr2023workshop/'>ScanNet Indoor Scene Understanding Challenge</a></li><li>June 19th - <a href='http://multion-challenge.cs.sfu.ca/'>Multi-Object Navigation Challenge</a> at the <a href='https://embodied-ai.org/'>Embodied-AI workshop</a></li></ul>"
+},
+{
+    "date": "March 2023",
+    "description": "Congratulations to Shawn Jiang for defending his MSc thesis!"
+},
+{
+    "date": "February 20, 2023",
+    "description": "Talk on <i>Connecting 3D and Language</i> at <a href='https://3dl.cs.uchicago.edu/'>3DL</a> group seminar at University of Chicago"
+},
+{
+    "date": "January 7, 2023",
+    "description": "Keynote at WACV 2023 workshop on <a href='https://sites.google.com/view/piesworkshop/pies-cv2023?pli=1'>Photorealistic Image and Environment Synthesis for Computer Vision (PIES-CV)</a>."
+},
+{
+    "date": "December 15, 2022",
+    "description": "Invited talk at CoRL 2022 workshop on <a href='https://gjstein.github.io/corl2022wkshp-long-horizon-planning/'>Learning, Perception, and Abstraction for Long-Horizon Planning</a>."
+},
+{
+    "date": "December 2022",
+    "description": "<a href='https://aihabitat.org/challenge/2022_rearrange/'>Habitat Rearrangement Competition</a> (Dec 8th) at NeurIPS 2022."
+},
+{
+    "date": "October 2022",
+    "description": "Workshops at ECCV 2022.  <ul><li>Oct 23rd - <a href='https://languagefor3dscenes.github.io/ECCV2022/'>Workshop on Language for 3D Scenes</a></li><li>Oct 23rd - <a href='https://learn3dg.github.io/'>Workshop on Learning to Generate 3D Shapes and Scenes</a></li></ul>"
+},
+{
+    "date": "September 2022",
+    "description": "One paper accepted at NeurIPS 2022.  Congratulations to Yongsen, Yiming, and Shawn for their work on MultiScan."
+},
+{
+    "date": "September 2022",
+    "description": "One paper accepted at 3DV 2022.  Congratulations to Sanjay, Xiaohao, and Shawn for their work on <a href='https://3dlg-hcvc.github.io/3dhoi/'>understanding articulated 3D human-object interactions</a>."
+},
+{
+    "date": "July 2022",
+    "description": "Two papers accepted at ECCV 2022. Congratulations to <ul><li>Dave and Qirui for their work on <a href='https://daveredrum.github.io/D3Net/'>D3Net, a speaker-listener model for 3D visual grounding and captioning</a></li> <li>Shawn and Yongsen for their work on <a href='https://3dlg-hcvc.github.io/OPD/'>OPDet for openable part detection from single-view images</a></li></ul>"
+},
+{
+    "date": "July 18, 2022",
+    "description": "Lecture on natural language processing at <a href='https://www.sfu.ca/computing/inventthefuture.html'>Invent the Future: AI Scholars Program</a> at Simon Fraser University"
+},
+{
+    "date": "June 2022",
+    "description": "Workshops and Tutorials at CVPR 2022.  <ul><li>June 19th - <a href='http://www.scan-net.org/cvpr2022workshop/'>ScanNet Indoor Scene Understanding Challenge</a></li><li>June 19th - <a href='http://multion-challenge.cs.sfu.ca/'>Multi-Object Navigation Challenge</a> at the <a href='https://embodied-ai.org/'>Embodied-AI workshop</a></li><li>June 20th - <a href='https://ai-workshops.github.io/building-and-working-in-environments-for-embodied-ai-cvpr-2022/'>Tutorial: Building and Working in Environments for Embodied AI</a></li></ul>"
+},
+{
+    "date": "June 2022",
+    "description": "3DVQA work by Yasaman and Leon will be presented at CRV 2022."
+},
+{
+    "date": "April 2022",
+    "description": "Congratulations to Ali Gholami and Yue Ruan for defending their MSc thesis!"
+},
+{
+    "date": "March 2022",
+    "description": "I'm excited to be part of <a href='https://ibol.org/programs/bioscan/'>BIOSCAN</a>, a large, world-wide collaboration to identify and categorize the species of the world, and understand how they interact.  I'm looking for a <a href='posts/BIOSCAN-jobposting_SimonFraser.pdf'>postdoc</a> to use the latest advances in machine learning to develop algorithms to contribute to this project."
+},
+{
+    "date": "February 2022",
+    "description": "We are hosting the <a href='http://multion-challenge.cs.sfu.ca/'>Multi-Object Navigation challenge</a>, as part of the <a href='https://embodied-ai.org/'>embodied AI workshop</a> at CVPR 2022."
+},
+{
+    "date": "January 2022",
+    "description": "I'm happy to be hosting Dave Zhenyu Chen and Tommaso Campari as visiting students this term at SFU."
+},
+{
+    "date": "October 2021",
+    "description": "<a href='https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/'>Habitat 2.0</a> to be presented at NeurIPS 2021 as a spotlight, and <a href='https://aihabitat.org/datasets/hm3d/'>HM3D</a> accepted to NeurIPS 2021 datasets and benchmarks."
+},
+{
+    "date": "September 2021",
+    "description": "Short paper on using <a href='https://3dlg-hcvc.github.io/LAW-VLNCE/'>language-aligned waypoints</a> for supervising VLN-CE accepted to EMNLP 2021.  Congratulations to Sonia, Shivansh, Saim, and Unnat!"
+},
+{
+    "date": "August, 2021",
+    "description": "Congratulations to Leon Kochiev for defending his MSc thesis!"
+},
+{
+    "date": "July, 2021",
+    "description": "Paper studying <a href='https://shivanshpatel35.github.io/comon/'>communication mechanisms between embodied AI agents for navigation</a> accepted at ICCV 2021.  Great job by Shivansh, Saim and Unnat!"
+},
+{
+    "date": "July 21, 2021",
+    "description": "Lecture on natural language processing at <a href='https://www.sfu.ca/computing/inventthefuture.html'>Invent the Future: AI Scholars Program</a> at Simon Fraser University"
+},
+{
+    "date": "July 10-14 2021",
+    "description": "<a href='https://sgp2021.github.io/'>SGP (Symposium for Geometry Processing)</a> happening virtually!"
+},
+{
+    "date": "June 2021",
+    "description": "<a href='https://drive.google.com/file/d/1aSePGciFxnLRF4dhJynmNNctVfndIRpE/view'>Roominoes</a> accepted to SGP 2021.  Congratulations to Kai!"
+},
+{
+    "date": "May 2021",
+    "description": "Challenges and Workshops at CVPR 2021.  <ul><li>June 19th - <a href='https://sites.google.com/view/cvpr2021-3d-vision-robotics'>3D Vision and Robotics</a></li><li>June 20th - <a href='http://www.scan-net.org/cvpr2021workshop/'>ScanNet Indoor Scene Understanding Challenge</a></li><li>June 20th - <a href='http://multion-challenge.cs.sfu.ca/2021.html'>Multi-Object Navigation Challenge</a> at the <a href='https://embodied-ai.org/cvpr2021'>Embodied-AI workshop</a></li><li>June 25th - <a href='https://learn3dg.github.io/static/2021.html'>Learning to Generate 3D Shapes and Scenes</a></li><li>June 25th - <a href='https://language3dscenes.github.io//'>Language for 3D Scenes</a></li></ul>"
+},
+{
+    "date": "March 2021",
+    "description": "Three papers accepted at CVPR 2021.  Great job by Madhawa, Qirui, Jiaqi, Lewis, Dave, and Ali!"
+},
+{
+    "date": "January 2021",
+    "description": "I'm co-chairing <a href='https://sgp2021.github.io/'>SGP (Symposium for Geometry Processing)</a> with <a href='https://www.cs.toronto.edu/~jacobson/'>Alec Jacobson</a>."
+},
+{
+    "date": "November 25, 2020",
+    "description": "Invited talk at <a href='https://caida.ubc.ca/event/emerging-technologies-bcs-ai-showcase'>Emerging Technologies: BC's AI Showcase</a>"
+},
+{
+    "date": "November, 2020",
+    "description": "Whitepaper on <a href='https://arxiv.org/pdf/2011.01975.pdf'>Rearrangement: A Challenge for Embodied AI</a>"
+},
+{
+    "date": "October, 2020",
+    "description": "Papers accepted at UIST 2020, 3DV 2020, and NeurIPS 2020"
+},
+{
+    "date": "July 16, 2020",
+    "description": "Lecture on natural language processing at <a href='https://www.sfu.ca/computing/inventthefuture.html'>Invent the Future: AI Scholars Program</a> at Simon Fraser University"
+},
+{
+    "date": "July 9, 2020",
+    "description": "Invited talk at the <a href='https://alvr-workshop.github.io/'>Workshop on Advances in Language and Vision Research (ALVR)</a> at ACL 2020"
+},
+{
+    "date": "July 8, 2020",
+    "description": "<a href='http://www.scan-net.org/'>ScanNet</a> received the <a href='https://sgp2020.sites.uu.nl/awards/'>Symposium on Geometry Processing (SGP)</a> dataset award."
+},
+{
+    "date": "July, 2020",
+    "description": "Paper on localizing objects based on natural language descriptions in 3D scans (<a href='https://daveredrum.github.io/ScanRefer/'>ScanRefer</a>) is accepted at ECCV 2020."
+},
+{
+    "date": "June, 2020",
+    "description": "I'm co-organizing three workshops at CVPR 2020 <ul><li>June 14th - <a href='https://learn3dgen.github.io/'>Learning 3D Generative Models</a> (<a href='https://www.rsipvision.com/CVPR2020-Tuesday/24/'>CVPR daily</a>)</li><li>June 14-15th - <a href='https://embodied-ai.org/'>Embodied-AI Workshop</a></li><li>June 19th - <a href='http://www.scan-net.org/cvpr2020workshop/'>ScanNet Indoor Scene Understanding Challenge</a> (<a href='https://www.rsipvision.com/CVPR2020-Wednesday/18/'>CVPR daily</a>)</li></ul>"
+},
+{
+    "date": "February, 2020",
+    "description": "Paper on simulation platform with articulated parts (<a href='https://sapien.ucsd.edu/'>SAPIEN</a>) is accepted at CVPR 2020."
+},
+{
+    "date": "January, 2020",
+    "description": "I'm teaching <a href='https://angelxuanchang.github.io/nlp-class'>CMPT 825 Natural language Processing</a> this spring"
+},
+{
+    "date": "August, 2019",
+    "description": "I started as assistant professor at <a href='https://www.sfu.ca/computing.html'>Simon Fraser University</a>"
+},
+{
+    "date": "July, 25, 2019",
+    "description": "Lecture on deep learning for images at the <a href='https://dlrlsummerschool.ca/'>DLRL Summer School</a> at University of Alberta"
+},
+{
+    "date": "July 18, 2019",
+    "description": "Lecture on natural language processing at <a href='https://www.sfu.ca/computing/inventthefuture.html'>Invent the Future: AI Scholors Program</a> at Simon Fraser University"
+},
+{
+    "date": "June 17, 2019",
+    "description": "Invited talk at the <a href='https://sumochallenge.org/2019-sumo-workshop.html'>360 Indoor Scene Understanding and Modeling (SUMO) workshop</a> at CVPR"
+},
+{
+    "date": "May, 2019",
+    "description": "I'm visiting <a href='https://research.fb.com/category/facebook-ai-research/'>Facebook AI Research</a> this summer"
+},
+{
+    "date": "March, 2019",
+    "description": "<a href='https://cs.stanford.edu/~kaichun/partnet/'>PartNet prerelease v0</a> is now available!"
+},
+{
+    "date": "March, 2019",
+    "description": "Two upcoming workshops at CVPR 2019: <a href='https://3dscenegen.github.io/'>3D Scene Generation workshop</a> and <a href='http://www.scan-net.org/cvpr2019workshop/'>Scannet Indoor Scene Understanding workshop</a>"
+},
+{
+    "date": "March, 2019",
+    "description": "Three papers accepted at CVPR 2019"
+},
+{
+    "date": "Dec 3, 2018",
+    "description": "I'm honored to be named to <a href='https://www.cifar.ca/cifarnews/2018/12/03/29-researchers-named-to-first-cohort-of-canada-cifar-artificial-intelligence-chairs'>the first cohort of CIFAR AI Chairs</a>."
+},
+{
+    "date": "Sept 9, 2018",
+    "description": "<a href='https://eccv18-vlease.github.io/'>Visual Learning and Embodied Agents in Simulation Environments</a> at <a href='https://eccv2018.org/'>ECCV 2018</a>."
+},
+{
+    "date": "Sept, 2018",
+    "description": "Visiting <a href='http://niessnerlab.org/'>Matthias Niessner</a> at <a href='https://www.tum.de/en/homepage/'>TUM</a>."
+},
+{
+    "date": "July 11, 2018",
+    "description": "<a href='https://www.shapenet.org/'>ShapeNet</a> received the <a href='https://sgp2018.sciencesconf.org/resource/page/id/8'>Symposium on Geometry Processing (SGP)</a> dataset award."
+},
+{
+    "date": "June 29, 2018",
+    "description": "Invited talk at RSS 2018 workshop on <a href='https://sites.google.com/view/rss2018-robotic-learning/'>New Benchmarks, Metrics, and Competitions for Robotic Learning</a>."
+},
+{
+    "date": "June 11, 2018",
+    "description": "<a href='http://www.scan-net.org/changelog#scannet-v2-2018-06-11'>ScanNet v2</a> release and <a href='http://kaldir.vc.in.tum.de/scannet_benchmark/'>ScanNet Benchmark challenge</a> announced."
+},
+{
+    "date": "June 3, 2018",
+    "description": "I joined <a href='http://eloquent.ai'>Eloquent Labs</a>."
+},
+{
+    "date": "May 2018",
+    "description": "Co-organizing ECCV 2018 workshop on <a href='https://eccv18-vlease.github.io/'>Visual Learning and Embodied Agents in Simulation Environments</a>."
+},
+{
+    "date": "March 2018",
+    "description": "I was awarded the  <a href='https://www.ias.tum.de/en/fellowship-program/hans-fischer-fellowship/'>TUM-IAS Hans Fischer Fellowship</a>."
+}
+]
