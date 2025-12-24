@@ -524,13 +524,23 @@
       }
     ]
   },
+  "ShipingYang": {
+    "name": "Shiping Yang",
+    "web": "https://maybenotime.github.io/",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2025"
+  },
   "ZemingGong": {
     "name": "Zeming Gong",
     "web": "https://zmgong.github.io/",
-    "tags": ["alumni", "student", "Master"],
-    "details": "Summer 2023",
-    "alumni": [
-      "undergrad, 2022, next SFU MSc"
+    "tags": ["alumni", "student", "PhD"],
+    "details": "Spring 2026",
+    "alumni": [ {
+        "description": "undergrad, 2022, M.Sc. Summer 2023 to Fall 2025, next SFU PhD",
+        "thesis": {
+          "title": "Contrastive Pretraining for Biodiversity with DNA Barcode: Bridging Vision and Genomics for Biodiversity Monitoring at Scale"
+        }
+      }
     ],
     "alumni_group": ["undergrad"]
   },
@@ -543,12 +553,6 @@
       "undergrad, Fall 2023, next SFU MSc"
     ],
     "alumni_group": ["undergrad"]
-  },
-  "ShipingYang": {
-    "name": "Shiping Yang",
-    "web": "https://maybenotime.github.io/",
-    "tags": ["student", "PhD"],
-    "details": "Fall 2025"
   },
   "QinghongHan": {
     "name": "Qinghong Han",
