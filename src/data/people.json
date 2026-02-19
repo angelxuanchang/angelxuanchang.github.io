@@ -9,7 +9,7 @@
   },
   "pat": {
     "name": "Pat Hanrahan",
-    "web": "http://graphics.stanford.edu/~hanrahan/"
+    "web": "https://graphics.stanford.edu/~hanrahan/"
   },
   "matt": {
     "name": "Matthew Fisher",
@@ -21,7 +21,7 @@
   },
   "angie": {
     "name": "Angela Dai",
-    "web": "http://cs.stanford.edu/people/adai"
+    "web": "https://cs.stanford.edu/people/adai"
   },
   "maciej": {
     "name": "Maciej Halber",
@@ -29,7 +29,7 @@
   },
   "maneesh": {
     "name": "Maneesh Agrawala",
-    "web": "http://graphics.stanford.edu/~maneesh/"
+    "web": "https://graphics.stanford.edu/~maneesh/"
   },
   "mihail": {
     "name": "Mihail Eric",
@@ -37,27 +37,27 @@
   },
   "gilbert": {
     "name": "Gilbert Bernstein",
-    "web": "http://graphics.stanford.edu/~gilbo/"
+    "web": "https://www.gilbertbernstein.com/"
   },
   "chrisman": {
     "name": "Christopher D. Manning",
-    "web": "http://nlp.stanford.edu/manning/"
+    "web": "https://nlp.stanford.edu/~manning/"
   },
   "chrispotts": {
     "name": "Christopher Potts",
-    "web": "http://web.stanford.edu/~cgpotts/"
+    "web": "https://web.stanford.edu/~cgpotts/"
   },
   "tom": {
     "name": "Thomas Funkhouser",
-    "web": "http://www.cs.princeton.edu/~funk/"
+    "web": "https://www.cs.princeton.edu/~funk/"
   },
   "leo": {
     "name": "Leonidas Guibas",
-    "web": "http://geometry.stanford.edu/member/guibas/"
+    "web": "https://geometry.stanford.edu/member/guibas/"
   },
   "HaoSu": {
     "name": "Hao Su",
-    "web": "http://cseweb.ucsd.edu/~haosu/"
+    "web": "https://cseweb.ucsd.edu/~haosu/"
   },
   "LiYi": {
     "name": "Li Yi",
@@ -65,30 +65,30 @@
   },
   "qixing": {
     "name": "Qixing Huang",
-    "web": "http://www.cs.utexas.edu/~huangqx/"
+    "web": "https://www.cs.utexas.edu/~huangqx/"
   },
   "zimo": {
     "name": "Zimo Li"
   },
   "silvio": {
     "name": "Silvio Savarese",
-    "web": "http://cvgl.stanford.edu/silvio/"
+    "web": "https://cvgl.stanford.edu/silvio/"
   },
   "shuran": {
     "name": "Shuran Song",
-    "web": "http://vision.princeton.edu/people/shurans/"
+    "web": "https://shurans.github.io/"
   },
   "andy": {
     "name": "Andy Zeng",
-    "web": "http://andyzeng.github.io/"
+    "web": "https://andyzeng.github.io/"
   },
   "yinda": {
     "name": "Yinda Zhang",
-    "web": "http://robots.princeton.edu/people/yindaz/"
+    "web": "https://www.zhangyinda.com/"
   },
   "kyle": {
     "name": "Kyle Genova",
-    "web": "http://www.kylegenova.com/"
+    "web": "https://www.kylegenova.com/"
   },
   "lin": {
     "name": "Lin Shao",
@@ -96,11 +96,11 @@
   },
   "jianxiong": {
     "name": "Jianxiong Xiao",
-    "web": "http://www.jianxiongxiao.com/"
+    "web": "https://alum.hkust.edu.hk/jianxiong-xiao-prof-x"
   },
   "fisher": {
     "name": "Fisher Yu",
-    "web": "http://yf.io/"
+    "web": "https://scholar.google.com/citations?user=-XCiamcAAAAJ&hl=en"
   },
   "will": {
     "name": "Will Monroe",
@@ -108,50 +108,50 @@
   },
   "sebastian": {
     "name": "Sebastian Schuster",
-    "web": "http://sebschu.com/"
+    "web": "https://sebschu.com/"
   },
   "ranjay": {
     "name": "Ranjay Krishna",
-    "web": "http://www.ranjaykrishna.com/"
+    "web": "https://www.ranjaykrishna.com/"
   },
   "fei-fei": {
     "name": "Li Fei-Fei",
-    "web": "http://vision.stanford.edu/feifeili/"
+    "web": "https://profiles.stanford.edu/fei-fei-li/"
   },
   "heeyoung": {
     "name": "Heeyoung Lee"
   },
   "marta": {
     "name": "Marta Recasens",
-    "web": "http://clic.ub.edu/users/marta-recasens"
+    "web": "https://scholar.google.com/citations?user=jnuyehEAAAAJ&hl=en"
   },
   "yves": {
     "name": "Yves Peirsman",
-    "web": "http://nlp.yvespeirsman.be/"
+    "web": "https://www.yvespeirsman.com/"
   },
   "mihai": {
     "name": "Mihai Surdeanu",
-    "web": "http://www.surdeanu.name/mihai/"
+    "web": "https://surdeanu.cs.arizona.edu/mihai/"
   },
   "nate": {
     "name": "Nathanael Chambers",
-    "web": "http://www.usna.edu/Users/cs/nchamber/"
+    "web": "https://www.usna.edu/Users/cs/nchamber/"
   },
   "danj": {
     "name": "Dan Jurafsky",
-    "web": "http://www.stanford.edu/~jurafsky/"
+    "web": "https://www.stanford.edu/~jurafsky/"
   },
   "davidm": {
     "name": "David McClosky",
-    "web": "http://nlp.stanford.edu/~mcclosky/"
+    "web": "https://nlp.stanford.edu/~mcclosky/"
   },
   "eneko": {
     "name": "Eneko Agirre",
-    "web": "http://ixa2.si.ehu.es/~jipagbee/"
+    "web": "https://eagirre.github.io/"
   },
   "val": {
     "name": "Valentin I. Spitkovsky",
-    "web": "http://nlp.stanford.edu/valentin/"
+    "web": "https://nlp.stanford.edu/valentin/"
   },
   "johnbauer": {
     "name": "John Bauer"
@@ -168,11 +168,11 @@
   },
   "gabor": {
     "name": "Gabor Angeli",
-    "web": "http://cs.stanford.edu/~angeli/"
+    "web": "https://cs.stanford.edu/~angeli/"
   },
   "arun": {
     "name": "Arun Tejasvi Chaganty",
-    "web": "http://arun.chagantys.org/"
+    "web": "https://arun.chagantys.org/"
   },
   "KevinReschke": {
     "name": "Kevin Reschke",
@@ -183,11 +183,11 @@
   },
   "ericyeh": {
     "name": "Eric Yeh",
-    "web": "http://www.ai.sri.com/people/yeh/"
+    "web": "https://scholar.google.com/citations?user=EmNS9GAAAAAJ&hl=en"
   },
   "sonal": {
     "name": "Sonal Gupta",
-    "web": "http://www.cs.stanford.edu/people/sonal/"
+    "web": "https://www.cs.stanford.edu/people/sonal/"
   },
   "hiyan": {
     "name": "Hiyan Alshawi"
@@ -197,7 +197,7 @@
   },
   "VidyaSetlur": {
     "name": "Vidya Setlur",
-    "web": "https://research.tableau.com/user/vidya-setlur"
+    "web": "https://www.tableau.com/research/people/vidya-setlur"
   },
   "EnamulHoque": {
     "name": "Enamul Hoque",
@@ -209,15 +209,15 @@
   },
   "SarahBattersby": {
     "name": "Sarah E. Battersby",
-    "web": "https://research.tableau.com/user/sarah-battersby"
+    "web": "https://www.tableau.com/research/people/sarah-battersby"
   },
   "MelanieTory": {
     "name": "Melanie Tory",
-    "web": "https://research.tableau.com/user/melanie-tory"
+    "web": "https://roux.northeastern.edu/people/melanie-tory/"
   },
   "RichGossweiler": {
     "name": "Rich Gossweiler",
-    "web": "https://research.tableau.com/user/rich-gossweiler"
+    "web": "https://www.richgossweiler.place/"
   },
   "christiane": {
     "name": "Christiane Fellbaum",
@@ -229,11 +229,11 @@
   },
   "vladlen": {
     "name": "Vladlen Koltun",
-    "web": "http://vladlen.info/"
+    "web": "https://vladlen.info/"
   },
   "grace": {
     "name": "Grace Muzny",
-    "web": "http://nlp.stanford.edu/~muzny/"
+    "web": "https://nlp.stanford.edu/~muzny/"
   },
   "ChrisChoy": {
     "name": "Christopher B. Choy",
@@ -245,15 +245,15 @@
   },
   "ArmenAvetisyan": {
     "name": "Armen Avetisyan",
-    "web": "https://niessnerlab.org/members/armen_avetisyan/profile.html"
+    "web": "https://scholar.google.com/citations?user=Ta4TDJoAAAAJ&hl=en"
   },
   "ManuelDahnert": {
     "name": "Manuel Dahnert",
-    "web": "https://niessnerlab.org/members/manuel_dahnert/profile.html"
+    "web": "https://www.manuel-dahnert.com/"
   },
   "KaichunMo": {
     "name": "Kaichun Mo",
-    "web": "https://cs.stanford.edu/~kaichun"
+    "web": "https://kaichun-mo.github.io/"
   },
   "HeWang": {
     "name": "He Wang",
@@ -261,11 +261,11 @@
   },
   "ShilinZhu": {
     "name": "Shilin Zhu",
-    "web": "http://cseweb.ucsd.edu/~shz338/"
+    "web": "https://cseweb.ucsd.edu/~shz338/"
   },
   "SubarnaTripathi": {
     "name": "Subarna Tripathi",
-    "web": "http://acsweb.ucsd.edu/~stripath/"
+    "web": "https://acsweb.ucsd.edu/~stripath/"
   },
   "KaiWang": {
     "name": "Kai Wang",
@@ -306,11 +306,11 @@
   },
   "DevendraChaplot": {
     "name": "Devendra Singh Chaplot",
-    "web": "http://www.cs.cmu.edu/~dchaplot/"
+    "web": "https://www.cs.cmu.edu/~dchaplot/"
   },
   "SaurabhGupta": {
     "name": "Saurabh Gupta",
-    "web": "http://saurabhg.web.illinois.edu/"
+    "web": "https://saurabhg.web.illinois.edu/"
   },
   "JanaKosecka": {
     "name": "Jana Kosecka",
@@ -326,7 +326,7 @@
   },
   "AmirZamir": {
     "name": "Amir R. Zamir",
-    "web": "https://cs.stanford.edu/~amirz/"
+    "web": "https://vilab.epfl.ch/zamir/"
   },
   "FanboXiang": {
     "name": "Fanbo Xiang",
@@ -349,7 +349,7 @@
   },
   "MinghuaLiu": {
     "name": "Minghua Liu",
-    "web": "http://cseweb.ucsd.edu/~mil070/"
+    "web": "https://cseweb.ucsd.edu/~mil070/"
   },
   "YifuYuan": {
     "name": "Yifu Yuan"
@@ -370,6 +370,7 @@
   },
   "YasamanEtesam": {
     "name": "Yasaman Etesam",
+    "web": "https://yasaman-etesam.github.io/",
     "tags": ["alumni"],
     "alumni_group": ["other"],
     "alumni": [
@@ -471,12 +472,6 @@
     "tags": ["student", "PhD"],
     "details": "Fall 2021"
   },
-  "XingguangYan": {
-    "name": "Xingguang Yan",
-    "web": "http://yanxg.art/",
-    "tags": ["student", "PhD"],
-    "details": "Fall 2022"
-  },
   "QiruiWu": {
     "name": "Qirui Wu",
     "web": "https://qiruiw.github.io/",
@@ -485,6 +480,12 @@
     "alumni": [
       "undergrad, Fall 2019 - 2021, next SFU PhD"
     ]
+  },
+  "XingguangYan": {
+    "name": "Xingguang Yan",
+    "web": "https://yanxg.art/",
+    "tags": ["student", "PhD"],
+    "details": "Fall 2022"
   },
   "AustinWang": {
     "name": "Austin T. Wang",
@@ -538,7 +539,8 @@
     "alumni": [ {
         "description": "undergrad, 2022, M.Sc. Summer 2023 to Fall 2025, next SFU PhD",
         "thesis": {
-          "title": "Contrastive Pretraining for Biodiversity with DNA Barcode: Bridging Vision and Genomics for Biodiversity Monitoring at Scale"
+          "title": "Contrastive Pretraining for Biodiversity with DNA Barcode: Bridging Vision and Genomics for Biodiversity Monitoring at Scale",
+          "url": "https://summit.sfu.ca/item/40177"
         }
       }
     ],
@@ -590,7 +592,7 @@
   },
   "EnricoCancelli": {
     "name": "Enrico Cancelli",
-    "web": "http://hit.psy.unipd.it/enrico-cancelli",
+    "web": "https://hit.psy.unipd.it/enrico-cancelli",
     "tags": ["alumni"],
     "alumni_group": ["visitor"],
     "alumni": [
@@ -616,11 +618,11 @@
   },
   "DaveZhenyuChen": {
     "name": "Dave Zhenyu Chen",
-    "web": "http://www.niessnerlab.org/members/zhenyu_chen/profile.html",
+    "web": "https://daveredrum.github.io/",
     "tags": ["alumni"],
     "alumni_group": ["visitor"],
     "alumni": [
-      "visiting student, Spring 2022, PhD at <a href='https://www.tum.de/'>Technical University of Munich</a>; TUM-IAS funded student co-advised with <a href='http://www.niessnerlab.org/index.html'>Matthias Niessner</a>"
+      "visiting student, Spring 2022, PhD at <a href='https://www.tum.de/'>Technical University of Munich</a>; TUM-IAS funded student co-advised with <a href='https://www.niessnerlab.org/index.html'>Matthias Niessner</a>"
     ]
   },
   "TommasoCampari": {
@@ -662,7 +664,7 @@
   },
   "VladmirKim": {
     "name": "Vladmir Kim",
-    "web": "http://www.vovakim.com/"
+    "web": "https://www.vovakim.com/"
   },
   "SiddharthaChaudhuri": {
     "name": "Siddhartha Chaudhuri",
@@ -716,7 +718,7 @@
   },
   "YiliZhao": {
     "name": "Yili Zhao",
-    "web": "http://www.yilizhao.net/"
+    "web": "https://www.yilizhao.net/"
   },
   "AaronGokaslan": {
     "name": "Aaron Gokaslan",
@@ -724,7 +726,7 @@
   },
   "MustafaMukadam": {
     "name": "Mustafa Mukadam",
-    "web": "http://www.mustafamukadam.com/"
+    "web": "https://www.mustafamukadam.com/"
   },
   "FranziskaMeier": {
     "name": "Franziska Meier",
@@ -776,7 +778,7 @@
   },
   "LambertoBallan": {
     "name": "Lamberto Ballan",
-    "web": "http://www.lambertoballan.net/"
+    "web": "https://www.lambertoballan.net/"
   },
   "YonatanBisk": {
     "name": "Yonatan Bisk",
@@ -820,7 +822,7 @@
   },
   "ZiyuWan": {
     "name": "Ziyu Wan",
-    "web": "http://raywzy.com/"
+    "web": "https://raywzy.com/"
   },
   "DuyTa": {
     "name": "Duy Ta"
