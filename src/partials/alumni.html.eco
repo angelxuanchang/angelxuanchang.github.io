@@ -5,9 +5,14 @@
                 <% if typeof entry is 'string': %>
                 (<%- entry %>)
                 <% else: %>
-                (<%- entry.description %>), Thesis: <a href="<%= entry.thesis.url %>"><i><%= entry.thesis.title %></i></a> 
+                  <% if !entry.name || entry.name == @tag: %> 
+                    (<%- entry.description %>)
+                    <% if entry.thesis: %>
+                      , Thesis: <a href="<%= entry.thesis.url %>"><i><%= entry.thesis.title %></i></a> 
+                    <% end %>
+                  <% end %>
                 <% end %>
-                <br/>
             <% end %>
+            <br/>
         </div>
         <% end %>

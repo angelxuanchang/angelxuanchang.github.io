@@ -374,7 +374,7 @@
     "tags": ["alumni"],
     "alumni_group": ["other"],
     "alumni": [
-      "Fall 2019"
+      "Fall 2019 to Spring 2022"
     ]
   },
   "AliGholami": {
@@ -394,8 +394,17 @@
   "SoniaRaychaudhuri": {
     "name": "Sonia Raychaudhuri",
     "web": "https://sonia-raychaudhuri.github.io/",
-    "tags": ["student", "PhD"],
-    "details": "Fall 2020"
+    "tags": ["alumni"],
+    "alumni_group": ["PhD"],
+    "alumni": [
+      { 
+        "description": "Ph.D. Fall 2020 to Fall 2025",
+        "thesis": { 
+          "title": "Toward navigation agents that understand and generalize via spatial semantic representations", 
+          "url": "https://summit.sfu.ca/item/39996"
+        }
+      }
+    ]
   },
   "LeonKochiev": {
     "name": "Leon Kochiev",
@@ -403,7 +412,7 @@
     "alumni_group": ["Master"],
     "alumni": [
       { 
-        "description": "M.Sc. Fall 2019 to Summer 2021, next Integrant" ,
+        "description": "M.Sc. Fall 2019 to Summer 2021, next Integrant",
         "thesis": { 
           "title": "Neural State Machine for 2D and 3D Visual Question Answering", 
           "url": "https://summit.sfu.ca/item/34849"
@@ -417,7 +426,7 @@
     "alumni_group": ["Master"],
     "alumni": [
       { 
-        "description": "M.Sc. Fall 2019 to Spring 2022, next Amazon" ,
+        "description": "M.Sc. Fall 2019 to Spring 2022, next Amazon",
         "thesis": { 
           "title": "TriCoLo: Trimodal Contrastive Loss for Text to Shape Retrieval", 
           "url": "https://summit.sfu.ca/item/35615"
@@ -444,12 +453,18 @@
     "web": "https://jianghanxiao.github.io/",
     "tags": ["alumni"],
     "alumni_group": ["Master", "undergrad"],
-    "alumni": [{
-      "description": "undergrad, Fall 2019 - 2020, M.Sc. Fall 2020 to Summer 2023, next UIUC PhD",
-      "thesis": { 
-        "title": "OPD: Single-view 3D Openable Part Detection", 
-        "url": "https://summit.sfu.ca/item/36177"
-      }
+    "alumni": [
+      {
+        "name": "undergrad",
+        "description": "undergrad, Fall 2019 to Summer 2020, next SFU MSc"
+      },
+      {
+        "name": "MSc",
+        "description": "M.Sc. Fall 2020 to Summer 2023, next Columbia PhD",
+        "thesis": { 
+          "title": "OPD: Single-view 3D Openable Part Detection", 
+          "url": "https://summit.sfu.ca/item/36177"
+        }
     }]
   },
   "YongsenMao": {
@@ -477,8 +492,9 @@
     "web": "https://qiruiw.github.io/",
     "tags": ["alumni", "student", "PhD"],
     "details": "Spring 2022",
+    "alumni_group": ["undergrad"],
     "alumni": [
-      "undergrad, Fall 2019 - 2021, next SFU PhD"
+      "undergrad, Fall 2019 to Fall 2021, next SFU PhD"
     ]
   },
   "XingguangYan": {
@@ -498,7 +514,7 @@
     "alumni_group": ["other"],
     "tags": ["alumni"],
     "alumni": [
-      "Fall 2023 - Spring 2025"
+      "Fall 2023 to Spring 2025"
     ]
   },
   "WeijieLin": {
@@ -507,7 +523,7 @@
     "alumni_group": ["undergrad"],
     "tags": ["alumni"],
     "alumni": [
-      "undergrad, Spring 2020 - 2021, next CMU MS"
+      "undergrad, Spring 2020 to Summer 2021, next CMU MS"
     ]
   },
   "YimingZhang": {
@@ -516,8 +532,14 @@
     "tags": ["alumni", "student", "PhD"],
     "details": "Spring 2024",
     "alumni_group": ["Master", "undergrad"],
-    "alumni": [ {
-        "description": "undergrad, 2021, M.Sc. 2022 - 2023, next SFU PhD",
+    "alumni": [ 
+      {
+        "name": "undergrad",
+        "description": "undergrad, 2021, next SFU MSc"
+      },
+      {
+        "name": "MSc",
+        "description": "M.Sc. Spring 2022 to Fall 2023, next SFU PhD",
         "thesis": { 
           "title": "Multi3DRefer: Grounding text description to multiple 3D objects", 
           "url": "https://summit.sfu.ca/item/37957"
@@ -536,20 +558,26 @@
     "web": "https://zmgong.github.io/",
     "tags": ["alumni", "student", "PhD"],
     "details": "Spring 2026",
-    "alumni": [ {
-        "description": "undergrad, 2022, M.Sc. Summer 2023 to Fall 2025, next SFU PhD",
+    "alumni_group": ["Master", "undergrad"],
+    "alumni": [ 
+      {
+        "name": "undergrad",
+        "description": "undergrad, 2022, next SFU MSc"
+      },
+      {
+        "name": "MSc",
+        "description": "M.Sc. Summer 2023 to Fall 2025, next SFU PhD",
         "thesis": {
           "title": "Contrastive Pretraining for Biodiversity with DNA Barcode: Bridging Vision and Genomics for Biodiversity Monitoring at Scale",
           "url": "https://summit.sfu.ca/item/40177"
         }
       }
-    ],
-    "alumni_group": ["undergrad"]
+    ]
   },
   "DenysIliash": {
     "name": "Denys Iliash",
     "web": "https://diliash.github.io/",
-    "tags": ["student", "Master"],
+    "tags": ["alumni", "student", "Master"],
     "details": "Spring 2024",
     "alumni": [
       "undergrad, Fall 2023, next SFU MSc"
