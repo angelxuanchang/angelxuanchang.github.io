@@ -598,6 +598,11 @@
     "tags": ["student", "Undergrad"],
     "details": "Fall 2023"
   },
+  "MatthewHawksby": {
+    "name": "Matthew Hawksby",
+    "tags": ["student", "Undergrad"],
+    "details": "Summer 2025"
+  },
   "ChuanqiTang": {
     "name": "Chuanqi Tang",
     "tags": ["student", "Master"],
