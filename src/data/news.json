@@ -1,7 +1,15 @@
 [
 {
+    "date": "April 2026",
+    "description": "Paper on <a href='https://real-3dqa.github.io/'>Do 3D Large Language Models Really Understand 3D Spatial Relationships?</a>, work by <a href='https://xianzhengma.github.io/'>Xianzheng Ma</a> at Oxford, accepted at ICLR 2026"
+},
+{
     "date": "March 2026",
     "description": "<a href='https://3dvconf.github.io/2026/'>3DV 2026 in Vancouver!</a>"
+},
+{
+    "date": "March 2026",
+    "description": "Two papers accepted at CVPR 2026.  Congratulations to <ul><li>Denys, Jiayi, Egor, Qirui for their work on <a href='https://3dlg-hcvc.github.io/artiverse/'>Artiverse: A Diverse and Physically Grounded Dataset for Articulated Objects</a>.</li><li>Qirui for his work (done at Meta during his internship) on <a href='https://qiruiw.github.io/jrm/'>JRM: Joint Reconstruction Model for Multiple Objects without Alignment</a>.</li></ul>"
 },
 {
     "date": "November 2025",
