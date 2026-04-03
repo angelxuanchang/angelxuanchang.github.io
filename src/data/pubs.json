@@ -1,5 +1,67 @@
 [
   {
+    "date": "2026-06",
+    "title": "Artiverse: A Diverse and Physically Grounded Dataset for Articulated Objects",
+    "authors": [
+      "DenysIliash",
+      "JiayiLiu",
+      "EgorFokin",
+      "QiruiWu",
+      "AliMahdaviAmiri",
+      "manolis",
+      "angel"
+    ],
+    "text": "CVPR 2026",
+    "img": "files/artiverse.gif",
+    "web": "https://3dlg-hcvc.github.io/artiverse/",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "articulations", "latest"]
+  },
+  {
+    "date": "2026-06",
+    "title": "JRM: Joint Reconstruction Model for Multiple Objects without Alignment",
+    "authors": [
+      "QiruiWu",
+      "YawarSiddiqui",
+      "DuncanFrost",
+      "SamirAroudj",
+      "ArmenAvetisyan",
+      "RichardNewcombe",
+      "angel",
+      "JakobEngel",
+      "HenryHowardJenkins"
+    ],
+    "text": "CVPR 2026",
+    "img": "files/jrm.png",
+    "web": "https://qiruiw.github.io/jrm/",
+    "pdf": "https://arxiv.org/abs/2603.25985",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "scene", "reconstruction", "latest"]
+  },
+  {
+    "date": "2026-04",
+    "title": "Do 3D Large Language Models Really Understand 3D Spatial Relationships?",
+    "authors": [
+      "XianzhengMa", 
+      "TaoSun", 
+      "ShuaiChen", 
+      "YashBhalgat", 
+      "JindongGu",
+      "angel", 
+      "IroArmeni", 
+      "IroLaina", 
+      "SongyouPeng", 
+      "VictorAdrianPrisacariu"
+    ],
+    "text": "ICLR 2026",
+    "img": "files/real3dqa.png",
+    "web": "https://real-3dqa.github.io/",
+    "pdf": "https://arxiv.org/abs/2603.23523",
+    "data": "https://huggingface.co/datasets/Oliver-Ma/Real-3DQA",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "vl", "latest"]
+  },
+  {
     "date": "2026-03",
     "title": "SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis",
     "authors": [
@@ -11,6 +73,7 @@
     "img": "files/semlayoutdiff.png",
     "web": "https://3dlg-hcvc.github.io/SemLayoutDiff/",
     "pdf": "https://arxiv.org/pdf/2508.18597",
+    "code": "https://github.com/3dlg-hcvc/SemLayoutDiff",
     "venue": ["vision", "conference"],
     "tags": ["3d", "scene", "synthesis", "latest"]
   },
@@ -29,6 +92,8 @@
     "img": "files/hsm.png",
     "web": "https://3dlg-hcvc.github.io/hsm/",
     "pdf": "http://arxiv.org/pdf/2503.16848",
+    "code": "https://github.com/3dlg-hcvc/hsm",
+    "data": "https://huggingface.co/datasets/3dlg-hcvc/hsm",
     "venue": ["vision", "conference"],
     "tags": ["3d", "text2scene", "latest"]
   },
@@ -98,6 +163,7 @@
     "img": "files/diorama.webp",
     "web": "https://3dlg-hcvc.github.io/diorama/",
     "pdf": "https://arxiv.org/pdf/2411.19492",
+    "code": "https://github.com/3dlg-hcvc/diorama",
     "venue": ["vision", "conference"],
     "tags": ["3d", "scene", "latest"]
   },
@@ -284,12 +350,12 @@
       "ScottLowe*", 
       "ZemingGong*", 
       "PabloMillanArias*",
-      "Nicholas Pellegrino", 
+      "NicholasPellegrino", 
       "AustinWang",
       "JoakimHaurum",
-      "Iuliia Zarubiieva",
+      "IuliiaZarubiieva",
       "LilaKari",
-      "Dirk Steinke†",
+      "DirkSteinke†",
       "GrahamTaylor†", 
       "PaulFieguth†",
       "angel†"
@@ -448,14 +514,14 @@
     "title": "BarcodeBERT: Transformers for Biodiversity Analysis",
     "authors": [
       "PabloMillanArias",
-      "Niousha Sadjadi",
+      "NioushaSadjadi",
       "MonirehSafari",
       "ZemingGong", 
       "AustinWang",
       "ScottLowe", 
       "JoakimHaurum",
-      "Iuliia Zarubiieva",
-      "Dirk Steinke",
+      "IuliiaZarubiieva",
+      "DirkSteinke",
       "LilaKari",
       "angel",
       "GrahamTaylor"
@@ -473,8 +539,8 @@
     "authors": [
       "ZahraGharaee*",
       "ZemingGong*", 
-      "Nicholas Pellegrino*", 
-      "Iuliia Zarubiieva",
+      "NicholasPellegrino*", 
+      "IuliiaZarubiieva",
       "JoakimHaurum",
       "ScottLowe", 
       "Jaclyn TA McKeown", 
@@ -483,7 +549,7 @@
       "Yi-Yun C Wei", 
       "Jireh Agda",
       "Sujeevan Ratnasingham",
-      "Dirk Steinke†",
+      "DirkSteinke†",
       "angel†",
       "GrahamTaylor†", 
       "PaulFieguth†"

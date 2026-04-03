@@ -511,6 +511,7 @@
   },
   "XiaoliangHuo": {
     "name": "Xiaoliang Huo",
+    "web": "https://scholar.google.com/citations?user=h2FPSRsAAAAJ",
     "alumni_group": ["other"],
     "tags": ["alumni"],
     "alumni": [
@@ -880,8 +881,88 @@
     "name": "Monireh Safari",
     "web": "https://uwaterloo.ca/scholar/m4safari"
   },
+  "NioushaSadjadi": {
+    "name": "Niousha Sadjadi",
+    "web": "https://uwaterloo.ca/scholar/nsadjadi"
+  },
+  "NicholasPellegrino": {
+    "name": "Nicholas Pellegrino",
+    "web": "https://uwaterloo.ca/scholar/npellegr"
+  },
+  "IuliiaZarubiieva": {
+    "name": "Iuliia Zarubiieva",
+    "web": "https://www.linkedin.com/in/ieyriay/"
+  },
+  "DirkSteinke": {
+    "name": "Dirk Steinke",
+    "web": "https://www.uoguelph.ca/profile/dirk-steinke"
+  },
   "DivyamGoel": {
     "name": "Divyam Goel",
     "web": "https://dv-fenix.github.io/"
+  },  
+  "EgorFokin": {
+    "name": "Egor Fokin",
+    "web": "https://www.linkedin.com/in/edfokin/"
+  },
+  "YawarSiddiqui" :{
+    "name": "Yawar Siddiqui",
+    "web": "https://nihalsid.github.io/"
+  },
+  "DuncanFrost": {
+    "name": "Duncan Frost",
+    "web": "https://scholar.google.com/citations?user=P9l4zHIAAAAJ"
+  },
+  "SamirAroudj": {
+    "name": "Samir Aroudj",
+    "web": "https://scholar.google.com/citations?user=RcD8_eAAAAAJ"
+  },
+  "RichardNewcombe": {
+    "name": "Richard Newcombe",
+    "web": "https://scholar.google.com/citations?user=MhowvPkAAAAJ"
+  },
+  "JakobEngel": {
+    "name": "Jakob Engel",
+    "web": "https://jakobengel.github.io/"
+  },
+  "HenryHowardJenkins": {
+    "name": "Henry Howard-Jenkins",
+    "web": "https://henryhj.github.io/"
+  },
+  "XianzhengMa": {
+    "name": "Xianzheng Ma",
+    "web": "https://xianzhengma.github.io/"
+  },
+  "TaoSun":{
+    "name": "Tao Sun",
+    "web": "https://taosun.io/"
+  }, 
+  "ShuaiChen": {
+    "name": "Shuai Chen",
+    "web": "https://chenusc11.github.io/"
+  },
+  "YashBhalgat": {
+    "name": "Yash Bhalgat",
+    "web": "https://yashbhalgat.github.io/"
+  },
+  "JindongGu": {
+    "name": "Jindong Gu",
+    "web": "https://jindonggu.github.io/"
+  },
+  "IroArmeni": {
+    "name": "Iro Armeni",
+    "web": "https://ir0.github.io/"
+  },
+  "IroLaina": {
+    "name": "Iro Laina",
+    "web": "https://scholar.google.de/citations?user=n9nXAPcAAAAJ"
+  },
+  "SongyouPeng": {
+    "name": "Songyou Peng",
+    "web": "https://pengsongyou.github.io/"
+  },
+  "VictorAdrianPrisacariu": {
+    "name": "Victor Adrian Prisacariu",
+    "web": "https://www.robots.ox.ac.uk/~victor/"
   }
 }
