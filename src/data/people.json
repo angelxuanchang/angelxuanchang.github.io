@@ -604,6 +604,11 @@
     "tags": ["student", "Undergrad"],
     "details": "Summer 2025"
   },
+  "SydneyKomanac": {
+    "name": "Sydney Komanac",
+    "tags": ["student", "Undergrad"],
+    "details": "Summer 2026"
+  },
   "ChuanqiTang": {
     "name": "Chuanqi Tang",
     "tags": ["student", "Master"],
@@ -612,8 +617,11 @@
   "TommasoGalliena": {
     "name": "Tommaso Galliena",
     "web": "https://scholar.google.com/citations?user=9aKwCo0AAAAJ&hl=en",
-    "tags": ["visitor"],
-    "details": "visiting student, Fall 2025, PhD at Italian Institute of Technology"
+    "tags": ["alumni"],
+    "alumni_group": ["visitor"],
+    "alumni": [
+      "visiting student, Fall 2025 to Spring 2026, PhD at Italian Institute of Technology"
+    ]
   },
   "FrancescoTaioli": {
     "name": "Francesco Taioli",
