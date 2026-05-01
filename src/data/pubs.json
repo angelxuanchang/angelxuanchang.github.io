@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-07",
+    "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
+    "authors": [
+      "YimingZhang",
+      "JiachengChen",
+      "JiaqiTan", 
+      "YongsenMao", 
+      "WenhuChen",
+      "angel"
+    ],
+    "text": "ICML 2026",
+    "img": "files/revsi.png",
+    "web": "https://3dlg-hcvc.github.io/revsi/",
+    "pdf": "https://arxiv.org/abs/2604.24300",
+    "venue": ["vision", "conference"],
+    "tags": ["3d", "vl", "latest"]
+  },
+  {
+    "date": "2026-07",
+    "title": "Find Your Optimal Teacher: Personalized Data Synthesis via Router-Guided Multi-Teacher Distillation",
+    "authors": [
+      "HengyuanZhang*", 
+      "ShipingYang*", 
+      "Xiao Liang", 
+      "Chenming Shang", 
+      "Yuxuan Jiang", 
+      "Chaofan Tao", 
+      "Jing Xiong", 
+      "Hayden Kwok-Hay So", 
+      "Ruobing Xie", 
+      "angel",
+      "NgaiWong"
+    ],
+    "text": "ACL 2026",
+    "img": "files/persyn.png",
+    "pdf": "https://arxiv.org/abs/2510.10925",
+    "venue": ["nlp", "conference"],
+    "tags": ["llm", "distillation", "latest"]
+  },    
+  {
+    "date": "2026-07",
+    "title": "Quantifying and Improving the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data",
+    "authors": [
+      "ShipingYang", 
+      "Jie Wu",
+      "Wenbiao Ding",
+      "Ning Wu", 
+      "Shining Liang", 
+      "Ming Gong", 
+      "Hongzhi Li",
+      "HengyuanZhang", 
+      "angel",
+      "Dongmei Zhang"
+    ],
+    "text": "ACL 2026",
+    "img": "files/spurious.png",
+    "pdf": "https://arxiv.org/abs/2503.05587",
+    "venue": ["nlp", "conference"],
+    "tags": ["llm", "rag", "latest"]
+  },    
+  {
     "date": "2026-06",
     "title": "Artiverse: A Diverse and Physically Grounded Dataset for Articulated Objects",
     "authors": [

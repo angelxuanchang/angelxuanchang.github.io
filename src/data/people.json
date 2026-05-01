@@ -972,5 +972,21 @@
   "VictorAdrianPrisacariu": {
     "name": "Victor Adrian Prisacariu",
     "web": "https://www.robots.ox.ac.uk/~victor/"
+  },
+  "JiachengChen": {
+    "name": "Jiacheng Chen",
+    "web": "https://jcchen.me/"
+  },
+  "WenhuChen": {
+    "name": "Wenhu Chen",
+    "web": "https://wenhuchen.github.io/"
+  },
+  "HengyuanZhang": {
+    "name": "Hengyuan Zhang",
+    "web": "https://rattlesnakey.github.io/"
+  },
+  "NgaiWong": {
+    "name": "Ngai Wong",
+    "web": "https://www.eee.hku.hk/~nwong/"
   }
 }
