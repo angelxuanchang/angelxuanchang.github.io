@@ -1,0 +1,111 @@
+{
+    "workshops":
+    [
+        {
+            "name": "Functionality, Articulation, and Interaction for Modeling and Generating 3D Objects ",
+            "venue": "ECCV 2026",
+            "topic": "3d"
+        },
+        {
+            "name": "Embodied Multimodal Reasoning in Physical Environments",
+            "venue": "ECCV 2026",
+            "topic": "embodiedai"
+        },
+        {
+            "name": "AI Meet Autonomy Workshop",
+            "url": "https://www.ai-meets-autonomy.com/",
+            "venue": "IROS 2025",
+            "topic": "embodiedai"
+        },
+        {
+            "name": "Human-aware Embodied AI",
+            "url": "https://heai-iros25-workshop.github.io/",
+            "venue": "IROS 2025",
+            "topic": "embodiedai"
+        },
+        {
+            "name": "Closing the Loop Between Vision and Language",
+            "url": "https://iccv-clvl.github.io/2023/",
+            "venue": "ICCV 2023, ICCV 2025",
+            "topic": "vl"
+        },
+        {
+            "name": "AI for 3D Content Creation",
+            "url": "https://ai3dg.github.io/",
+            "venue": "ECCV 2024, ICCV 2025",
+            "topic": "ai3dg"
+        },
+        {
+            "name": "Embodied AI Workshop",
+            "url": "https://embodied-ai.org/",
+            "venue": "CVPR 2020, CVPR 2023-2025",
+            "topic": "embodiedai"
+        },
+        {
+            "name": "Open-World Agents: Synergizing Reasoning and Decision-Making in Open and Interactive Environments ",
+            "url": "https://sites.google.com/view/open-world-agents/home",
+            "venue": "NeurIPS 2024",
+            "topic": "embodiedai"
+        },
+        {
+            "name": "3D Vision and Modeling Challenges in eCommerce",
+            "url": "https://ai3dg.github.io/",
+            "venue": "ICCV 2023, ECCV 2024",
+            "topic": "3d"
+        },
+        {
+            "name": "Multimodalities for 3D Scenes Workshop",
+            "url": "https://multimodalitiesfor3dscenes.github.io/",
+            "venue": "CVPR 2024",
+            "topic": "ai3dg"
+        },
+        {
+            "name": "AI for 3D Generation",
+            "url": "https://ai3dg.github.io/",
+            "venue": "CVPR 2024",
+            "topic": "ai3dg"
+        },
+        {
+            "name": "Language for 3D Scenes Workshop",
+            "url": "https://languagefor3dscenes.github.io/ECCV2022/",
+            "venue": "CVPR 2021, ECCV 2022, ICCV 2023",
+            "topic": "3dl"
+        },
+        {
+            "name": "ScanNet Indoor Scene Understanding Challenge",
+            "url": "http://www.scan-net.org/cvpr2022workshop/",
+            "venue": "CVPR 2019-2023",
+            "topic": "3d"
+        },
+        {
+            "name": "Learning to Generate 3D Shapes and Scenes",
+            "url": "https://learn3dg.github.io/",
+            "venue": "CVPR 2021, ECCV 2022",
+            "topic": "ai3dg"
+        },
+        {
+            "name": "3D Vision and Robotics Workshop",
+            "url": "https://sites.google.com/view/cvpr2021-3d-vision-robotics/",
+            "venue": "CVPR 2021",
+            "topic": "robotics"
+        },
+        {
+            "name": "Learning 3D Generative Models",
+            "url": "https://learn3dgen.github.io/",
+            "venue": "CVPR 2020",
+            "topic": "ai3dg"
+        },
+        {
+            "name": "3D Scene Generation Workshop",
+            "url": "https://3dscenegen.github.io/",
+            "venue": "CVPR 2019",
+            "topic": "ai3dg"
+        },
+        {
+            "name": "Visual Learning and Embodied Agents in Simulation Environments workshop",
+            "url": "https://eccv18-vlease.github.io/",
+            "venue": "ECCV 2018",
+            "topic": "embodiedai"
+        }
+    ]
+}
