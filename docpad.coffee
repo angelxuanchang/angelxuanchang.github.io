@@ -53,7 +53,9 @@ docpadConfig = {
     pubs: JSON.parse(fs.readFileSync("src/data/pubs.json"))
     people: JSON.parse(fs.readFileSync("src/data/people.json"))
     topics: JSON.parse(fs.readFileSync("src/data/topics.json"))
-    maintags: ['nlp', 'vision', 'graphics', 'hci'],
+    service: JSON.parse(fs.readFileSync("src/data/service.json"))
+    teaching: JSON.parse(fs.readFileSync("src/data/teaching.json"))
+    maintags: ['nlp', 'vision', 'graphics', 'hci', 'robotics'],
     getPreparedTitle: ->
       if @document.title then "#{@document.title} | #{@site.title}" else @site.title
   plugins:

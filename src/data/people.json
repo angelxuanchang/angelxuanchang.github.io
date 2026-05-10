@@ -611,8 +611,11 @@
   },
   "ChuanqiTang": {
     "name": "Chuanqi Tang",
-    "tags": ["student", "Master"],
-    "details": "Zhejiang dual-degree student, Fall 2024"
+    "tags": ["alumni"],
+    "alumni_group": ["Master"],
+    "alumni": [
+      "Zhejiang dual-degree student, Fall 2024 - Spring 2026"
+    ]
   },
   "TommasoGalliena": {
     "name": "Tommaso Galliena",
@@ -897,6 +900,10 @@
     "name": "Nicholas Pellegrino",
     "web": "https://uwaterloo.ca/scholar/npellegr"
   },
+  "TianchengGao": {
+    "name": "Tiancheng Gao",
+    "web": "https://scholar.google.com/citations?user=Zf_2nxsAAAAJ"
+  },
   "IuliiaZarubiieva": {
     "name": "Iuliia Zarubiieva",
     "web": "https://www.linkedin.com/in/ieyriay/"
@@ -904,6 +911,10 @@
   "DirkSteinke": {
     "name": "Dirk Steinke",
     "web": "https://www.uoguelph.ca/profile/dirk-steinke"
+  },
+  "BrendanFurneaux": {
+    "name": "Brendan Furneaux",
+    "web": "https://www.jyu.fi/en/people/brendan-furneaux"
   },
   "DivyamGoel": {
     "name": "Divyam Goel",

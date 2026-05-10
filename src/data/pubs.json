@@ -195,6 +195,43 @@
     "tags": ["3d", "articulations", "latest"]
   },
   {
+    "date": "2025-12",
+    "title": "BarcodeMamba+: Advancing State-Space Models for Fungal Biodiversity Research",
+    "authors": [
+      "TianchengGao", 
+      "ScottLowe", 
+      "BrendanFurneaux",
+      "angel",
+      "GrahamTaylor"
+    ],
+    "text": "Workshop on Imageomics: Discovering Biological Knowledge from Images Using AI (NeurIPS 2025). arXiv:2512.15931 [cs.LG]",
+    "img": "files/barcodemambaplus.png",
+    "pdf": "https://arxiv.org/abs/2512.15931",
+    "code": "https://github.com/bioscan-ml/BarcodeMamba",
+    "venue": ["ai", "workshop", "preprint"],
+    "tags": ["bioscan", "latest"]
+  },
+  {
+    "date": "2025-10",
+    "title": "Hyperbolic Multimodal Representation Learning for Biological Taxonomies",
+    "authors": [
+      "ZemingGong", 
+      "ChuanqiTang",
+      "XiaoliangHuo", 
+      "NicholasPellegrino", 
+      "AustinWang", 
+      "GrahamTaylor",
+      "angel", 
+      "ScottLowe",
+      "JoakimHaurum"
+    ],
+    "text": "ICCV 2025 Workshop: Beyond Euclidean Workshop: Hyperbolic and Hyperspherical Learning for Computer Vision. NeurIPS 2025 Workshop for Imageomics: Discovering Biological Knowledge from Images Using AI. NeurIPS 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences. arXiv:2508.16744 [cs.LG]",
+    "img": "files/bioscan-hyperbolic.png",
+    "pdf": "https://arxiv.org/abs/2508.16744",
+    "venue": ["ai", "workshop", "preprint"],
+    "tags": ["bioscan", "latest"]
+  },
+  {
     "date": "2025-10",
     "title": "NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes",
     "authors": [

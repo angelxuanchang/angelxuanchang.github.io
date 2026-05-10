@@ -1,0 +1,67 @@
+[
+    { 
+        "name": "CMPT 413/713 Natural Language Processing",
+        "term": "Spring 2026",
+        "url": "https://angelxuanchang.github.io/nlp-class/"
+    },
+    { 
+        "name": "CMPT 839 Advanced NLP",
+        "term": "Spring 2026",
+        "url": "https://angelxuanchang.github.io/cmpt839/sp2026"
+    },
+    { 
+        "name": "CMPT 413/713 Natural Language Processing",
+        "term": "Spring 2025",
+        "url": "https://angelxuanchang.github.io/nlp-class/"
+    },
+    { 
+        "name": "CMPT 839 Advanced NLP",
+        "term": "Spring 2025",
+        "url": "https://angelxuanchang.github.io/cmpt839/sp2025"
+    },
+    { 
+        "name": "CMPT 413/713 Natural Language Processing",
+        "term": "Spring 2024",
+        "url": "https://angelxuanchang.github.io/nlp-class/"
+    },
+    { 
+        "name": "CMPT 983 Grounded Natural Language Understanding",
+        "term": "Spring 2023",
+        "url": "https://angelxuanchang.github.io/cmpt983-sp2023/"
+    },
+    { 
+        "name": "CMPT 413/713 Natural Language Processing",
+        "term": "Spring 2023",
+        "url": "https://angelxuanchang.github.io/nlp-class/"
+    },
+    { 
+        "name": "CMPT 413/713 Natural Language Processing",
+        "term": "Fall 2022",
+        "url": "https://angelxuanchang.github.io/nlp-class/"
+    },
+    { 
+        "name": "CMPT 983 Grounded Natural Language Understanding",
+        "term": "Spring 2022",
+        "url": "https://angelxuanchang.github.io/cmpt983-sp2022/"
+    },
+    { 
+        "name": "CMPT 413/713 Natural Language Processing",
+        "term": "Fall 2021",
+        "url": "https://angelxuanchang.github.io/nlp-class/"
+    },
+    { 
+        "name": "CMPT 983 Grounded Natural Language Understanding",
+        "term": "Spring 2021",
+        "url": "https://angelxuanchang.github.io/cmpt983-sp2021/"
+    },
+    { 
+        "name": "CMPT 413/825 Natural Language Processing",
+        "term": "Fall 2020",
+        "url": "https://angelxuanchang.github.io/nlp-class/"
+    },
+    { 
+        "name": "CMPT 825 Natural Language Processing",
+        "term": "Spring 2020",
+        "url": "https://angelxuanchang.github.io/nlp-class/"
+    }
+]
