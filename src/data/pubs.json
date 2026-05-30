@@ -57,6 +57,7 @@
     "text": "ACL 2026",
     "img": "files/spurious.png",
     "pdf": "https://arxiv.org/abs/2503.05587",
+    "code": "https://github.com/maybenotime/RAG-SpuriousFeatures",
     "venue": ["nlp", "conference"],
     "tags": ["llm", "rag", "latest"]
   },    
@@ -75,6 +76,7 @@
     "text": "CVPR 2026",
     "img": "files/artiverse.gif",
     "web": "https://3dlg-hcvc.github.io/artiverse/",
+    "pdf": "https://arxiv.org/abs/2605.24403",
     "venue": ["vision", "conference"],
     "tags": ["3d", "articulations", "latest"]
   },

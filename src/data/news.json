@@ -1,5 +1,13 @@
 [
 {
+    "date": "June 2026",
+    "description": "Talks and papers at CVPR 2025.  <ul><li>June 3rd - Talk at <a href='https://musi-workshop.github.io/'>Workshop on Multimodal Spatial Intelligence</a></li><li>June 3rd - Talk at <a href='https://usm3d.github.io/'>Workshop on Urban Scene Modeling</a></li><li>June 3rd - <a href='https://real-3dqa.github.io/'>Do 3D Large Language Models Really Understand 3D Spatial Relationships?</a> presented at <a href='https://3d-llm-vla.github.io/'>Workshop on 3D-LLM/VLA</a> (Best Paper Runner Up)</li><li>June 5th - Qirui presenting poster on <a href='https://qiruiw.github.io/jrm/'>JRM: Joint Reconstruction Model for Multiple Objects without Alignment</a></li><li>June 5th - Denys presenting poster on <a href='https://3dlg-hcvc.github.io/artiverse/'>Artiverse: A Diverse and Physically Grounded Dataset for Articulated Objects</a></li></ul>"
+},
+{
+    "date": "May 2026",
+    "description": "SFU hosts <a href='https://www.ai-crv.ca/'>Canadian AI/CRV</a> at our beautiful Burnaby campus."
+},
+{
     "date": "April 2026",
     "description": "Congratulations to Yiming on paper accepted at ICML 2026 on <a href='https://3dlg-hcvc.github.io/revsi/'>ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning</a>."
 },
