@@ -1,11 +1,15 @@
 [
 {
     "date": "June 2026",
-    "description": "Talks and papers at CVPR 2025.  <ul><li>June 3rd - Talk at <a href='https://musi-workshop.github.io/'>Workshop on Multimodal Spatial Intelligence</a></li><li>June 3rd - Talk at <a href='https://usm3d.github.io/'>Workshop on Urban Scene Modeling</a></li><li>June 3rd - <a href='https://real-3dqa.github.io/'>Do 3D Large Language Models Really Understand 3D Spatial Relationships?</a> presented at <a href='https://3d-llm-vla.github.io/'>Workshop on 3D-LLM/VLA</a> (Best Paper Runner Up)</li><li>June 5th - Qirui presenting poster on <a href='https://qiruiw.github.io/jrm/'>JRM: Joint Reconstruction Model for Multiple Objects without Alignment</a></li><li>June 5th - Denys presenting poster on <a href='https://3dlg-hcvc.github.io/artiverse/'>Artiverse: A Diverse and Physically Grounded Dataset for Articulated Objects</a></li></ul>"
+    "description": "Talks and papers at CVPR 2025.  <ul><li>June 3rd - Talk at <a href='https://musi-workshop.github.io/'>Workshop on Multimodal Spatial Intelligence</a></li><li>June 3rd - Talk at <a href='https://usm3d.github.io/'>Workshop on Urban Scene Modeling</a></li><li>June 3rd - <a href='https://real-3dqa.github.io/'>Do 3D Large Language Models Really Understand 3D Spatial Relationships?</a> at <a href='https://3d-llm-vla.github.io/'>Workshop on 3D-LLM/VLA</a> (Best Paper Runner Up)</li><li>June 3rd - <a href='https://arxiv.org/abs/2503.04496'>Learning to Place Objects with Programs and Iterative Self Training</a> at <a href='https://ai-for-content-creation.github.io/'>Workshop on AI for Content Creation</a></li><li>June 5th - Qirui presenting poster on <a href='https://qiruiw.github.io/jrm/'>JRM: Joint Reconstruction Model for Multiple Objects without Alignment</a></li><li>June 5th - Denys presenting poster on <a href='https://3dlg-hcvc.github.io/artiverse/'>Artiverse: A Diverse and Physically Grounded Dataset for Articulated Objects</a></li></ul>"
 },
 {
     "date": "May 2026",
-    "description": "SFU hosts <a href='https://www.ai-crv.ca/'>Canadian AI/CRV</a> at our beautiful Burnaby campus."
+    "description": "SFU hosts <a href='https://www.ai-crv.ca/'>Canadian AI/CRV</a> at our beautiful <a href='https://www.sfu.ca/campuses/burnaby.html'>Burnaby campus</a>. <ul><li>May 25th - Talk on <i>Multimodal learning using DNA barcodes for biodiversity monitoring</i> at <a href='https://sites.google.com/vectorinstitute.ai/aicrv-2026/'>Vector AI x Science + Sustainability Workshop</a></li><li>May 26,28th - <a href='https://www.ai-crv.ca/program/nectar-track/'>Presentations at the Nectar track</a> </li></ul>"
+},
+{
+    "date": "May 2026",
+    "description": "SFU-UBC CS co-organizes BC AI <a href='https://www.sfu.ca/fas/computing/news-events/news/2026/may/sfu-ubc-collaborates-on-bc-ai-research-to-adoption-summit.html'>research-to-adoption summit</a>"
 },
 {
     "date": "April 2026",

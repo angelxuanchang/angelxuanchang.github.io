@@ -6,7 +6,7 @@ active_page: home
 
 <%- @partial('navbar', false, {}) %>
 
-<%- @partial('intro', { news_limit: 5 }) %>
+<%- @partial('intro', { news_limit: 6 }) %>
 
 <div class="row">
   <div class="col-sm-12">

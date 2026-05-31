@@ -102,6 +102,23 @@
     "tags": ["3d", "scene", "reconstruction", "latest"]
   },
   {
+    "date": "2026-06",
+    "title": "Learning to Place Objects with Programs and Iterative Self Training",
+    "authors": [
+      "AdrianChang",
+      "KaiWang",
+      "YuanboLi",
+      "manolis",
+      "angel",
+      "DanielRitchie"
+    ],
+    "text": "CVPR 2026 Workshop on AI for Content Creation",
+    "img": "files/sceneplad.png",
+    "pdf": "https://arxiv.org/abs/2503.04496",
+    "venue": ["vision", "workshop"],
+    "tags": ["3d", "scene", "generation", "latest"]
+  },
+  {
     "date": "2026-04",
     "title": "Do 3D Large Language Models Really Understand 3D Spatial Relationships?",
     "authors": [
