@@ -406,7 +406,7 @@
     "alumni_group": ["PhD"],
     "alumni": [
       { 
-        "description": "Ph.D. Fall 2020 to Fall 2025",
+        "description": "Ph.D. Fall 2020 to Fall 2025, next <a href='https://www.circlecvi.com/'>Circle Cardiovascular Imaging</a>",
         "thesis": { 
           "title": "Toward navigation agents that understand and generalize via spatial semantic representations", 
           "url": "https://summit.sfu.ca/item/39996"

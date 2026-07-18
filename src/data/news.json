@@ -1,5 +1,13 @@
 [
 {
+    "date": "July 2026",
+    "description": "Congratulations to Shiping on paper accepted at COLM 2026 on <a href='https://arxiv.org/abs/2607.07993'>Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator</a>."
+},
+{
+    "date": "July 2026",
+    "description": "Papers at ACL 2026.  <ul><li>July 5th - Oral 2:00–3:30 PM - <a href='https://arxiv.org/abs/2510.10925'>Find Your Optimal Teacher: Personalized Data Synthesis via Router-Guided Multi-Teacher Distillation</a></li><li>July 5th - Poster 4:00–5:30 PM - <a href='https://arxiv.org/abs/2503.05587'>Quantifying and Improving the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data</a></li></ul>"
+},
+{
     "date": "June 2026",
     "description": "Talks and papers at CVPR 2025.  <ul><li>June 3rd - Talk at <a href='https://musi-workshop.github.io/'>Workshop on Multimodal Spatial Intelligence</a></li><li>June 3rd - Talk at <a href='https://usm3d.github.io/'>Workshop on Urban Scene Modeling</a></li><li>June 3rd - <a href='https://real-3dqa.github.io/'>Do 3D Large Language Models Really Understand 3D Spatial Relationships?</a> at <a href='https://3d-llm-vla.github.io/'>Workshop on 3D-LLM/VLA</a> (Best Paper Runner Up)</li><li>June 3rd - <a href='https://arxiv.org/abs/2503.04496'>Learning to Place Objects with Programs and Iterative Self Training</a> at <a href='https://ai-for-content-creation.github.io/'>Workshop on AI for Content Creation</a></li><li>June 5th - Qirui presenting poster on <a href='https://qiruiw.github.io/jrm/'>JRM: Joint Reconstruction Model for Multiple Objects without Alignment</a></li><li>June 5th - Denys presenting poster on <a href='https://3dlg-hcvc.github.io/artiverse/'>Artiverse: A Diverse and Physically Grounded Dataset for Articulated Objects</a></li></ul>"
 },
