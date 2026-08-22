@@ -1,5 +1,44 @@
 [
   {
+    "date": "2026-10",
+    "title": "Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator",
+    "authors": [
+      "ShipingYang",
+      "Shining Liang",
+      "Weihao Liu", 
+      "Wenbiao Ding", 
+      "Linjun Shou",
+      "Lu Cheng",
+      "angel"
+    ],
+    "text": "COLM 2026",
+    "img": "files/selfplay.png",
+    "code": "https://anonymous.4open.science/r/Hallucination-Self-Play-50B5/README.md",
+    "pdf": "https://arxiv.org/abs/2607.07993",
+    "venue": ["nlp", "conference"],
+    "tags": ["hallucination", "self-play", "latest"]
+  },
+  {
+    "date": "2026-08",
+    "title": "Survey on Compositional 3D Indoor Scene Generation",
+    "authors": [
+      "IvanTam",
+      "DerekPun",
+      "AustinWang", 
+      "XiaohaoSun", 
+      "QiruiWu",
+      "HanHungLee",
+      "angel",
+      "manolis"
+    ],
+    "text": "CGF 2026",
+    "img": "files/comp3dscenegen.png",
+    "web": "https://3dlg-hcvc.github.io/Comp3DSceneGen/",
+    "pdf": "https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70591",
+    "venue": ["graphics", "journal"],
+    "tags": ["3d", "scene", "generation", "survey", "latest"]
+  },
+  {
     "date": "2026-07",
     "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
     "authors": [
@@ -14,7 +53,7 @@
     "img": "files/revsi.png",
     "web": "https://3dlg-hcvc.github.io/revsi/",
     "pdf": "https://arxiv.org/abs/2604.24300",
-    "venue": ["vision", "conference"],
+    "venue": ["ml", "conference"],
     "tags": ["3d", "vl", "latest"]
   },
   {
@@ -298,7 +337,7 @@
     "pdf": "https://arxiv.org/pdf/2501.01366",
     "code": "https://github.com/3dlg-hcvc/vigil3d",
     "venue": ["nlp", "conference"],
-    "tags": ["3d", "vl", "latest"]
+    "tags": ["3d", "vl"]
   },
   {
     "date": "2025-07",
@@ -317,7 +356,7 @@
     "pdf": "https://arxiv.org/pdf/2507.07299",
     "code": "https://github.com/3dlg-hcvc/langmonmap",
     "venue": ["vision", "preprint"],
-    "tags": ["embodied", "vl", "latest"]
+    "tags": ["embodied", "vl"]
   },
   {
     "date": "2025-01",
@@ -330,7 +369,7 @@
     "img": "files/semmap.png",
     "pdf": "https://arxiv.org/pdf/2501.05750",
     "venue": ["TMLR"],
-    "tags": ["3d", "embodied", "latest"]
+    "tags": ["3d", "embodied"]
   },
   {
     "date": "2025-04",
@@ -348,7 +387,7 @@
     "pdf": "https://arxiv.org/pdf/2502.18405",
     "code": "https://github.com/bioscan-ml/BarcodeMAE",
     "venue": ["ai", "workshop", "preprint"],
-    "tags": ["bioscan", "latest"]
+    "tags": ["bioscan"]
   },
   {
     "date": "2025-04",
@@ -368,7 +407,7 @@
     "pdf": "https://arxiv.org/pdf/2405.17537",
     "code": "https://github.com/bioscan-ml/clibd/",
     "venue": ["ai", "conference"],
-    "tags": ["bioscan", "latest"]
+    "tags": ["bioscan"]
   },
   {
     "date": "2025-04",
@@ -386,7 +425,7 @@
     "pdf": "https://arxiv.org/pdf/2410.16499",
     "code": "https://github.com/3dlg-hcvc/singapo",
     "venue": ["vision", "conference"],
-    "tags": ["3d", "articulations", "latest"]
+    "tags": ["3d", "articulations"]
   },
   {
     "date": "2025-04",
@@ -402,7 +441,7 @@
     "pdf": "https://arxiv.org/pdf/2406.11579",
     "code": "https://github.com/3dlg-hcvc/DuoduoCLIP",
     "venue": ["vision", "conference"],
-    "tags": ["vl","3d", "latest"]
+    "tags": ["vl","3d"]
   },
   {
     "date": "2025-03",
@@ -419,7 +458,7 @@
     "pdf": "https://arxiv.org/pdf/2408.03178",
     "code": "https://github.com/3dlg-hcvc/omages",
     "venue": ["vision", "conference"],
-    "tags": ["3d", "synthesis", "latest"]
+    "tags": ["3d", "synthesis"]
   },
   {
     "date": "2025-03",
@@ -438,7 +477,7 @@
     "code": "https://github.com/3dlg-hcvc/smc",
     "video": "https://youtu.be/iXsx18R7NN8",
     "venue": ["vision", "conference"],
-    "tags": ["3d", "synthesis", "text2scene", "latest"]
+    "tags": ["3d", "synthesis", "text2scene"]
   },
   {
     "date": "2024-10",
@@ -457,7 +496,7 @@
     "pdf": "https://arxiv.org/abs/2411.07848",
     "video": "https://youtu.be/O26NiiL2XL4",
     "venue": ["vision", "preprint"],
-    "tags": ["embodied", "latest"]
+    "tags": ["embodied"]
   },
   {
     "date": "2024-12",
