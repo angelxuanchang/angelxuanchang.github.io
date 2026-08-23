@@ -2,12 +2,20 @@
     "workshops":
     [
         {
+            "name": "AI for Biodiversity Research",
+            "url": "https://bioscan-ml.org/ibol-workshop/",
+            "venue": "IBOL 2026",
+            "topic": "bioscan"
+        },
+        {
             "name": "Functionality, Articulation, and Interaction for Modeling and Generating 3D Objects ",
+            "url": "https://diliash.github.io/fai_eccv_workshop_2026",
             "venue": "ECCV 2026",
             "topic": "3d"
         },
         {
             "name": "Embodied Multimodal Reasoning in Physical Environments",
+            "url": "https://emr-workshop.github.io/",
             "venue": "ECCV 2026",
             "topic": "embodiedai"
         },

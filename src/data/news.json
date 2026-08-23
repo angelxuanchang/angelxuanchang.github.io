@@ -1,5 +1,17 @@
 [
 {
+    "date": "November 2026",
+    "description": "I'm co-organzing the <a href='https://bioscan-ml.org/ibol-workshop/'>AI for Biodiversity Research</a> workshop at <a href=''>IBOL 2026</a> in Thailand."
+},
+{
+    "date": "September 2026",
+    "description": "Workshops at ECCV 2026.  <ul><li>Sept 9th am - <a href='https://emr-workshop.github.io/'>Embodied Multimodal Reasoning in Physical Environments</a></li><li>Sept 9th pm - <a href='https://diliash.github.io/fai_eccv_workshop_2026'>Functionality, Articulation, and Interaction Workshop</a></li></ul>"
+},
+{
+    "date": "August 2026",
+    "description": "<a href='https://3dlg-hcvc.github.io/Comp3DSceneGen/'>Survey on Compositional 3D Indoor Scene Generation</a> accepted at Computer Graphics Forum."
+},
+{
     "date": "July 2026",
     "description": "Congratulations to Shiping on paper accepted at COLM 2026 on <a href='https://arxiv.org/abs/2607.07993'>Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator</a>."
 },

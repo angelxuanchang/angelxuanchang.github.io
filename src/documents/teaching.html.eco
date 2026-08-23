@@ -47,6 +47,11 @@ active_page: classes
           </li>
         <% end %>      
         </ul> 
+        <h3>Senior area chair</h3>
+        <ul>
+        <li>EMNLP (2026)</li>
+        <li>NeurIPS Evaluation and Datasets (2026)</li>
+        </ul>
         <h3>Area chair / senior program committee</h3>
         <ul>
         <li>ICLR (2020-2021,2023-2026), NeurIPS (2023-2024), NeurIPS datasets and benchmarks (2023-2025)</li>
