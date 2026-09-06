@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Grounding language to 3D",
+		"description": "I'm interested in how can we create AI systems for describing and localizing 3D objects in scenes.",
+		"tagsets": [["vl", "3d"]],
+		"img": ""
+	},
+	{
+		"name": "Language based content creation",
+		"description": "I'm also interested in using language to assist with the creation of 3D content.  3D interfaces can be challenging to use and natural language interfaces can make it easier for anyone to create 3D objects and generate 3D scenes.",
+		"tagsets": [["text2shape"], ["text2scene"]],
+		"img": ""
+	},
+	{
+		"name": "BIOSCAN",
+		"description": "BIOSCAN is an multi-institutional, multi-discpline effort to monitor biodiversity of the world.  As part of this effort, we are developing datasets and tools so that we can use machine learning to assist in this effort.",
+		"tagsets": [["bioscan"]],
+		"img": ""
+	},
+	{
+		"name": "Embodied AI",
+		"description": "In embodied AI, we want to study how an artificial agent can learn to act based on sensory perception.",
+		"tagsets": [["embodied", "!simulator", "!dataset"]],
+		"img": ""
+	},
+	{
+		"name": "Simulation platforms",
+		"description": "To foster research in the area of embodied AI, we need to have easy-to-use simulation platforms.",
+		"tagsets": [["simulator"]],
+		"img": ""
+	},
+	{
+		"name": "Articulated objects for interactive environments",
+		"description": "",
+		"tagsets": [["articulations", "!simulator"]],
+		"img": ""
+	},
+	{
+		"name": "Datasets for 3D deep learning",
+		"description": "Another focus of my work is the creation of 3D datasets. With data, we can develop new models and tasks for 3D understanding and generation. These assets are also essential for training embodied AI agents to learn to move and interact in 3D environments.",
+		"tagsets": [["3d", "dataset"]],
+		"img": ""
+	},
+	{
+		"name": "3D scene understanding and generation",
+		"description": "",
+		"tagsets": [["3d", "scene", "!dataset"]],
+		"img": ""
+	}
+]
