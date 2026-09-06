@@ -586,12 +586,22 @@
   "DenysIliash": {
     "name": "Denys Iliash",
     "web": "https://diliash.github.io/",
-    "tags": ["alumni", "student", "Master"],
-    "details": "Spring 2024",
+    "tags": ["alumni", "student", "PhD"],
+    "details": "Fall 2026",
     "alumni": [
-      "undergrad, Fall 2023, next SFU MSc"
+      {
+        "name": "undergrad",
+        "description": "undergrad, Fall 2023, next SFU MSc"
+      },
+      {
+        "name": "MSc",
+        "description": "M.Sc. Spring 2024 to Summer 2026, next SFU PhD",
+        "thesis": {
+          "title": "Static to Openable Enhancement for Articulated 3D Objects"
+        }
+      }
     ],
-    "alumni_group": ["undergrad"]
+    "alumni_group": ["undergrad", "Master"]
   },
   "QinghongHan": {
     "name": "Qinghong Han",
@@ -737,6 +747,10 @@
   "AliMahdaviAmiri": {
     "name": "Ali Mahdavi-Amiri",
     "web": "https://arash-mham.github.io/"
+  },
+  "HaoRichardZhang": {
+    "name": "Hao (Richard) Zhang",
+    "web": "https://www.cs.sfu.ca/~haoz/"
   },
   "DhruvBatra": {
     "name": "Dhruv Batra",
@@ -1007,5 +1021,21 @@
   "NgaiWong": {
     "name": "Ngai Wong",
     "web": "https://www.eee.hku.hk/~nwong/"
+  },
+  "MingruiZhao": {
+    "name": "Mingrui Zhao",
+    "web": "https://mingrui-zhao.github.io/"
+  },
+  "SaiRajKishorePerla": {
+    "name": "Sai Raj Kishore Perla",
+    "web": "https://sairajk.github.io/"
+  },
+  "SauradipNag": {
+    "name": "Sauradip Nag",
+    "web": "https://sauradip.github.io/"
+  },
+  "RuiqiWang": {
+    "name": "Ruiqi Wang",
+    "web": "https://suikei-wang.github.io/"
   }
 }

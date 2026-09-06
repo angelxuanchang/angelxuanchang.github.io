@@ -32,12 +32,16 @@ active_page: group
         <h4>PhD Students</h4>
          <%- @partial('people', false, { people: @phd }) %>
          <br/>
+        <% if @masters.length: %> 
         <h4>Master Students</h4>
          <%- @partial('people', false, { people: @masters }) %>
          <br/>
+        <% end %> 
+        <% if @undergrad.length: %> 
         <h4>Undergraduate Students</h4>
          <%- @partial('people', false, { people: @undergrad }) %>
          <br/>
+        <% end %> 
         <% if @visitor.length: %> 
         <h4>Visiting Students</h4>
          <%- @partial('people', false, { people: @visitor }) %>

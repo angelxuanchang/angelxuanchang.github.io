@@ -1,6 +1,29 @@
 [
   {
     "date": "2026-10",
+    "title": "Functionalization via Structure Completion and Motion Rectification",
+    "authors": [
+      "MingruiZhao",
+      "SaiRajKishorePerla",
+      "KaiWang",
+      "SauradipNag",
+      "Duc Anh Nguyen",
+      "Jiayi Peng",
+      "RuiqiWang",
+      "angel",
+      "manolis",
+      "AliMahdaviAmiri",
+      "HaoRichardZhang"
+    ],
+    "text": "SIGGRAPH Asia 2026",
+    "img": "files/functionalization.gif",
+    "web": "https://mingrui-zhao.github.io/Functionalization/",
+    "pdf": "https://arxiv.org/abs/2605.18010",
+    "venue": ["graphics", "conference"],
+    "tags": ["3d", "articulations", "latest"]
+  },
+  {
+    "date": "2026-10",
     "title": "Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator",
     "authors": [
       "ShipingYang",
