@@ -42,6 +42,23 @@
     "tags": ["hallucination", "self-play", "latest"]
   },
   {
+    "date": "2026-09",
+    "title": "CrownFusion: 3D Dental Crown Generation Using Geometry Images and Latent Diffusion",
+    "authors": [
+      "JohanZiruoYe",
+      "XingguangYan",
+      "SørenHauberg",
+      "angel",
+      "HaoRichardZhang",
+      "PeterLempelSøndergaard"
+    ],
+    "text": "MICCAI 2026",
+    "img": "files/crownfusion.png",
+    "web": "https://crownfusion.github.io/",
+    "venue": ["medical", "conference"],
+    "tags": ["3d", "dental", "generation", "latest"]
+  },
+  {
     "date": "2026-08",
     "title": "Survey on Compositional 3D Indoor Scene Generation",
     "authors": [
@@ -76,6 +93,8 @@
     "img": "files/revsi.png",
     "web": "https://3dlg-hcvc.github.io/revsi/",
     "pdf": "https://arxiv.org/abs/2604.24300",
+    "code": "https://github.com/3dlg-hcvc/revsi",
+    "data": "https://huggingface.co/datasets/3dlg-hcvc/ReVSI",
     "venue": ["ml", "conference"],
     "tags": ["3d", "vl", "latest"]
   },
@@ -139,6 +158,8 @@
     "img": "files/artiverse.gif",
     "web": "https://3dlg-hcvc.github.io/artiverse/",
     "pdf": "https://arxiv.org/abs/2605.24403",
+    "code": "https://github.com/3dlg-hcvc/artiverse",
+    "data": "https://huggingface.co/datasets/3dlg-hcvc/artiverse",
     "venue": ["vision", "conference"],
     "tags": ["3d", "articulations", "latest"]
   },

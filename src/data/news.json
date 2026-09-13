@@ -1,7 +1,19 @@
 [
 {
     "date": "November 2026",
-    "description": "I'm co-organzing the <a href='https://bioscan-ml.org/ibol-workshop/'>AI for Biodiversity Research</a> workshop at <a href=''>IBOL 2026</a> in Thailand."
+    "description": "I'm co-organzing and attending the <a href='https://bioscan-ml.org/ibol-workshop/'>AI for Biodiversity Research</a> workshop at <a href=''>IBOL 2026</a> in Thailand."
+},
+{
+    "date": "October 2026",
+    "description": "I'll be at COLM in San Francisco, presenting Shiping's paper <a href='https://arxiv.org/abs/2607.07993'>Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator</a>."
+},
+{
+    "date": "September, 2026",
+    "description": "Johan will be presenting his and Xingguang's paper <a href='https://crownfusion.github.io/'>CrownFusion: 3D Dental Crown Generation Using Geometry Images and Latent Diffusion</a> at MICCAI 2026."
+},
+{
+    "date": "September, 2026",
+    "description": "I'm co-organzing the <a href='https://heai-iros26-workshop.github.io/'>Human-aware Embodied AI</a> workshop at IROS 2026 (September 27 afternoon, Pittsburgh)."
 },
 {
     "date": "September 2026",
