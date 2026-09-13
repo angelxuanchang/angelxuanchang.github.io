@@ -39,7 +39,7 @@
     "code": "https://anonymous.4open.science/r/Hallucination-Self-Play-50B5/README.md",
     "pdf": "https://arxiv.org/abs/2607.07993",
     "venue": ["nlp", "conference"],
-    "tags": ["hallucination", "self-play", "latest"]
+    "tags": ["llm", "hallucination", "self-play", "latest"]
   },
   {
     "date": "2026-09",

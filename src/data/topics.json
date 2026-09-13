@@ -18,6 +18,12 @@
 		"img": ""
 	},
 	{
+		"name": "LLM fine-tuning and analysis",
+		"description": "I'm interested in how large language models can be fine-tuned and distilled for various tasks, and understanding their capabilities and limitations.",
+		"tagsets": [["llm"]],
+		"img": ""
+	},
+	{
 		"name": "Embodied AI",
 		"description": "In embodied AI, we want to study how an artificial agent can learn to act based on sensory perception.",
 		"tagsets": [["embodied", "!simulator", "!dataset"]],
