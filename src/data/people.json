@@ -537,7 +537,7 @@
   },
   "YimingZhang": {
     "name": "Yiming Zhang",
-    "web": "https://scholar.google.ca/citations?user=scUaE38AAAAJ&hl=en",
+    "web": "https://eamonn-zh.github.io/",
     "tags": ["alumni", "student", "PhD"],
     "details": "Spring 2024",
     "alumni_group": ["Master", "undergrad"],
@@ -619,13 +619,21 @@
   },
   "MatthewHawksby": {
     "name": "Matthew Hawksby",
-    "tags": ["student", "Undergrad"],
-    "details": "Summer 2025"
+    "tags": ["alumni"],
+    "alumni_group": ["undergrad"],
+    "alumni": [
+      "undergrad, Summer 2025 to Spring 2026"
+    ]
   },
   "SydneyKomanac": {
     "name": "Sydney Komanac",
     "tags": ["student", "Undergrad"],
     "details": "Summer 2026"
+  },
+  "AliRezaeeMianroodi": {
+    "name": "Ali Rezaee Mianroodi",
+    "tags": ["student", "Undergrad"],
+    "details": "Fall 2026"
   },
   "ChuanqiTang": {
     "name": "Chuanqi Tang",
@@ -1049,5 +1057,13 @@
   "PeterLempelSøndergaard": {
     "name": "Peter Lempel Søndergaard",
     "web": "https://scholar.google.com/citations?user=w7mfRwwAAAAJ"
+  },
+  "NickSumner": {
+    "name": "Nick Sumner",
+    "web": "https://www.cs.sfu.ca/~wsumner/"
+  },
+  "StevenKo": {
+    "name": "Steven Y. Ko",
+    "web": "https://steveyko.github.io/" 
   }
 }

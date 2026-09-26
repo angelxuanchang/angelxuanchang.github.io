@@ -1,6 +1,35 @@
 [
   {
-    "date": "2026-10",
+    "date": "2026-12",
+    "title": "RustMizan: A Compilable, Contamination-Aware Benchmarking Framework for Rust Vulnerabilities",
+    "authors": [
+      "Tarek Elsayed",
+      "ShipingYang",
+      "Eunsong Koh",
+      "Sanika Goyal",
+      "Vincent Huang",
+      "Paul Ngo",
+      "Nathan Young",
+      "Mohammad Omidvar Tehrani",
+      "Alvyn Kang",
+      "Arnell Kang",
+      "Zeyu Chen",
+      "Angelica Moreira",
+      "Xuan Feng",
+      "angel",
+      "NickSumner",
+      "StevenKo"
+    ],
+    "text": "NeurIPS E&D 2026",
+    "img": "files/rustmizan.png",
+    "web": "https://sfu-rsl.github.io/rust-mizan/",
+    "pdf": "https://arxiv.org/abs/2607.04729",
+    "code": "https://github.com/sfu-rsl/rust-mizan",
+    "venue": ["ml", "conference"],
+    "tags": ["rust", "code vulnerability", "latest"]
+  },
+  {
+    "date": "2026-12",
     "title": "Functionalization via Structure Completion and Motion Rectification",
     "authors": [
       "MingruiZhao",
