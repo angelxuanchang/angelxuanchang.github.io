@@ -18,7 +18,7 @@
 		"img": ""
 	},
 	{
-		"name": "LLM fine-tuning and analysis",
+		"name": "LLM distillation and analysis",
 		"description": "I'm interested in how large language models can be fine-tuned and distilled for various tasks, and understanding their capabilities and limitations.",
 		"tagsets": [["llm"]],
 		"img": ""
