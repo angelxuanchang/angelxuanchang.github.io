@@ -53,6 +53,24 @@
   },
   {
     "date": "2026-10",
+    "title": "GATOR: Generative and Agentic 3D Object Reconstruction From Casual Images",
+    "authors": [
+      "QiruiWu",
+      "StanBirchfield",
+      "HesamRabeti",
+      "angel",
+      "BowenWen"
+    ],
+    "text": "arXiv:2610.11215 [cs.CV]",
+    "img": "files/gator.png",
+    "web": "https://research.nvidia.com/labs/lpr/gator/",
+    "pdf": "https://arxiv.org/abs/2610.11215",
+    "venue": ["vision", "preprint"],
+    "tags": ["3d", "generation", "latest"]
+
+  },
+  {
+    "date": "2026-10",
     "title": "Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator",
     "authors": [
       "ShipingYang",
@@ -84,6 +102,7 @@
     "text": "MICCAI 2026",
     "img": "files/crownfusion.png",
     "web": "https://crownfusion.github.io/",
+    "pdf": "https://link.springer.com/chapter/10.1007/978-3-032-38186-6_44",
     "venue": ["medical", "conference"],
     "tags": ["3d", "dental", "generation", "latest"]
   },
@@ -755,11 +774,11 @@
       "angel",
       "GrahamTaylor"
     ],
-    "text": "4th Workshop on Self-Supervised Learning: Theory and Practice (NeurIPS 2023)",
+    "text": "Bioinformatics Advances 2026, with early version at 4th Workshop on Self-Supervised Learning: Theory and Practice (NeurIPS 2023)",
     "img": "files/barcodebert.png",
     "pdf": "https://arxiv.org/pdf/2311.02401.pdf",
     "code": "https://github.com/Kari-Genomics-Lab/BarcodeBERT",
-    "venue": ["ai", "workshop", "preprint"],
+    "venue": ["bioinformatics", "journal"],
     "tags": ["bioscan"]
   },
   {
